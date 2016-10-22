@@ -9,12 +9,12 @@ plot = element plot {point}
 point = attribute point {"intro"|"protag"|"history"|"haunting"|"resolve"}
 chapter = element chapter {text}
 paragraph = element paragraph {mixed{(plot|character|speaker|speech|scary_phrase)*}}
-character = element character {name, gender, class, text}eta = element meta {title, author, date?}
+character = element character {name, gender, class, text}
 name = attribute name {text}
 gender = attribute gender {"m"|"f"}
 class = attribute class {"high"|"low"|"amb"}
 speaker = element speaker {name, text}
-speech = element speech {mixed{scary_word}}
+speech = element speech {mixed{scary_word?|character?|scary_phrase?}}
 scary_word = element scary_word {pos, scale, text}
 pos = attribute pos {"adj"|"adv"|"noun"|"verb"}
 scale = attribute scale {"0"|"1"|"2"|"3"|"i"}
