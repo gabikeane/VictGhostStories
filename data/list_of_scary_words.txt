@@ -1,242 +1,195 @@
-Shadow in the Corner
-•	Barren
-•	Tall
-•	Straggling
-•	Wind-tossed
-•	Lonely desolate
-•	Waste
-•	To bear
-•	Deep 
-•	Dark
-•	Hidden 
-•	Queer
-•	Dull grey
-•	Melancholy
-•	Solitude
-•	House
-•	Haunted
-•	Grave reproach
-•	Severe
-•	Buried
-•	--?
-•	Lost
-•	Pale
-•	Frightened
-•	Dark rings
-•	Sleepless
-•	Troubled
-•	Evil dreams
-•	Undefinable
-•	To ail
-•	Secrets
-•	Mysteries
-•	Afraid
-•	Weighed down
-•	Heavy burden laid upon my chest
-•	Bad
-•	Trouble
-•	Cold perspiration 
-•	Dreadful
-•	Shadow
-•	Strange, shapeless mass
-•	Dead body hanging
-•	Dull grey evening
-•	November 
-•	Leaden sky
-•	Tossing
-•	Angry wind
-•	Wintry blast
-•	Savage howl
-•	War-whoop
-•	To shiver
-•	Drear;  (we may need to amend this)
-•	Nav (also amend this to “nay”)
-•	Clouded
-•	Twilight
-•	Seriously alarmed
-•	To entreat
-•	To seize
-•	Lying dead
-•	Worst
-•	Dead
-•	Settled belief
-•	To haunt
-•	Supernatural terror
-•	Big, ponderous, clumsy
-•	A day that was gone and people that were dead
-•	Misshapen
-•	Deformed
-•	Smelt (smelled) of
-•	Mouldy (moldy)
-•	Weighed upon
-•	Oppressed
-•	Icy
-•	Horror
-•	Terrible
-•	Painful
-•	“the agonizing memory of a life wasted; the stings of humiliation and disgrace, shame, ruin; a hideous death, which he had doomed himself to die by his own hand”
-•	Pressed him round
-•	Rusty
-•	Violently
-•	There was no reply
-•	Shattered
-•	Broken
-•	Flew open
-•	“Maria was hanging from the hook in the wall”
-•	Nervous
-•	Apprehension
-•	Accursed
+
+Barren
+Tall
+Straggling
+Wind-tossed
+Lonely 
+desolate
+Waste
+To bear
+Deep 
+Dark
+Hidden 	
+Queer
+Dull 
+grey
+Melancholy
+Solitude
+House
+Haunt
+Grave 
+reproach
+Severe
+Buried
+--?
+Lost
+Pale
+Frightened
+Sleepless
+Trouble
+Evil 
+dreams
+Undefinable (undefin)
+To ail
+Secrets (secre)
+Mysteries (myster)
+Afraid
+down
+Heavy
+burden
+Bad
+Cold 
+perspiration (perspir)
+Dreadful (dread)
+Shadow
+Strange
+shapeless
+mass
+Dead
+hanging
 
  
-Walnut Tree House
-•	Very
-•	Wet
-•	Evening
-•	Mournful
-•	Twilight
-•	Desolate
-•	Deserted
-•	Shutters
-•	Closed
-•	Rusty
-•	Gates
-•	Locked
-•	Choked up
-•	Grass and weeds
-•	Light (absence of)
-•	Empty
-•	Moody
-•	Dejection
-•	Wore out
-•	Dead and buried
-•	Wild frenzy
-•	Madhouse
-•	“the clerk coughed.  He looked out of the window, then he looked at Messrs. Timpsons’ client”
-•	--“ 
-•	Mouldy
-•	Besides
-•	“bad name”
-•	Haunted
-•	Ghosts
-•	Child
-•	Gloomier
-•	Darker
-•	Gathering twilight
-•	Shuttered windows
-•	Silent
-•	Solemnity
-•	Trees
-•	Cheerless (0)
-•	“I won’t set a foot inside it”
-•	Brave
-•	Cowards
-•	Believe
-•	Bare
-•	Dingy
-•	Uninviting
-•	Horrible
-•	Distorted
-•	Repeated
-•	There stole
-•	Rustling
-•	Touch
-•	Uncertainly
-•	Curious
-•	Fumbling
-•	Dark
-•	Instinctively
-•	Intruder
-•	“suddenly the door opened”
-•	Slowly
-•	Peering
-•	Searching
-•	Examining
-•	Pausing
-•	Hopeless scrutiny
-•	Outgrown
-•	Soiled
-•	Crumpled
-•	Broken
-•	Knotted
-•	Shabbiness
-•	Dingy
-•	Quite 
-•	Empty
-•	Strange
-•	Horror
-•	Echoes
-•	Terrible
-•	Rustling
-•	Foul play
-•	 Wrong done
-•	Irascibly
-•	Phantom
-•	Poor match
-•	Broken heart
-•	Wronged
-•	Half-starved
-•	Neglected
-•	Alone
-•	Still
-•	Motionless
-•	Eyes
-•	Fixed
-•	Poor
-•	Wasted
-•	Wan
-•	Thin
-•	Wistful
-•	Vanished
-•	In an instant
-•	Dead child
-•	Weary
-•	Smoothing his pillow
-•	Touching his brow
-•	Christmas-time
-•	
+evening
+November 
+Leaden 
+sky
+Tossing
+Angry wind
+Wintry blast
+Savage 
+howl
+To shiver
+Dreary (drear)
+Cloud
+Twilight
+Seriously (serious)
+alarmed (alarm)
+To entreat
+To seize
+Worst
+Supernatural 
+terror
+Misshapen
+Deformed
+Smell
+Mouldy (moldy/mouldy)
+Oppressed
+Icy
+Horror
+Terrible
+Painful (pain)
+Rusty
+Violently(violen)
+Shattered (shatter)
+Broken
+Flew
+Nervous (nerv)
+Apprehension
+Accursed (curse)
 
 
-Old Nurses Stories- Scary Words
-
-Dead, died
-Death-bed
+Very
+Wet
+Mournful (mourn)
+Deserted
+Shutter
+Closed
+Gates
+Locked
+Choked up
+Grass
+weeds
+Light (absence of)
+Empty
+Moody
+Dejection
+Wild 
+frenzy
+Madhouse
+--“ 
+Ghosts
+Child
+Gloomier (gloom)
+window
+Silent
+Solemnity (solemn)
+Trees (tree)
+Brave
+Cowards
+Believe
+Bare
+Dingy
+Uninviting
+Horrible (horribl)
+Distorted
+Repeated
+stole
+Rustling
+Touch
+Uncertainly
+curious
+Fumbling
+Instinctively
+Intruder
+Slowly
+Peering
+Searching
+Examining
+Pausing
+Hopeless 
+scrutiny
+Outgrown
+Soiled
+Crumpled
+Knotted
+Shabbiness
+Quite 
+Echoes
+Foul
+Wrong
+Irascibly
+Phantom
+Poor
+Half-starved
+Neglected
+Alone
+Still
+Motionless
+Eyes
+Fixed
+Wasted
+Wan
+Thin
+Wistful
+Vanished
+instant
+Weary
+Christmas-time
 Executors
 Smoky 
 Fear
 Gnarled
 Thorn-trees
 Creeper
-Desolate
-Dark
-Gloomy
-Cold
-Grey
 Scorn 
 Flesh
 Ill
 Booming
-Storms/stormy
+Storm
 Destroy
-Terrible
-Hopeless
 Fire
-Locked
 Hidden
 Trembling
-Shivered
 Moonlight
 Footprints
-Shadow
 Black
-Blinded
+Blinded (blind)
 Stern
 Weeping 
 Steal
 Unknown
 Roughly
-Wild
 Warning
-Evil
 Wicked
 Naughty 
 Lure
@@ -246,166 +199,89 @@ Shrieking
 Dusk
 Bitter
 Thundering
-Tremble
-Dead-cold
-Phantom
 Wail
-Terror
 Kicking
 Screaming
 Slapping
 Blood
-Moaning
+Moaning (moan)
 Cruelty
 Revenge
 Falling-fast
-Blind
-Violent
 Defiance
-Stillness
-Dread
 Ghastly
 Howling
-Screams 
 Creep
 Raged
 Shuddered
-Terror
 Clasped
 Striving
-Thundering
-Mysterious 
 Relentless
 Clinging
 Prey
 Fierce
 Piteously 
 Hate
-Scorn
 Muttering 
-
-The Old House in Vauxhall Walk
-
-If the same root word appeared as a different part of speech, I didn’t write it down twice (i.e. if dreary is on the list, drearily might have also appeared in the story but not be present below). 
-
-?	desolate
-?	cold
-?	rainy
-?	night
-?	strange
-?	miserable
-?	strange
-?	slunk
-?	wretchedly
-?	wicked
-?	dreary
-?	gloomiest
-?	dimly
-?	to die
-?	nasty
-?	darkness
-?	old
-?	wrinkled
-?	ragged
-?	scant
-?	sunken
-?	hooked
-?	talons
-?	mournfully
-?	moaned
-?	anguish
-?	shadows
-?	gloom
-?	pale
-?	sad
-?	cry
-?	haggard
-?	scream
-?	oozing
-?	fear
-?	agony
-?	contaminated
-?	despicable
-?	filthy
-?	repulsive
-?	phantom
-?	creep
-?	blackness
-?	worn
-?	cracked
-?	dreadful
-?	terrible
-?	claw-like
-?	awful
-?	murder
-?	gurgling
-?	footsteps
-?	voices
-?	following
-?	ghost
-?	haunted
-?	mystery
-?	shiver
-?	rush
-?	air
-?	disheveled
-?	dirty
-?	menacing
-?	piercing
-?	shrieks
-?	sick
-?	terror
-?	stealthily
-?	ghostly
-?	frightened
-?	wandering
-?	horror
-?	silent
-?	quietude
-?	rustling
-?	deserted
-?	savagely
-?	thud
-?	crash
-?	faint
-?	bleeding
-?	frightful
-?	shivered
-
-Scary Words from John Charrington’s Wedding
-
-1.	Queer
-2.	Shadow
-3.	Pale
-4.	Ghost
-5.	Horror
-6.	Death
-7.	Hell
-8.	Gravestone
-9.	Dead
-10.	Awful
-11.	Whispers
-12.	Shuddered
-13.	Crunched
-14.	Mad
-15.	Rattling
-16.	Lurch
-17.	Accident
-18.	Black
-19.	Grey
-20.	White
-21.	Prophecy
-22.	Thundering
-23.	Terrible
-24.	Deathly
-25.	Agony
-26.	Mystery
-27.	Snarl
-28.	Gloomily
-29.	Tolling
-30.	Hush
-31.	Terror
-32.	Killed
-33.	Skin
-
-
+rainy
+night
+miserable
+slunk
+wretchedly
+dimly
+to die
+nasty
+wrinkled
+ragged
+scant
+sunken
+hooked
+talons
+anguish
+sad
+cry
+haggard
+oozing
+agony
+contaminated
+despicable
+filthy
+repulsive
+worn
+cracked
+claw-like
+awful
+murder
+gurgling
+footsteps
+voices
+following
+rush
+air
+disheveled
+dirty
+menacing
+piercing
+sick
+stealthily
+wandering
+quietude
+thud
+crash
+faint
+bleeding
+Hell
+Gravestone
+Whispers
+crunched
+mad
+Rattling
+lurch
+accident
+White
+prophecy
+Snarl
+Tolling
+Hush
+Killed
+Skin
