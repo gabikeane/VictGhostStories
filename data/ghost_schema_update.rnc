@@ -1,15 +1,15 @@
 start = story
 story = element story {meta, body}
-meta = element meta {title, author, date?}
-title = element title {text}
+mitle = element title {text}
 author = element author {text}
 date = element date {text}
 body = element body {plot*|chapter*|paragraph+}
 plot = element plot {point}
 point = attribute point {"intro"|"protag"|"history"|"haunting"|"resolve"}
 chapter = element chapter {text}
-paragraph = element paragrpah {mixed{(character|speaker|speech|scary_phrase)*}}
-character = element character {name, gender, class, text}
+paragraph = element paragraph {mixed{(plot|character|speaker|speech|scary_phrase)*}}
+character = element character {name, gender, class, text}eta = element meta {title, author, date?}
+t
 name = attribute name {text}
 gender = attribute gender {"m"|"f"}
 class = attribute class {"high"|"low"|"amb"}
