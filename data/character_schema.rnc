@@ -1,0 +1,5 @@
+start = character
+character = element character {ref, gender, class}
+ref = attribute ref {text}
+gender = attribute gender {"m"|"f"}
+class = attribute class {"high"|"low"|"mid"|"amb"}
