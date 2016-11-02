@@ -1,4 +1,5 @@
-start = character
+start = character_list
+character_list= element character_list{character}
 character = element character {ref, gender, class}
 ref = attribute ref {text}
 gender = attribute gender {"m"|"f"}
