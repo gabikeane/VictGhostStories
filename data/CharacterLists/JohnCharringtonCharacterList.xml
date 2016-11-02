@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schemas/character_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<character_list>
+    <character ref="johnCharrington" gender="m" class="mid"/>
+    <character ref="mayForster" gender="f" class="mid"/>
+    <character ref="oldForster" gender="m" class="mid"/>
+    <character ref="branbridge" gender="m" class="high"/>
+    <character ref="geoffrey" gender="m" class="mid"/>
+    <character ref="fanny" gender="f" class="mid"/>
+    <character ref="byles" gender="m" class="low"/>
+</character_list>
