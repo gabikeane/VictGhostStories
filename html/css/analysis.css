@@ -1,0 +1,47 @@
+body{background-image: url("../images/VGimgbackground3.jpg");}
+
+h1{text-align:center;
+font-family: "Copperplate Gothic Bold", sans serif;}
+
+div.heading{background-color:#8FBC8F;
+padding:4px;
+}
+
+ul.nav{
+list-style-type:none; 
+margin:0;
+padding: 0;
+overflow: hidden;
+background-color:black;
+text-align: center;
+font-family: "Copperplate Gothic Bold", sans-serif;}
+
+li.nav {display: inline-block; 
+font-size: 20px;
+background-color: black;}
+
+li.nav a {display: block;
+color: white;
+text-align:center;
+padding: 14px 16px;
+text-decoration: none;
+float: right;
+font-family: "Copperplate Gothic Light", sans serif;}
+
+li.nav a:hover{
+background-color: #8FBC8F;}
+
+div.commonsLicense{
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+    background-color: rgba(183, 166, 157, 1);
+    width: 100%;
+    font-family: "Georgia", sans-serif;
+    font-size: 14px;}
+    
+img.CC {
+height:20px;
+width:auto;}
