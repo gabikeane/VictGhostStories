@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="character_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<character_list>
+    <character ref="michaelBascom" gender="m" class="high"/>
+    <character ref="danielSkegg" gender="m" class="low"/>
+    <character ref="mrsSkegg" gender="f" class="low"/>
+    <character ref="anthonyBascom" gender="m" class="high"/>
+    <character ref="maria" gender="f" class="low"/>
+    <character ref="mrsMidge" gender="f" class="low"/>
+    <character ref="labourer" gender="m" class="low"/>
+</character_list>
