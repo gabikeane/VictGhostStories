@@ -1,4 +1,4 @@
-<?xml-model href="../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../data/Schemas/schema_update_2.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <meta>
         <title>JOHN CHARRINGTON'S WEDDING</title>
@@ -307,7 +307,8 @@
                     pos="adj">white</scary_word> satin lying half on the floor of the carriage and
                 half on the seat.</scary_phrase></p>
         <p><speech ref="coachman">I drove straight here, sir,</speech> said the <character
-                ref="coachman">coachman</character>, as the bride's father lifted her out; <speech ref="coachman">and I'll swear no one got out of the carriage.</speech></p>
+                ref="coachman">coachman</character>, as the bride's father lifted her out; <speaker
+                ref="coachman"/><speech>and I'll swear no one got out of the carriage.</speech></p>
         <p>We carried her into the <scary_word scale="2" pos="noun">house</scary_word> in her bridal
             dress and drew back her veil. I saw her face. Shall I ever forget it? <scary_word
                 scale="3" pos="adj">White</scary_word>, <scary_word scale="3" pos="adj"

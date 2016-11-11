@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../data/Schemas/schema_update_2.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <meta>
         <title>The Shadow in the Corner</title>
@@ -19,121 +19,135 @@
             window-seats, and a wide staircase, long dark passages, hidden doors in queer corners,
             closets as large as some modern rooms, and cellars in which a company of soldiers might
             have lain perdu.</p>
-<plot point="protag"/>
+        <plot point="protag"/>
         <p>This spacious old mansion was given over to rats and mice, loneliness, echoes, and the
-            occupation of three elderly people: <character ref="michaelBascom">Michael Bascom</character>, whose forebears had been landowners
-            of importance in the neighbourhood, and his two servants, <character ref="danielSkegg">Daniel Skegg</character> and his wife, who
-            had served the owner of that grim old house ever since he left the university, where he
-            had lived fifteen years of his life–five as student, and ten as professor of natural
-            science.</p>
+            occupation of three elderly people: <character ref="michaelBascom">Michael
+                Bascom</character>, whose forebears had been landowners of importance in the
+            neighbourhood, and his two servants, <character ref="danielSkegg">Daniel
+                Skegg</character> and his wife, who had served the owner of that grim old house ever
+            since he left the university, where he had lived fifteen years of his life–five as
+            student, and ten as professor of natural science.</p>
 
-        <p>At three-and-thirty <character ref="michaelBascom">Michael Bascom</character> had seemed a middle-aged man; at fifty-six he looked
-            and moved and spoke like an old man. During that interval of twenty-three years he had
-            lived alone in Wildheath Grange, and the country people told each other that the house
-            had made him what he was. This was a fanciful and superstitious notion on their part,
-            doubtless, yet it would not have been difficult to have traced a certain affinity
-            between the dull grey building and the man who lived in it. Both seemed alike remote
-            from the common cares and interests of humanity; both had an air of settled melancholy,
-            engendered by perpetual solitude; both had the same faded complexion, the same look of
-            slow decay.</p>
+        <p>At three-and-thirty <character ref="michaelBascom">Michael Bascom</character> had seemed
+            a middle-aged man; at fifty-six he looked and moved and spoke like an old man. During
+            that interval of twenty-three years he had lived alone in Wildheath Grange, and the
+            country people told each other that the house had made him what he was. This was a
+            fanciful and superstitious notion on their part, doubtless, yet it would not have been
+            difficult to have traced a certain affinity between the dull grey building and the man
+            who lived in it. Both seemed alike remote from the common cares and interests of
+            humanity; both had an air of settled melancholy, engendered by perpetual solitude; both
+            had the same faded complexion, the same look of slow decay.</p>
 
-        <p>Yet lonely as <character ref="michaelBascom">Michael Bascom</character>’s life was at Wildheath Grange, he would not on any account
-            have altered its tenor. He had been glad to exchange the comparative seclusion of
-            college rooms for the unbroken solitude of Wildheath. He was a fanatic in his love of
-            scientific research, and his quiet days were filled to the brim with labours that seldom
-            failed to interest and satisfy him. There were periods of depression, occasional moments
-            of doubt, when the goal towards which he strove seemed unattainable, and his spirit
-            fainted within him. Happily such times were rare with him. He had a dogged power of
-            continuity which ought to have carried him to the highest pinnacle of achievement, and
-            which perhaps might ultimately have won for him a grand name and a world-wide renown,
-            but for a catastrophe which burdened the declining years of his harmless life with an
-            unconquerable remorse.</p>
+        <p>Yet lonely as <character ref="michaelBascom">Michael Bascom</character>’s life was at
+            Wildheath Grange, he would not on any account have altered its tenor. He had been glad
+            to exchange the comparative seclusion of college rooms for the unbroken solitude of
+            Wildheath. He was a fanatic in his love of scientific research, and his quiet days were
+            filled to the brim with labours that seldom failed to interest and satisfy him. There
+            were periods of depression, occasional moments of doubt, when the goal towards which he
+            strove seemed unattainable, and his spirit fainted within him. Happily such times were
+            rare with him. He had a dogged power of continuity which ought to have carried him to
+            the highest pinnacle of achievement, and which perhaps might ultimately have won for him
+            a grand name and a world-wide renown, but for a catastrophe which burdened the declining
+            years of his harmless life with an unconquerable remorse.</p>
 
         <p>One autumn morning–when he had lived just three-and-twenty years at Wildheath, and had
             only lately begun to perceive that his faithful butler and body servant, who was
-            middle-aged when he first employed him, was actually getting old–<character ref="michaelBascom">Mr. Bascom</character>’s breakfast
-            meditations over the latest treatise on the atomic theory were interrupted by an abrupt
-            demand from that very <character ref="danielSkegg">Daniel Skegg</character>. The man was accustomed to wait upon his master in
-            the most absolute silence, and his sudden breaking out into speech was almost as
-            startling as if the bust of Socrates above the bookcase had burst into human
-            language.</p>
+            middle-aged when he first employed him, was actually getting old–<character
+                ref="michaelBascom">Mr. Bascom</character>’s breakfast meditations over the latest
+            treatise on the atomic theory were interrupted by an abrupt demand from that very
+                <character ref="danielSkegg">Daniel Skegg</character>. The man was accustomed to
+            wait upon his master in the most absolute silence, and his sudden breaking out into
+            speech was almost as startling as if the bust of Socrates above the bookcase had burst
+            into human language.</p>
 
-        <p><speech ref="danielSkegg">It’s no use,</speech> said<character ref="danielSkegg"> Daniel</character>; <speech ref="">my missus must have a
-            girl!</speech></p>
+        <p><speech ref="danielSkegg">It’s no use,</speech> said<character ref="danielSkegg">
+                Daniel</character>; <speech ref="">my missus must have a girl!</speech></p>
 
-        <p><speech ref="michaelBascom">A what?</speech> demanded <character ref="michaelBascom">Mr. Bascom</character>, without taking his eyes from the line he
-            had been reading.</p>
+        <p><speech ref="michaelBascom">A what?</speech> demanded <character ref="michaelBascom">Mr.
+                Bascom</character>, without taking his eyes from the line he had been reading.</p>
 
-        <p><speech ref="danielSkegg">A girl–a girl to trot about and wash up, and help the old lady. She’s getting
-                weak on her legs, poor soul. We’ve none of us grown younger in the last twenty
-                years.</speech></p>
+        <p><speech ref="danielSkegg">A girl–a girl to trot about and wash up, and help the old lady.
+                She’s getting weak on her legs, poor soul. We’ve none of us grown younger in the
+                last twenty years.</speech></p>
 
-        <p><speech ref="michaelBascom">Twenty years!</speech> echoed <character ref="michaelBascom">Michael Bascom</character> scornfully. <speech ref="">What is twenty
-                years in the formation of a strata–what even in the growth of an oak–the cooling of
-                a volcano!</speech></p>
+        <p><speech ref="michaelBascom">Twenty years!</speech> echoed <character ref="michaelBascom"
+                >Michael Bascom</character> scornfully. <speech ref="">What is twenty years in the
+                formation of a strata–what even in the growth of an oak–the cooling of a
+                volcano!</speech></p>
 
-        <p><speech ref="danielSkegg">Not much, perhaps, but it’s apt to tell upon the bones of a human
-            being.</speech></p>
+        <p><speech ref="danielSkegg">Not much, perhaps, but it’s apt to tell upon the bones of a
+                human being.</speech></p>
 
-        <p><speech ref="michaelBascom">The manganese staining to be seen upon some skulls would certainly
-                indicate—-</speech> began the scientist dreamily.</p>
+        <p><speech ref="michaelBascom">The manganese staining to be seen upon some skulls would
+                certainly indicate—-</speech> began the scientist dreamily.</p>
 
-        <p><speech ref="danielSkegg">I wish my bones were only as free from rheumatics as they were twenty years
-                ago,</speech> pursued<character ref="danielSkegg"> Daniel</character> testily; <speech ref="danielSkegg">and then, perhaps, I should make light
-                of twenty years. Howsoever, the long and the short of it is, my missus must have a
-                girl. She can’t go on trotting up and down these everlasting passages, and standing
-                in that stone scullery year after year, just as if she was a young woman. She must
-                have a girl to help.</speech></p>
+        <p><speech ref="danielSkegg">I wish my bones were only as free from rheumatics as they were
+                twenty years ago,</speech> pursued<character ref="danielSkegg"> Daniel</character>
+            testily; <speech ref="danielSkegg">and then, perhaps, I should make light of twenty
+                years. Howsoever, the long and the short of it is, my missus must have a girl. She
+                can’t go on trotting up and down these everlasting passages, and standing in that
+                stone scullery year after year, just as if she was a young woman. She must have a
+                girl to help.</speech></p>
 
-        <p><speech ref="michaelBascom">Let her have twenty girls,</speech> said <character ref="michaelBascom">Mr. Bascom</character>, going back to his book.</p>
+        <p><speech ref="michaelBascom">Let her have twenty girls,</speech> said <character
+                ref="michaelBascom">Mr. Bascom</character>, going back to his book.</p>
 
-        <p><speech ref="danielSkegg">What’s the use of talking like that, sir. Twenty girls, indeed! We shall have
-                rare work to get one.</speech></p>
+        <p><speech ref="danielSkegg">What’s the use of talking like that, sir. Twenty girls, indeed!
+                We shall have rare work to get one.</speech></p>
 
-        <p><speech ref="michaelBascom">Because the neighbourhood is sparsely populated?</speech> interrogated Mr.
-            Bascom, still reading.</p>
-<plot point="haunting"/>
-        <p><speech ref="danielSkegg">No, sir. Because this house is known to be haunted.</speech></p>
+        <p><speech ref="michaelBascom">Because the neighbourhood is sparsely populated?</speech>
+            interrogated Mr. Bascom, still reading.</p>
+        <plot point="haunting"/>
+        <p><speech ref="danielSkegg">No, sir. Because this house is known to be
+            haunted.</speech></p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> laid down his book, and turned a look of grave reproach upon his
-            servant.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character> laid down his book, and turned
+            a look of grave reproach upon his servant.</p>
 
-        <p><speech ref="michaelBascom">Skegg,</speech> he said in a severe voice, <speech ref="">I thought you had lived long
-                enough with me to be superior to any folly of that kind.</speech></p>
+        <p><speech ref="michaelBascom">Skegg,</speech> he said in a severe voice, <speech ref="">I
+                thought you had lived long enough with me to be superior to any folly of that
+                kind.</speech></p>
 
-        <p><speech ref="danielSkegg">I don’t say that I believe in ghosts,</speech> answered<character ref="danielSkegg"> Daniel</character> with a
-            semi-apologetic air; <speech ref="danielSkegg">but the country people do. There’s not a mortal among ’em
+        <p><speech ref="danielSkegg">I don’t say that I believe in ghosts,</speech>
+                answered<character ref="danielSkegg"> Daniel</character> with a semi-apologetic air;
+                <speech ref="danielSkegg">but the country people do. There’s not a mortal among ’em
                 that will venture across our threshold after nightfall.</speech></p>
 
-        <p><speech ref="michaelBascom">Merely because <character ref="anthonyBascom">Anthony Bascom</character>, who led a wild life in London, and lost his money
-                and land, came home here broken-hearted, and is supposed to have destroyed himself
-                in this house–the only remnant of property that was left him out of a fine
-                estate.</speech></p>
+        <p><speech ref="michaelBascom">Merely because <character ref="anthonyBascom">Anthony
+                    Bascom</character>, who led a wild life in London, and lost his money and land,
+                came home here broken-hearted, and is supposed to have destroyed himself in this
+                house–the only remnant of property that was left him out of a fine
+            estate.</speech></p>
 
-        <p><speech ref="danielSkegg">Supposed to have destroyed himself!</speech> cried <character ref="danielSkegg">Skegg</character>; <speech ref="">why the fact is
-                as well known as the death of Queen Elizabeth, or the great fire of London. Why,
-                wasn’t he buried at the cross-roads between here and Holcroft?</speech></p>
+        <p><speech ref="danielSkegg">Supposed to have destroyed himself!</speech> cried <character
+                ref="danielSkegg">Skegg</character>; <speech ref="">why the fact is as well known as
+                the death of Queen Elizabeth, or the great fire of London. Why, wasn’t he buried at
+                the cross-roads between here and Holcroft?</speech></p>
 
-        <p><speech ref="michaelBascom">An idle tradition, for which you could produce no substantial proof,</speech>
-            retorted <character ref="michaelBascom">Mr. Bascom</character>.</p>
+        <p><speech ref="michaelBascom">An idle tradition, for which you could produce no substantial
+                proof,</speech> retorted <character ref="michaelBascom">Mr. Bascom</character>.</p>
 
-        <p><speech ref="danielSkegg">I don’t know about proof; but the country people believe it as firmly as they
-                believe their Gospel.</speech></p>
+        <p><speech ref="danielSkegg">I don’t know about proof; but the country people believe it as
+                firmly as they believe their Gospel.</speech></p>
 
-        <p><speech ref="michaelBascom">If their faith in the Gospel was a little stronger they need not trouble
-                themselves about <character ref="anthonyBascom">Anthony Bascom</character>.</speech></p>
+        <p><speech ref="michaelBascom">If their faith in the Gospel was a little stronger they need
+                not trouble themselves about <character ref="anthonyBascom">Anthony
+                    Bascom</character>.</speech></p>
 
-        <p><speech ref="danielSkegg">Well,</speech> grumbled<character ref="danielSkegg"> Daniel</character>, as he began to clear the table, <speech ref="danielSkegg">a girl of
-                some kind we must get, but she’ll have to be a foreigner, or a girl that’s hard
+        <p><speech ref="danielSkegg">Well,</speech> grumbled<character ref="danielSkegg">
+                Daniel</character>, as he began to clear the table, <speech ref="danielSkegg">a girl
+                of some kind we must get, but she’ll have to be a foreigner, or a girl that’s hard
                 driven for a place.</speech></p>
 
-        <p>When <character ref="danielSkegg">Daniel Skegg</character> said a foreigner, he did not mean the native of some distant clime, but
-            a girl who had not been born and bred at Holcroft.<character ref="danielSkegg"> Daniel</character> had been raised and reared in
-            that insignificant hamlet, and, small and dull as it was, he considered the world beyond
-            it only margin.</p>
+        <p>When <character ref="danielSkegg">Daniel Skegg</character> said a foreigner, he did not
+            mean the native of some distant clime, but a girl who had not been born and bred at
+                Holcroft.<character ref="danielSkegg"> Daniel</character> had been raised and reared
+            in that insignificant hamlet, and, small and dull as it was, he considered the world
+            beyond it only margin.</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> was too deep in the atomic theory to give a second thought to the
-            necessities of an old servant. <character ref="mrsSkegg">Mrs. Skegg</character> was an individual with whom he rarely came in
+        <p><character ref="michaelBascom">Michael Bascom</character> was too deep in the atomic
+            theory to give a second thought to the necessities of an old servant. <character
+                ref="mrsSkegg">Mrs. Skegg</character> was an individual with whom he rarely came in
             contact. She lived for the most part in a gloomy region at the north end of the house,
             where she ruled over the solitude of a kitchen, that looked like a cathedral, and
             numerous offices of the sculler, larder, and pantry class, where she carried on a
@@ -144,86 +158,98 @@
             mental power would have been disturbed by a bad dinner.</p>
 
         <p>He heard no more about the proposed addition to his household for a space of ten days,
-            when <character ref="danielSkegg">Daniel Skegg</character> again startled him amidst his studious repose by the abrupt
-            announcement:</p>
+            when <character ref="danielSkegg">Daniel Skegg</character> again startled him amidst his
+            studious repose by the abrupt announcement:</p>
 
         <p><speech ref="danielSkegg">I’ve got a girl!</speech></p>
 
-        <p><speech ref="michaelBascom">Oh,</speech> said <character ref="michaelBascom">Michael Bascom</character>; <speech ref="michaelBascom">have you?</speech> and he went on with
-            his book.</p>
+        <p><speech ref="michaelBascom">Oh,</speech> said <character ref="michaelBascom">Michael
+                Bascom</character>; <speech ref="michaelBascom">have you?</speech> and he went on
+            with his book.</p>
 
         <p>This time he was reading an essay on phosphorus and its functions in relation to the
             human brain.</p>
 
-        <p><speech ref="danielSkegg">Yes,</speech> pursued<character ref="danielSkegg"> Daniel</character> in his usual grumbling tone; <speech ref="danielSkegg">she was a waif
-                and stray, or I shouldn’t have got her. If she’d been a native she’d never have come
-                to us.</speech></p>
+        <p><speech ref="danielSkegg">Yes,</speech> pursued<character ref="danielSkegg">
+                Daniel</character> in his usual grumbling tone; <speech ref="danielSkegg">she was a
+                waif and stray, or I shouldn’t have got her. If she’d been a native she’d never have
+                come to us.</speech></p>
 
         <p><speech ref="michaelBascom">I hope she’s respectable,</speech> said Michael.</p>
 
-        <p><speech ref="danielSkegg">Respectable! That’s the only fault she has, poor thing. She’s too good for the
-                place. She’s never been in service before, but she says she’s willing to work, and I
-                daresay my old woman will be able to break her in. Her father was a small tradesman
-                at Yarmouth. He died a month ago, and left this poor thing homeless. Mrs. Midge, at
-                Holcroft, is her aunt, and she said to the girl, Come and stay with me till you get
-                a place; and the girl has been staying with Mrs. Midge for the last three weeks,
-                trying to hear of a place. When Mrs. Midge heard that my missus wanted a girl to
-                help, she thought it would be the very thing for her niece <character ref="maria">Maria</character>. Luckily <character ref="maria">Maria</character> had
-                heard nothing about this house, so the poor innocent dropped me a curtsey, and said
-                she’d be thankful to come, and would do her best to learn her duty. She’d had an
-                easy time of it with her father, who had educated her above her station, like a fool
-                as he was,</speech> growled<character ref="danielSkegg"> Daniel</character>.</p>
+        <p><speech ref="danielSkegg">Respectable! That’s the only fault she has, poor thing. She’s
+                too good for the place. She’s never been in service before, but she says she’s
+                willing to work, and I daresay my old woman will be able to break her in. Her father
+                was a small tradesman at Yarmouth. He died a month ago, and left this poor thing
+                homeless. Mrs. Midge, at Holcroft, is her aunt, and she said to the girl, Come and
+                stay with me till you get a place; and the girl has been staying with Mrs. Midge for
+                the last three weeks, trying to hear of a place. When Mrs. Midge heard that my
+                missus wanted a girl to help, she thought it would be the very thing for her niece
+                    <character ref="maria">Maria</character>. Luckily <character ref="maria"
+                    >Maria</character> had heard nothing about this house, so the poor innocent
+                dropped me a curtsey, and said she’d be thankful to come, and would do her best to
+                learn her duty. She’d had an easy time of it with her father, who had educated her
+                above her station, like a fool as he was,</speech> growled<character
+                ref="danielSkegg"> Daniel</character>.</p>
 
-        <p><speech ref="michaelBascom">By your own account I’m afraid you’ve made a bad bargain,</speech> said Michael.
-                <speech ref="michaelBascom">You don’t want a young lady to clean kettles and pans.</speech></p>
+        <p><speech ref="michaelBascom">By your own account I’m afraid you’ve made a bad
+                bargain,</speech> said Michael. <speech ref="michaelBascom">You don’t want a young
+                lady to clean kettles and pans.</speech></p>
 
-        <p><speech ref="danielSkegg">If she was a young duchess my old woman would make her work,</speech> retorted
-            <character ref="danielSkegg">Skegg</character> decisively.</p>
+        <p><speech ref="danielSkegg">If she was a young duchess my old woman would make her
+                work,</speech> retorted <character ref="danielSkegg">Skegg</character>
+            decisively.</p>
 
-        <p><speech ref="michaelBascom">And pray where are you going to put this girl?</speech> asked <character ref="michaelBascom">Mr. Bascom</character>, rather
-            irritably; <speech ref="michaelBascom">I can’t have a strange young woman tramping up and down the passages
-                outside my room. You know what a wretched sleeper I am, <character ref="danielSkegg">Skegg</character>. A mouse behind the
-                wainscot is enough to wake me.</speech></p>
+        <p><speech ref="michaelBascom">And pray where are you going to put this girl?</speech> asked
+                <character ref="michaelBascom">Mr. Bascom</character>, rather irritably; <speech
+                ref="michaelBascom">I can’t have a strange young woman tramping up and down the
+                passages outside my room. You know what a wretched sleeper I am, <character
+                    ref="danielSkegg">Skegg</character>. A mouse behind the wainscot is enough to
+                wake me.</speech></p>
 
-        <p><speech ref="danielSkegg">I’ve thought of that,</speech> answered the butler, with his look of ineffable
-            wisdom. <speech ref="danielSkegg">I’m not going to put her on your floor. She’s to sleep in the
-                attics.</speech></p>
+        <p><speech ref="danielSkegg">I’ve thought of that,</speech> answered the butler, with his
+            look of ineffable wisdom. <speech ref="danielSkegg">I’m not going to put her on your
+                floor. She’s to sleep in the attics.</speech></p>
 
         <p><speech ref="michaelBascom">Which room?</speech></p>
 
-        <p><speech ref="danielSkegg">The big one at the north end of the house. That’s the only ceiling that doesn’t
-                let water. She might as well sleep in a shower-bath as in any of the other
-                attics.</speech></p>
+        <p><speech ref="danielSkegg">The big one at the north end of the house. That’s the only
+                ceiling that doesn’t let water. She might as well sleep in a shower-bath as in any
+                of the other attics.</speech></p>
 
-        <p><speech ref="michaelBascom">The room at the north end,</speech> repeated <character ref="michaelBascom">Mr. Bascom</character> thoughtfully;
-            <speech ref="michaelBascom">isn’t that—-?</speech></p>
+        <p><speech ref="michaelBascom">The room at the north end,</speech> repeated <character
+                ref="michaelBascom">Mr. Bascom</character> thoughtfully; <speech ref="michaelBascom"
+                >isn’t that—-?</speech></p>
 
-        <p><speech ref="danielSkegg">Of course it is,</speech> snapped <character ref="danielSkegg">Skegg</character>; <speech ref="danielSkegg">but she doesn’t know anything
-                about it.</speech></p>
+        <p><speech ref="danielSkegg">Of course it is,</speech> snapped <character ref="danielSkegg"
+                >Skegg</character>; <speech ref="danielSkegg">but she doesn’t know anything about
+                it.</speech></p>
 
-        <p><character ref="michaelBascom">Mr. Bascom</character> went back to his books, and forgot all about the orphan from Yarmouth, until
-            one morning on entering his study he was startled by the appearance of a strange girl,
-            in a neat black and white cotton gown, busy dusting the volumes which were stacked in
-            blocks upon his spacious writing-table–and doing it with such deft and careful hands
-            that he had no inclination to be angry at this unwonted liberty. Old <character ref="mrsSkegg">Mrs. Skegg</character> had
-            religiously refrained from all such dusting, on the plea that she did not wish to
-            interfere with the master’s ways. One of the master’s ways, therefore, had been to
-            inhale a good deal of dust in the course of his studies.</p>
+        <p><character ref="michaelBascom">Mr. Bascom</character> went back to his books, and forgot
+            all about the orphan from Yarmouth, until one morning on entering his study he was
+            startled by the appearance of a strange girl, in a neat black and white cotton gown,
+            busy dusting the volumes which were stacked in blocks upon his spacious
+            writing-table–and doing it with such deft and careful hands that he had no inclination
+            to be angry at this unwonted liberty. Old <character ref="mrsSkegg">Mrs.
+                Skegg</character> had religiously refrained from all such dusting, on the plea that
+            she did not wish to interfere with the master’s ways. One of the master’s ways,
+            therefore, had been to inhale a good deal of dust in the course of his studies.</p>
 
         <p>The girl was a slim little thing, with a pale and somewhat old-fashioned face, flaxen
             hair, braided under a neat muslin cap, a very fair complexion, and light blue eyes. They
-            were the lightest blue eyes <character ref="michaelBascom">Michael Bascom</character> had ever seen, but there was a sweetness and
-            gentleness in their expression which atoned for their insipid colour.</p>
+            were the lightest blue eyes <character ref="michaelBascom">Michael Bascom</character>
+            had ever seen, but there was a sweetness and gentleness in their expression which atoned
+            for their insipid colour.</p>
 
-        <p><speech ref="maria">I hope you do not object to my dusting your books, sir,</speech> she said,
-            dropping a curtsey.</p>
+        <p><speech ref="maria">I hope you do not object to my dusting your books, sir,</speech> she
+            said, dropping a curtsey.</p>
 
-        <p>She spoke with a quaint precision which struck <character ref="michaelBascom">Michael Bascom</character> as a pretty thing in its
-            way.</p>
+        <p>She spoke with a quaint precision which struck <character ref="michaelBascom">Michael
+                Bascom</character> as a pretty thing in its way.</p>
 
-        <p><speech ref="michaelBascom">No; I don’t object to cleanliness, so long as my books and papers are not
-                disturbed. If you take a volume off my desk, replace it on the spot you took it
-                from. That’s all I ask.</speech></p>
+        <p><speech ref="michaelBascom">No; I don’t object to cleanliness, so long as my books and
+                papers are not disturbed. If you take a volume off my desk, replace it on the spot
+                you took it from. That’s all I ask.</speech></p>
 
         <p><speech ref="maria">I will be very careful, sir.</speech></p>
 
@@ -232,17 +258,19 @@
         <p><speech ref="maria">Only this morning, sir.</speech></p>
 
         <p>The student seated himself at his desk, and the girl withdrew, drifting out of the room
-            as noiselessly as a flower blown across the threshold. <character ref="michaelBascom">Michael Bascom</character> looked after her
-            curiously. He had seen very little of youthful womanhood in his dry-as-dust career, and
-            he wondered at this girl as at a creature of a species hitherto unknown to him. How
-            fairly and delicately she was fashioned; what a translucent skin; what soft and pleasing
-            accents issued from those rose-tinted lips. A pretty thing, assuredly, this kitchen
-            wench! A pit that in all this busy world there could be no better work found for her
-            than the scouring of pots and pans.</p>
+            as noiselessly as a flower blown across the threshold. <character ref="michaelBascom"
+                >Michael Bascom</character> looked after her curiously. He had seen very little of
+            youthful womanhood in his dry-as-dust career, and he wondered at this girl as at a
+            creature of a species hitherto unknown to him. How fairly and delicately she was
+            fashioned; what a translucent skin; what soft and pleasing accents issued from those
+            rose-tinted lips. A pretty thing, assuredly, this kitchen wench! A pit that in all this
+            busy world there could be no better work found for her than the scouring of pots and
+            pans.</p>
 
-        <p>Absorbed in considerations about dry bones, <character ref="michaelBascom">Mr. Bascom</character> thought no more of the pale-faced
-            handmaiden. He saw her no more about his rooms. Whatever work she did there was done
-            early in the morning, before the scholar’s breakfast.</p>
+        <p>Absorbed in considerations about dry bones, <character ref="michaelBascom">Mr.
+                Bascom</character> thought no more of the pale-faced handmaiden. He saw her no more
+            about his rooms. Whatever work she did there was done early in the morning, before the
+            scholar’s breakfast.</p>
 
         <p>She had been a week in the house, when he met her one day in the hall. He was struck by
             the change in her appearance.</p>
@@ -251,169 +279,189 @@
             and there were dark rings round them, as in one whose nights had been sleepless, or
             troubled by evil dreams.</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> was so startled by an undefinable look in the girl’s face that, reserved
-            as he was by habit and nature, he expanded so far as to ask her what ailed her.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character> was so startled by an
+            undefinable look in the girl’s face that, reserved as he was by habit and nature, he
+            expanded so far as to ask her what ailed her.</p>
 
-        <p><speech ref="michaelBascom">There is something amiss, I am sure,</speech> he said. <speech ref="michaelBascom">What is
-                it?</speech></p>
+        <p><speech ref="michaelBascom">There is something amiss, I am sure,</speech> he said.
+                <speech ref="michaelBascom">What is it?</speech></p>
 
-        <p><speech ref="maria">Nothing, sir,</speech> she faltered, looking still more scared at his question.
-                <speech ref="maria">Indeed, it is nothing; or nothing worth troubling you about.</speech></p>
+        <p><speech ref="maria">Nothing, sir,</speech> she faltered, looking still more scared at his
+            question. <speech ref="maria">Indeed, it is nothing; or nothing worth troubling you
+                about.</speech></p>
 
-        <p><speech ref="michaelBascom">Nonsense. Do you suppose, because I live among books, I have no sympathy with my
-                fellow-creatures? Tell me what is wrong with you, child. You have been grieving
-                about the father you have lately lost, I suppose.</speech></p>
+        <p><speech ref="michaelBascom">Nonsense. Do you suppose, because I live among books, I have
+                no sympathy with my fellow-creatures? Tell me what is wrong with you, child. You
+                have been grieving about the father you have lately lost, I suppose.</speech></p>
 
-        <p><speech ref="maria">No, sir; it is not that. I shall never leave off being sorry for that. It is a
-                grief which will last me all my life.</speech></p>
+        <p><speech ref="maria">No, sir; it is not that. I shall never leave off being sorry for
+                that. It is a grief which will last me all my life.</speech></p>
 
-        <p><speech ref="michaelBascom">What, there is something else then?</speech> asked Michael impatiently. <speech ref="michaelBascom">I
-                see; you are not happy here. Hard work does not suit you. I thought as
-                much.</speech></p>
+        <p><speech ref="michaelBascom">What, there is something else then?</speech> asked Michael
+            impatiently. <speech ref="michaelBascom">I see; you are not happy here. Hard work does
+                not suit you. I thought as much.</speech></p>
 
-        <p><speech ref="maria">Oh, sir, please don’t think that,</speech> cried the girl, very earnestly.
-                <speech ref="maria">Indeed, I am glad to work–glad to be in service; it is only—-</speech></p>
+        <p><speech ref="maria">Oh, sir, please don’t think that,</speech> cried the girl, very
+            earnestly. <speech ref="maria">Indeed, I am glad to work–glad to be in service; it is
+                only—-</speech></p>
 
         <p>She faltered and broke down, the tears rolling slowly from her sorrowful eyes, despite
             her effort to keep them back.</p>
 
-        <p><speech ref="michaelBascom">Only what?</speech> cried Michael, growing angry. <speech ref="">The girl is full of
-                secrets and mysteries. What do you mean, wench?</speech></p>
+        <p><speech ref="michaelBascom">Only what?</speech> cried Michael, growing angry. <speech
+                ref="">The girl is full of secrets and mysteries. What do you mean,
+            wench?</speech></p>
 
         <p><speech ref="maria">I–I know it is very foolish, sir; but I am afraid of the room where I
                 sleep.</speech></p>
 
         <p><speech ref="michaelBascom">Afraid! Why?</speech></p>
 
-        <p><speech ref="maria">Shall I tell you the truth, sir? Will you promise not to be angry?</speech></p>
+        <p><speech ref="maria">Shall I tell you the truth, sir? Will you promise not to be
+                angry?</speech></p>
 
-        <p><speech ref="michaelBascom">I will not be angry if you will only speak plainly; but you provoke me by these
-                hesitations and suppressions.</speech></p>
+        <p><speech ref="michaelBascom">I will not be angry if you will only speak plainly; but you
+                provoke me by these hesitations and suppressions.</speech></p>
 
-        <p><speech ref="maria">And please, sir, do not tell <character ref="mrsSkegg">Mrs. Skegg</character> that I have told you. She would scold me;
-                or perhaps even send me away.</speech></p>
+        <p><speech ref="maria">And please, sir, do not tell <character ref="mrsSkegg">Mrs.
+                    Skegg</character> that I have told you. She would scold me; or perhaps even send
+                me away.</speech></p>
 
-        <p><speech ref="michaelBascom"><character ref="mrsSkegg">Mrs. Skegg</character> shall not scold you. Go on, child.</speech></p>
+        <p><speech ref="michaelBascom"><character ref="mrsSkegg">Mrs. Skegg</character> shall not
+                scold you. Go on, child.</speech></p>
 
-        <p><speech ref="maria">You may not know the room where I sleep, sir; it is a large room at one end of
-                the house, looking towards the sea. I can see the dark line of water from the
-                window, and I wonder sometimes to think that it is the same ocean I used to see when
-                I was a child at Yarmouth. It is very lonely, sir, at the top of the house. Mr. and
-                <character ref="mrsSkegg">Mrs. Skegg</character> sleep in a little room near the kitchen, you know, sir, and I am quite
-                alone on the top floor.</speech></p>
+        <p><speech ref="maria">You may not know the room where I sleep, sir; it is a large room at
+                one end of the house, looking towards the sea. I can see the dark line of water from
+                the window, and I wonder sometimes to think that it is the same ocean I used to see
+                when I was a child at Yarmouth. It is very lonely, sir, at the top of the house. Mr.
+                and <character ref="mrsSkegg">Mrs. Skegg</character> sleep in a little room near the
+                kitchen, you know, sir, and I am quite alone on the top floor.</speech></p>
 
-        <p><speech ref="michaelBascom">Skegg told me you had been educated in advance of your position in life, <character ref="maria">Maria</character>. I
-                should have thought the first effect of a good education would have been to make you
-                superior to any foolish fancies about empty rooms.</speech></p>
+        <p><speech ref="michaelBascom">Skegg told me you had been educated in advance of your
+                position in life, <character ref="maria">Maria</character>. I should have thought
+                the first effect of a good education would have been to make you superior to any
+                foolish fancies about empty rooms.</speech></p>
 
-        <p><speech ref="maria">Oh, pray, sir, do not think it is any fault in my education. Father took such
-                pains with me; he spared no expense in giving me as good an education as a
+        <p><speech ref="maria">Oh, pray, sir, do not think it is any fault in my education. Father
+                took such pains with me; he spared no expense in giving me as good an education as a
                 tradesman’s daughter need wish for. And he was a religious man, sir. He did not
-                believe</speech>–here she paused, with a suppressed shudder–<speech ref="">in the spirits
-                of the dead appearing to the living, since the days of miracles, when the ghost of
-                Samuel appeared to Saul</speech>.</p>
+                believe</speech>–here she paused, with a suppressed shudder–<speech ref="">in the
+                spirits of the dead appearing to the living, since the days of miracles, when the
+                ghost of Samuel appeared to Saul</speech>.</p>
 
         <p>He never put any foolish ideas into my head, sir. I hadn’t a thought of fear when I first
             lay down to rest in the big lonely room upstairs.</p>
 
         <p><speech ref="michaelBascom">Well, what then?</speech></p>
 
-        <p><speech ref="maria">But on the very first night,</speech> the girl went on breathlessly, <speech ref="maria">I
-                felt weighed down in my sleep as if there were some heavy burden laid upon my chest.
-                It was not a bad dream, but it was a sense of trouble that followed me all through
-                my sleep; and just at daybreak–it begins to be light a little after six–I woke
-                suddenly, with the cold perspiration pouring down my face, and knew that there was
-                something dreadful in the room.</speech></p>
+        <p><speech ref="maria">But on the very first night,</speech> the girl went on breathlessly,
+                <speech ref="maria">I felt weighed down in my sleep as if there were some heavy
+                burden laid upon my chest. It was not a bad dream, but it was a sense of trouble
+                that followed me all through my sleep; and just at daybreak–it begins to be light a
+                little after six–I woke suddenly, with the cold perspiration pouring down my face,
+                and knew that there was something dreadful in the room.</speech></p>
 
-        <p><speech ref="michaelBascom">What do you mean by something dreadful. Did you see anything?</speech></p>
+        <p><speech ref="michaelBascom">What do you mean by something dreadful. Did you see
+                anything?</speech></p>
 
-        <p><speech ref="maria">Not much, sir; but it froze the blood in my veins, and I knew it was this that
-                had been following me and weighing upon me all through my sleep. In the corner,
-                between the fire-place and the wardrobe, I saw a shadow–a dim, shapeless
+        <p><speech ref="maria">Not much, sir; but it froze the blood in my veins, and I knew it was
+                this that had been following me and weighing upon me all through my sleep. In the
+                corner, between the fire-place and the wardrobe, I saw a shadow–a dim, shapeless
                 shadow—-</speech></p>
 
         <p><speech ref="michaelBascom">Produced by an angle of the wardrobe, I daresay.</speech></p>
 
-        <p><speech ref="maria">No, sir; I could see the shadow of the wardrobe, distinct and sharp, as if it had
-                been painted on the wall. This shadow was in the corner–a strange, shapeless mass;
-                or, if it had any shape at all, it seemed—-</speech></p>
+        <p><speech ref="maria">No, sir; I could see the shadow of the wardrobe, distinct and sharp,
+                as if it had been painted on the wall. This shadow was in the corner–a strange,
+                shapeless mass; or, if it had any shape at all, it seemed—-</speech></p>
 
         <p><speech ref="michaelBascom">What?</speech> asked Michael eagerly.</p>
 
         <p><speech ref="maria">The shape of a dead body hanging against the wall!</speech></p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> grew strangely pale, yet he affected utter incredulity.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character> grew strangely pale, yet he
+            affected utter incredulity.</p>
 
-        <p><speech ref="">Poor child,</speech> he said kindly; <speech ref="">you have been fretting about your
-                father until your nerves are in a weak state, and you are full of fancies. A shadow
-                in the corner, indeed; why, at daybreak, every corner is full of shadows. My old
-                coat, flung upon a chair, will make you as good a ghost as you need care to
-                see.</speech></p>
+        <p><speech ref="">Poor child,</speech> he said kindly; <speech ref="">you have been fretting
+                about your father until your nerves are in a weak state, and you are full of
+                fancies. A shadow in the corner, indeed; why, at daybreak, every corner is full of
+                shadows. My old coat, flung upon a chair, will make you as good a ghost as you need
+                care to see.</speech></p>
 
-        <p><speech ref="maria">Oh, sir, I have tried to think it is my fancy. But I have had the same burden
-                weighing me down every night. I have seen the same shadow every
-            morning.</speech></p>
+        <p><speech ref="maria">Oh, sir, I have tried to think it is my fancy. But I have had the
+                same burden weighing me down every night. I have seen the same shadow every
+                morning.</speech></p>
 
-        <p><speech ref="michaelBascom">But when broad daylight comes, can you not see what stuff your shadow is made
-                of?</speech></p>
+        <p><speech ref="michaelBascom">But when broad daylight comes, can you not see what stuff
+                your shadow is made of?</speech></p>
 
         <p><speech ref="maria">No, sir: the shadow goes before it is broad daylight.</speech></p>
 
-        <p><speech ref="michaelBascom">Of course, just like other shadows. Come, come, get these silly notions out of
-                your head, or you will never do for the work-a-day world. I could easily speak to
-                <character ref="mrsSkegg">Mrs. Skegg</character>, and make her give you another room, if I wanted to encourage you in your
-                folly. But that would be about the worst thing I could do for you. Besides, she
-                tells me that all the other rooms on that floor are damp; and, no doubt, if she
-                shifted you into one of them, you would discover another shadow in another corner,
-                and get rheumatism into the bargain. No, my good girl, you must try to prove
-                yourself the better for a superior education.</speech></p>
+        <p><speech ref="michaelBascom">Of course, just like other shadows. Come, come, get these
+                silly notions out of your head, or you will never do for the work-a-day world. I
+                could easily speak to <character ref="mrsSkegg">Mrs. Skegg</character>, and make her
+                give you another room, if I wanted to encourage you in your folly. But that would be
+                about the worst thing I could do for you. Besides, she tells me that all the other
+                rooms on that floor are damp; and, no doubt, if she shifted you into one of them,
+                you would discover another shadow in another corner, and get rheumatism into the
+                bargain. No, my good girl, you must try to prove yourself the better for a superior
+                education.</speech></p>
 
-        <p><speech ref="">I will do my best, sir,</speech> <character ref="maria">Maria</character> answered meekly, dropping a curtsey.</p>
+        <p><speech ref="">I will do my best, sir,</speech>
+            <character ref="maria">Maria</character> answered meekly, dropping a curtsey.</p>
 
-        <p><character ref="maria">Maria</character> went back to the kitchen sorely depressed. It was a dreary life she led at
-            Wildheath Grange–dreary by day, awful by night; for the vague burden and the shapeless
-            shadow, which seemed so slight a matter to the elderly scholar, were unspeakably
-            terrible to her. Nobody had told her that the house was haunted, yet she walked about
-            those echoing passages wrapped round with a cloud of fear. She had no pity from <character ref="danielSkegg">Daniel
-            Skegg</character> and his <character ref="mrsSkegg">wife</character>. Those two pious souls had made up their minds that the character of
-            the house should be upheld, so far as <character ref="maria">Maria</character> went. To her, as a foreigner, the Grange
-            should be maintained to be an immaculate dwelling, tainted by no sulphurous blast from
-            the under world. A willing, biddable girl had become a necessary element in the
-            existence of <character ref="mrsSkegg">Mrs. Skegg</character>. That girl had been found, and that girl must be kept. Any
-            fancies of a supernatural character must be put down with a high hand.</p>
+        <p><character ref="maria">Maria</character> went back to the kitchen sorely depressed. It
+            was a dreary life she led at Wildheath Grange–dreary by day, awful by night; for the
+            vague burden and the shapeless shadow, which seemed so slight a matter to the elderly
+            scholar, were unspeakably terrible to her. Nobody had told her that the house was
+            haunted, yet she walked about those echoing passages wrapped round with a cloud of fear.
+            She had no pity from <character ref="danielSkegg">Daniel Skegg</character> and his
+                <character ref="mrsSkegg">wife</character>. Those two pious souls had made up their
+            minds that the character of the house should be upheld, so far as <character ref="maria"
+                >Maria</character> went. To her, as a foreigner, the Grange should be maintained to
+            be an immaculate dwelling, tainted by no sulphurous blast from the under world. A
+            willing, biddable girl had become a necessary element in the existence of <character
+                ref="mrsSkegg">Mrs. Skegg</character>. That girl had been found, and that girl must
+            be kept. Any fancies of a supernatural character must be put down with a high hand.</p>
 
-        <p><speech ref="mrsSkegg">Ghosts, indeed!</speech> cried the amiable <character ref="danielSkegg">Skegg</character>. <speech ref="">Read your Bible, <character ref="maria">Maria</character>,
-                and don’t talk no more about ghosts.</speech></p>
+        <p><speech ref="mrsSkegg">Ghosts, indeed!</speech> cried the amiable <character
+                ref="danielSkegg">Skegg</character>. <speech ref="">Read your Bible, <character
+                    ref="maria">Maria</character>, and don’t talk no more about ghosts.</speech></p>
 
-        <p><speech ref="maria">There are ghosts in the Bible,</speech> said <character ref="maria">Maria</character>, with a shiver at the
-            recollection of certain awful passages in the Scripture she knew so well.</p>
+        <p><speech ref="maria">There are ghosts in the Bible,</speech> said <character ref="maria"
+                >Maria</character>, with a shiver at the recollection of certain awful passages in
+            the Scripture she knew so well.</p>
 
-        <p><speech ref="mrsSkegg">Ah, they was in their right place, or they wouldn’t ha’ been there,</speech>
-            retorted <character ref="mrsSkegg">Mrs. Skegg</character>. <speech ref="mrsSkegg">You ain’t agoin’ to pick holes in your Bible, I hope,
-                <character ref="maria">Maria</character>, at your time of life.</speech></p>
+        <p><speech ref="mrsSkegg">Ah, they was in their right place, or they wouldn’t ha’ been
+                there,</speech> retorted <character ref="mrsSkegg">Mrs. Skegg</character>. <speech
+                ref="mrsSkegg">You ain’t agoin’ to pick holes in your Bible, I hope, <character
+                    ref="maria">Maria</character>, at your time of life.</speech></p>
 
-        <p><character ref="maria">Maria</character> sat down quietly in her corner by the kitchen fire, and turned over the leaves of
-            her dead father’s Bible till she came to the chapters they two had loved best and
-            oftenest read together. He had been a simple-minded, straightforward man, the Yarmouth
-            cabinet-maker–a man full of aspirations after good, innately refined, instinctively
-            religious. He and his motherless girl had spent their lives alone together, in the neat
-            little home which <character ref="maria">Maria</character> had so soon learnt to cherish and beautify; and they had loved
+        <p><character ref="maria">Maria</character> sat down quietly in her corner by the kitchen
+            fire, and turned over the leaves of her dead father’s Bible till she came to the
+            chapters they two had loved best and oftenest read together. He had been a
+            simple-minded, straightforward man, the Yarmouth cabinet-maker–a man full of aspirations
+            after good, innately refined, instinctively religious. He and his motherless girl had
+            spent their lives alone together, in the neat little home which <character ref="maria"
+                >Maria</character> had so soon learnt to cherish and beautify; and they had loved
             each other with an almost romantic love. They had had the same tastes, the same ideas.
             Very little had sufficed to make them happy. But inexorable death parted father and
             daughter, in one of those sharp, sudden partings which are like the shock of an
             earthquake–instantaneous ruin, desolation, and despair.</p>
 
-        <p><character ref="maria">Maria</character>’s fragile form had bent before the tempest. She had lived through a trouble that
-            might have crushed a stronger nature. Her deep religious convictions, and her belief
-            that this cruel parting would not be for ever, had sustained her. She faced life, and
-            its cares and duties, with a gentle patience which was the noblest form of courage.</p>
+        <p><character ref="maria">Maria</character>’s fragile form had bent before the tempest. She
+            had lived through a trouble that might have crushed a stronger nature. Her deep
+            religious convictions, and her belief that this cruel parting would not be for ever, had
+            sustained her. She faced life, and its cares and duties, with a gentle patience which
+            was the noblest form of courage.</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> told himself that the servant-girl’s foolish fancy about the room that had
-            been given her was not a matter of serious consideration. Yet the idea dwelt in his mind
-            unpleasantly, and disturbed him at his labours. The exact sciences require the complete
-            power of a man’s brain, his utmost attention; and on this particular evening Michael
-            found that he was only giving his work a part of his attention. The girl’s pale face,
-            the girl’s tremulous tones, thrust themselves into the foreground of his thoughts.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character> told himself that the
+            servant-girl’s foolish fancy about the room that had been given her was not a matter of
+            serious consideration. Yet the idea dwelt in his mind unpleasantly, and disturbed him at
+            his labours. The exact sciences require the complete power of a man’s brain, his utmost
+            attention; and on this particular evening Michael found that he was only giving his work
+            a part of his attention. The girl’s pale face, the girl’s tremulous tones, thrust
+            themselves into the foreground of his thoughts.</p>
 
         <p>He closed his book with a fretful sigh, wheeled his large arm-chair round to the fire,
             and gave himself up to contemplation. To attempt study with so disturbed a mind was
@@ -423,37 +471,40 @@
             hear the wintry blast whistling amidst the gables, before it rushed off seaward with a
             savage howl that sounded like a war-whoop.</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> shivered, and drew nearer the fire.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character> shivered, and drew nearer the
+            fire.</p>
 
-        <p><speech ref="michaelBascom">It’s childish, foolish nonsense,</speech> he said to himself, <speech ref="michaelBascom">yet it’s
-                strange she should have that fancy about the shadow, for they say <character ref="anthonyBascom">Anthony Bascom</character>
+        <p><speech ref="michaelBascom">It’s childish, foolish nonsense,</speech> he said to himself,
+                <speech ref="michaelBascom">yet it’s strange she should have that fancy about the
+                shadow, for they say <character ref="anthonyBascom">Anthony Bascom</character>
                 destroyed himself in that room. I remember hearing it when I was a boy, from an old
                 servant whose mother was housekeeper at the great house in Anthony’s time. I never
                 heard how he died, poor fellow–whether he poisoned himself, or shot himself, or cut
-                his throat; but I’ve been told that was the room. <character ref="danielSkegg">Old Skegg</character> has heard it too. I
-                could see that by his manner when he told me the girl was to sleep
-            there.</speech></p>
+                his throat; but I’ve been told that was the room. <character ref="danielSkegg">Old
+                    Skegg</character> has heard it too. I could see that by his manner when he told
+                me the girl was to sleep there.</speech></p>
 
         <p>He sat for a long time, till the grey of evening outside his study windows changed to the
             black of night, and the war-whoop of the wind died away to a low complaining murmur. He
             sat looking into the fire, and letting his thoughts wander back to the past and the
             traditions he had heard in his boyhood.</p>
 
-        <p>That was a sad, foolish story of his great-uncle, <character ref="anthonyBascom">Anthony Bascom</character>: the pitiful story of a
-            wasted fortune and a wasted life. A riotous collegiate career at Cambridge, a
-            racing-stable at Newmarket, an imprudent marriage, a dissipated life in London, a
-            runaway wife; an estate forfeited to Jew money-lenders, and then the fatal end.</p>
-<plot point="history"/>
-        <p>Michael had often heard that dismal story: how, when <character ref="anthonyBascom">Anthony Bascom</character>’s fair false wife had
-            left him, when his credit was exhausted, and his friends had grown tired of him, and all
-            was gone except Wildheath Grange, Anthony, the broken-down man of fashion, had come to
-            that lonely house unexpectedly one night, and had ordered his bed to be got ready for
-            him in the room where he used to sleep when he came to the place for the wild duck
-            shooting, in his boyhood. His old blunderbuss was still hanging over the mantelpiece,
-            where he had left it when he came into the property, and could afford to buy the newest
-            thing in fowling-pieces. He had not been to Wildheath for fifteen years; nav, for a good
-            many of those years he had almost forgotten that the drear; old house belonged to
-            him.</p>
+        <p>That was a sad, foolish story of his great-uncle, <character ref="anthonyBascom">Anthony
+                Bascom</character>: the pitiful story of a wasted fortune and a wasted life. A
+            riotous collegiate career at Cambridge, a racing-stable at Newmarket, an imprudent
+            marriage, a dissipated life in London, a runaway wife; an estate forfeited to Jew
+            money-lenders, and then the fatal end.</p>
+        <plot point="history"/>
+        <p>Michael had often heard that dismal story: how, when <character ref="anthonyBascom"
+                >Anthony Bascom</character>’s fair false wife had left him, when his credit was
+            exhausted, and his friends had grown tired of him, and all was gone except Wildheath
+            Grange, Anthony, the broken-down man of fashion, had come to that lonely house
+            unexpectedly one night, and had ordered his bed to be got ready for him in the room
+            where he used to sleep when he came to the place for the wild duck shooting, in his
+            boyhood. His old blunderbuss was still hanging over the mantelpiece, where he had left
+            it when he came into the property, and could afford to buy the newest thing in
+            fowling-pieces. He had not been to Wildheath for fifteen years; nav, for a good many of
+            those years he had almost forgotten that the drear; old house belonged to him.</p>
 
         <p>The woman who had been housekeeper at Bascom Park, till house and lands had passed into
             the hands of the Jews, was at this time the sole occupant of Wildheath. She cooked some
@@ -482,85 +533,101 @@
             level line of sands yonder where the land melted into water. A heavy lumbering
             farm-labourer walked beside the cart.</p>
 
-        <p><speech ref="mrsMidge">For God’s sake, come in and burst open my master’s door!</speech> she entreated,
-            seizing the man by the arm. <speech ref="mrsMidge">He’s lying dead, or in a fit, and I can’t get to
-                help him.</speech></p>
+        <p><speech ref="mrsMidge">For God’s sake, come in and burst open my master’s door!</speech>
+            she entreated, seizing the man by the arm. <speech ref="mrsMidge">He’s lying dead, or in
+                a fit, and I can’t get to help him.</speech></p>
 
-        <p><speech ref="labourer">All right, missus,</speech> answered the man, as if such an invitation were a
-            matter of daily occurrence. <speech ref="labourer">Whoa, Dobbin; stond still, horse, and be donged to
-                thee.</speech></p>
+        <p><speech ref="labourer">All right, missus,</speech> answered the man, as if such an
+            invitation were a matter of daily occurrence. <speech ref="labourer">Whoa, Dobbin; stond
+                still, horse, and be donged to thee.</speech></p>
 
         <p>Dobbin was glad enough to be brought to anchor on the patch of waste grass in front of
             the Grange garden. His master followed the housekeeper upstairs, and shattered the
             old-fashioned box-lock with one blow of his ponderous fist.</p>
 
-        <p>The old woman’s worst fear was realised. <character ref="anthonyBascom">Anthony Bascom</character> was dead. But the mode and manner
-            of his death Michael had never been able to learn. The housekeeper’s daughter, who told
-            him the story, was an old woman when he was a boy. She had only shaken her head, and
-            looked unutterable things, when he questioned her too closely. She had never even
-            admitted that the old squire had committed suicide. Yet the tradition of his
-            self-destruction was rooted in the minds of the natives of Holcroft: and there was a
-            settled belief that his ghost, at certain times and seasons, haunted Wildheath
-            Grange.</p>
+        <p>The old woman’s worst fear was realised. <character ref="anthonyBascom">Anthony
+                Bascom</character> was dead. But the mode and manner of his death Michael had never
+            been able to learn. The housekeeper’s daughter, who told him the story, was an old woman
+            when he was a boy. She had only shaken her head, and looked unutterable things, when he
+            questioned her too closely. She had never even admitted that the old squire had
+            committed suicide. Yet the tradition of his self-destruction was rooted in the minds of
+            the natives of Holcroft: and there was a settled belief that his ghost, at certain times
+            and seasons, haunted Wildheath Grange.</p>
 
-        <p>Now <character ref="michaelBascom">Michael Bascom</character> was a stern materialist. For him the universe with all its
-            inhabitants, was a great machine, governed by inexorable laws. To such a man the idea of
-            a ghost was simply absurd–as absurd as the assertion that two and two make five, or that
-            a circle can be formed of a straight line. Yet he had a kind of dilettante interest in
-            the idea of a mind which could believe in ghosts. The subject offered an amusing
-            psychological study. This poor little pale girl, now, had evidently got some
-            supernatural terror into her head, which could only be conquered by rational
-            treatment.</p>
+        <p>Now <character ref="michaelBascom">Michael Bascom</character> was a stern materialist.
+            For him the universe with all its inhabitants, was a great machine, governed by
+            inexorable laws. To such a man the idea of a ghost was simply absurd–as absurd as the
+            assertion that two and two make five, or that a circle can be formed of a straight line.
+            Yet he had a kind of dilettante interest in the idea of a mind which could believe in
+            ghosts. The subject offered an amusing psychological study. This poor little pale girl,
+            now, had evidently got some supernatural terror into her head, which could only be
+            conquered by rational treatment.</p>
 
-        <p><speech ref="michaelBascom">I know what I ought to do,</speech> <character ref="michaelBascom">Michael Bascom</character> said to himself suddenly.
-            <speech ref="michaelBascom">I’ll occupy that room myself tonight, and demonstrate to this foolish girl
-                that her notion about the shadow is nothing more than a silly fancy, bred of
-                timidity and low spirits. An ounce of proof is better than a pound of argument. If I
-                can prove to her that I have spent a night in the room, and seen no such shadow, she
-                will understand what an idle thing superstition is.</speech></p>
+        <p><speech ref="michaelBascom">I know what I ought to do,</speech>
+            <character ref="michaelBascom">Michael Bascom</character> said to himself suddenly.
+                <speech ref="michaelBascom">I’ll occupy that room myself tonight, and demonstrate to
+                this foolish girl that her notion about the shadow is nothing more than a silly
+                fancy, bred of timidity and low spirits. An ounce of proof is better than a pound of
+                argument. If I can prove to her that I have spent a night in the room, and seen no
+                such shadow, she will understand what an idle thing superstition is.</speech></p>
 
         <p>Daniel came in presently to shut the shutters.</p>
 
-        <p><speech ref="michaelBascom">Tell your wife to make up my bed in the room where <character ref="maria">Maria</character> has been sleeping, and
-            to put her into one of the rooms on the first floor for to-night, <character ref="danielSkegg">Skegg</character>,</speech>
-            said <character ref="michaelBascom">Mr. Bascom</character>.</p>
+        <p><speech ref="michaelBascom">Tell your wife to make up my bed in the room where <character
+                    ref="maria">Maria</character> has been sleeping, and to put her into one of the
+                rooms on the first floor for to-night, <character ref="danielSkegg"
+                    >Skegg</character>,</speech> said <character ref="michaelBascom">Mr.
+                Bascom</character>.</p>
 
         <p><speech ref="danielSkegg">Sir?</speech></p>
 
         <p><character ref="michaelBascom">Mr. Bascom</character> repeated his order.</p>
 
-        <p><speech ref="danielSkegg">That silly wench has been complaining to you about her room,</speech> <character ref="danielSkegg">Skegg</character>
-            exclaimed indignantly. <speech ref="danielSkegg">She doesn’t deserve to be well fed and cared for in a
-                comfortable home. She ought to go to the workhouse.</speech></p>
+        <p><speech ref="danielSkegg">That silly wench has been complaining to you about her
+                room,</speech>
+            <character ref="danielSkegg">Skegg</character> exclaimed indignantly. <speech
+                ref="danielSkegg">She doesn’t deserve to be well fed and cared for in a comfortable
+                home. She ought to go to the workhouse.</speech></p>
 
-        <p><speech ref="michaelBascom">Don’t be angry with the poor girl, <character ref="danielSkegg">Skegg</character>. She has taken a foolish fancy into her
-                head, and I want to show her how silly she is,</speech> said <character ref="michaelBascom">Mr. Bascom</character>.</p>
+        <p><speech ref="michaelBascom">Don’t be angry with the poor girl, <character
+                    ref="danielSkegg">Skegg</character>. She has taken a foolish fancy into her
+                head, and I want to show her how silly she is,</speech> said <character
+                ref="michaelBascom">Mr. Bascom</character>.</p>
 
-        <p><speech ref="danielSkegg">And you want to sleep in his–in that room yourself,</speech> said the butler.</p>
+        <p><speech ref="danielSkegg">And you want to sleep in his–in that room yourself,</speech>
+            said the butler.</p>
 
         <p><speech ref="michaelBascom">Precisely.</speech></p>
 
-        <p><speech ref="danielSkegg">Well,</speech> mused <character ref="danielSkegg">Skegg</character>, <speech ref="danielSkegg">if he does walk–which I don’t believe–he was
-                your own flesh and blood; and I don’t suppose he’ll do you any hurt.</speech></p>
+        <p><speech ref="danielSkegg">Well,</speech> mused <character ref="danielSkegg"
+                >Skegg</character>, <speech ref="danielSkegg">if he does walk–which I don’t
+                believe–he was your own flesh and blood; and I don’t suppose he’ll do you any
+                hurt.</speech></p>
 
-        <p>When <character ref="danielSkegg">Daniel Skegg</character> went back to the kitchen he railed mercilessly at poor <character ref="maria">Maria</character>, who sat
-            pale and silent in her corner by the hearth, darning old <character ref="mrsSkegg">Mrs. Skegg</character>’s grey worsted
-            stockings, which were the roughest and harshest armour that ever human foot clothed
-            itself withal. <speech ref="danielSkegg">Was there ever such a whimsical, fine, lady-like miss,</speech>
-            demanded<character ref="danielSkegg"> Daniel</character>, <speech ref="danielSkegg">to come into a gentleman’s house, and drive him out of his own
-                bedroom to sleep in an attic, with her nonsenses and vagaries.</speech> If this was
-            the result of being educated above one’s station,<character ref="danielSkegg"> Daniel</character> declared that he was thankful
-            he had never got so far in his schooling as to read words of two syllables without
-            spelling. Education might be hanged for him, if this was all it led to.</p>
+        <p>When <character ref="danielSkegg">Daniel Skegg</character> went back to the kitchen he
+            railed mercilessly at poor <character ref="maria">Maria</character>, who sat pale and
+            silent in her corner by the hearth, darning old <character ref="mrsSkegg">Mrs.
+                Skegg</character>’s grey worsted stockings, which were the roughest and harshest
+            armour that ever human foot clothed itself withal. <speech ref="danielSkegg">Was there
+                ever such a whimsical, fine, lady-like miss,</speech> demanded<character
+                ref="danielSkegg"> Daniel</character>, <speech ref="danielSkegg">to come into a
+                gentleman’s house, and drive him out of his own bedroom to sleep in an attic, with
+                her nonsenses and vagaries.</speech> If this was the result of being educated above
+            one’s station,<character ref="danielSkegg"> Daniel</character> declared that he was
+            thankful he had never got so far in his schooling as to read words of two syllables
+            without spelling. Education might be hanged for him, if this was all it led to.</p>
 
-        <p><speech ref="maria">I am very sorry,</speech> faltered <character ref="maria">Maria</character>, weeping silently over her work.
-                <speech ref="maria">Indeed, <character ref="danielSkegg">Mr. Skegg</character>, I made no complaint. My master questioned me, and I told
-                him the truth. That was all.</speech></p>
+        <p><speech ref="maria">I am very sorry,</speech> faltered <character ref="maria"
+                >Maria</character>, weeping silently over her work. <speech ref="maria">Indeed,
+                    <character ref="danielSkegg">Mr. Skegg</character>, I made no complaint. My
+                master questioned me, and I told him the truth. That was all.</speech></p>
 
-        <p><speech ref="danielSkegg">All!</speech> exclaimed <character ref="danielSkegg">Mr. Skegg</character> irately; <speech ref="">all, indeed! I should think it
-                was enough.</speech></p>
+        <p><speech ref="danielSkegg">All!</speech> exclaimed <character ref="danielSkegg">Mr.
+                Skegg</character> irately; <speech ref="">all, indeed! I should think it was
+                enough.</speech></p>
 
-        <p>Poor <character ref="maria">Maria</character> held her peace. Her mind, fluttered by<character ref="danielSkegg"> Daniel</character>’s unkindness, had wandered away
+        <p>Poor <character ref="maria">Maria</character> held her peace. Her mind, fluttered
+                by<character ref="danielSkegg"> Daniel</character>’s unkindness, had wandered away
             from that bleak big kitchen to the lost home of the past–the snug little parlour where
             she and her father had sat beside the cosy hearth on such a night as this; she with her
             smart work-box and her plain sewing, he with the newspaper he loved to read; the petted
@@ -570,8 +637,9 @@
         <p>Oh, those happy nights, that dear companionship! Were they really gone for ever, leaving
             nothing behind them but unkindness and servitude?</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> retired later than usual that night. He was in the habit of sitting at his
-            books long after every other lamp but his own had been extinguished. <character ref="danielSkegg">The Skeggs</character> had
+        <p><character ref="michaelBascom">Michael Bascom</character> retired later than usual that
+            night. He was in the habit of sitting at his books long after every other lamp but his
+            own had been extinguished. <character ref="danielSkegg">The Skeggs</character> had
             subsided into silence and darkness in their drear ground-floor bed-chamber. Tonight his
             studies were of a peculiarly interesting kind, and belonged to the order of recreative
             reading rather than of hard work. He was deep in the history of that mysterious people
@@ -584,7 +652,8 @@
             itself sufficient to strike terror to a superstitious mind, so black and uncanny did it
             look.</p>
 
-        <p><speech ref="michaelBascom">Poor child,</speech> mused <character ref="michaelBascom"><character ref="michaelBascom">Mr. Bascom</character></character>, thinking of <character ref="maria">Maria</character>; <speech ref="michaelBascom">this attic
+        <p><speech ref="michaelBascom">Poor child,</speech> mused <character ref="michaelBascom">Mr. Bascom</character>, thinking of
+                <character ref="maria">Maria</character>; <speech ref="michaelBascom">this attic
                 floor is rather dreary, and for a young mind prone to fancies—-</speech></p>
 
         <p>He had opened the door of the north room by this time, and stood looking about him.</p>
@@ -600,8 +669,9 @@
             There was a corner washstand, with a big basin and a small jug–the odds and ends of past
             years. Carpet there was none, save a narrow strip beside the bed.</p>
 
-        <p><speech ref="michaelBascom">It is a dismal room,</speech> mused Michael, with the same touch of pity for
-            <character ref="maria">Maria</character>’s weakness which he had felt on the landing just now.</p>
+        <p><speech ref="michaelBascom">It is a dismal room,</speech> mused Michael, with the same
+            touch of pity for <character ref="maria">Maria</character>’s weakness which he had felt
+            on the landing just now.</p>
 
         <p>To him it mattered nothing where he slept; but having let himself down to a lower level
             by his interest in the Swiss lake-people, he was in a manner humanised by the lightness
@@ -621,7 +691,7 @@
             unavailing remorse; the agonising memory of a life wasted; the stings of humiliation and
             disgrace, shame, ruin; a hideous death, which he had doomed himself to die by his own
             hand. These were the horrors that pressed him round and weighed him down as he lay in
-            <character ref="anthonyBascom">Anthony Bascom</character>’s room.</p>
+                <character ref="anthonyBascom">Anthony Bascom</character>’s room.</p>
 
         <p>Yes, even he, the man who could recognise nothing in nature, or in nature’s God, better
             or higher than an irresponsible and invariable machine governed by mechanical laws, was
@@ -635,14 +705,14 @@
             mind–his very self; no meaningless simulacrum of the clothes he were, and the figure
             that filled them.</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> was not the man to abandon his high ground of sceptical philosophy without
-            a struggle. He tried his hardest to conquer this oppression that weighed upon mind and
-            sense. Again and again he succeeded in composing himself to sleep, but only to wake
-            again and again to the same torturing thoughts, the same remorse, the same despair. So
-            the night passed in unutterable weariness; for though he told himself that the trouble
-            was not his trouble, that there was no reality in the burden, no reason for the remorse,
-            these vivid fancies were as painful as realities, and took as strong a hold upon
-            him.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character> was not the man to abandon his
+            high ground of sceptical philosophy without a struggle. He tried his hardest to conquer
+            this oppression that weighed upon mind and sense. Again and again he succeeded in
+            composing himself to sleep, but only to wake again and again to the same torturing
+            thoughts, the same remorse, the same despair. So the night passed in unutterable
+            weariness; for though he told himself that the trouble was not his trouble, that there
+            was no reality in the burden, no reason for the remorse, these vivid fancies were as
+            painful as realities, and took as strong a hold upon him.</p>
 
         <p>The first streak of light crept in at the window–dim, and cold, and grey; then came
             twilight, and he looked at the corner between the wardrobe and the door.</p>
@@ -657,19 +727,22 @@
             old-fashioned, and grey, and brown, and shabby; but the depth of its gloom had fled with
             the shadows and the darkness of night.</p>
 
-        <p><character ref="michaelBascom">Mr. Bascom</character> rose refreshed by a sound sleep, which had lasted nearly three hours. He
-            remembered the wretched feelings which had gone before that renovating slumber; but he
-            recalled his strange sensations only to despise them, and he despised himself for having
-            attached any importance to them.</p>
+        <p><character ref="michaelBascom">Mr. Bascom</character> rose refreshed by a sound sleep,
+            which had lasted nearly three hours. He remembered the wretched feelings which had gone
+            before that renovating slumber; but he recalled his strange sensations only to despise
+            them, and he despised himself for having attached any importance to them.</p>
 
-        <p><speech ref="michaelBascom">Indigestion very likely,</speech> he told himself; <speech ref="michaelBascom">or perhaps mere fancy,
-                engendered of that foolish girl’s story. The wisest of us is more under the dominion
-                of imagination than he would care to confess. Well, <character ref="maria">Maria</character> shall not sleep in this
-                room any more. There is no particular reason why she should, and she shall not be
-                made unhappy to please <character ref="danielSkegg">old Skegg</character> and his <character ref="mrsSkegg">wife</character>.</speech></p>
+        <p><speech ref="michaelBascom">Indigestion very likely,</speech> he told himself; <speech
+                ref="michaelBascom">or perhaps mere fancy, engendered of that foolish girl’s story.
+                The wisest of us is more under the dominion of imagination than he would care to
+                confess. Well, <character ref="maria">Maria</character> shall not sleep in this room
+                any more. There is no particular reason why she should, and she shall not be made
+                unhappy to please <character ref="danielSkegg">old Skegg</character> and his
+                    <character ref="mrsSkegg">wife</character>.</speech></p>
 
-        <p>When he had dressed himself in his usual leisurely way, <character ref="michaelBascom">Mr. Bascom</character> walked up to the
-            corner where he had seen or imagined the shadow, and examined the spot carefully.</p>
+        <p>When he had dressed himself in his usual leisurely way, <character ref="michaelBascom"
+                >Mr. Bascom</character> walked up to the corner where he had seen or imagined the
+            shadow, and examined the spot carefully.</p>
 
         <p>At first sight he could discover nothing of a mysterious character. There was no door in
             the papered wall, no trace of a door that had been there in the past. There was no
@@ -689,138 +762,158 @@
 
         <p>It was old and rusty. It must have been there for many years. Who could have placed it
             there, and why? It was not the kind of hook upon which one would hang a picture or one’s
-            garments. It was placed in an obscure corner. Had <character ref="anthonyBascom">Anthony Bascom</character> put it there on the
-            night he died; or did he find it there ready for a fatal use?</p>
+            garments. It was placed in an obscure corner. Had <character ref="anthonyBascom">Anthony
+                Bascom</character> put it there on the night he died; or did he find it there ready
+            for a fatal use?</p>
 
-        <p><speech ref="michaelBascom">If I were a superstitious man,</speech> thought Michael, <speech ref="michaelBascom">I should be
-                inclined to believe that <character ref="anthonyBascom">Anthony Bascom</character> hung himself from that rusty old
+        <p><speech ref="michaelBascom">If I were a superstitious man,</speech> thought Michael,
+                <speech ref="michaelBascom">I should be inclined to believe that <character
+                    ref="anthonyBascom">Anthony Bascom</character> hung himself from that rusty old
                 hook.</speech></p>
 
-        <p><speech ref="danielSkegg">Sleep well, sir?</speech> asked<character ref="danielSkegg"> Daniel</character>, as he waited upon his master at
-            breakfast.</p>
+        <p><speech ref="danielSkegg">Sleep well, sir?</speech> asked<character ref="danielSkegg">
+                Daniel</character>, as he waited upon his master at breakfast.</p>
 
-        <p><speech ref="michaelBascom">Admirably,</speech> answered Michael, determined not to gratify the man’s
-            curiosity.</p>
+        <p><speech ref="michaelBascom">Admirably,</speech> answered Michael, determined not to
+            gratify the man’s curiosity.</p>
 
         <p>He had always resented the idea that Wildheath Grange was haunted.</p>
 
         <p><speech ref="danielSkegg">Oh, indeed, sir. You were so late that I fancied—-</speech></p>
 
-        <p><speech ref="michaelBascom">Late, yes! I slept so well that I overshot my usual hour for waking. But,
-            by-the-way, <character ref="danielSkegg">Skegg</character>, as that poor girl objects to the room, let her sleep somewhere
-                else. It can’t make any difference to us, and it may make some difference to
-                her.</speech></p>
+        <p><speech ref="michaelBascom">Late, yes! I slept so well that I overshot my usual hour for
+                waking. But, by-the-way, <character ref="danielSkegg">Skegg</character>, as that
+                poor girl objects to the room, let her sleep somewhere else. It can’t make any
+                difference to us, and it may make some difference to her.</speech></p>
 
-        <p><speech ref="danielSkegg">Humph!</speech> muttered <character ref="danielSkegg">Daniel</character> in his grumpy way; <speech ref="">you didn’t see
-                anything queer up there, did you?</speech></p>
+        <p><speech ref="danielSkegg">Humph!</speech> muttered <character ref="danielSkegg"
+                >Daniel</character> in his grumpy way; <speech ref="">you didn’t see anything queer
+                up there, did you?</speech></p>
 
         <p><speech ref="michaelBascom">See anything? Of course not.</speech></p>
 
         <p><speech ref="danielSkegg">Well, then, why should she see things? It’s all her silly
-            fiddle-faddle.</speech></p>
+                fiddle-faddle.</speech></p>
 
         <p><speech ref="michaelBascom">Never mind, let her sleep in another room.</speech></p>
 
-        <p><speech ref="danielSkegg">There ain’t another room on the top floor that’s dry.</speech></p>
+        <p><speech ref="danielSkegg">There ain’t another room on the top floor that’s
+            dry.</speech></p>
 
-        <p><speech ref="michaelBascom">Then let her sleep on the floor below. She creeps about quietly enough, poor
-                little timid thing. She won’t disturb me.</speech></p>
+        <p><speech ref="michaelBascom">Then let her sleep on the floor below. She creeps about
+                quietly enough, poor little timid thing. She won’t disturb me.</speech></p>
 
         <p>Daniel grunted, and his master understood the grunt to mean obedient assent; but here Mr.
             Bascom was unhappily mistaken. The proverbial obstinacy of the pig family is as nothing
             compared with the obstinacy of a cross-grained old man, whose narrow mind has never been
-            illuminated by education.<character ref="danielSkegg"> Daniel</character> was beginning to feel jealous of his master’s
-            compassionate interest in the orphan girl. She was a sort of gentle clinging thing that
-            might creep into an elderly bachelor’s heart unawares, and make herself a comfortable
-            nest there.</p>
+            illuminated by education.<character ref="danielSkegg"> Daniel</character> was beginning
+            to feel jealous of his master’s compassionate interest in the orphan girl. She was a
+            sort of gentle clinging thing that might creep into an elderly bachelor’s heart
+            unawares, and make herself a comfortable nest there.</p>
 
-        <p><speech ref="danielSkegg">We shall have fine carryings-on, and me and my old woman will be nowhere, if I
-                don’t put down my heel pretty strong upon this nonsense,</speech><character ref="danielSkegg"> Daniel</character> muttered to
+        <p><speech ref="danielSkegg">We shall have fine carryings-on, and me and my old woman will
+                be nowhere, if I don’t put down my heel pretty strong upon this
+                nonsense,</speech><character ref="danielSkegg"> Daniel</character> muttered to
             himself, as he carried the breakfast-tray to the pantry.</p>
 
         <p><character ref="maria">Maria</character> met him in the passage.</p>
 
-        <p><speech ref="maria">Well, <character ref="danielSkegg">Mr. Skegg</character>, what did my master say?</speech> she asked breathlessly.</p>
+        <p><speech ref="maria">Well, <character ref="danielSkegg">Mr. Skegg</character>, what did my
+                master say?</speech> she asked breathlessly.</p>
 
         <p><speech ref="maria">Did he see anything strange in the room?</speech></p>
 
-        <p><speech ref="danielSkegg">No, girl. What should he see? He said you were a fool.</speech></p>
+        <p><speech ref="danielSkegg">No, girl. What should he see? He said you were a
+            fool.</speech></p>
 
-        <p><speech ref="maria">Nothing disturbed him? And he slept there peacefully?</speech> faltered
-            <character ref="maria">Maria</character>.</p>
+        <p><speech ref="maria">Nothing disturbed him? And he slept there peacefully?</speech>
+            faltered <character ref="maria">Maria</character>.</p>
 
-        <p><speech ref="danielSkegg">Never slept better in his life. Now don’t you begin to feel ashamed of
-                yourself?</speech></p>
+        <p><speech ref="danielSkegg">Never slept better in his life. Now don’t you begin to feel
+                ashamed of yourself?</speech></p>
 
-        <p><speech ref="maria">Yes,</speech> she answered meekly; <speech ref="maria">I am ashamed of being so full of
-                fancies. I will go back to my room tonight, <character ref="danielSkegg">Mr. Skegg</character>, if you like, and I will never
-                complain of it again.</speech></p>
+        <p><speech ref="maria">Yes,</speech> she answered meekly; <speech ref="maria">I am ashamed
+                of being so full of fancies. I will go back to my room tonight, <character
+                    ref="danielSkegg">Mr. Skegg</character>, if you like, and I will never complain
+                of it again.</speech></p>
 
-        <p><speech ref="danielSkegg">I hope you won’t,</speech> snapped <character ref="danielSkegg">Skegg</character>; <speech ref="danielSkegg">you’ve given us trouble enough
+        <p><speech ref="danielSkegg">I hope you won’t,</speech> snapped <character ref="danielSkegg"
+                >Skegg</character>; <speech ref="danielSkegg">you’ve given us trouble enough
                 already.</speech></p>
 
-        <p><character ref="maria">Maria</character> sighed, and went about her work in saddest silence. The day wore slowly on, like
-            all other days in that lifeless old house. The scholar sat in his study; <character ref="maria">Maria</character> moved
-            softly from room to room, sweeping and dusting in the cheerless solitude. The mid-day
-            sun faded into the grey of afternoon, and evening came down like a blight upon the dull
-            old house.</p>
+        <p><character ref="maria">Maria</character> sighed, and went about her work in saddest
+            silence. The day wore slowly on, like all other days in that lifeless old house. The
+            scholar sat in his study; <character ref="maria">Maria</character> moved softly from
+            room to room, sweeping and dusting in the cheerless solitude. The mid-day sun faded into
+            the grey of afternoon, and evening came down like a blight upon the dull old house.</p>
 
-        <p>Throughout that day <character ref="maria">Maria</character> and her master never met. Anyone who had been so far interested
-            in the girl as to observe her appearance would have seen that she was unusually pale,
-            and that her eyes had a resolute look, as of one who was resolved to face a painful
-            ordeal. She ate hardly anything all day. She was curiously silent. <character ref="danielSkegg">Skegg</character> and his <character ref="mrsSkegg">wife</character>
-            put down both these symptoms to temper.</p>
+        <p>Throughout that day <character ref="maria">Maria</character> and her master never met.
+            Anyone who had been so far interested in the girl as to observe her appearance would
+            have seen that she was unusually pale, and that her eyes had a resolute look, as of one
+            who was resolved to face a painful ordeal. She ate hardly anything all day. She was
+            curiously silent. <character ref="danielSkegg">Skegg</character> and his <character
+                ref="mrsSkegg">wife</character> put down both these symptoms to temper.</p>
 
-        <p><speech ref="danielSkegg">She won’t eat and she won’t talk,</speech> said<character ref="danielSkegg"> Daniel</character> to the partner of his
-            joys. <speech ref="">That means sulkiness, and I never allowed sulkiness to master me when I
-                was a young man, and you tried it on as a young woman, and I’m not going to be
-                conquered by sulkiness in my old age.</speech></p>
+        <p><speech ref="danielSkegg">She won’t eat and she won’t talk,</speech> said<character
+                ref="danielSkegg"> Daniel</character> to the partner of his joys. <speech ref=""
+                >That means sulkiness, and I never allowed sulkiness to master me when I was a young
+                man, and you tried it on as a young woman, and I’m not going to be conquered by
+                sulkiness in my old age.</speech></p>
 
-        <p>Bed-time came, and <character ref="maria">Maria</character> bade <character ref="danielSkegg">the Skeggs</character> a civil good-night, and went up to her lonely
-            garret without a murmur.</p>
+        <p>Bed-time came, and <character ref="maria">Maria</character> bade <character
+                ref="danielSkegg">the Skeggs</character> a civil good-night, and went up to her
+            lonely garret without a murmur.</p>
 
-        <p>The next morning came, and <character ref="mrsSkegg">Mrs. Skegg</character> looked in vain for her patient hand-maiden, when
-            she wanted <character ref="maria">Maria</character>’s services in preparing the breakfast.</p>
+        <p>The next morning came, and <character ref="mrsSkegg">Mrs. Skegg</character> looked in
+            vain for her patient hand-maiden, when she wanted <character ref="maria"
+                >Maria</character>’s services in preparing the breakfast.</p>
 
-        <p><speech ref="mrsSkegg">The wench sleeps sound enough this morning,</speech> said the old woman.
-                <speech ref="mrsSkegg">Go and call her,<character ref="danielSkegg"> Daniel</character>. My poor legs can’t stand them stairs.</speech></p>
+        <p><speech ref="mrsSkegg">The wench sleeps sound enough this morning,</speech> said the old
+            woman. <speech ref="mrsSkegg">Go and call her,<character ref="danielSkegg">
+                    Daniel</character>. My poor legs can’t stand them stairs.</speech></p>
 
-        <p><speech ref="danielSkegg">Your poor legs are getting uncommon useless,</speech> muttered<character ref="danielSkegg"> Daniel</character> testily, as
-            he went to do his wife’s behest.</p>
+        <p><speech ref="danielSkegg">Your poor legs are getting uncommon useless,</speech>
+                muttered<character ref="danielSkegg"> Daniel</character> testily, as he went to do
+            his wife’s behest.</p>
 
-        <p>He knocked at the door, and called <character ref="maria">Maria</character>–once, twice, thrice, many times; but there was
-            no reply. He tried the door, and found it locked. He shook the door violently, cold with
-            fear.</p>
+        <p>He knocked at the door, and called <character ref="maria">Maria</character>–once, twice,
+            thrice, many times; but there was no reply. He tried the door, and found it locked. He
+            shook the door violently, cold with fear.</p>
 
         <p>Then he told himself that the girl had played him a trick. She had stolen away before
             daybreak, and left the door locked to frighten him. But, no; this could not be, for he
             could see the key in the lock when he knelt down and put his eye to the keyhole. The key
             prevented his seeing into the room.</p>
 
-        <p><speech ref="danielSkegg">She’s in there, laughing in her sleeve at me,</speech> he told himself;
-                <speech ref="daniel">but I’ll soon be even with her.</speech></p>
+        <p><speech ref="danielSkegg">She’s in there, laughing in her sleeve at me,</speech> he told
+            himself; <speech ref="daniel">but I’ll soon be even with her.</speech></p>
 
         <p>There was a heavy bar on the staircase, which was intended to secure the shutters of the
             window that lighted the stairs. It was a detached bar, and always stood in a corner near
-            the window, which it was but rarely employed to fasten.<character ref="danielSkegg"> Daniel</character> ran down to the landing,
-            and seized upon this massive iron bar, and then ran back to the garret door.</p>
+            the window, which it was but rarely employed to fasten.<character ref="danielSkegg">
+                Daniel</character> ran down to the landing, and seized upon this massive iron bar,
+            and then ran back to the garret door.</p>
 
         <p>One blow from the heavy bar shattered the old lock, which was the same lock the carter
-            had broken with his strong fist seventy years before. The door flew open, and<character ref="danielSkegg"> Daniel</character>
-            went into the attic which he had chosen for the stranger’s bed-chamber.</p>
-<plot point="resolve"/>
-        <p><character ref="maria">Maria</character> was hanging from the hook in the wall. She had contrived to cover her face decently
-            with her handkerchief. She had hanged herself deliberately about an hour before<character ref="danielSkegg"> Daniel</character>
-            found her, in the early grey of morning. The doctor, who was summoned from Holcroft, was
-            able to declare the time at which she had slain herself, but there was no one who could
-            say what sudden access of terror had impelled her to the desperate act, or under what
-            slow torture of nervous apprehension her mind had given way. The coroner’s jury returned
-            the customary merciful verdict of "Temporary insanity".</p>
+            had broken with his strong fist seventy years before. The door flew open, and<character
+                ref="danielSkegg"> Daniel</character> went into the attic which he had chosen for
+            the stranger’s bed-chamber.</p>
+        <plot point="resolve"/>
+        <p><character ref="maria">Maria</character> was hanging from the hook in the wall. She had
+            contrived to cover her face decently with her handkerchief. She had hanged herself
+            deliberately about an hour before<character ref="danielSkegg"> Daniel</character> found
+            her, in the early grey of morning. The doctor, who was summoned from Holcroft, was able
+            to declare the time at which she had slain herself, but there was no one who could say
+            what sudden access of terror had impelled her to the desperate act, or under what slow
+            torture of nervous apprehension her mind had given way. The coroner’s jury returned the
+            customary merciful verdict of "Temporary insanity".</p>
 
-        <p>The girl’s melancholy fate darkened the rest of <character ref="michaelBascom">Michael Bascom</character>’s life. He fled from
-            Wildheath Grange as from an accursed spot, and from <character ref="danielSkegg">the Skeggs</character> as from the murderers of
-            a harmless innocent girl. He ended his days at Oxford, where he found the society of
-            congenial minds, and the books he loved. But the memory of <character ref="maria">Maria</character>’s sad face, and sadder
-            death, was his abiding sorrow. Out of that deep shadow his soul was never lifted.</p>
+        <p>The girl’s melancholy fate darkened the rest of <character ref="michaelBascom">Michael
+                Bascom</character>’s life. He fled from Wildheath Grange as from an accursed spot,
+            and from <character ref="danielSkegg">the Skeggs</character> as from the murderers of a
+            harmless innocent girl. He ended his days at Oxford, where he found the society of
+            congenial minds, and the books he loved. But the memory of <character ref="maria"
+                >Maria</character>’s sad face, and sadder death, was his abiding sorrow. Out of that
+            deep shadow his soul was never lifted.</p>
     </body>
 </story>
