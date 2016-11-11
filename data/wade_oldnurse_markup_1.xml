@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<story>
+    <meta>
+        <title>THE OLD NURSE'S STORY</title>
+        <author>Elizabeth Gaskell</author>
+        <date>1852</date>
+    </meta>
+    <body>
+        <plot point="intro"/>
+        <plot point="protag"/>
+        <p> You know, my dears, that your mother was an orphan, and an only child; and I daresay you
+            have heard that your grandfather was a clergyman up in Westmoreland, where I come from.
+            I was just a girl in the village school, when, one day, your grandmother came in to ask
+            the mistress if there was any scholar there who would do for a nurse-maid; and mighty
+            proud I was, I can tell ye, when the mistress called me up, and spoke of me being a good
+            girl at my needle, and a steady, honest girl, and one whose parents were <scary_word
+                pos="mod" scale="">very</scary_word> respectable, though they might be <scary_word
+                pos="adj" scale="">poor</scary_word>. I thought I should like nothing better than to
+            serve the pretty young lady, who was blushing as <scary_word pos="adj" scale=""
+                >deep</scary_word> as I was, as she spoke of the coming baby, and what I should have
+            to do with it. However, I see you don't care so much for this part of my story, as for
+            what you think is to come, so I'll tell you at once. I was engaged and settled at the
+            parsonage before Miss <character ref="missRosamond">Rosamond</character> (that was the
+            baby, who is now your mother) was born. To be sure, I had little enough to do with her
+            when she came, for she was never out of her mother's arms, and slept by her all
+                <scary_word pos="noun" scale="">night</scary_word> long; and proud enough was I
+            sometimes when missis trusted her to me. There never was such a baby before or since,
+            though you've all of you been fine enough in your turns; but for sweet, winning ways,
+            you've none of you come up to your mother. She took after her mother, who was a real
+            lady born; a <character ref="missFurnivall">Miss Furnivall</character>, a grand-daughter
+            of <character ref="lordFurnivall">Lord Furnivall</character>'s, in Northumberland. I
+                <scary_word pos="verb" scale="">believe</scary_word> she had neither brother nor
+            sister, and had been brought up in my lord's family till she had married your
+            grandfather, who was just a curate, son to a shopkeeper in Carlisle—but a clever, fine
+            gentleman as ever was—and one who was a right-<scary_word pos="" scale=""
+                >down</scary_word> hard worker in his parish, which was <scary_word pos="mod"
+                scale="">very</scary_word> wide, and scattered all abroad over the Westmoreland
+            Fells. When your mother, little Miss <character ref="missRosamond">Rosamond</character>,
+            was about four or five years old, both her parents <scary_word pos="verb" scale=""
+                >died</scary_word> in a fortnight—one after the other. Ah! that was a <scary_word
+                pos="adj" scale="">sad</scary_word> time. My pretty young mistress and me was
+            looking for another baby, when my master came home from one of his long rides,
+                <scary_word pos="adj" scale="">wet</scary_word> and tired, and took the fever he
+                <scary_word pos="verb" scale="">died</scary_word> of; and then she never held up her
+            head again, but just lived to see her <scary_word pos="adj" scale="">dead</scary_word>
+            baby, and have it laid on her breast, before she sighed away her life. My mistress had
+            asked me, on her death-bed, never to leave Miss <character ref="missRosamond"
+                >Rosamond</character>; but if she had never spoken a word, I would have gone with
+            the little child to the end of the world.</p>
+        <p>The next thing, and before we had well <scary_word pos="verb" scale=""
+                >stilled</scary_word> our sobs, the <scary_word pos="noun" scale=""
+                >executors</scary_word> and guardians came to settle the affairs. They were my
+                <scary_word pos="adj" scale="">poor</scary_word> young mistress's own cousin,
+                <character ref="lordFurnivall">Lord Furnivall</character>, and Mr. Esthwaite, my
+            master's brother, a shopkeeper in Manchester; not so well to do then as he was
+            afterwards, and with a large family rising about him. Well! I don't know if it were
+            their settling, or because of a letter my mistress wrote on her death-bed to her cousin,
+            my lord; but somehow it was settled that Miss <character ref="missRosamond"
+                >Rosamond</character> and me were to go to Furnivall Manor <scary_word pos="noun"
+                scale="">House</scary_word>, in Northumberland, and my lord spoke as if it had been
+            her mother's wish that she should live with his family, and as if he had no objections,
+            for that one or two more or less could make no difference in so grand a household. So,
+            though that was not the way in which I should have wished the coming of my bright and
+            pretty pet to have been looked at—who was like a sunbeam in any family, be it never so
+            grand—I was well pleased that all the folks in the Dale should stare and admire, when
+            they heard I was going to be young lady's maid at my <character ref="lordFurnivall">Lord
+                Furnivall</character>'s at Furnivall Manor.</p>
+        <p>But I made a mistake in thinking we were to go and live where my lord did. It turned out
+            that the family had left Furnivall Manor <scary_word pos="noun" scale=""
+                >House</scary_word> fifty years or more. I could not hear that my <scary_word
+                pos="adj" scale="">poor</scary_word> young mistress had never been there, though she
+            had been brought up in the family; and I was sorry for that, for I should have liked
+            Miss <character ref="missRosamond">Rosamond</character>'s youth to have passed where her
+            mother's had been.</p>
+        <p>My lord's gentleman, from whom I asked as many questions as I durst, said that the Manor
+                <scary_word pos="noun" scale="">House</scary_word> was at the foot of the Cumberland
+            Fells, and a <scary_word pos="mod" scale="">very</scary_word> grand place; that an old
+            Miss Furnivall, a great-aunt of my lord's, lived there, with only a few servants; but
+            that it was a <scary_word pos="mod" scale="">very</scary_word> healthy place, and my
+            lord had thought that it would suit Miss <character ref="missRosamond"
+                >Rosamond</character>
+            <scary_word pos="mod" scale="">very</scary_word> well for a few years, and that her
+            being there might perhaps amuse his old aunt.</p>
+        <p>I was bidden by my lord to have Miss <character ref="missRosamond">Rosamond</character>'s
+            things ready by a certain day. He was a <scary_word pos="adj" scale=""
+                >stern</scary_word>, proud man, as they say all the Lords Furnivall were; and he
+            never spoke a word more than was necessary. Folk did say he had loved my young mistress;
+            but that, because she knew that his father would object, she would never listen to him,
+            and married Mr. Esthwaite; but I don't know. He never married, at any rate. But he never
+            took much notice of Miss <character ref="missRosamond">Rosamond</character>; which I
+            thought he might have done if he had cared for her <scary_word pos="adj" scale=""
+                >dead</scary_word> mother. He sent his gentleman with us to the Manor <scary_word
+                pos="noun" scale="">House</scary_word>, telling him to join him at Newcastle that
+            same <scary_word pos="noun" scale="">evening</scary_word>; so there was no great length
+            of time for him to make us known to all the <scary_word pos="noun" scale=""
+                >strangers</scary_word> before he, too, shook us off; and we were left, two
+                <scary_word pos="adj" scale="">lonely</scary_word> young things (I was not eighteen)
+            in the great old Manor <scary_word pos="noun" scale="">House</scary_word>. It seems like
+            yesterday that we drove there. We had left our own dear parsonage <scary_word pos="mod"
+                scale="">very</scary_word> early, and we had both cried as if our hearts would
+            break, though we were travelling in my lord's carriage, which I thought so much of once.
+            And now it was long past noon on a September day, and we stopped to change horses for
+            the last time at a little <scary_word pos="adj" scale="">smoky</scary_word> town, all
+            full of colliers and miners. Miss <character ref="missRosamond">Rosamond</character> had
+            fallen asleep, but Mr. <character ref="mrHenry">Henry</character> told me to waken her,
+            that she might see the park and the Manor <scary_word pos="noun" scale=""
+                >House</scary_word> as we drove up. I thought it rather a pity; but I did what he
+            bade me, for <scary_word pos="noun" scale="">fear</scary_word> he should complain of me
+            to my lord. We had left all signs of a town, or even a village, and were then inside the
+                <scary_word pos="noun" scale="">gates</scary_word> of a large <scary_word pos="adj"
+                scale="">wild</scary_word> park—not like the parks here in the south, but with
+            rocks, and the noise of running water, and <scary_word pos="adj" scale=""
+                >gnarled</scary_word> thorn-<scary_word pos="noun" scale="">trees</scary_word>, and
+            old oaks, all <scary_word pos="adj" scale="">white</scary_word> and peeled with age.</p>
+        <p>The road went up about two miles, and then we saw a great and stately <scary_word
+                pos="noun" scale="">house</scary_word>, with many <scary_word pos="noun" scale=""
+                >trees</scary_word> close around it, so close that in some places their branches
+                <scary_word pos="verb" scale="">dragged</scary_word> against the walls when the
+                <scary_word pos="noun" scale="">wind</scary_word> blew; and some <scary_word
+                pos="verb" scale="">hung</scary_word>
+            <scary_word pos="adj" scale="">broken</scary_word>
+            <scary_word pos="" scale="">down</scary_word>; for no one seemed to take much charge of
+            the place;—to lop the wood, or to keep the moss-covered carriage-way in order. Only in
+            front of the <scary_word pos="noun" scale="">house</scary_word> all was clear. The great
+            oval drive was without a weed; and neither tree nor <scary_word pos="noun" scale=""
+                >creeper</scary_word> was allowed to grow over the long, <scary_word pos="adj"
+                scale="">many-windowed</scary_word> front; at both sides of which a wing protected,
+            which were each the ends of other side fronts; for the <scary_word pos="noun" scale=""
+                >house</scary_word>, although it was so <scary_word pos="adj" scale=""
+                >desolate</scary_word>, was even grander than I expected. Behind it rose the Fells;
+            which seemed unenclosed and <scary_word pos="adj" scale="">bare</scary_word> enough; and
+            on the left hand of the <scary_word pos="noun" scale="">house</scary_word>, as you stood
+            facing it, was a little, old-fashioned flower-garden, as I found out afterwards. A door
+            opened out upon it from the west front; it had been scooped out of the thick,
+                <scary_word pos="adj" scale="">dark</scary_word> wood for some old <character
+                ref="ladyFurnivall">Lady Furnivall</character>; but the branches of the great
+                forest-<scary_word pos="noun" scale="">trees</scary_word> had grown and <scary_word
+                pos="verb" scale="">overshadowed</scary_word> it again, and there were <scary_word
+                pos="mod" scale="">very</scary_word> few flowers that would live there at that
+            time.</p>
+        <p>When we drove up to the great front entrance, and went into the hall, I thought we would
+            be <scary_word pos="verb" scale="">lost</scary_word>—it was so large, and vast and
+            grand. There was a chandelier all of bronze, <scary_word pos="verb" scale=""
+                >hung</scary_word>
+            <scary_word pos="" scale="">down</scary_word> from the middle of the ceiling; and I had
+            never seen one before, and looked at it all in amaze. Then, at one end of the hall, was
+            a great <scary_word pos="noun" scale="">fire</scary_word>-place, as large as the sides
+            of the houses in my country, with <scary_word pos="adj" scale="">massy</scary_word>
+            andirons and dogs to hold the wood; and by it were <scary_word pos="adj" scale=""
+                >heavy</scary_word>, old-fashioned sofas. At the opposite end of the hall, to the
+            left as you went in—on the western side—was an organ built into the wall, and so large
+            that it filled up the best part of that end. Beyond it, on the same side, was a door;
+            and opposite, on each side of the <scary_word pos="noun" scale=""
+            >fire</scary_word>-place, were also doors leading to the east front; but those I never
+            went through as long as I stayed in the <scary_word pos="noun" scale=""
+                >house</scary_word>, so I can't tell you what lay beyond.</p>
+        <p>The afternoon was closing in, and the hall, which had no <scary_word pos="noun" scale=""
+                >fire</scary_word> lighted in it, looked <scary_word pos="adj" scale=""
+                >dark</scary_word> and <scary_word pos="adj" scale="">gloomy</scary_word>, but we
+            did not stay there a moment. The old servant, who had opened the door for us, bowed to
+            Mr. <character ref="mrHenry">Henry</character>, and took us in through the door at the
+            further side of the great organ, and led us through several smaller halls and passages
+            into the west drawing-room, where he said that <character ref="missFurnivall">Miss
+                Furnivall</character> was sitting. <scary_word pos="adj" scale="">Poor</scary_word>
+            little Miss <character ref="missRosamond">Rosamond</character> held <scary_word
+                pos="mod" scale="">very</scary_word> tight to me, as if she were scared and
+                <scary_word pos="verb" scale="">lost</scary_word> in that great place; and as for
+            myself, I was not much better. The west drawing-room was <scary_word pos="mod" scale=""
+                >very</scary_word> cheerful-looking, with a warm <scary_word pos="noun" scale=""
+                >fire</scary_word> in it, and plenty of good, comfortable furniture about.
+                <character ref="missFurnivall">Miss Furnivall</character> was an old lady not far
+            from eighty, I should think, but I do not know. She was <scary_word pos="adj" scale=""
+                >thin</scary_word> and <scary_word pos="adj" scale="">tall</scary_word>, and had a
+            face as full of fine <scary_word pos="noun" scale="">wrinkles</scary_word> as if they
+            had been drawn all over it with a needle's point. Her <scary_word pos="noun" scale=""
+                >eyes</scary_word> were <scary_word pos="mod" scale="">very</scary_word> watchful,
+            to make up, I suppose, for her being so deaf as to be obliged to use a trumpet. Sitting
+            with her, working at the same great piece of tapestry, was Mrs. <character
+                ref="mrsStark">Stark</character>, her maid and companion, and almost as old as she
+            was. She had lived with <character ref="missFurnivall">Miss Furnivall</character> ever
+            since they both were young, and now she seemed more like a friend than a servant; she
+            looked so <scary_word pos="adj" scale="">cold</scary_word>, and <scary_word pos="adj"
+                scale="">grey</scary_word>, and stony, as if she had never loved or cared for any
+            one; and I don't suppose she did care for any one, except her mistress; and, owing to
+            the great deafness of the latter, Mrs. <character ref="mrsStark">Stark</character>
+            treated her <scary_word pos="mod" scale="">very</scary_word> much as if she were a
+            child. Mr. <character ref="mrHenry">Henry</character> gave some message from my lord,
+            and then he bowed good-by to us all,—taking no notice of my sweet little Miss <character
+                ref="missRosamond">Rosamond</character>'s outstretched hand—and left us standing
+            there, being looked at by the two old ladies through their spectacles.</p>
+        <p>I was right glad when they rung for the old footman who had shown us in at first, and
+            told him to take us to our rooms. So we went out of that great drawing-room and into
+            another sitting-room, and out of that, and then up a great flight of stairs, and along a
+            broad gallery—which was something like a library, having books all <scary_word pos=""
+                scale="">down</scary_word> one side, and <scary_word pos="noun" scale=""
+                >windows</scary_word> and writing-tables all <scary_word pos="" scale=""
+                >down</scary_word> the other—till we came to our rooms, which I was not sorry to
+            hear were just over the kitchens; for I began to think I should be <scary_word
+                pos="verb" scale="">lost</scary_word> in that <scary_word pos="noun" scale=""
+                >wilderness</scary_word> of a <scary_word pos="noun" scale="">house</scary_word>.
+            There was an old nursery, that had been used for all the little lords and ladies long
+            ago, with a pleasant <scary_word pos="noun" scale="">fire</scary_word> burning in the
+            grate, and the kettle boiling on the hob, and tea-things spread out on the table; and
+            out of that room was the <scary_word pos="noun" scale="">night</scary_word>-nursery,
+            with a little crib for Miss <character ref="missRosamond">Rosamond</character> close to
+            my bed. And old <character ref="james">James</character> called up <character
+                ref="dorothy">Dorothy</character>, his wife, to bid us welcome; and both he and she
+            were so hospitable and kind, that by-and-by Miss <character ref="missRosamond"
+                >Rosamond</character> and me felt <scary_word pos="adv" scale="">quite</scary_word>
+            at home; and by the time tea was over, she was sitting on <character ref="dorothy"
+                >Dorothy</character>'s knee, and chattering away as fast as her little tongue could
+            go. I soon found out that <character ref="dorothy">Dorothy</character> was from
+            Westmoreland, and that bound her and me together, as it were; and I would never wish to
+            meet with kinder people than were old <character ref="james">James</character> and his
+            wife. <character ref="james">James</character> had lived pretty nearly all his life in
+            my lord's family, and thought there was no one so grand as they. He even looked
+                <scary_word pos="" scale="">down</scary_word> a little on his wife; because, till he
+            had married her, she had never lived in any but a farmer's household. But he was
+                <scary_word pos="mod" scale="">very</scary_word> fond of her, as well he might be.
+            They had one servant under them, to do all the <scary_word pos="adj" scale=""
+                >rough</scary_word> work. <character ref="agnes">Agnes</character> they called her;
+            and she and me, and <character ref="james">James</character> and <character
+                ref="dorothy">Dorothy</character>, with <character ref="missFurnivall">Miss
+                Furnivall</character> and Mrs. <character ref="mrsStark">Stark</character>, made up
+            the family; always remembering my sweet little Miss <character ref="missRosamond"
+                >Rosamond</character>! I used to wonder what they had done before she came, they
+            thought so much of her now. Kitchen and drawing-room, it was all the same. The hard,
+                <scary_word pos="adj" scale="">sad</scary_word>
+            <character ref="missFurnivall">Miss Furnivall</character>, and the <scary_word pos="adj"
+                scale="">cold</scary_word> Mrs. <character ref="mrsStark">Stark</character>, looked
+            pleased when she came fluttering in like a bird, playing and pranking hither and
+            thither, with a continual murmur, and pretty prattle of gladness. I am sure, they were
+            sorry many a time when she flitted away into the kitchen, though they were too proud to
+            ask her to stay with them, and were a little surprised at her taste; though to be sure,
+            as Mrs. <character ref="mrsStark">Stark</character> said, it was not to be wondered at,
+            remembering what stock her father had come of. The great, old rambling <scary_word
+                pos="noun" scale="">house</scary_word> was a famous place for little Miss <character
+                ref="missRosamond">Rosamond</character>. She made expeditions all over it, with me
+            at her heels; all, except the east wing, which was never opened, and whither we never
+            thought of going. But in the western and northern part was many a pleasant room; full of
+            things that were curiosities to us, though they might not have been to people who had
+            seen more. The <scary_word pos="noun" scale="">windows</scary_word> were <scary_word
+                pos="verb" scale="">darkened</scary_word> by the sweeping boughs of the <scary_word
+                pos="noun" scale="">trees</scary_word>, and the ivy which had overgrown them; but,
+            in the green <scary_word pos="noun" scale="">gloom</scary_word>, we could manage to see
+            old china jars and carved ivory boxes, and great <scary_word pos="adj" scale=""
+                >heavy</scary_word> books, and, above all, the old pictures!</p>
+        <p>Once, I remember, my darling would have <character ref="dorothy">Dorothy</character> go
+            with us to tell us who they all were; for they were all portraits of some of my lord's
+            family, though <character ref="dorothy">Dorothy</character> could not tell us the names
+            of every one. We had gone through most of the rooms, when we came to the old state
+            drawing-room over the hall, and there was a picture of <character ref="missFurnivall"
+                >Miss Furnivall</character>; or, as she was called in those days, Miss <character
+                ref="missFurnivall">Grace</character>, for she was the younger sister. Such a beauty
+            she must have been! but with such a set, proud look, and such <scary_word pos="noun"
+                scale="">scorn</scary_word> looking out of her handsome <scary_word pos="noun"
+                scale="">eyes</scary_word>, with her eyebrows just a little raised, as if she
+            wondered how anyone could have the impertinence to look at her, and her lip curled at
+            us, as we stood there gazing. She had a dress on, the like of which I had never seen
+            before, but it was all the fashion when she was young; a hat of some soft <scary_word
+                pos="adj" scale="">white</scary_word> stuff like beaver, pulled a little over her
+            brows, and a beautiful plume of feathers sweeping round it on one side; and her gown of
+            blue satin was open in front to a quilted <scary_word pos="adj" scale=""
+                >white</scary_word> stomacher.</p>
+        <p><speech ref="hester">'Well, to be sure!'</speech> said I, when I had gazed my fill.
+                '<scary_word pos="noun" scale="">flesh</scary_word> is <scary_word pos="noun"
+                scale="">grass</scary_word>, they do say; but who would have thought that <character
+                ref="missFurnivall">Miss Furnivall</character> had been such an out-and-out beauty,
+            to see her now.'</p>
+        <p><speech ref="dorothy">'Yes,'</speech> said <character ref="dorothy">Dorothy</character>.
+                <speech ref="dorothy">'Folks change <scary_word pos="adv" scale=""
+                    >sadly</scary_word>. But if what my master's father used to say was true,
+                    <character ref="missFurnivall">Miss Furnivall</character>, the elder sister, was
+                handsomer than Miss <character ref="missFurnivall">Grace</character>. Her picture is
+                here somewhere; but, if I show it you, you must never let on, even to <character
+                    ref="james">James</character>, that you have seen it. Can the little lady hold
+                her tongue, think you?'</speech> asked she.</p>
+        <p>I was not so sure, for she was such a little sweet, bold, open-spoken child, so I set her
+            to hide herself; and then I helped <character ref="dorothy">Dorothy</character> to turn
+            a great picture, that leaned with its face towards the wall, and was not <scary_word
+                pos="verb" scale="">hung</scary_word> up as the others were. To be sure, it beat
+            Miss <character ref="missFurnivall">Grace</character> for beauty; and, I think, for
+                <scary_word pos="adj" scale="">scornful</scary_word> pride, too, though in that
+            matter it might be hard to choose. I could have looked at it an hour, but <character
+                ref="dorothy">Dorothy</character> seemed half <scary_word pos="adj" scale=""
+                >frightened</scary_word> at having shown it to me, and hurried it back again, and
+            bade me run and find Miss <character ref="missRosamond">Rosamond</character>, for that
+            there were some ugly places about the <scary_word pos="noun" scale=""
+            >house</scary_word>, where she should like <scary_word pos="adj" scale=""
+                >ill</scary_word> for the child to go. I was a <scary_word pos="adj" scale=""
+                >brave</scary_word>, high-spirited girl, and thought little of what the old woman
+            said, for I liked hide-and-seek as well as any child in the parish; so off I ran to find
+            my little one.</p>
+        <p>As <scary_word pos="noun" scale="">winter</scary_word> drew on, and the days grew
+            shorter, I was sometimes almost certain that I heard a noise as if someone was playing
+            on the great organ in the hall. I did not hear it every <scary_word pos="noun" scale=""
+                >evening</scary_word>; but, certainly, I did <scary_word pos="mod" scale=""
+                >very</scary_word> often, usually when I was sitting with Miss <character
+                ref="missRosamond">Rosamond</character>, after I had put her to bed, and keeping
+                <scary_word pos="adv" scale="">quite</scary_word>
+            <scary_word pos="adj" scale="">still</scary_word> and <scary_word pos="adj" scale=""
+                >silent</scary_word> in the bedroom. Then I used to hear it <scary_word pos="adj"
+                scale="">booming</scary_word> and swelling away in the distance. The first
+                <scary_word pos="noun" scale="">night</scary_word>, when I went <scary_word pos=""
+                scale="">down</scary_word> to my supper, I asked <character ref="dorothy"
+                >Dorothy</character> who had been playing music, and <character ref="james"
+                >James</character> said <scary_word pos="mod" scale="">very</scary_word> shortly
+            that I was a gowk to take the <scary_word pos="noun" scale="">wind</scary_word> soughing
+            among the <scary_word pos="noun" scale="">trees</scary_word> for music; but I saw
+                <character ref="dorothy">Dorothy</character> look at him <scary_word pos="mod"
+                scale="">very</scary_word>
+            <scary_word pos="adv" scale="">fearfully</scary_word>, and <character ref="bessy"
+                >Bessy</character>, the kitchen-maid, said something beneath her breath, and went
+                <scary_word pos="adv" scale="">quite</scary_word>
+            <scary_word pos="adj" scale="">white</scary_word>. I saw they did not like my question,
+            so I held my peace till I was with <character ref="dorothy">Dorothy</character>
+            <scary_word pos="adj" scale="">alone</scary_word>, when I knew I could get a good deal
+            out of her. So, the next day, I watched my time, and I coaxed and asked her who it was
+            that played the organ; for I knew that it was the organ and not the <scary_word
+                pos="noun" scale="">wind</scary_word> well enough, for all I had kept silence before
+                <character ref="james">James</character>. But <character ref="dorothy"
+                >Dorothy</character> had had her lesson, I'll warrant, and never a word could I get
+            from her. So then I tried <character ref="bessy">Bessy</character>, though I had always
+            held my head rather above her, as I was evened to <character ref="james"
+                >James</character> and <character ref="dorothy">Dorothy</character>, and she was
+            little better than their servant. So she said I must never, never tell; and if ever I
+            told, I was never to say she had told me; but it was a <scary_word pos="mod" scale=""
+                >very</scary_word>
+            <scary_word pos="adj" scale="">strange</scary_word> noise, and she had heard it many a
+            time, but most of all on <scary_word pos="noun" scale="">winter</scary_word>
+            <scary_word pos="noun" scale="">nights</scary_word>, and before storms; and folks did
+            say it was the old lord playing on the great organ in the hall, just as he used to do
+            when he was alive; but who the <character ref="oldLord">old lord</character> was, or why
+            he played, and why he played on <scary_word pos="adj" scale="">stormy</scary_word>
+            <scary_word pos="noun" scale="">winter</scary_word>
+            <scary_word pos="noun" scale="">evenings</scary_word> in particular, she either could
+            not or would not tell me. Well! I told you I had a <scary_word pos="adj" scale=""
+                >brave</scary_word> heart; and I thought it was rather pleasant to have that grand
+            music rolling about the <scary_word pos="noun" scale="">house</scary_word>, let who
+            would be the player; for now it rose above the great gusts of <scary_word pos="noun"
+                scale="">wind</scary_word>, and <scary_word pos="verb" scale="">wailed</scary_word>
+            and triumphed just like a living creature, and then it fell to a softness most complete,
+            only it was always music, and tunes, so it was nonsense to call it the <scary_word
+                pos="noun" scale="">wind</scary_word>. I thought at first, that it might be
+                <character ref="missFurnivall">Miss Furnivall</character> who played, <scary_word
+                pos="adj" scale="">unknown</scary_word> to <character ref="bessy">Bessy</character>;
+            but one day, when I was in the hall by myself, I opened the organ and peeped all about
+            it and around it, as I had done to the organ in Crosthwaite church once before, and I
+            saw it was all <scary_word pos="adj" scale="">broken</scary_word> and <scary_word
+                pos="adj" scale="">destroyed</scary_word> inside, though it looked so <scary_word
+                pos="adj" scale="">brave</scary_word> and fine; and then, though it was noon-day, my
+                <scary_word pos="noun" scale="">flesh</scary_word> began to <scary_word pos="verb"
+                scale="">creep</scary_word> a little, and I shut it up, and run away pretty quickly
+            to my own bright nursery; and I did not like hearing the music for some time after that,
+            any more than <character ref="james">James</character> and <character ref="dorothy"
+                >Dorothy</character> did. All this time Miss <character ref="missRosamond"
+                >Rosamond</character> was making herself more and more beloved. The old ladies liked
+            her to dine with them at their early dinner. <character ref="james">James</character>
+            stood behind <character ref="missFurnivall">Miss Furnivall</character>'s chair, and I
+            behind Miss <character ref="missRosamond">Rosamond</character>'s all in state; and after
+            dinner, she would play about in a corner of the great drawing-room as <scary_word
+                pos="adj" scale="">still</scary_word> as any mouse, while <character
+                ref="missFurnivall">Miss Furnivall</character> slept, and I had my dinner in the
+            kitchen. But she was glad enough to come to me in the nursery afterwards; for, as she
+            said, <character ref="missFurnivall">Miss Furnivall</character> was so <scary_word
+                pos="adj" scale="">sad</scary_word>, and Mrs. <character ref="mrsStark"
+                >Stark</character> so <scary_word pos="adj" scale="">dull</scary_word>; but she and
+            I were merry enough; and by-and-by, I got not to care for that weird rolling music,
+            which did one no harm, if we did not know where it came from.</p>
+        <p>That <scary_word pos="noun" scale="">winter</scary_word> was <scary_word pos="mod"
+                scale="">very</scary_word>
+            <scary_word pos="adj" scale="">cold</scary_word>. In the middle of October the frosts
+            began, and lasted many, many weeks. I remember one day, at dinner, <character
+                ref="missFurnivall">Miss Furnivall</character> lifted up her <scary_word pos="adj"
+                scale="">sad</scary_word>, <scary_word pos="adj" scale="">heavy</scary_word>
+            <scary_word pos="noun" scale="">eyes</scary_word>, and said to Mrs. <character
+                ref="mrsStark">Stark</character>, <speech ref="missFurnivall">'I am <scary_word
+                    pos="adj" scale="">afraid</scary_word> we shall have a <scary_word pos="adj"
+                    scale="">terrible</scary_word>
+                <scary_word pos="noun" scale="">winter</scary_word>,'</speech> in a <scary_word
+                pos="adj" scale="">strange</scary_word> kind of meaning way. But Mrs. <character
+                ref="mrsStark">Stark</character> pretended not to hear, and talked <scary_word
+                pos="mod" scale="">very</scary_word> loud of something else. My little lady and I
+            did not care for the frost; not we! As long as it was dry, we climbed up the steep brows
+            behind the <scary_word pos="noun" scale="">house</scary_word>, and went up on the Fells,
+            which were bleak and <scary_word pos="adj" scale="">bare</scary_word> enough, and there
+            we ran races in the fresh, sharp <scary_word pos="noun" scale="">air</scary_word>; and
+            once we came <scary_word pos="" scale="">down</scary_word> by a new path, that took us
+            past the two old <scary_word pos="adj" scale="">gnarled</scary_word> holly-<scary_word
+                pos="noun" scale="">trees</scary_word>, which grew about half-way <scary_word pos=""
+                scale="">down</scary_word> by the east side of the <scary_word pos="noun" scale=""
+                >house</scary_word>. But the days grew shorter and shorter, and the <character
+                ref="oldLord">old lord</character>, if it was he, played away, more and more
+                <scary_word pos="adv" scale="">stormily</scary_word> and <scary_word pos="adv"
+                scale="">sadly</scary_word>, on the great organ. One Sunday afternoon—it must have
+            been towards the end of <scary_word pos="noun" scale="">November</scary_word>—I asked
+                <character ref="dorothy">Dorothy</character> to take charge of little missy when she
+            came out of the drawing-room, after Miss Furnivall had had her nap; for it was too
+                <scary_word pos="adj" scale="">cold</scary_word> to take her with me to church, and
+            yet I wanted to go. And <character ref="dorothy">Dorothy</character> was glad enough to
+            promise, and was so fond of the child, that all seemed well; and <character ref="bessy"
+                >Bessy</character> and I set off <scary_word pos="mod" scale="">very</scary_word>
+            briskly, though the <scary_word pos="noun" scale="">sky</scary_word>
+            <scary_word pos="verb" scale="">hung</scary_word>
+            <scary_word pos="adj" scale="">heavy</scary_word> and <scary_word pos="adj" scale=""
+                >black</scary_word> over the <scary_word pos="adj" scale="">white</scary_word>
+            earth, as if the <scary_word pos="noun" scale="">night</scary_word> had never fully gone
+            away, and the <scary_word pos="noun" scale="">air</scary_word>, though <scary_word
+                pos="adj" scale="">still</scary_word>, was <scary_word pos="mod" scale=""
+                >very</scary_word> biting and keen.</p>
+        <p><speech ref="bessy">'We shall have a fall of snow,'</speech> said <character ref="bessy"
+                >Bessy</character> to me. And sure enough, even while we were in church, it came
+                <scary_word pos="" scale="">down</scary_word> thick, in great large flakes,—so
+            thick, it almost <scary_word pos="verb" scale="">darkened</scary_word> the <scary_word
+                pos="noun" scale="">windows</scary_word>. It had stopped snowing before we came out,
+            but it lay soft, thick and <scary_word pos="adj" scale="">deep</scary_word> beneath our
+            feet, as we tramped home. Before we got to the hall, the moon rose, and I think it was
+            lighter then—what with the moon, and what with the <scary_word pos="adj" scale=""
+                >white</scary_word> dazzling snow—than it had been when we went to church, between
+            two and three o'clock. I have not told you that <character ref="missFurnivall">Miss
+                Furnivall</character> and Mrs. <character ref="mrsStark">Stark</character> never
+            went to church; they used to read the prayers together, in their quiet, <scary_word
+                pos="adj" scale="">gloomy</scary_word> way; they seemed to feel the Sunday
+                <scary_word pos="mod" scale="">very</scary_word> long without their tapestry-work to
+            be busy at. So when I went to <character ref="dorothy">Dorothy</character> in the
+            kitchen, to fetch Miss <character ref="missRosamond">Rosamond</character> and take her
+            upstairs with me, I did not much wonder when the old woman told me that the ladies had
+            kept the child with them, and that she had never come to the kitchen, as I had bidden
+            her, when she was tired of behaving pretty in the drawing-room. So I took off my things
+            and went to find her, and bring her to her supper in the nursery. But when I went into
+            the best drawing-room, there sat the two old ladies, <scary_word pos="mod" scale=""
+                >very</scary_word>
+            <scary_word pos="adj" scale="">still</scary_word> and quiet, dropping out a word now and
+            then, but looking as if nothing so bright and merry as Miss <character
+                ref="missRosamond">Rosamond</character> had ever been near them. <scary_word
+                pos="adj" scale="">still</scary_word> I thought she might be hiding from me; it was
+            one of her pretty ways,—and that she had persuaded them to look as if they knew nothing
+            about her; so I went softly peeping under this sofa, and behind that chair, making
+                <scary_word pos="verb" scale="">believe</scary_word> I was <scary_word pos="adv"
+                scale="">sadly</scary_word>
+            <scary_word pos="adj" scale="">frightened</scary_word> at not finding her.</p>
+        <p><speech ref="mrsStark">'What's the matter, <character ref="hester"
+                >Hester</character>?'</speech> said Mrs. <character ref="mrsStark"
+            >Stark</character>, sharply. I don't know if <character ref="missFurnivall">Miss
+                Furnivall</character> had seen me, for, as I told you, she was <scary_word pos="mod"
+                scale="">very</scary_word> deaf, and she sat <scary_word pos="adv" scale=""
+                >quite</scary_word>
+            <scary_word pos="adj" scale="">still</scary_word>, idly staring into the <scary_word
+                pos="noun" scale="">fire</scary_word>, with her <scary_word pos="adj" scale=""
+                >hopeless</scary_word> face. <speech ref="hester">'I'm only looking for my little
+                    <character ref="missRosamond">Rosy</character> Posy,'</speech> replied I,
+                <scary_word pos="adj" scale="">still</scary_word> thinking that the child was there,
+            and near me, though I could not see her.</p>
+        <p><speech ref="mrsStark">'Miss <character ref="missRosamond">Rosamond</character> is not
+                here,'</speech> said Mrs. <character ref="mrsStark">Stark</character>. <speech
+                ref="mrsStark">'She went away, more than an hour ago, to find <character
+                    ref="dorothy">Dorothy</character>.'</speech> And she, too, turned and went on
+            looking into the <scary_word pos="noun" scale="">fire</scary_word>.</p>
+        <plot point="haunting"/>
+        <p>My heart sank at this, and I began to wish I had never left my darling. I went back to
+                <character ref="dorothy">Dorothy</character> and told her. <character ref="james"
+                >James</character> was gone out for the day, but she, and me, and <character
+                ref="bessy">Bessy</character> took lights, and went up into the nursery first; and
+            then we roamed over the great, large <scary_word pos="noun" scale="">house</scary_word>,
+            calling and <scary_word pos="verb" scale="">entreating</scary_word> Miss <character
+                ref="missRosamond">Rosamond</character> to come out of her hiding-place, and not
+                <scary_word pos="verb" scale="">frighten</scary_word> us to death in that way. But
+            there was no answer; no sound.</p>
+        <p><speech ref="hester">'Oh!'</speech> said I, at last, <speech ref="hester">'can she have
+                got into the east wing and <scary_word pos="verb" scale="">hidden</scary_word>
+                there?'</speech></p>
+        <p>But <character ref="dorothy">Dorothy</character> said it was not possible, for that she
+            herself had never been in there; that the doors were always <scary_word pos="verb"
+                scale="">locked</scary_word>, and my lord's steward had the keys, she <scary_word
+                pos="verb" scale="">believed</scary_word>; at any rate, neither she nor <character
+                ref="james">James</character> had ever seen them: so I said I would go back, and see
+            if, after all, she was not <scary_word pos="adj" scale="">hidden</scary_word> in the
+            drawing-room, <scary_word pos="adj" scale="">unknown</scary_word> to the old ladies; and
+            if I found her there, I said, I would whip her well for the fright she had given me; but
+            I never meant to do it. Well, I went back to the west drawing-room, and I told Mrs.
+                <character ref="mrsStark">Stark</character> we could not find her anywhere, and
+            asked for leave to look all about the furniture there, for I thought now that she might
+            have fallen asleep in some warm, <scary_word pos="adj" scale="">hidden</scary_word>
+            corner; but no! we looked—<character ref="missFurnivall">Miss Furnivall</character> got
+            up and looked, <scary_word pos="verb" scale="">trembling</scary_word> all over—and she
+            was nowhere there; then we set off again, every one in the <scary_word pos="noun"
+                scale="">house</scary_word>, and looked in all the places we had <scary_word
+                pos="verb" scale="">searched</scary_word> before, but we could not find her.
+                <character ref="missFurnivall">Miss Furnivall</character>
+            <scary_word pos="verb" scale="">shivered</scary_word> and shook so much, that Mrs.
+                <character ref="mrsStark">Stark</character> took her back into the warm
+            drawing-room; but not before they had made me promise to bring her to them when she was
+            found. Well-a-day! I began to think she never would be found, when I bethought me to
+            look into the great front court, all covered with snow. I was upstairs when I looked
+            out; but, it was such clear <scary_word pos="noun" scale="">moonlight</scary_word>, I
+            could see, <scary_word pos="adv" scale="">quite</scary_word> plain, two little
+                <scary_word pos="noun" scale="">footprints</scary_word>, which might be traced from
+            the hall-door and round the corner of the east wing. I don't know how I got <scary_word
+                pos="" scale="">down</scary_word>, but I tugged open the great stiff hall-door, and,
+            throwing the skirt of my gown over my head for a cloak, I ran out. I turned the east
+            corner, and there a <scary_word pos="adj" scale="">black</scary_word>
+            <scary_word pos="noun" scale="">shadow</scary_word> fell on the snow; but when I came
+            again into the <scary_word pos="noun" scale="">moonlight</scary_word>, there were the
+            little foot-marks going up—up to the Fells. It was <scary_word pos="adj" scale=""
+                >bitter</scary_word>
+            <scary_word pos="adj" scale="">cold</scary_word>; so <scary_word pos="adj" scale=""
+                >cold</scary_word>, that the <scary_word pos="noun" scale="">air</scary_word> almost
+                <scary_phrase>took the <scary_word pos="noun" scale="">skin</scary_word> off my
+                face</scary_phrase> as I ran; but I ran on <scary_word pos="verb" scale=""
+                >crying</scary_word> to think how my <scary_word pos="adj" scale=""
+                >poor</scary_word> little darling must be perished and <scary_word pos="adj"
+                scale="">frightened</scary_word>. I was within sight of the holly-<scary_word
+                pos="noun" scale="">trees</scary_word>, when I saw a shepherd coming <scary_word
+                pos="" scale="">down</scary_word> the hill, <scary_word pos="verb" scale=""
+                >bearing</scary_word> something in his arms wrapped in his maud. He shouted to me,
+            and asked me if I had <scary_word pos="verb" scale="">lost</scary_word> a bairn; and,
+            when I could not speak for <scary_word pos="verb" scale="">crying</scary_word>, he bore
+            towards me, and I saw my wee bairnie, lying <scary_word pos="adj" scale=""
+                >still</scary_word>, and <scary_word pos="adj" scale="">white</scary_word>, and
+            stiff in his arms, as if she had been <scary_word pos="adj" scale="">dead</scary_word>.
+            He told me he had been up the Fells to gather in his sheep, before the
+                    <scary_phrase><scary_word pos="adj" scale="">deep</scary_word>
+                <scary_word pos="noun" scale="">cold</scary_word> of <scary_word pos="noun" scale=""
+                    >night</scary_word></scary_phrase> came on, and that under the holly-<scary_word
+                pos="noun" scale="">trees</scary_word> (<scary_word pos="adj" scale=""
+                >black</scary_word> marks on the hill-side, where no other bush was for miles
+            around) he had found my little lady—my lamb—my queen—my darling—stiff and <scary_word
+                pos="adj" scale="">cold</scary_word> in the <scary_word pos="adj" scale=""
+                >terrible</scary_word> sleep which is frost-begotten. Oh! the joy and the tears of
+            having her in my arms once again! for I would not let him carry her; but took her, maud
+            and all, into my own arms, and held her near my own warm neck and heart, and felt the
+            life <scary_word pos="verb" scale="">stealing</scary_word>
+            <scary_word pos="adv" scale="">slowly</scary_word> back again into her little gentle
+            limbs. But she was <scary_word pos="adj" scale="">still</scary_word> insensible when we
+            reached the hall, and I had no breath for speech. We went in by the kitchen-door.</p>
+        <p><speech ref="hester">'Bring me the warming-pan,'</speech> said I; and I carried her
+            upstairs and began undressing her by the nursery <scary_word pos="noun" scale=""
+                >fire</scary_word>, which <character ref="bessy">Bessy</character> had kept up. I
+            called my little lammie all the sweet and playful names I could think of,—even while my
+                <scary_word pos="noun" scale="">eyes</scary_word> were <scary_word pos="verb"
+                scale="">blinded</scary_word> by my tears; and at last, oh! at length she opened her
+            large blue <scary_word pos="noun" scale="">eyes</scary_word>. Then I put her into her
+            warm bed, and sent <character ref="dorothy">Dorothy</character>
+            <scary_word pos="" scale="">down</scary_word> to tell <character ref="missFurnivall"
+                >Miss Furnivall</character> that all was well; and I made up my mind to sit by my
+            darling's bedside the live-long <scary_word pos="noun" scale="">night</scary_word>. She
+            fell away into a soft sleep as soon as her pretty head had <scary_word pos="verb"
+                scale="">touched</scary_word> the pillow, and I watched by her till morning light;
+            when she wakened up bright and clear—or so I thought at first—and, my dears, so I think
+            now.</p>
+        <p>She said, that she had fancied that she should like to go to <character ref="dorothy"
+                >Dorothy</character>, for that both the old ladies were asleep, and it was
+                <scary_word pos="mod" scale="">very</scary_word>
+            <scary_word pos="adj" scale="">dull</scary_word> in the drawing-room; and that, as she
+            was going through the west lobby, she saw the snow through the high <scary_word
+                pos="noun" scale="">window</scary_word> falling—falling—soft and steady; but she
+            wanted to see it lying pretty and <scary_word pos="adj" scale="">white</scary_word> on
+            the ground; so she made her way into the great hall; and then, going to the <scary_word
+                pos="noun" scale="">window</scary_word>, she saw it bright and soft upon the drive;
+            but while she stood there, she saw a <character ref="ghost">little girl</character>, not
+            so old as she was, <speech ref="missRosamond">'but so pretty,'</speech> said my darling,
+                <speech ref="missRosamond">'and this <character ref="ghost">little girl</character>
+                beckoned to me to come out; and oh, she was so pretty and so sweet, I could not
+                choose but go.'</speech> And then this other <character ref="ghost">little
+                girl</character> had taken her by the hand, and side by side the two had gone round
+            the east corner.</p>
+        <p><speech ref="hester">'Now you are a <scary_word pos="adj" scale="">naughty</scary_word>
+                <character ref="ghost">little girl</character>, and telling stories,'</speech> said
+            I. <speech ref="hester">'What would your good mamma, that is in heaven, and never told a
+                story in her life, say to her little <character ref="missRosamond"
+                    >Rosamond</character>, if she heard her—and I daresay she does—telling
+                stories!'</speech></p>
+        <p><speech ref="missRosamond">'Indeed, <character ref="hester">Hester</character>,'</speech>
+            sobbed out my child, <speech ref="missRosamond">'I'm telling you true. Indeed I
+                am.'</speech></p>
+        <p><speech ref="hester">'Don't tell me!'</speech> said I, <scary_word pos="mod" scale=""
+                >very</scary_word>
+            <scary_word pos="adj" scale="">stern</scary_word>. <speech ref="hester">'I tracked you
+                by your foot-marks through the snow; there were only yours to be seen: and if you
+                had had a <character ref="ghost">little girl</character> to go hand-in-hand with you
+                up the hill, don't you think the <scary_word pos="noun" scale=""
+                    >footprints</scary_word> would have gone along with yours?'</speech></p>
+        <p><speech ref="missRosamond">'I can't help it, dear, dear <character ref="hester"
+                    >Hester</character>,'</speech> said she, <scary_word pos="verb" scale=""
+                >crying</scary_word>, <speech ref="missRosamond">'if they did not; I never looked at
+                her feet, but she held my hand fast and tight in her little one, and it was
+                    <scary_word pos="mod" scale="">very</scary_word>, <scary_word pos="mod" scale=""
+                    >very</scary_word>
+                <scary_word pos="adj" scale="">cold</scary_word>. She took me up the Fell-path, up
+                to the holly-<scary_word pos="noun" scale="">trees</scary_word>; and there I saw a
+                lady <scary_word pos="verb" scale="">weeping</scary_word> and <scary_word pos="verb"
+                    scale="">crying</scary_word>; but when she saw me, she <scary_word pos="verb"
+                    scale="">hushed</scary_word> her <scary_word pos="noun" scale=""
+                    >weeping</scary_word>, and smiled <scary_word pos="mod" scale=""
+                    >very</scary_word> proud and grand, and took me on her knee, and began to lull
+                me to sleep; and that's all, <character ref="hester">Hester</character>—but that is
+                true; and my dear mamma knows it is,'</speech> said she, <scary_word pos="verb"
+                scale="">crying</scary_word>. So I thought the child was in a fever, and pretended
+            to <scary_word pos="verb" scale="">believe</scary_word> her, as she went over her
+            story—over and over again, and always the same. At last <character ref="dorothy"
+                >Dorothy</character> knocked at the door with Miss <character ref="missRosamond"
+                >Rosamond</character>'s breakfast; and she told me the old ladies were <scary_word
+                pos="" scale="">down</scary_word> in the eating parlour, and that they wanted to
+            speak to me. They had both been into the <scary_word pos="noun" scale=""
+                >night</scary_word>-nursery the <scary_word pos="noun" scale="">evening</scary_word>
+            before, but it was after Miss <character ref="missRosamond">Rosamond</character> was
+            asleep; so they had only looked at her—not asked me any questions.</p>
+        <p>'I shall catch it,' thought I to myself, as I went along the north gallery. 'And yet,' I
+            thought, taking courage, 'it was in their charge I left her; and it's they that's to
+            blame for letting her <scary_word pos="verb" scale="">steal</scary_word> away
+                <scary_word pos="adj" scale="">unknown</scary_word> and unwatched.' So I went in
+            boldly, and told my story. I told it all to <character ref="missFurnivall">Miss
+                Furnivall</character>, shouting it close to her ear; but when I came to the mention
+            of the other <character ref="ghost">little girl</character> out in the snow, coaxing and
+            tempting her out, and willing her up to the grand and beautiful lady by the holly-tree,
+            she threw her arms up—her old and withered arms—and cried aloud, <speech
+                ref="missFurnivall">'Oh! Heaven forgive! Have mercy!'</speech></p>
+        <p>Mrs. <character ref="mrsStark">Stark</character> took hold of her; <scary_word pos="adv"
+                scale="">roughly</scary_word> enough, I thought; but she was past Mrs. <character
+                ref="mrsStark">Stark</character>'s management, and spoke to me, in a kind of
+                <scary_word pos="adj" scale="">wild</scary_word>
+            <scary_word pos="noun" scale="">warning</scary_word> and authority.</p>
+        <p><speech ref="mrsStark">'<character ref="hester">Hester</character>! keep her from that
+                child! It will <scary_word pos="verb" scale="">lure</scary_word> her to her death!
+                That <scary_word pos="adj" scale="">evil</scary_word> child! Tell her it is a
+                    <scary_word pos="adj" scale="">wicked</scary_word>, <scary_word pos="adj"
+                    scale="">naughty</scary_word> child.'</speech> Then, Mrs. <character
+                ref="mrsStark">Stark</character> hurried me out of the room; where, indeed, I was
+            glad enough to go; but <character ref="missFurnivall">Miss Furnivall</character> kept
+                <scary_word pos="verb" scale="">shrieking</scary_word> out, <speech
+                ref="missFurnivall">'Oh, have mercy! Wilt Thou never forgive! It is many a long year
+                ago——'</speech></p>
+        <p>I was <scary_word pos="mod" scale="">very</scary_word> uneasy in my mind after that. I
+            durst never leave Miss <character ref="missRosamond">Rosamond</character>, <scary_word
+                pos="noun" scale="">night</scary_word> or day, for <scary_word pos="noun" scale=""
+                >fear</scary_word> lest she might slip off again, after some fancy or other; and all
+            the more, because I thought I could make out that <character ref="missFurnivall">Miss
+                Furnivall</character> was crazy, from their odd ways about her; and I was
+                <scary_word pos="adj" scale="">afraid</scary_word> lest something of the same kind
+            (which might be in the family, you know) <scary_word pos="verb" scale=""
+                >hung</scary_word> over my darling. And the great frost never ceased all this time;
+            and, whenever it was a more <scary_word pos="adj" scale="">stormy</scary_word>
+            <scary_word pos="noun" scale="">night</scary_word> than usual, between the gusts, and
+            through the <scary_word pos="noun" scale="">wind</scary_word>, we heard the <character
+                ref="oldLord">old lord</character> playing on the great organ. But, <character
+                ref="oldLord">old lord</character>, or not, wherever Miss <character
+                ref="missRosamond">Rosamond</character> went, there I followed; for my love for her,
+            pretty, helpless orphan, was stronger than my <scary_word pos="noun" scale=""
+                >fear</scary_word> for the grand and <scary_word pos="adj" scale=""
+                >terrible</scary_word> sound. Besides, it rested with me to keep her cheerful and
+            merry, as beseemed her age. So we played together, and <scary_word pos="verb" scale=""
+                >wandered</scary_word> together, here and there, and everywhere; for I never dared
+            to lose sight of her again in that large and rambling <scary_word pos="noun" scale=""
+                >house</scary_word>. And so it happened, that one afternoon, not long before
+                <scary_word pos="noun" scale="">Christmas</scary_word>-day, we were playing together
+            on the billiard-table in the great hall (not that we knew the right way of playing, but
+            she liked to roll the smooth ivory balls with her pretty hands, and I liked to do
+            whatever she did); and, by-and-by, without our noticing it, it grew <scary_word
+                pos="noun" scale="">dusk</scary_word> indoors, though it was <scary_word pos="adj"
+                scale="">still</scary_word> light in the open <scary_word pos="noun" scale=""
+                >air</scary_word>, and I was thinking of taking her back into the nursery, when, all
+            of a sudden, she cried out,</p>
+        <p>
+            <speech ref="missRosamond">'Look, <character ref="hester">Hester</character>! look!
+                there is my <scary_word pos="adj" scale="">poor</scary_word>
+                <character ref="ghost">little girl</character> out in the snow!'</speech>
+        </p>
+        <p>I turned towards the long narrow <scary_word pos="noun" scale="">windows</scary_word>,
+            and there, sure enough, I saw a <character ref="ghost">little girl</character>, less
+            than my Miss <character ref="missRosamond">Rosamond</character>—dressed all unfit to be
+            out-of-doors such a <scary_word pos="adj" scale="">bitter</scary_word>
+            <scary_word pos="noun" scale="">night</scary_word>—<scary_word pos="verb" scale=""
+                >crying</scary_word>, and beating against the <scary_word pos="noun" scale=""
+                >window</scary_word>-panes, as if she wanted to be let in. She seemed to sob and
+                <scary_word pos="verb" scale="">wail</scary_word>, till Miss <character
+                ref="missRosamond">Rosamond</character> could <scary_word pos="verb" scale=""
+                >bear</scary_word> it no longer, and was flying to the door to open it, when, all of
+            a sudden, and close upon us, the great organ pealed out so loud and <scary_word
+                pos="adj" scale="">thundering</scary_word>, it fairly made me <scary_word pos="verb"
+                scale="">tremble</scary_word>; and all the more, when I remembered me that, even in
+            the <scary_word pos="noun" scale="">stillness</scary_word> of that <scary_word pos="adj"
+                scale="">dead</scary_word>-<scary_word pos="adj" scale="">cold</scary_word> weather,
+            I had heard no sound of little battering hands upon the <scary_word pos="noun" scale=""
+                >windowglass</scary_word>, although the <scary_word pos="noun" scale=""
+                >phantom</scary_word> child had seemed to put forth all its force; and, although I
+            had seen it <scary_word pos="verb" scale="">wail</scary_word> and <scary_word pos="verb"
+                scale="">cry</scary_word>, no <scary_word pos="adj" scale="">faintest</scary_word>
+            <scary_word pos="noun" scale="">touch</scary_word> of sound had fallen upon my ears.
+            Whether I remembered all this at the <scary_word pos="mod" scale="">very</scary_word>
+            moment, I do not know; the great organ sound had so stunned me into <scary_word
+                pos="noun" scale="">terror</scary_word>; but this I know, I caught up Miss
+                <character ref="missRosamond">Rosamond</character> before she got the hall-door
+            opened, and clutched her, and carried her away, <scary_word pos="verb" scale=""
+                >kicking</scary_word> and <scary_word pos="verb" scale="">screaming</scary_word>,
+            into the large, bright kitchen, where <character ref="dorothy">Dorothy</character> and
+                <character ref="agnes">Agnes</character> were busy with their mince-pies.</p>
+        <p><speech ref="dorothy">'What is the matter with my sweet one?'</speech> cried <character
+                ref="dorothy">Dorothy</character>, as I bore in Miss <character ref="missRosamond"
+                >Rosamond</character>, who was sobbing as if her heart would break.</p>
+        <p><speech ref="missRosamond">'She won't let me open the door for my <character ref="ghost"
+                    >little girl</character> to come in; and she'll <scary_word pos="verb" scale=""
+                    >die</scary_word> if she is out on the Fells all <scary_word pos="noun" scale=""
+                    >night</scary_word>. Cruel, <scary_word pos="adj" scale="">naughty</scary_word>
+                <character ref="hester">Hester</character>,'</speech> she said, <scary_word
+                pos="verb" scale="">slapping</scary_word> me; but she might have struck harder, for
+            I had seen a look of <scary_word pos="adj" scale="">ghastly</scary_word>
+            <scary_word pos="noun" scale="">terror</scary_word> on <character ref="dorothy"
+                >Dorothy</character>'s face, which made my <scary_word pos="mod" scale=""
+                >very</scary_word>
+            <scary_word pos="noun" scale="">blood</scary_word> run <scary_word pos="adj" scale=""
+                >cold</scary_word>.</p>
+        <p><speech ref="dorothy">'Shut the back-kitchen door fast, and bolt it well,'</speech> said
+            she to <character ref="agnes">Agnes</character>. She said no more; she gave me raisins
+            and almonds to quiet Miss <character ref="missRosamond">Rosamond</character>; but she
+            sobbed about the little girl in the snow, and would not <scary_word pos="verb" scale=""
+                >touch</scary_word> any of the good things. I was thankful when she cried herself to
+            sleep in bed. Then I <scary_word pos="verb" scale="">stole</scary_word>
+            <scary_word pos="" scale="">down</scary_word> to the kitchen, and told <character
+                ref="dorothy">Dorothy</character> I had made up my mind. I would carry my darling
+            back to my father's <scary_word pos="noun" scale="">house</scary_word> in Applethwaite;
+            where, if we lived humbly, we lived at peace. I said I had been <scary_word pos="adj"
+                scale="">frightened</scary_word> enough with the <character ref="oldLord">old
+                lord</character>'s organ-playing; but now that I had seen for myself this little
+                <scary_word pos="verb" scale="">moaning</scary_word> child, all decked out as no
+            child in the neighbourhood could be, beating and battering to get in, yet always without
+            any sound or noise—with the <scary_word pos="adj" scale="">dark</scary_word> wound on
+            its right shoulder; and that Miss <character ref="missRosamond">Rosamond</character> had
+            known it again for the <scary_word pos="noun" scale="">phantom</scary_word> that had
+            nearly <scary_word pos="verb" scale="">lured</scary_word> her to her death (which
+                <character ref="dorothy">Dorothy</character> knew was true); I would stand it no
+            longer.</p>
+        <p>I saw <character ref="dorothy">Dorothy</character> change colour once or twice. When I
+            had done, she told me she did not think I could take Miss <character ref="missRosamond"
+                >Rosamond</character> with me, for that she was my lord's ward, and I had no right
+            over her; and she asked me would I leave the child that I was so fond of just for sounds
+            and sights that could do me no harm; and that they had all had to get used to in their
+            turns? I was all in a hot, <scary_word pos="verb" scale="">trembling</scary_word>
+            passion; and I said it was <scary_word pos="mod" scale="">very</scary_word> well for her
+            to talk; that knew what these sights and noises betokened, and that had, perhaps, had
+            something to do with the spectre child while it was alive. And I taunted her so, that
+            she told me all she knew at last; and then I wished I had never been told, for it only
+            made me more <scary_word pos="adj" scale="">afraid</scary_word> than ever.</p>
+        <plot point="history"/>
+        <p>She said she had heard the tale from old neighbours that were alive when she was first
+            married; when folks used to come to the hall sometimes, before it had got such a
+                <scary_word pos="adj" scale="">bad</scary_word> name on the country side: it might
+            not be true, or it might, what she had been told.</p>
+        <p>The <character ref="oldLord">old lord</character> was <character ref="missFurnivall">Miss
+                Furnivall</character>'s father—Miss <character ref="missFurnivall"
+            >Grace</character>, as <character ref="dorothy">Dorothy</character> called her, for Miss
+                <character ref="maudeFurnivall">Maude</character> was the elder, and <character
+                ref="missFurnivall">Miss Furnivall</character> by rights. The <character
+                ref="oldLord">old lord</character> was eaten up with pride. Such a proud man was
+            never seen or heard of; and his daughters were like him. No one was good enough to wed
+            them, although they had choice enough; for they were the great beauties of their day, as
+            I had seen by their portraits, where they <scary_word pos="verb" scale=""
+                >hung</scary_word> in the state drawing-room. But, as the old saying is, 'Pride will
+            have a fall;' and these two haughty beauties fell in love with the same man, and he no
+            better than a <character ref="ghostFather">foreign musician</character>, whom their
+            father had <scary_word pos="" scale="">down</scary_word> from London to play music with
+            him at the Manor <scary_word pos="noun" scale="">House</scary_word>. For, above all
+            things, next to his pride, the <character ref="oldLord">old lord</character> loved
+            music. He could play on nearly every instrument that ever was heard of, and it was a
+                <scary_word pos="adj" scale="">strange</scary_word> thing it did not soften him; but
+            he was a <scary_word pos="adj" scale="">fierce</scary_word> dour old man, and had
+                <scary_word pos="verb" scale="">broken</scary_word> his <scary_word pos="adj"
+                scale="">poor</scary_word> wife's heart with his <scary_word pos="noun" scale=""
+                >cruelty</scary_word>, they said. He was <scary_word pos="adj" scale=""
+                >mad</scary_word> after music, and would pay any money for it. So he got this
+                <character ref="ghostFather">foreigner</character> to come; who made such beautiful
+            music, that they said the <scary_word pos="mod" scale="">very</scary_word> birds on the
+                <scary_word pos="noun" scale="">trees</scary_word> stopped their singing to listen.
+            And, by degrees, this <character ref="ghostFather">foreign gentleman</character> got
+            such a hold over the <character ref="oldLord">old lord</character>, that nothing would
+            serve him but that he must come every year; and it was he that had the great organ
+            brought from Holland, and built up in the hall, where it stood now. He taught the
+                <character ref="oldLord">old lord</character> to play on it; but many and many a
+            time, when <character ref="lordFurnivall">Lord Furnivall</character> was thinking of
+            nothing but his fine organ, and his finer music, the <scary_word pos="adj" scale=""
+                >dark</scary_word>
+            <character ref="ghostFather">foreigner</character> was walking abroad in the woods with
+            one of the young ladies; now Miss <character ref="maudeFurnivall">Maude</character>, and
+            then Miss <character ref="missFurnivall">Grace</character>.</p>
+        <p>Miss <character ref="maudeFurnivall">Maude</character> won the day and carried off the
+            prize, such as it was; and he and she were married, all <scary_word pos="adj" scale=""
+                >unknown</scary_word> to any one; and before he made his next yearly visit, she had
+            been confined of a <character ref="ghost">little girl</character> at a farm-<scary_word
+                pos="noun" scale="">house</scary_word> on the Moors, while her father and Miss
+                <character ref="missFurnivall">Grace</character> thought she was away at Doncaster
+            Races. But though she was a wife and a mother, she was not a bit softened, but as
+            haughty and as passionate as ever; and perhaps more so, for she was jealous of Miss
+                <character ref="missFurnivall">Grace</character>, to whom her <character
+                ref="ghostFather">foreign husband</character> paid a deal of court—by way of
+                <scary_word pos="verb" scale="">blinding</scary_word> her—as he told his wife. But
+            Miss <character ref="missFurnivall">Grace</character> triumphed over Miss <character
+                ref="maudeFurnivall">Maude</character>, and Miss <character ref="maudeFurnivall"
+                >Maude</character> grew <scary_word pos="adj" scale="">fiercer</scary_word> and
+                <scary_word pos="adj" scale="">fiercer</scary_word>, both with her <character
+                ref="ghostFather">husband</character> and with her sister; and the former—who could
+            easily shake off what was disagreeable, and hide himself in foreign countries—went away
+            a month before his usual time that summer, and half-threatened that he would never come
+            back again. Meanwhile, the <character ref="ghost">little girl</character> was left at
+            the farm-<scary_word pos="noun" scale="">house</scary_word>, and her mother used to have
+            her horse saddled and gallop <scary_word pos="adv" scale="">wildly</scary_word> over the
+            hills to see her once every week, at the <scary_word pos="mod" scale=""
+                >very</scary_word> least; for where she loved she loved, and where she <scary_word
+                pos="verb" scale="">hated</scary_word> she <scary_word pos="verb" scale=""
+                >hated</scary_word>. And the <character ref="oldLord">old lord</character> went on
+            playing—playing on his organ; and the servants thought the sweet music he made had
+            soothed <scary_word pos="" scale="">down</scary_word> his <scary_word pos="adj" scale=""
+                >awful</scary_word> temper, of which (<character ref="dorothy">Dorothy</character>
+            said) some <scary_word pos="adj" scale="">terrible</scary_word> tales could be told. He
+            grew infirm too, and had to walk with a crutch; and his son—that was the present
+                <character ref="lordFurnivall">Lord Furnivall</character>'s father—was with the army
+            in America, and the other son at sea; so Miss <character ref="maudeFurnivall"
+                >Maude</character> had it pretty much her own way, and she and Miss <character
+                ref="missFurnivall">Grace</character> grew <scary_word pos="adj" scale=""
+                >colder</scary_word> and <scary_word pos="adj" scale="">bitterer</scary_word> to
+            each other every day; till at last they hardly ever spoke, except when the <character
+                ref="oldLord">old lord</character> was by. The <character ref="ghostFather">foreign
+                musician</character> came again the next summer, but it was for the last time; for
+            they led him such a life with their jealousy and their passions, that he grew
+                <scary_word pos="adj" scale="">weary</scary_word>, and went away, and never was
+            heard of again. And Miss <character ref="maudeFurnivall">Maude</character>, who had
+            always meant to have her marriage acknowledged when her father should be <scary_word
+                pos="adj" scale="">dead</scary_word>, was left now a <scary_word pos="adj" scale=""
+                >deserted</scary_word> wife, whom nobody knew to have been married, with a child
+            that she dared not own, although she loved it to distraction; living with a father whom
+            she <scary_word pos="verb" scale="">feared</scary_word>, and a sister whom she
+                <scary_word pos="verb" scale="">hated</scary_word>. When the next summer passed
+            over, and the <scary_word pos="adj" scale="">dark</scary_word>
+            <character ref="ghostFather">foreigner</character> never came, both Miss <character
+                ref="maudeFurnivall">Maude</character> and Miss <character ref="missFurnivall"
+                >Grace</character> grew <scary_word pos="adj" scale="">gloomy</scary_word> and
+                <scary_word pos="adj" scale="">sad</scary_word>; they had a <scary_word pos="adj"
+                scale="">haggard</scary_word> look about them, though they looked handsome as ever.
+            But, by-and-by, <character ref="maudeFurnivall">Maude</character> brightened; for her
+            father grew more and more infirm, and more than ever carried away by his music; and she
+            and Miss <character ref="missFurnivall">Grace</character> lived almost entirely apart,
+            having separate rooms, the one on the west side, Miss <character ref="maudeFurnivall"
+                >Maude</character> on the east—those <scary_word pos="mod" scale=""
+                >very</scary_word> rooms which were now shut up. So she thought she might have her
+                <character ref="ghost">little girl</character> with her, and no one need ever know
+            except those who dared not speak about it, and were bound to <scary_word pos="verb"
+                scale="">believe</scary_word> that it was, as she said, a cottager's child she had
+            taken a fancy to. All this, <character ref="dorothy">Dorothy</character> said, was
+            pretty well known; but what came afterwards no one knew, except Miss <character
+                ref="missFurnivall">Grace</character> and Mrs. <character ref="mrsStark"
+                >Stark</character>, who was even then her maid, and much more of a friend to her
+            than ever her sister had been. But the servants supposed, from words that were dropped,
+            that Miss <character ref="maudeFurnivall">Maude</character> had triumphed over Miss
+                <character ref="missFurnivall">Grace</character>, and told her that all the time the
+                <scary_word pos="adj" scale="">dark</scary_word>
+            <character ref="ghostFather">foreigner</character> had been mocking her with pretended
+            love—he was her own <character ref="ghostFather">husband</character>. The colour left
+            Miss <character ref="missFurnivall">Grace</character>'s cheek and lips that <scary_word
+                pos="mod" scale="">very</scary_word> day for ever, and she was heard to say many a
+            time that sooner or later she would have her <scary_word pos="noun" scale=""
+                >revenge</scary_word>; and Mrs. <character ref="mrsStark">Stark</character> was for
+            ever spying about the east rooms.</p>
+        <p>One <scary_word pos="adj" scale="">fearful</scary_word>
+            <scary_word pos="noun" scale="">night</scary_word>, just after the New Year had come in,
+            when the snow was lying thick and <scary_word pos="adj" scale="">deep</scary_word>; and
+            the flakes were <scary_word pos="adj" scale="">still</scary_word> falling—fast enough to
+                <scary_word pos="verb" scale="">blind</scary_word> any one who might be out and
+            abroad—there was a great and <scary_word pos="adj" scale="">violent</scary_word> noise
+            heard, and the <character ref="oldLord">old lord</character>'s voice above all, cursing
+            and swearing <scary_word pos="adv" scale="">awfully</scary_word>, and the <scary_word
+                pos="noun" scale="">cries</scary_word> of a little child, and the proud <scary_word
+                pos="noun" scale="">defiance</scary_word> of a <scary_word pos="adj" scale=""
+                >fierce</scary_word> woman, and the sound of a blow, and a <scary_word pos="adj"
+                scale="">dead</scary_word>
+            <scary_word pos="noun" scale="">stillness</scary_word>, and <scary_word pos="noun"
+                scale="">moans</scary_word> and <scary_word pos="noun" scale=""
+                >wailings</scary_word>
+            <scary_word pos="verb" scale="">dying</scary_word> away on the hill-side! Then the
+                <character ref="oldLord">old lord</character> summoned all his servants, and told
+            them, with <scary_word pos="adj" scale="">terrible</scary_word> oaths, and words more
+                <scary_word pos="adj" scale="">terrible</scary_word>, that his daughter had
+            disgraced herself, and that he had turned her out of doors—her, and her child—and that
+            if ever they gave her help, or food, or shelter, he prayed that they might never enter
+            heaven. And, all the while, Miss <character ref="missFurnivall">Grace</character> stood
+            by him, <scary_word pos="adj" scale="">white</scary_word> and <scary_word pos="adj"
+                scale="">still</scary_word> as any stone; and, when he had ended, she heaved a great
+            sigh, as much as to say her work was done, and her end was accomplished. But the
+                <character ref="oldLord">old lord</character> never <scary_word pos="verb" scale=""
+                >touched</scary_word> his organ again, and <scary_word pos="verb" scale=""
+                >died</scary_word> within the year; and no wonder! for, on the morrow of that
+                <scary_word pos="adj" scale="">wild</scary_word> and <scary_word pos="adj" scale=""
+                >fearful</scary_word>
+            <scary_word pos="noun" scale="">night</scary_word>, the shepherds, coming <scary_word
+                pos="" scale="">down</scary_word> the Fell side, found Miss <character
+                ref="maudeFurnivall">Maude</character> sitting, all crazy and smiling, under the
+                holly-<scary_word pos="noun" scale="">trees</scary_word>, nursing a <scary_word
+                pos="adj" scale="">dead</scary_word> child, with a <scary_word pos="adj" scale=""
+                >terrible</scary_word> mark on its right shoulder. <speech ref="dorothy">'But that
+                was not what <scary_word pos="verb" scale="">killed</scary_word> it,'</speech> said
+                <character ref="dorothy">Dorothy</character>: <speech ref="dorothy">'it was the
+                frost and the <scary_word pos="noun" scale="">cold</scary_word>. Every <scary_word
+                    pos="adj" scale="">wild</scary_word> creature was in its hole, and every beast
+                in its fold, while the child and its mother were turned out to <scary_word
+                    pos="verb" scale="">wander</scary_word> on the Fells! And now you know all! and
+                I wonder if you are less <scary_word pos="adj" scale="">frightened</scary_word>
+                now?'</speech></p>
+        <p>I was more <scary_word pos="adj" scale="">frightened</scary_word> than ever; but I said I
+            was not. I wished Miss <character ref="missRosamond">Rosamond</character> and myself
+            well out of that <scary_word pos="adj" scale="">dreadful</scary_word>
+            <scary_word pos="noun" scale="">house</scary_word> for ever; but I would not leave her,
+            and I dared not take her away. But oh, how I watched her, and guarded her! We bolted the
+            doors, and shut the <scary_word pos="noun" scale="">window</scary_word>-<scary_word
+                pos="noun" scale="">shutters</scary_word> fast, an hour or more before <scary_word
+                pos="noun" scale="">dark</scary_word>, rather than leave them open five minutes too
+            late. But my little lady <scary_word pos="adj" scale="">still</scary_word> heard the
+            weird child <scary_word pos="verb" scale="">crying</scary_word> and <scary_word
+                pos="noun" scale="">mourning</scary_word>; and not all we could do or say could keep
+            her from wanting to go to her, and let her in from the cruel <scary_word pos="noun"
+                scale="">wind</scary_word> and the snow. All this time I kept away from <character
+                ref="missFurnivall">Miss Furnivall</character> and Mrs. <character ref="mrsStark"
+                >Stark</character>, as much as ever I could; for I <scary_word pos="verb" scale=""
+                >feared</scary_word> them—I knew no good could be about them, with their <scary_word
+                pos="adj" scale="">grey</scary_word>, hard faces, and their dreamy <scary_word
+                pos="noun" scale="">eyes</scary_word>, looking back into the <scary_word pos="adj"
+                scale="">ghastly</scary_word> years that were gone. But, even in my <scary_word
+                pos="noun" scale="">fear</scary_word>, I had a kind of pity for <character
+                ref="missFurnivall">Miss Furnivall</character>, at least. Those gone <scary_word
+                pos="" scale="">down</scary_word> to the pit can hardly have a more <scary_word
+                pos="adj" scale="">hopeless</scary_word> look than that which was ever on her face.
+            At last I even got so sorry for her—who never said a word but what was <scary_word
+                pos="adv" scale="">quite</scary_word> forced from her—that I prayed for her; and I
+            taught Miss <character ref="missRosamond">Rosamond</character> to pray for one who had
+            done a <scary_word pos="adj" scale="">deadly</scary_word> sin; but often when she came
+            to those words, she would listen, and start up from her knees, and say, <speech
+                ref="missRosamond">'I hear my <character ref="ghost">little girl</character>
+                plaining and <scary_word pos="verb" scale="">crying</scary_word>
+                <scary_word pos="mod" scale="">very</scary_word>
+                <scary_word pos="adj" scale="">sad</scary_word>—oh, let her in, or she will
+                    <scary_word pos="verb" scale="">die</scary_word>!'</speech></p>
+        <plot point="resolve"/>
+        <p>One <scary_word pos="noun" scale="">night</scary_word>—just after New Year's Day had come
+            at last, and the long <scary_word pos="noun" scale="">winter</scary_word> had taken a
+            turn, as I hoped—I heard the west drawing-room bell ring three times, which was the
+            signal for me. I would not leave Miss <character ref="missRosamond">Rosamond</character>
+            <scary_word pos="adj" scale="">alone</scary_word>, for all she was asleep—for the old
+            lord had been playing <scary_word pos="adv" scale="">wilder</scary_word> than ever—and I
+                <scary_word pos="verb" scale="">feared</scary_word> lest my darling should waken to
+            hear the spectre child; see her, I knew she could not. I had fastened the <scary_word
+                pos="noun" scale="">windows</scary_word> too well for that. So I took her out of her
+            bed, and wrapped her up in such outer clothes as were most handy, and carried her
+                <scary_word pos="" scale="">down</scary_word> to the drawing-room, where the old
+            ladies sat at their tapestry-work as usual. They looked up when I came in, and Mrs.
+                <character ref="mrsStark">Stark</character> asked, <scary_word pos="adv" scale=""
+                >quite</scary_word> astounded, <speech ref="mrsStark">'Why did I bring Miss
+                    <character ref="missRosamond">Rosamond</character> there, out of her warm
+                bed?'</speech> I had begun to <scary_word pos="verb" scale="">whisper</scary_word>,
+                <speech ref="hester">'Because I was <scary_word pos="adj" scale=""
+                    >afraid</scary_word> of her being tempted out while I was away, by the
+                    <scary_word pos="adj" scale="">wild</scary_word> child in the snow,'</speech>
+            when she stopped me short (with a glance at <character ref="missFurnivall">Miss
+                Furnivall</character>), and said <character ref="missFurnivall">Miss
+                Furnivall</character> wanted me to undo some work she had done <scary_word pos="adj"
+                scale="">wrong</scary_word>, and which neither of them could see to unpick. So I
+            laid my pretty dear on the sofa, and sat <scary_word pos="" scale="">down</scary_word>
+            on a stool by them, and hardened my heart against them, as I heard the <scary_word
+                pos="noun" scale="">wind</scary_word> rising and <scary_word pos="verb" scale=""
+                >howling</scary_word>.</p>
+        <p>Miss <character ref="missRosamond">Rosamond</character> slept on sound, for all the
+                <scary_word pos="noun" scale="">wind</scary_word> blew so <character
+                ref="missFurnivall">Miss Furnivall</character> said never a word, nor looked round
+            when the gusts shook the <scary_word pos="noun" scale="">windows</scary_word>. All at
+            once she started up to her full height, and put up one hand, as if to bid us to
+            listen.</p>
+        <p><speech ref="missFurnivall">'I hear <scary_word pos="noun" scale=""
+                >voices</scary_word>!'</speech> said she. <speech ref="missFurnivall">'I hear
+                    <scary_word pos="adj" scale="">terrible</scary_word>
+                <scary_word pos="noun" scale="">screams</scary_word>—I hear my father's
+                voice!'</speech></p>
+        <p>Just at that moment my darling wakened with a sudden start: <speech ref="missRosamond"
+                >'My <character ref="ghost">little girl</character> is <scary_word pos="verb"
+                    scale="">crying</scary_word>, oh, how she is <scary_word pos="verb" scale=""
+                    >crying</scary_word>!'</speech> and she tried to get up and go to her, but she
+            got her feet entangled in the blanket, and I caught her up; for my <scary_word
+                pos="noun" scale="">flesh</scary_word> had begun to <scary_word pos="verb" scale=""
+                >creep</scary_word> at these noises, which they heard while we could catch no sound.
+            In a minute or two the noises came, and gathered fast, and filled our ears; we, too,
+            heard <scary_word pos="noun" scale="">voices</scary_word> and <scary_word pos="noun"
+                scale="">screams</scary_word>, and no longer heard the <scary_word pos="noun"
+                scale="">winter</scary_word>'s <scary_word pos="noun" scale="">wind</scary_word>
+            that <scary_word pos="verb" scale="">raged</scary_word> abroad. Mrs. <character
+                ref="mrsStark">Stark</character> looked at me, and I at her, but we dared not speak.
+            Suddenly <character ref="missFurnivall">Miss Furnivall</character> went towards the
+            door, out into the ante-room, through the west lobby, and opened the door into the great
+            hall. Mrs. <character ref="mrsStark">Stark</character> followed, and I durst not be
+            left, though my heart almost stopped beating for <scary_word pos="noun" scale=""
+                >fear</scary_word>. I wrapped my darling tight in my arms, and went out with them.
+            In the hall the <scary_word pos="noun" scale="">screams</scary_word> were louder than
+            ever; they seemed to come from the east wing—nearer and nearer—close on the other side
+            of the <scary_word pos="verb" scale="">locked</scary_word>-up doors—close behind them.
+            Then I noticed that the great bronze chandelier seemed all alight, though the hall was
+                <scary_word pos="adj" scale="">dim</scary_word>, and that a <scary_word pos="noun"
+                scale="">fire</scary_word> was blazing in the vast hearth-place, though it gave no
+            heat; and I <scary_word pos="verb" scale="">shuddered</scary_word> up with <scary_word
+                pos="noun" scale="">terror</scary_word>, and folded my darling closer to me. But as
+            I did so the east door shook, and she, suddenly struggling to get free from me, cried,
+                <speech ref="missRosamond">'<character ref="hester">Hester</character>! I must go.
+                My <character ref="ghost">little girl</character> is there! I hear her; she is
+                coming! <character ref="hester">Hester</character>, I must go!'</speech></p>
+        <p>I held her tight with all my strength; with a set will, I held her. If I had <scary_word
+                pos="verb" scale="">died</scary_word>, my hands would have grasped her <scary_word
+                pos="adj" scale="">still</scary_word>, I was so resolved in my mind. <character
+                ref="missFurnivall">Miss Furnivall</character> stood listening, and paid no regard
+            to my darling, who had got <scary_word pos="" scale="">down</scary_word> to the ground,
+            and whom I, upon my knees now, was holding with both my arms <scary_word pos="verb"
+                scale="">clasped</scary_word> round her neck; she <scary_word pos="adj" scale=""
+                >still</scary_word>
+            <scary_word pos="verb" scale="">striving</scary_word> and <scary_word pos="verb"
+                scale="">crying</scary_word> to get free.</p>
+        <p>All at once, the east door gave way with a <scary_word pos="adj" scale=""
+                >thundering</scary_word>
+            <scary_word pos="noun" scale="">crash</scary_word>, as if torn open in a <scary_word
+                pos="adj" scale="">violent</scary_word> passion, and there came into that broad and
+                <scary_word pos="adj" scale="">mysterious</scary_word> light, the figure of a
+                <scary_word pos="adj" scale="">tall</scary_word> old man, with <scary_word pos="adj"
+                scale="">grey</scary_word> hair and gleaming <scary_word pos="noun" scale=""
+                >eyes</scary_word>. He drove before him, with many a <scary_word pos="adj" scale=""
+                >relentless</scary_word> gesture of abhorrence, <scary_phrase>a <scary_word
+                    pos="adj" scale="">stern</scary_word> and <character ref="maudeGhost">beautiful
+                    woman</character>, with a <character ref="ghost">little child</character>
+                <scary_word pos="verb" scale="">clinging</scary_word> to her
+            dress.</scary_phrase></p>
+        <p><speech ref="missRosamond">'Oh, <character ref="hester">Hester</character>! <character
+                    ref="hester">Hester</character>!'</speech> cried Miss <character
+                ref="missRosamond">Rosamond</character>; <speech ref="missRosamond">'it's the lady!
+                the lady below the holly-<scary_word pos="noun" scale="">trees</scary_word>; and my
+                    <character ref="ghost">little girl</character> is with her. <character
+                    ref="hester">Hester</character>! <character ref="hester">Hester</character>! let
+                me go to her; they are drawing me to them. I feel them—I feel them. I must
+                go!'</speech></p>
+        <p>Again she was almost convulsed by her efforts to get away; but I held her tighter and
+            tighter, till I <scary_word pos="verb" scale="">feared</scary_word> I should do her a
+            hurt; but rather that than let her go towards those <scary_word pos="adj" scale=""
+                >terrible</scary_word>
+            <scary_word pos="noun" scale="">phantoms</scary_word>. They passed along towards the
+            great hall-door, where the winds howled and ravened for their <scary_word pos="noun"
+                scale="">prey</scary_word>; but before they reached that, the <character
+                ref="maudeGhost">lady</character> turned; and I could see that she defied the
+                <character ref="oldlordGhost">old man</character> with a <scary_word pos="adj"
+                scale="">fierce</scary_word> and proud <scary_word pos="noun" scale=""
+                >defiance</scary_word>; but then she <scary_word pos="verb" scale=""
+                >quailed</scary_word>—and then she threw up her arms <scary_word pos="adv" scale=""
+                >wildly</scary_word> and <scary_word pos="adv" scale="">piteously</scary_word> to
+            save her <character ref="ghost">child</character>—her little child—from a blow from his
+            uplifted crutch.</p>
+        <p>And Miss <character ref="missRosamond">Rosamond</character> was torn as by a power
+            stronger than mine and writhed in my arms, and sobbed (for by this time the <scary_word
+                pos="adj" scale="">poor</scary_word> darling was growing <scary_word pos="adj"
+                scale="">faint</scary_word>).</p>
+        <p><speech ref="missRosamond">'They want me to go with them on to the Fells—they are drawing
+                me to them. Oh, my little girl! I would come, but cruel, <scary_word pos="adj"
+                    scale="">wicked</scary_word>
+                <character ref="hester">Hester</character> holds me <scary_word pos="mod" scale=""
+                    >very</scary_word> tight.'</speech> But when she saw the uplifted crutch, she
+            swooned away, and I thanked God for it. Just at this moment—when the <scary_word
+                pos="adj" scale="">tall</scary_word>
+            <character ref="oldlordGhost">old man</character>, his hair streaming as in the
+                <scary_word pos="noun" scale="">blast</scary_word> of a furnace, was going to strike
+            the little shrinking <character ref="ghost">child</character>—<character
+                ref="missFurnivall">Miss Furnivall</character>, the old woman by my side, cried out,
+                <speech ref="missFurnivall">'Oh father! father! spare the little innocent
+                child!'</speech> But just then I saw—we all saw—another <character
+                ref="missfurnivallGhost"><scary_word pos="noun" scale=""
+                >phantom</scary_word></character> shape itself, and grow clear out of the blue and
+            misty light that filled the hall; we had not seen her till now, for it was another lady
+            who stood by the old man, with a look of <scary_word pos="adj" scale=""
+                >relentless</scary_word>
+            <scary_word pos="noun" scale="">hate</scary_word> and triumphant <scary_word pos="noun"
+                scale="">scorn</scary_word>. That figure was <scary_word pos="mod" scale=""
+                >very</scary_word> beautiful to look upon, with a soft, <scary_word pos="adj"
+                scale="">white</scary_word> hat drawn <scary_word pos="" scale="">down</scary_word>
+            over the proud brows, and a red and curling lip. It was dressed in an open robe of blue
+            satin. I had seen that figure before. It was the likeness of <character
+                ref="missFurnivall">Miss Furnivall</character> in her youth; and the <scary_word
+                pos="adj" scale="">terrible</scary_word>
+            <scary_word pos="noun" scale="">phantoms</scary_word> moved on, regardless of old
+                <character ref="missFurnivall">Miss Furnivall</character>'s <scary_word pos="adj"
+                scale="">wild</scary_word>
+            <scary_word pos="noun" scale="">entreaty</scary_word>,—and the uplifted crutch fell on
+            the right shoulder of the <character ref="ghost">little child</character>, and the
+            younger sister looked on, stony, and <scary_word pos="adj" scale="">deadly</scary_word>
+            serene. But at that moment, the <scary_word pos="adj" scale="">dim</scary_word> lights,
+            and the <scary_word pos="noun" scale="">fire</scary_word> that gave no heat, went out of
+            themselves, and <character ref="missFurnivall">Miss Furnivall</character> lay at our
+            feet stricken <scary_word pos="" scale="">down</scary_word> by the
+            palsy—death-stricken.</p>
+        <p>Yes! she was carried to her bed that <scary_word pos="noun" scale="">night</scary_word>
+            never to rise again. She lay with her face to the wall, <scary_word pos="verb" scale=""
+                >muttering</scary_word> low, but <scary_word pos="verb" scale=""
+                >muttering</scary_word> always: <speech ref="missFurnivall">'Alas! alas! what is
+                done in youth can never be undone in age! What is done in youth can never be undone
+                in age!'</speech></p>
+    </body>
+</story>
