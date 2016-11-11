@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ghost_charschema.rnc" type="application/relax-ng-compact-syntax"?>
+<character_list>
+    <character ref="grahamCoulton" gender="m" class="high"/>
+    <character ref="william" gender="m" class="mid"/>
+    <character ref="mrTynan" gender="m" class="low"/>
+    <character ref="admiralCoulton" gender="m" class="high"/>
+    <character ref="missTynan" gender="f" class="high"/>
+</character_list>
