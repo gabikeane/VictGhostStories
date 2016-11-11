@@ -1,0 +1,338 @@
+<?xml-model href="../data/Schemas/schema_update_2.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+    <meta>
+        <title>JOHN CHARRINGTON'S WEDDING</title>
+        <author>Edith Nesbitt</author>
+    </meta>
+    <body>
+        <plot point="protag"/>
+        <p>No one ever thought that <character ref="mayForster">May Forster</character> would marry
+                <character ref="johnCharrington">John Charrington</character>; but he thought
+            differently, and things which <character ref="johnCharrington">John
+                Charrington</character> intended had a <scary_word scale="1" pos="adj"
+                >queer</scary_word> way of coming to pass. He asked her to marry him before he went
+            up to Oxford. She laughed and refused him. He asked her again next time he came home.
+            Again she laughed, <scary_word scale="1" pos="verb">tossed</scary_word> her dainty
+            blonde head, and again refused. A third time he asked her; she said it was becoming a
+            confirmed <scary_word scale="1" pos="adj">bad</scary_word> habit, and laughed at him
+            more than ever.</p>
+        <p><character ref="johnCharrington">John</character> was not the only man who wanted to
+            marry her: she was the belle of our village coterie, and we were all in love with her
+            more or less; it was a sort of fashion, like heliotrope ties or Inverness capes.
+            Therefore we were as much annoyed as surprised when <character ref="johnCharrington"
+                >John Charrington</character> walked into our little local Club—we held it in a loft
+            over the saddler's, I remember—and invited us all to his wedding.</p>
+        <p><speech ref="amb">Your wedding?</speech></p>
+        <p><speech ref="amb">You don't mean it?</speech></p>
+        <p><speech ref="amb">Who's the happy fair? When's it to be?</speech></p>
+        <p><character ref="johnCharrington">John Charrington</character> filled his pipe and lighted
+            it before he replied. Then he said—</p>
+        <p><speech ref="johnCharrington">I'm sorry to deprive you fellows of your only joke—but
+                    <character ref="mayForster">Miss Forster</character> and I are to be married in
+                September.</speech></p>
+        <p><speech ref="amb">You don't mean it?</speech></p>
+        <p><speech ref="amb">He's got the mitten again, and it's turned his head.</speech></p>
+        <p><speech ref="geoffrey">No,</speech> I said, rising, <speech ref="geoffrey">I see it's
+                true. Lend me a pistol some one—or a first-class fare to the other end of Nowhere.
+                Charrington has bewitched the only pretty girl in our twenty-mile radius. Was it
+                mesmerism, or a love-potion, Jack?</speech></p>
+        <p><speech ref="johnCharrington">Neither, sir, but a gift you'll never have—perseverance—and
+                the best luck a man ever had in this world.</speech></p>
+        <p>There was something in his <scary_word scale="1" pos="noun">voice</scary_word> that
+            silenced me, and all chaff of the other fellows failed to draw him further.</p>
+        <p>The queer thing about it was that when we congratulated <character ref="mayForster">Miss
+                Forster</character>, she blushed and smiled and dimpled, for all the world as though
+            she were in love with him, and had been in love with him all the time. Upon my word, I
+            think she had. Women are <scary_word scale="1" pos="adj">strange</scary_word>
+            creatures.</p>
+        <p>We were all asked to the wedding. In Brixham every one who was anybody knew everybody
+            else who was any one. My sisters were, I truly believe, more interested in the trousseau
+            than the bride herself, and I was to be best man. The coming marriage was much canvassed
+            at afternoon tea-tables, and at our little Club over the saddler's, and the question was
+            always asked: <speech ref="amb">Does she care for him?</speech></p>
+        <plot point="intro"/>
+        <p>I used to ask that question myself in the early days of their engagement, but after a
+            certain <scary_word scale="1" pos="noun">evening</scary_word> in August I never asked it
+            again. I was coming home from the Club through the churchyard. Our church is on a
+            thyme-grown hill, and the turf about it is so thick and soft that one's <scary_word
+                scale="1" pos="noun">footsteps</scary_word> are noiseless.</p>
+        <p>I made no sound as I vaulted the low lichened wall, and threaded my way between the
+            tombstones. It was at the same <scary_word scale="1" pos="noun">instant</scary_word>
+            that I heard <character ref="johnCharrington">John Charrington's</character>
+            <scary_word scale="1" pos="noun">voice</scary_word>, and saw Her. <character
+                ref="mayForster">May</character> was sitting on a low flat <scary_word scale="2"
+                pos="noun">gravestone</scary_word>, her face turned towards the full splendour of
+            the western sun. Its expression ended, at once and for ever, any question of love for
+            him; it was transfigured to a beauty I should not have believed possible, even to that
+            beautiful little face.</p>
+        <p><character ref="johnCharrington">John</character> lay at her feet, and it was his
+                <scary_word scale="1" pos="noun">voice</scary_word> that broke the <scary_word
+                scale="1" pos="noun">stillness</scary_word> of the golden August <scary_word
+                scale="1" pos="noun">evening</scary_word>.</p>
+        <plot point="history"/>
+        <p><speech ref="johnCharrington">My dear, my dear, <scary_phrase>I believe I should come
+                    back from the <scary_word scale="2" pos="noun">dead</scary_word></scary_phrase>
+                if you wanted me!</speech></p>
+        <p>I coughed at once to indicate my presence, and passed on into the <scary_word scale="2"
+                pos="noun">shadow</scary_word> fully enlightened.</p>
+        <p>The wedding was to be early in September. Two days before I had to run up to town on
+            business. The train was late, of course, for we are on the South-Eastern, and as I stood
+            grumbling with my watch in my hand, whom should I see but <character
+                ref="johnCharrington">John Charrington</character> and <character ref="mayForster"
+                >May Forster</character>. They were walking up and down the unfrequented end of the
+            platform, arm in arm, looking into each other's <scary_word scale="1" pos="noun"
+                >eyes</scary_word>, careless of the sympathetic interest of the porters.</p>
+        <p>Of course I knew better than to hesitate a moment before burying myself in the
+            booking-office, and it was not till the train drew up at the platform, that I
+            obtrusively passed the pair with my Gladstone, and took the corner in a first-class
+            smoking-carriage. I did this with as good an air of not seeing them as I could assume. I
+            pride myself on my discretion, but if <character ref="johnCharrington">John</character>
+            were travelling <scary_word scale="0" pos="adv">alone</scary_word> I wanted his company.
+            I had it.</p>
+        <p><speech ref="johnCharrington">Hullo, old man,</speech> came his cheery <scary_word
+                scale="1" pos="noun">voice</scary_word> as he swung his bag into my carriage;
+                <speech ref="johnCharrington">here's luck; I was expecting a <scary_word scale="1"
+                    pos="adj">dull</scary_word> journey!</speech></p>
+        <p><speech ref="geoffrey">Where are you off to?</speech> I asked, discretion still bidding
+            me turn my <scary_word scale="1" pos="noun">eyes</scary_word> away, though I saw,
+            without looking, that hers were red-rimmed.</p>
+        <p><speech ref="johnCharrington">To old <character ref="branbridge"
+                >Branbridge</character>'s,</speech> he answered, shutting the door and leaning out
+            for a last word with his sweetheart.</p>
+        <p><speech ref="mayForster">Oh, I wish you wouldn't go, <character ref="johnCharrington"
+                    >John</character>,</speech> she was saying in a low, earnest <scary_word
+                scale="1" pos="noun">voice</scary_word>. <speech ref="mayForster">I feel certain
+                something will happen.</speech></p>
+        <p><speech ref="johnCharrington">Do you think I should let anything happen to keep me, and
+                the day after to-morrow our wedding-day?</speech></p>
+        <p><speech ref="mayForster">Don't go,</speech> she answered, with a pleading intensity which
+            would have sent my Gladstone on to the platform and me after it. But she wasn't speaking
+            to me. <character ref="johnCharrington">John Charrington</character> was made
+            differently; he rarely changed his opinions, never his resolutions.</p>
+        <p>He only stroked the little ungloved hands that lay on the carriage door.</p>
+        <p><speech ref="johnCharrington">I must, <character ref="mayForster">May</character>. The
+                old boy's been <scary_word scale="0" pos="adv">awfully</scary_word> good to me, and
+                now he's <scary_word scale="0" pos="noun">dying</scary_word> I must go and see him,
+                but I shall come home in time for——</speech> the rest of the parting was <scary_word
+                scale="1" pos="verb">lost</scary_word> in a <scary_word scale="1" pos="noun"
+                >whisper</scary_word> and in the <scary_word scale="1" pos="adj"
+                >rattling</scary_word> lurch of the starting train.</p>
+        <p><speech ref="mayForster">You're sure to come?</speech> she spoke as the train moved.</p>
+        <p><speech ref="johnCharrington">Nothing shall keep me,</speech> he answered; and we steamed
+            out. After he had seen the last of the little figure on the platform he leaned back in
+            his corner and kept silence for a minute.</p>
+        <p>When he spoke it was to explain to me that his godfather, whose heir he was, lay
+                <scary_word scale="0" pos="verb">dying</scary_word> at Peasmarsh Place, some fifty
+            miles away, and had sent for <character ref="johnCharrington">John</character>, and
+                <character ref="johnCharrington">John</character> had felt bound to go.</p>
+        <p><speech ref="johnCharrington">I shall be surely back to-morrow,</speech> he said, <speech
+                ref="johnCharrington">or, if not, the day after, in heaps of time. Thank Heaven, one
+                hasn't to get up in the middle of the <scary_word scale="1" pos="noun"
+                    >night</scary_word> to get married nowadays!</speech></p>
+        <p><speech ref="geoffrey">And suppose <character ref="branbridge">Mr. Branbridge</character>
+                <scary_word scale="0" pos="verb">dies</scary_word>?</speech></p>
+        <p><speech ref="johnCharrington"><scary_phrase>Alive or <scary_word scale="3" pos="noun"
+                        >dead</scary_word> I mean to be married on Thursday!</scary_phrase></speech>
+            <character ref="johnCharrington">John</character> answered, lighting a cigar and
+            unfolding the Times.</p>
+        <p>At Peasmarsh station we said <speech ref="johnCharrington">good-bye,</speech> and he got
+            out, and I saw him ride off; I went on to London, where I stayed the <scary_word
+                scale="1" pos="noun">night</scary_word>.</p>
+        <p>When I got home the next afternoon, a <scary_word scale="i" pos="mod">very</scary_word>
+            wet one, by the way, my <character ref="fanny">sister</character> greeted me with—</p>
+        <p><speech ref="fanny">Where's <character ref="johnCharrington">Mr.
+                Charrington</character>?</speech></p>
+        <p><speech ref="geoffrey">Goodness knows,</speech> I answered testily. Every man, since
+            Cain, has resented that kind of question.</p>
+        <p><speech ref="fanny">I thought you might have heard from him,</speech> she went on,
+                <speech ref="fanny">as you're to give him away to-morrow.</speech></p>
+        <p><speech ref="geoffrey">Isn't he back?</speech> I asked, for I had confidently expected to
+            find him at home.</p>
+        <p><speech ref="fanny">No, <character ref="geoffrey">Geoffrey</character>,</speech>—my
+                <character ref="fanny">sister</character>Fanny always had a way of jumping to
+            conclusions, especially such conclusions as were least favourable to her
+                fellow-creatures—<speech ref="fanny">he has not returned, and, what is more, you may
+                depend upon it he won't. You mark my words, there'll be no wedding
+                to-morrow.</speech></p>
+        <p>My sister Fanny has a power of annoying me which no other human being possesses.</p>
+        <p><speech ref="geoffrey">You mark my words,</speech> I retorted with asperity, <speech
+                ref="geoffrey">you had better give up making such a <scary_word scale="0" pos="adj"
+                    >thundering</scary_word> idiot of yourself. There'll be more wedding to-morrow
+                than ever you'll take the first part in.</speech> A <scary_word scale="1" pos="noun"
+                >prophecy</scary_word> which, by the way, came true.</p>
+        <p>But though I could snarl confidently to my sister, I did not feel so comfortable when,
+            late that <scary_word scale="1" pos="noun">night</scary_word>, I, standing on the
+            doorstep of <character ref="johnCharrington">John</character>'s <scary_word scale="0"
+                pos="noun">house</scary_word>, heard that he had not returned. I went home
+                <scary_word scale="2" pos="adv">gloomily</scary_word> through the <scary_word
+                scale="1" pos="noun">rain</scary_word>. Next morning brought a brilliant blue
+                <scary_word scale="1" pos="noun">sky</scary_word>, gold sun, and all such softness
+            of air and beauty of <scary_word scale="1" pos="noun">cloud</scary_word> as go to make
+            up a perfect day. I woke with a vague feeling of having gone to bed anxious, and of
+            being rather averse to facing that anxiety in the light of full wakefulness.</p>
+        <p>But with my shaving-water came a note from <character ref="johnCharrington"
+                >John</character> which relieved my mind and sent me up to the Forsters' with a
+            light heart.</p>
+        <p><character ref="mayForster">May</character> was in the garden. I saw her blue gown
+            through the hollyhocks as the lodge <scary_word scale="1" pos="noun">gates</scary_word>
+            swung to behind me. So I did not go up to the <scary_word scale="0" pos="noun"
+                >house</scary_word>, but turned aside down the turfed path.</p>
+        <p><speech ref="mayForster">He's written to you too,</speech> she said, without preliminary
+            greeting, when I reached her side.</p>
+        <p><speech ref="geoffrey">Yes, I'm to meet him at the station at three, and come straight on
+                to the church.</speech></p>
+        <p>Her face looked <scary_word scale="1" pos="adj">pale</scary_word>, but there was a
+            brightness in her <scary_word scale="1" pos="noun">eyes</scary_word>, and a tender
+            quiver about the mouth that spoke of renewed happiness.</p>
+        <p><speech ref="mayForster"><character ref="branbridge">Mr. Branbridge</character> begged
+                him so to stay another <scary_word scale="1" pos="noun">night</scary_word> that he
+                had not the heart to refuse,</speech> she went on. <speech ref="mayForster">He is so
+                kind, but I wish he hadn't stayed.</speech></p>
+        <p>I was at the station at half-past two. I felt rather annoyed with <character
+                ref="johnCharrington">John</character>. It seemed a sort of slight to the beautiful
+            girl who loved him, that he should come as it were out of breath, and with the dust of
+            travel upon him, to take her hand, which some of us would have given the best years of
+            our lives to take.</p>
+        <p>But when the three o'clock train glided in, and glided out again having brought no
+            passengers to our little station, I was more than annoyed. There was no other train for
+            thirty-five minutes; I calculated that, with much hurry, we might just get to the church
+            in time for the ceremony; but, oh, what a fool to miss that first train! What other man
+            could have done it?</p>
+        <p>That thirty-five minutes seemed a year, as I wandered round the station reading the
+            advertisements and the time-tables, and the company's bye-laws, and getting more and
+            more <scary_word scale="0" pos="adj">angry</scary_word> with <character
+                ref="johnCharrington">John Charrington</character>. This confidence in his own power
+            of getting everything he wanted the minute he wanted it was leading him too far. I
+                <scary_word scale="0" pos="verb">hate</scary_word> waiting. Every one does, but I
+            believe I <scary_word scale="0" pos="verb">hate</scary_word> it more than any one else.
+            The three thirty-five was late, of course.</p>
+        <p>I ground my pipe between my teeth and stamped with impatience as I watched the signals.
+            Click. The signal went down. Five minutes later I flung myself into the carriage that I
+            had brought for <character ref="johnCharrington">John</character>.</p>
+        <p><speech ref="geoffrey">Drive to the church!</speech> I said, as some one shut the door.
+                <speech ref="geoffrey"><character ref="johnCharrington">Mr. Charrington</character>
+                hasn't come by this train.</speech></p>
+        <p>Anxiety now replaced anger. What had become of the man? Could he have been taken suddenly
+                <scary_word scale="2" pos="noun">ill</scary_word>? I had never known him have a
+            day's <scary_word scale="2" pos="noun">illness</scary_word> in his life. And even so he
+            might have telegraphed. Some <scary_word scale="2" pos="adj">awful</scary_word> accident
+            must have happened to him. The thought that he had played her false never—no, not for a
+            moment—entered my head. Yes, something <scary_word scale="3" pos="noun"
+                >terrible</scary_word> had happened to him, and on me lay the task of telling his
+            bride. I almost wished the carriage would upset and break my head so that some one else
+            might tell her, not I, who—but that's nothing to do with his story.</p>
+        <p>It was five minutes to four as we drew up at the churchyard <scary_word scale="1"
+                pos="noun">gate</scary_word>. A double row of eager on-lookers lined the path from
+            lychgate to porch. I sprang from the carriage and passed up between them. Our gardener
+            had a good front place near the door. I stopped.</p>
+        <plot point="haunting"/>
+        <p><speech ref="geoffrey">Are they waiting still, <character ref="byles"
+                >Byles</character>?</speech> I asked, simply to gain time, for of course I knew they
+            were by the waiting crowd's attentive attitude.</p>
+        <p><speech ref="byles">Waiting, sir? No, no, sir; why, it must be over by now.</speech></p>
+        <p><speech ref="geoffrey">Over! Then <character ref="johnCharrington">Mr.
+                    Charrington</character>'s come?</speech></p>
+        <p><speech ref="byles">To the minute, sir; must have missed you somehow, and, I say,
+                sir,</speech> lowering his <scary_word scale="1" pos="noun">voice</scary_word>,
+                <speech ref="byles">I never see Mr. <character ref="johnCharrington"
+                    >John</character> the least bit so afore, but my opinion is he's been drinking
+                pretty free. His clothes was all dusty and his face like a sheet. I tell you I
+                didn't like the looks of him at all, and the folks inside are saying all sorts of
+                things. You'll see, something's gone very <scary_word scale="2" pos="adj"
+                    >wrong</scary_word> with Mr. <character ref="johnCharrington">John</character>,
+                and he's tried liquor. <scary_phrase>He looked like a <scary_word scale="2"
+                        pos="noun">ghost</scary_word></scary_phrase>, and in he went with his
+                    <scary_word scale="2" pos="noun">eyes</scary_word> straight before him, with
+                never a look or a word for none of us; him that was always such a
+                gentleman!</speech></p>
+        <p>I had never heard <character ref="byles">Byles</character> make so long a speech. The
+            crowd in the churchyard were talking in <scary_word scale="1" pos="noun"
+                >whispers</scary_word> and getting ready rice and slippers to throw at the bride and
+            bridegroom. The ringers were ready with their hands on the ropes to ring out the merry
+            peal as the bride and bridegroom should come out.</p>
+        <p>A murmur from the church announced them; out they came. <character ref="byles"
+                >Byles</character> was right. <character ref="johnCharrington">John
+                Charrington</character> did not look himself. There was dust on his coat, his hair
+            was disarranged. He seemed to have been in some row, for there was a <scary_word
+                scale="2" pos="adj">black</scary_word> mark above his eyebrow. <scary_phrase>He was
+                    <scary_word scale="3" pos="adv">deathly</scary_word>
+                <scary_word scale="2" pos="adj">pale</scary_word></scary_phrase>. But his pallor was
+            not greater than that of the bride, who might have been carved in ivory—dress, veil,
+            orange blossoms, face and all.</p>
+        <p>As they passed out the ringers stooped—there were six of them—and then, on the ears
+            expecting the gay wedding peal, came <scary_phrase>the <scary_word scale="2" pos="adj"
+                    >slow</scary_word>
+                <scary_word scale="2" pos="noun">tolling</scary_word> of the <scary_word scale="3"
+                    pos="noun">passing bell</scary_word></scary_phrase>.</p>
+        <p>A thrill of <scary_word scale="3" pos="noun">horror</scary_word> at so foolish a jest
+            from the ringers passed through us all. But the ringers themselves dropped the ropes and
+            fled like rabbits out into the sunlight. The bride <scary_word scale="3" pos="verb"
+                >shuddered</scary_word>, and <scary_phrase><scary_word scale="2" pos="adj"
+                    >grey</scary_word>
+                <scary_word scale="3" pos="noun">shadows</scary_word></scary_phrase> came about her
+            mouth, but the bridegroom led her on down the path where the people stood with the
+            handfuls of rice; but the handfuls were never thrown, and the wedding-bells never rang.
+            In vain the ringers were urged to remedy their mistake: they protested with many
+                <scary_word scale="1" pos="adj">whispered</scary_word> expletives that they would
+            see themselves further first.</p>
+        <p><scary_phrase>In a <scary_word scale="2" pos="noun">hush</scary_word> like the
+                    <scary_word scale="2" pos="noun">hush</scary_word> in the chamber of <scary_word
+                    scale="3" pos="noun">death</scary_word> the bridal pair <scary_word scale="2"
+                    pos="verb">passed</scary_word> into their carriage and its door <scary_word
+                    scale="2" pos="verb">slammed</scary_word> behind them.</scary_phrase></p>
+        <p>Then the tongues were loosed. A babel of anger, wonder, conjecture from the guests and
+            the spectators.</p>
+        <p><speech ref="oldForster">If I'd seen his condition, sir,</speech> said <character
+                ref="oldForster">old Forster</character> to me as we drove off, <speech
+                ref="oldForster">I would have stretched him on the floor of the church, sir, by
+                Heaven I would, before I'd have let him marry my daughter!</speech></p>
+        <p>Then he put his head out of the <scary_word scale="1" pos="noun">window</scary_word>.</p>
+        <p><speech ref="oldForster">Drive like <scary_word scale="0" pos="noun"
+                >hell</scary_word>,</speech> he <scary_word scale="2" pos="verb">cried</scary_word>
+            to the coachman; <speech ref="oldForster">don't spare the horses.</speech></p>
+        <p>He was obeyed. We passed the bride's carriage. I forebore to look at it, and <character
+                ref="oldForster">old Forster</character> turned his head away and swore. We reached
+            home before it.</p>
+        <p>We stood in the hall doorway, in the blazing afternoon sun, and in about half a minute we
+            heard wheels crunching the gravel. When the carriage stopped in front of the steps old
+            Forster and I ran down.</p>
+        <p><speech ref="oldForster"><scary_phrase>Great Heaven, the carriage is <scary_word
+                        scale="3" pos="adj">empty</scary_word>! And yet<scary_word scale="3"
+                        pos="mod">——</scary_word></scary_phrase></speech></p>
+        <p>I had the door open in a minute, and this is what I saw—</p>
+        <p>No sign of <character ref="johnCharrington">John Charrington</character>;
+                <scary_phrase>and of <character ref="mayForster">May</character>, his wife, only a
+                    <scary_word scale="3" pos="adj">huddled</scary_word>
+                <scary_word scale="3" pos="noun">heap</scary_word> of <scary_word scale="3"
+                    pos="adj">white</scary_word> satin lying half on the floor of the carriage and
+                half on the seat.</scary_phrase></p>
+        <p><speech ref="coachman">I drove straight here, sir,</speech> said the <character
+                ref="coachman">coachman</character>, as the bride's father lifted her out; <speaker
+                ref="coachman"/><speech>and I'll swear no one got out of the carriage.</speech></p>
+        <p>We carried her into the <scary_word scale="2" pos="noun">house</scary_word> in her bridal
+            dress and drew back her veil. I saw her face. Shall I ever forget it? <scary_word
+                scale="3" pos="adj">White</scary_word>, <scary_word scale="3" pos="adj"
+                >white</scary_word> and drawn with <scary_word scale="3" pos="noun"
+                >agony</scary_word> and <scary_word scale="3" pos="noun">horror</scary_word>,
+            bearing such a look of <scary_word scale="3" pos="noun">terror</scary_word> as I have
+            never seen since except in <scary_word scale="3" pos="noun">dreams</scary_word>. And her
+            hair, her radiant blonde hair, I tell you it was <scary_word scale="3" pos="adj"
+                >white</scary_word> like snow.</p>
+        <p>As we stood, her father and I, half <scary_word scale="3" pos="adj">mad</scary_word> with
+            the <scary_word scale="3" pos="noun">horror</scary_word> and <scary_word scale="3"
+                pos="noun">mystery</scary_word> of it, a boy came up the avenue—a telegraph boy.
+            They brought the orange envelope to me. I tore it open.</p>
+        <p>"<character ref="johnCharrington">Mr. Charrington</character> was thrown from the dogcart
+            on his way to the station at half-past one. Killed on the spot!"</p>
+        <p>And he was married to <character ref="mayForster">May Forster</character> in our parish
+            church at half-past three, in presence of half the parish.</p>
+        <p><speech ref="johnCharrington">I shall be married, dead or alive!</speech></p>
+        <p>What had passed in that carriage on the homeward drive? No one knows—no one will ever
+            know. Oh, <character ref="mayForster">May</character>! oh, my dear!</p>
+        <p>Before a week was over they laid her beside her husband in our little churchyard on the
+            thyme-covered hill—the churchyard where they had kept their love-trysts.</p>
+        <plot point="resolve"/>
+        <p>Thus was accomplished <character ref="johnCharrington">John Charrington</character>'s
+            wedding.</p>
+    </body>
+</story>
