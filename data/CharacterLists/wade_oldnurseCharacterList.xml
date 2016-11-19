@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="character_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<character_list>
+    <character ref="missRosamond" gender="f" class="high"/>
+    <character ref="missFurnivall" gender="f" class="high"/>
+    <character ref="lordFurnivall" gender="m" class="high"/>
+    <character ref="mrHenry" gender="m" class="low"/>
+    <character ref="ladyFurnivall" gender="f" class="high"/>
+    <character ref="mrsStark" gender="f" class="low"/>
+    <character ref="james" gender="m" class="low"/>
+    <character ref="dorothy" gender="f" class="low"/>
+    <character ref="agnes" gender="f" class="low"/>
+    <character ref="hester" gender="f" class="low"/>
+    <character ref="bessy" gender="f" class="low"/>
+    <character ref="oldLord" gender="m" class="high"/>
+    <character ref="ghost" gender="f" class="amb"/>
+    <character ref="maudeFurnivall" gender="f" class="high"/>
+    <character ref="secretHusband" gender="m" class="amb"/>
+</character_list>

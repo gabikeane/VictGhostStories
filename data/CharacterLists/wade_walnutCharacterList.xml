@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="character_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<character_list>
+    <character ref="clerk" gender="m" class="low"/>
+    <character ref="edgarStainton" gender="m" class="high"/>
+    <character ref="bill" gender="m" class="low"/>
+    <character ref="billsMaster" gender="m" class="mid"/>
+    <character ref="boyBill" gender="m" class="low"/>
+    <character ref="mrTimpson" gender="m" class="mid"/>
+    <character ref="felixStainton" gender="m" class="high"/>
+    <character ref="aflredStainton" gender="m" class="high"/>
+    <character ref="co." gender="m" class="mid"/>
+    <character ref="butcher" gender="m" class="low"/>
+    <character ref="mrHennings" gender="m" class="amb"/>
+    <character ref="georgeStainton" gender="m" class="high"/>
+    <character ref="mrsToplis" gender="f" class="low"/>
+    <character ref="mrQuinance" gender="m" class="mid"/>
+    <character ref="maryFenton" gender="f" class="high"/>
+    <character ref="mayStainton" gender="f" class="high"/>
+    <character ref="maryStainton" gender="f" class="high"/>
+</character_list>
