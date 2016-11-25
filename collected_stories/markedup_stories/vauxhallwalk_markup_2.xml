@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/Kaylen/Desktop/computational%20methods/ghostschema.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+    <meta>
+        <title>The Old House in Vauxhall Walk</title>
+        <author>Charlotte Riddell</author>
+    </meta>
+    <body>
+        <chapter>
+            <chapTitle>Chapter One</chapTitle>
+            <p>
+                <speech ref="amb">Houseless—homeless—<scary_word pos="adj" scale="0"
+                        >hopeless</scary_word>!</speech>
+            </p>
+            <plot point="protag"/>
+            <p>Many a one who had before him trodden that same street must have uttered the same
+                words—the <scary_word pos="adj" scale="0">weary</scary_word>, the <scary_word
+                    pos="adj" scale="0">desolate</scary_word>, the hungry, the forsaken, the waifs
+                and strays of struggling humanity that are always coming and going, <scary_word
+                    pos="adj" scale="0">cold</scary_word>, starving and miserable, over the
+                pavements of Lambeth Parish; but it is open to question whether they were ever
+                previously spoken with a more thorough conviction of their truth, or with a feeling
+                of keener self-pity, than by the young man who hurried along Vauxhall Walk one rainy
+                winter's <scary_word pos="noun" scale="0">night</scary_word>, with no overcoat on
+                his shoulders and no hat on his head.</p>
+            <plot point="intro"/>
+            <p>A <scary_word pos="adj" scale="0">strange</scary_word> sentence for one-and-twenty to
+                give expression to—and it was stranger <scary_word pos="adv" scale="0"
+                    >still</scary_word> to come from the lips of a person who looked like and who
+                was a gentleman. He did not appear either to have sunk <scary_word pos="mod" scale="i"
+                    >very</scary_word> far <scary_word pos="adv" scale="0">down</scary_word> in the
+                good graces of Fortune. There was no sign or token which would have induced a
+                passer-by to imagine he had been worsted after a long fight with calamity. His boots
+                were not <scary_word pos="adv" scale="0">worn</scary_word>
+                <scary_word pos="adv" scale="0">down</scary_word> at the heels or <scary_word
+                    pos="adj" scale="0">broken</scary_word> at the toes, as many, many boots were
+                which dragged and shuffled and scraped along the pavement. His clothes were good and
+                fashionably cut, and innocent of the rents and patches and tatters that <scary_word
+                    pos="verb" scale="1">slunk</scary_word>
+                <scary_word pos="adv" scale="1">wretchedly</scary_word> by, crouched in doorways,
+                and held out a hand mutely appealing for charity. His face was not pinched with
+                famine or lined with <scary_word pos="adj" scale="0">wicked</scary_word> wrinkles,
+                or brutalised by drink and debauchery, and yet he said and thought he was
+                    <scary_word pos="adj" scale="1">hopeless</scary_word>, and almost in his young
+                    <scary_word pos="noun" scale="1">despair</scary_word> spoke the words aloud.</p>
+            <p>It was a <scary_word pos="adj" scale="1">bad</scary_word>
+                <scary_word pos="noun" scale="1">night</scary_word> to be about with such a feeling
+                in one's heart. The rain was <scary_word pos="adj" scale="1">cold</scary_word>,
+                pitiless and increasing. A damp, keen wind blew <scary_word pos="adv" scale="0"
+                    >down</scary_word> the cross streets leading from the river. The fumes of the
+                gas works seemed to <scary_word pos="verb" scale="0">fall</scary_word> with the
+                rain. The roadway was muddy; the pavement greasy; the lamps burned <scary_word
+                    pos="adv" scale="1">dimly</scary_word>; and that <scary_word pos="adj" scale="1"
+                    >dreary</scary_word> district of London looked its <scary_word pos="mod" scale="i"
+                    >very</scary_word>
+                <scary_word pos="adj" scale="1">gloomiest</scary_word> and <scary_word pos="adj"
+                    scale="1">worst</scary_word>.</p>
+            <p>Certainly not an <scary_word pos="noun" scale="0">evening</scary_word> to be abroad
+                without a home to go to, or a sixpence in one's pocket, yet this was the position of
+                the young gentleman who, without a hat, strode along Vauxhall Walk, the rain beating
+                on his unprotected head.</p>
+            <p>Upon the <scary_word pos="noun" scale="0">houses</scary_word>, so large and good—once
+                inhabited by well-to-do citizens, now let out for the most part in floors to weekly
+                tenants—he looked enviously. He would have given much to have had a room, or even
+                part of one. He had been walking for a long time, ever since <scary_word pos="noun"
+                    scale="0">dark</scary_word> in fact, and <scary_word pos="noun" scale="0"
+                    >dark</scary_word>
+                <scary_word pos="verb" scale="0">falls</scary_word> soon in December. He was tired
+                and <scary_word pos="adj" scale="0">cold</scary_word> and hungry, and he saw no
+                prospect save of pacing the streets all <scary_word pos="noun" scale="0"
+                    >night</scary_word>.</p>
+            <p>As he passed one of the lamps, the <scary_word pos="noun" scale="0"
+                    >light</scary_word>
+                <scary_word pos="verb" scale="0">falling</scary_word> on his face revealed hadsome
+                young features, a mobile, sensitive mouth, and that particular formation of the
+                eyebrows—not a frown exactly, but a certain draw of the brows—often considered to
+                bespeak genius, but which more surely accompanies an impulsive organisation easily
+                pleased, easily depressed, capable of suffering <scary_word pos="mod" scale="i"
+                    >very</scary_word> keenly or of enjoying fully. In his short life he had not
+                enjoyed much, and he had suffered a good deal. That <scary_word pos="noun" scale="0"
+                    >night</scary_word>, when he walked bareheaded through the rain, affairs had
+                come to a crisis. So far as he in his <scary_word pos="noun" scale="1"
+                    >despair</scary_word> felt able to see or reason, the best thing he could do was
+                to <scary_word pos="verb" scale="2">die</scary_word>. The world did not want him; he
+                would be better out of it.</p>
+            <p>The door of one of the <scary_word pos="noun" scale="0">houses</scary_word> stood
+                open, and he could see in the <scary_word pos="adv" scale="1">dimly</scary_word>
+                lighted hall some few articles of furniture waiting to be removed. A van stood
+                beside the curb, and two men were lifting a table into it as he, for a second,
+                paused.</p>
+            <p><speech ref="grahamCoulton">Ah,</speech> he thought, <speech ref="grahamCoulton">even
+                    those <scary_word pos="adj" scale="0">poor</scary_word> people have some place
+                    to go to, some shelter provided, while I have not a roof to cover my head, or a
+                    shilling to get a <scary_word pos="noun" scale="0">night</scary_word>'s
+                    lodging.</speech> And he went on fast,, as if memory were spurring him, so fast
+                that a man running after had some <scary_word pos="noun" scale="0"
+                    >trouble</scary_word> to overtake him.</p>
+            <p><speech ref="william"><character ref="grahamCoulton">Master Graham</character>!
+                        <character ref="grahamCoulton">Master Graham</character>!</speech> this man
+                exclaimed, breathlessly; and, thus addressed, the young fellow stopped as if he had
+                been shot.</p>
+            <p><speech ref="grahamCoulton">Who are you that know me?</speech> he asked, facing
+                round.</p>
+            <p>
+                <speech ref="william">I'm <character ref="william">William</character>; don't you
+                    remember <character ref="william">William</character>, <character
+                        ref="grahamCoulton">Master Graham</character>? And, Lord's sake, sir, what
+                    are you doing out a <scary_word pos="noun" scale="0">night</scary_word> like
+                    this without your hat?</speech>
+            </p>
+            <p><speech ref="grahamCoulton">I forgot it,</speech> was the answer; <speech
+                    ref="grahamCoulton">and I did not care to go back and fetch it.</speech></p>
+            <p>
+                <speech ref="william">Then why don't you buy another, sir? You'll catch your death
+                    of <scary_word pos="adj" scale="1">cold</scary_word>; and besides, you'll excuse
+                    me, sir, but it does look odd.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">I know that,</speech> said Master Graham grimly; <speech
+                    ref="grahamCoulton">but I haven't a halfpenny in the world.</speech></p>
+            <p><speech ref="william">Have you and the master, then—</speech> began the man, but
+                there he hesitated and stopped.</p>
+            <p><speech ref="grahamCoulton">Had a quarrel? Yes, and one that will last us our
+                    lives,</speech> finished the other, with a <scary_word pos="adj" scale="0"
+                    >bitter</scary_word> laugh. <speech ref="grahamCoulton">And where are you going
+                    now?</speech></p>
+            <p>
+                <speech ref="william">Going! Nowhere, except to seek out the softest paving stone,
+                    or the shelter of an arch.</speech>
+            </p>
+            <p>
+                <speech ref="grahamCoulton">You are joking, sir.</speech>
+            </p>
+            <p>
+                <speech ref="william">I don't feel much in a mood for jesting either.</speech>
+            </p>
+            <p>
+                <speech ref="william">Will you come back with me, <character ref="grahamCoulton"
+                        >Master Graham</character>? We are just at the last of our moving, but there
+                    is a spark of <scary_word pos="noun" scale="0">fire</scary_word>
+                    <scary_word pos="adv" scale="0">still</scary_word> in the grate, and it would be
+                    better talking out of this rain. Will you come, sir?</speech>
+            </p>
+            <p><speech ref="grahamCoulton">Come! Of course I will come,</speech> said the young
+                fellow, and, turning, they retraced their steps to the house he had looked into as
+                he passed along.</p>
+            <p>An <scary_word pos="adj" scale="1">old</scary_word>, <scary_word pos="adj" scale="1"
+                    >old</scary_word>
+                <scary_word pos="noun" scale="1">house</scary_word>, with long, wide hall, stairs
+                low, easy of ascent, with <scary_word pos="adj" scale="0">deep</scary_word> cornices
+                to the ceilings, and oak floorings, and mahogany doors, which <scary_word pos="adv"
+                    scale="0">still</scary_word> spoke mutely of the wealth and stability of the
+                original owner, who lived before the Tradescants and Ashmoles were thought of, and
+                had been sleeping far longer than they, in St Mary's churchyard, hard by the
+                archbishop's palace.</p>
+            <p><speech ref="william">Step upstairs, sir,</speech>
+                <scary_word pos="verb" scale="0">entreated</scary_word> the departing tenant;
+                    <speech ref="william">it's <scary_word pos="adj" scale="1">cold</scary_word>
+                    <scary_word pos="adv" scale="0">down</scary_word> here, with the door standing
+                    wide.</speech></p>
+            <p><speech ref="grahamCoulton">Had you the whole <scary_word pos="noun" scale="0"
+                        >house</scary_word>, then, <character ref="william"
+                    >William</character>?</speech> asked <character ref="grahamCoulton">Graham
+                    Coulton</character>, in some surprise.</p>
+            <p><speech ref="william">The whole of it, and right sorry I, for one, am to leave it;
+                    but nothing else would serve my wife. This room, sir,</speech> and with a little
+                conscious pride, <character ref="william">William</character>, doing the honours of
+                his late residence, asked his guest into a spacious apartment occupying the full
+                width of the <scary_word pos="noun" scale="0">house</scary_word> on the first
+                floor.</p>
+            <p>Tired though he was, the young man could not repress an exclamation of
+                astonishment.</p>
+            <p><speech ref="grahamCoulton">Why, we have nothing so large as this at home, <character
+                        ref="william">William</character>,</speech> he said.</p>
+            <p><speech ref="william">It's a fine <scary_word pos="noun" scale="0"
+                    >house</scary_word>,</speech> answered <character ref="william"
+                    >William</character>, raking the embers together as he spoke and throwing some
+                wood upon them; <speech ref="william">but, like many a good family, it has come <scary_word
+                        pos="adv" scale="1">down</scary_word> in the world.</speech></p>
+            <p>There were four <scary_word pos="noun" scale="0">windows</scary_word> in the room,
+                shuttered close; they had <scary_word pos="adj" scale="0">deep</scary_word>, low
+                seats, suggestive of pleasant days gone by; when, well-curtained and well-cushioned,
+                they formed snug retreats for the <scary_word pos="noun" scale="0"
+                    >children</scary_word>, and sometimes for adults also; there was no furniture
+                left, unless an oaken settle beside the hearth, and a large mirror let into the
+                panelling at the opposite end of the apartment, with a <scary_word pos="adj"
+                    scale="0">black</scary_word> marble console table beneath it, could be so
+                considered; but the <scary_word pos="mod" scale="i">very</scary_word> absence of
+                chairs and tables enabled the magnificent proportions of the chamber to be seen to
+                full advantage, and there wa Coultons nothing to distract the attention from the
+                ornamented ceiling, the panelled walls, the old-world chimney-piece so quaintly
+                carved, and the fireplace lined with tiles, each one of which contained a picture of
+                some scriptural or allegorical subject.</p>
+            <p><speech ref="grahamCoulton">Had you been staying on here, <character ref="william"
+                        >William</character>,</speech> said <character ref="grahamCoulton"
+                    >Coulton</character>, flinging himself wearily on the settle, <speech
+                    ref="grahamCoulton">I'd have asked you to let me stop where I am for the
+                        <scary_word pos="noun" scale="0">night</scary_word>.</speech></p>
+            <p><speech ref="william">If you can make shift, sir, there is nothing as I am aware of
+                    to prevent you stopping,</speech> answered the man, fanning the wood into a
+                flame. <speech ref="william">I shan't take the key back to the landlord till
+                    tomorrow, and this would be better for you than the <scary_word pos="adj"
+                        scale="0">cold</scary_word> streets at any rate.</speech></p>
+            <p><speech ref="grahamCoulton">Do you really mean what you say?</speech> asked the other
+                eagerly. <speech ref="grahamCoulton">I should be thankful to lie here; I feel
+                        <scary_word pos="adj" scale="0">dead</scary_word> beat.</speech></p>
+            <p>
+                <speech ref="william">Then stay, <character ref="grahamCoulton">Master
+                        Graham</character>, and welcome. I'll fetch a basket of coals I was going to
+                    put in the van, and make up a good <scary_word pos="noun" scale="0"
+                        >fire</scary_word>, so that you can warm yourself then I must run round to
+                    the other <scary_word pos="noun" scale="0">house</scary_word> for a minute or
+                    two, but it's not far, and I'll be back as soon as ever I can.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">Thank you, <character ref="william">William</character>;
+                    you were always good to me,</speech> said the young man gratefully. <speech
+                    ref="grahamCoulton">This is delightful,</speech> and he stretched his numbed
+                hands over the blazing wood, and looked round the room with a satisfied smile.</p>
+            <p><speech ref="grahamCoulton">I did not expect to get into such quarters,</speech> he
+                remarked, as his friend in need reappeared, carrying a half-bushel basket full of
+                coals, with which he proceeded to make up a roaring <scary_word pos="noun" scale="0"
+                    >fire</scary_word>. <speech ref="grahamCoulton">I am sure the last thing I could
+                    have imagined was meeting with anyone I knew in Vauxhall Walk.</speech></p>
+            <p><speech ref="william">Where were you coming from, <character ref="grahamCoulton"
+                        >Master Graham</character>?</speech> asked <character ref="william"
+                    >William</character>
+                <scary_word pos="adv" scale="0">curiously</scary_word>.</p>
+            <p>
+                <speech ref="grahamCoulton">From <scary_word pos="adj" scale="0">old</scary_word>
+                    Melfield's. I was at his school once, you know, and he has now retired, and is
+                    living upon the proceeds of years of robbery in Kennington Oval. I thought,
+                    perhaps he would lend me a pound, or offer me a <scary_word pos="noun" scale="0"
+                        >night</scary_word>'s lodging, or even a glass of wine; but, oh dear, no. He
+                    took the moral tone, and observed he could have nothing to say to a son who
+                    defied his father's authority. He gave me plenty of advice, but nothing else,
+                    and showed me out into the rain with a bland courtesy, for which I could have
+                    struck him.</speech>
+            </p>
+            <p><character ref="william">William</character>
+                <scary_word pos="verb" scale="0">muttered</scary_word> something under his breath
+                which was not a blessing, and added aloud: <speech ref="william">You are better
+                    here, sir, I think, at any rate. I'll be back in less than half an
+                    hour.</speech></p>
+            <p>Left to himself, young <character ref="grahamCoulton">Coulton</character> took off
+                his coat, and shifting the settle a little, hung it over the end to dry. With his
+                handkerchief he rubbed some of the <scary_word pos="adj" scale="0">wet</scary_word>
+                out of his hair; then, perfectly exhausted, he lay <scary_word pos="adv" scale="0"
+                    >down</scary_word> before the <scary_word pos="noun" scale="0">fire</scary_word>
+                and, pillowing his head on his arm, fell fast asleep.</p>
+            <p>He was awakened nearly an hour afterwards by the sound of someone gently stirring the
+                    <scary_word pos="noun" scale="0">fire</scary_word> and moving quietly about the
+                room. Starting into a sitting posture, he looked around him, bewildered for a
+                moment, and then, recognising his humble friend, said laughingly:</p>
+            <p>
+                <speech ref="grahamCoulton">I had <scary_word pos="verb" scale="0">lost</scary_word>
+                    myself; I could not imagine where I was.</speech>
+            </p>
+            <p><speech ref="william">I am sorry to see you here, sir,</speech> was the reply;
+                    <speech ref="william">but <scary_word pos="adv" scale="0">still</scary_word>
+                    this is better than being out of doors. It has come on a <scary_word pos="adj"
+                        scale="1">nasty</scary_word>
+                    <scary_word pos="noun" scale="1">night</scary_word>. I brought a rug round with
+                    me that, perhaps, you would wrap yourself in.</speech></p>
+            <p><speech ref="grahamCoulton">I wish, at the same time, you had brought me something to
+                    eat,</speech> said the young man, laughing.</p>
+            <p><speech ref="william">Are you hungry, then, sir?</speech> asked <character
+                    ref="william">William</character>, in a tone of concern.</p>
+            <p>
+                <speech ref="grahamCoulton">Yes; I have had nothing to eat since breakfast. The
+                    governor and I commenced rowing the minute we sat <scary_word pos="adv"
+                        scale="0">down</scary_word> to luncheon, and I rose and left the table. But
+                    hunger does not signify; I am dry and warm, and can forget the other matter in
+                    sleep.</speech>
+            </p>
+            <p><speech ref="william">And it's too late now to buy anything,</speech> soliloquised
+                the man; <speech ref="william">the shops are all shut long ago. Do you think,
+                    sir,</speech> he added, brightening, <speech ref="william">you could manage some
+                    bread and cheese?</speech></p>
+            <p><speech ref="grahamCoulton">Do I think—I should call it a perfect feast,</speech>
+                answered <character ref="grahamCoulton">Graham Coulton</character>. <speech
+                    ref="grahamCoulton">But never mind about food tonight, <character ref="william"
+                        >William</character>; you have had <scary_word pos="noun" scale="0"
+                        >trouble</scary_word> enough, and to spare, already.</speech></p>
+            <p><character ref="william">William</character>'s only answer was to dart to the door
+                and run downstairs. Presently he reappeared, carrying in one hand bread and cheese
+                wrapped up in paper, and in the other a pewter measure full of beer.</p>
+            <p><speech ref="william">It's the best I could do, sir,</speech> he said apologetically.
+                    <speech ref="william">I had to beg this from the landlady.</speech></p>
+            <p><speech ref="grahamCoulton">Here's to her good health!</speech> exclaimed the young
+                fellow gaily, taking a long pull at the tankard. <speech ref="grahamCoulton">That
+                    tastes better than champagne in my father's <scary_word pos="noun" scale="0"
+                        >house</scary_word>.</speech></p>
+            <p><speech ref="william">Won't he be uneasy about you?</speech> ventured <character
+                    ref="william">William</character>, who, having by this time emptied the coals,
+                was now seated on the inverted basket, looking <scary_word pos="adv" scale="0"
+                    >wistfully</scary_word> at the relish with which the son of the former master
+                was eating his bread and cheese.</p>
+            <p><speech ref="grahamCoulton">No,</speech> was the decided answer. <speech
+                    ref="grahamCoulton">When he hears it pouring cats and dogs he will only hope I
+                    am out in the deluge, and say a good drenching will cool my pride.</speech></p>
+            <p><speech ref="william">I do not think you are right there,</speech> remarked the
+                man.</p>
+            <p>
+                <speech ref="grahamCoulton">But I am sure I am. My father always <scary_word
+                        pos="verb" scale="0">hated</scary_word> me, as he <scary_word pos="verb"
+                        scale="0">hated</scary_word> my mother.</speech>
+            </p>
+            <p>
+                <speech ref="william">Begging your pardon, sir; he was over fond of your
+                    mother.</speech>
+            </p>
+            <p>
+                <speech ref="grahamCoulton">If you had heard what he said about her today, you might
+                    find reason to alter your opinion. He told me I resembled her in mind as well as
+                    body; that I was a <scary_word pos="noun" scale="0">coward</scary_word>, a
+                    simpleton, and a hypocrite.</speech>
+            </p>
+            <p>
+                <speech ref="william">He did not mean it, sir.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">He did, every word. He does think I am a <scary_word
+                        pos="noun" scale="0">coward</scary_word>, because I—I—</speech> And the
+                young fellow broke into a passion of hysterical tears.</p>
+            <p><speech ref="william">I don't half like leaving you here <scary_word pos="adj"
+                        scale="1">alone</scary_word>,</speech> said <character ref="william"
+                    >William</character>, glancing round the room with a quick <scary_word
+                    pos="noun" scale="1">trouble</scary_word> in his <scary_word pos="noun"
+                    scale="1">eyes</scary_word>; <speech ref="william">but I have no place fit to
+                    ask you to stop, and I am forced to go myself, because I am <scary_word
+                        pos="noun" scale="0">night</scary_word> watchman, and must be on at twelve
+                    o'clock.</speech></p>
+            <p><speech ref="grahamCoulton">I shall be right enough,</speech> was the answer. <speech
+                    ref="grahamCoulton">Only I mustn't talk any more of my father. Tell me about
+                    yourself, <character ref="william">William</character>. How did you manage to
+                    get such a big <scary_word pos="noun" scale="0">house</scary_word>, and why are
+                    you leaving it?</speech></p>
+            <p>
+                <speech ref="william">The landlord put me in charge, sir; and it was my wife's fancy
+                    not to like it.</speech>
+            </p>
+            <p>
+                <speech ref="grahamCoulton">Why did she not like it?</speech>
+            </p>
+            <p><speech ref="william">She felt <scary_word pos="adj" scale="1">desolate</scary_word>
+                    <scary_word pos="adj" scale="1">alone</scary_word> with the <scary_word
+                        pos="noun" scale="0">children</scary_word> at <scary_word pos="noun"
+                        scale="1">night</scary_word>,</speech> answered <character ref="william"
+                    >William</character>, turning away his head; then added, next minute: <speech
+                    ref="william">Now, sir, if you think I can do no more for you, I had best be
+                    off. Time's getting on. I'll look round tomorrow morning.</speech></p>
+            <p><speech ref="grahamCoulton">Good <scary_word pos="noun" scale="0"
+                    >night</scary_word>,</speech> said the young fellow, stretching out his hand,
+                which the other took as freely and frankly as it was offered. <speech
+                    ref="grahamCoulton">What should I have done this <scary_word pos="noun"
+                        scale="0">evening</scary_word> if I had not chanced to meet
+                you?</speech></p>
+            <p>
+                <speech ref="william">I don't think there is much chance in the world, <character
+                        ref="grahamCoulton">Master Graham</character>,' was the quiet answer. 'I do
+                    hope you will rest well, and not be the worse for your wetting.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">No <scary_word pos="noun" scale="0">fear</scary_word> of
+                    that,</speech> was the rejoinder, and the next minute the young man found
+                himself all <scary_word pos="adj" scale="1">alone</scary_word> in the <scary_word
+                    pos="adj" scale="1">Old</scary_word> House in Vauxhall Walk.</p>
+        </chapter>
+        <chapter>
+            <chapTitle>Chapter Two</chapTitle>
+            <p>Lying on the settle, with the <scary_word pos="noun" scale="0">fire</scary_word>
+                burnt out, and the room in total <scary_word pos="noun" scale="1"
+                    >darkness</scary_word>, <character ref="grahamCoulton">Graham
+                    Coulton</character>
+                <scary_word pos="verb" scale="0">dreamed</scary_word> a <scary_word pos="adj"
+                    scale="1">curious</scary_word>
+                <scary_word pos="noun" scale="1">dream</scary_word>. He thought he awoke from
+                    <scary_word pos="adj" scale="0">deep</scary_word> slumber to find a log
+                smouldering away upon the hearth, and the mirror at the end of the apartment
+                reflecting fitful gleams of <scary_word pos="noun" scale="0">light</scary_word>. He
+                could not understand how it came to pass that, far away as he was from the glass, he
+                was able to see everything in it; but he resigned himself to the difficulty without
+                astonishment, as people generally do in <scary_word pos="noun" scale="0"
+                    >dreams</scary_word>.</p>
+            <plot point="haunting"/>
+            <p>Neither did he feel surprised when he beheld the outline of a female figure seated
+                beside the <scary_word pos="noun" scale="0">fire</scary_word>, engaged in picking
+                something out of her lap and dropping it with a <scary_word pos="adj" scale="3"
+                    >despairing</scary_word> gesture.</p>
+            <p>He heard the mellow sound of gold, and knew she was lifting and dropping sovereigns,
+                he turned a little so as to see the person engaged in such a singular and
+                meaningless manner, and found that, where there had been no chair on the previous
+                    <scary_word pos="noun" scale="0">night</scary_word>, there was a chair now, on
+                which was seated an <scary_word pos="adj" scale="2">old</scary_word>, <scary_word
+                    pos="adj" scale="2">wrinkled</scary_word>
+                <scary_word pos="noun" scale="3">hag</scary_word>, her clothes <scary_word pos="adj"
+                    scale="1">poor</scary_word> and <scary_word pos="adj" scale="1"
+                    >ragged</scary_word>, a mob cap barely covering her <scary_word pos="adj"
+                    scale="1">scant</scary_word>
+                <scary_word pos="adj" scale="1">white</scary_word> hair, her cheeks <scary_word
+                    pos="adj" scale="2">sunken</scary_word>, her nose <scary_word pos="adj"
+                    scale="2">hooked</scary_word>, her fingers more like <scary_word pos="noun"
+                    scale="3">talons</scary_word> than aught else as they dived <scary_word
+                    pos="adv" scale="0">down</scary_word> into the heap of gold, portions of which
+                they lifted but to scatter <scary_word pos="adv" scale="2"
+                >mournfully</scary_word>.</p>
+            <p><speech ref="missTynan">Oh! my <scary_word pos="adj" scale="1">lost</scary_word>
+                    life,</speech> she <scary_word pos="verb" scale="3">moaned</scary_word>, in a
+                voice of the <scary_word pos="adj" scale="2">bitterest</scary_word>
+                <scary_word pos="noun" scale="3">anguish</scary_word>. <speech ref="missTynan">Oh!
+                    my <scary_word pos="adj" scale="1">lost</scary_word> life—for one day, for one
+                    hour of it again!</speech></p>
+            <p>Out of the <scary_word pos="noun" scale="2">darkness</scary_word>—out of the corner
+                of the room where the <scary_word pos="noun" scale="2">shadows</scary_word> lay
+                deepest—out from the <scary_word pos="noun" scale="2">gloom</scary_word> abiding
+                near the door—out from the <scary_word pos="adj" scale="2">dreary</scary_word>
+                <scary_word pos="noun" scale="2">night</scary_word>, with their sodden feet and
+                    <scary_word pos="adj" scale="1">wet</scary_word> dripping from their heads, came
+                the <scary_word pos="adj" scale="2">old</scary_word> men and the young <scary_word
+                    pos="noun" scale="0">children</scary_word>, the <scary_word pos="adj" scale="2"
+                    >worn</scary_word> women and the <scary_word pos="adj" scale="0"
+                    >weary</scary_word> hearts, whose misery that gold might have relieved, but
+                whose wretchedness it mocked.</p>
+            <p>Round that miser, who once sat gloating as she now sat lamenting, they crowded—all
+                those <scary_word pos="adj" scale="2">pale</scary_word>, <scary_word pos="adj"
+                    scale="2">sad</scary_word> shapes—the aged of days, the infant of hours, the
+                sobbing outcast, honest poverty, repentant vice; but one low <scary_word pos="noun"
+                    scale="3">cry</scary_word> proceeded from those <scary_word pos="adj" scale="2"
+                    >pale</scary_word> lips—a <scary_word pos="noun" scale="2">cry</scary_word> for
+                help she might have given, but which she withheld.</p>
+            <p>They <scary_word pos="verb" scale="1">closed</scary_word> about her, all together, as
+                they had done singly in life; they prayed, they sobbed, they <scary_word pos="verb"
+                    scale="1">entreated</scary_word>; with <scary_word pos="adj" scale="2"
+                    >haggard</scary_word>
+                <scary_word pos="noun" scale="1">eyes</scary_word> the figure regarded the
+                    <scary_word pos="adj" scale="0">poor</scary_word> she had repulsed, the
+                    <scary_word pos="noun" scale="0">children</scary_word> against whose <scary_word
+                    pos="noun" scale="1">cry</scary_word> she had <scary_word pos="verb" scale="0"
+                    >closed</scary_word> her ears, the <scary_word pos="adj" scale="1"
+                    >old</scary_word> people she had suffered to starve and <scary_word pos="verb"
+                    scale="1">die</scary_word> for want of what would have been the merest trifle to
+                her; then, with a <scary_word pos="adj" scale="2">terrible</scary_word>
+                <scary_word pos="noun" scale="3">scream</scary_word>, she raised her lean arms above
+                her head, and sank <scary_word pos="adv" scale="1">down</scary_word>—<scary_word
+                    pos="adv" scale="1">down</scary_word>—the gold scattering as it fell out of her
+                lap, and rolling along the floor, till its gleam was <scary_word pos="verb"
+                    scale="0">lost</scary_word> in the outer <scary_word pos="noun" scale="2"
+                    >darkness</scary_word> beyond.</p>
+            <p>Then <character ref="grahamCoulton">Graham Coulton</character> awoke in good earnest,
+                with the <scary_word pos="noun" scale="1">perspiration</scary_word>
+                <scary_word pos="verb" scale="1">oozing</scary_word> from every pore, with a
+                    <scary_word pos="noun" scale="2">fear</scary_word> and an <scary_word pos="noun"
+                    scale="2">agony</scary_word> upon him such as he had never before felt in all
+                his existence, and with the sound of the heart-rending <scary_word pos="noun"
+                    scale="2">cry</scary_word>—<speech ref="missTynan">Oh! my <scary_word pos="adj"
+                        scale="1">lost</scary_word> life</speech>—<scary_word pos="adv" scale="0"
+                    >still</scary_word> ringing in his ears.</p>
+            <p>Mingled with all, too, there seemed to have been some lesson for him which he had
+                forgotten, that, try as he would, eluded his memory, and which, in the <scary_word
+                    pos="mod" scale="i">very</scary_word> act of waking, glided away.</p>
+            <p>He lay for a little thinking about all this, and then, <scary_word pos="adv"
+                    scale="0">still</scary_word>
+                <scary_word pos="adj" scale="0">heavy</scary_word> with sleep, retraced his way into
+                dreamland once more.</p>
+            <p>It was natural, perhaps, that, mingling with the <scary_word pos="adj" scale="1"
+                    >strange</scary_word> fantasies which follow in the train of <scary_word
+                    pos="noun" scale="1">night</scary_word> and <scary_word pos="noun" scale="1"
+                    >darkness</scary_word>, the former vision should recur, and the young man ere
+                long found himself toiling through scene after scene wherein the figure of the woman
+                he had seen seated beside a dying <scary_word pos="noun" scale="0">fire</scary_word>
+                held principal place.</p>
+            <p>He saw her walking <scary_word pos="adv" scale="1">slowly</scary_word> across the
+                floor munching a dry crust—she who could have purchased all the luxuries wealth can
+                command; on the hearth, contemplating her, stood a man of commanding presence,
+                dressed in the fashion of long ago. In his <scary_word pos="noun" scale="1"
+                    >eyes</scary_word> there was a <scary_word pos="noun" scale="2"
+                    >dark</scary_word> look of anger, on his lips a curling smile of disgust, and
+                somehow, even in his sleep, the dreamer understood it was the ancestor to the
+                descendant he beheld—that the <scary_word pos="noun" scale="1">house</scary_word>
+                put to mean uses in which he lay had never so far descended from its high estate, as
+                the woman possessed of so pitiful a soul, <scary_word pos="verb" scale="1"
+                    >contaminated</scary_word> with the most <scary_word pos="adj" scale="1"
+                    >despicable</scary_word> and <scary_word pos="adj" scale="1"
+                    >insidious</scary_word> vice <scary_word pos="adj" scale="0">poor</scary_word>
+                humanity knows, for all other vices seem to have connection with the <scary_word
+                    pos="noun" scale="1">flesh</scary_word>, but the greed of the miser eats into
+                the <scary_word pos="mod" scale="i">very</scary_word> soul.</p>
+            <p><scary_word pos="adj" scale="2">Filthy</scary_word> of person, <scary_word pos="adj"
+                    scale="2">repulsive</scary_word> to look at, hard of heart as she was, he yet
+                beheld another <scary_word pos="noun" scale="3">phantom</scary_word>, which, coming
+                into the room, met her almost on the threshold, taking her by the hand, and
+                pleading, as it seemed, for assistance. He could not hear all that passed, but a
+                word now and then fell upon his ear. Some talk of former days; some mention of a
+                fair young mother—an appeal, as it seemed, to a time when they were tiny brother and
+                sister, and the <scary_word pos="adj" scale="0">accursed</scary_word> greed for gold
+                had not divided them. All in vain; the <scary_word pos="noun" scale="2"
+                    >hag</scary_word> only answered him as she had answered the <scary_word
+                    pos="noun" scale="0">children</scary_word>, and the young girls, and the
+                    <scary_word pos="adj" scale="1">old</scary_word> people in his former vision.
+                Her heart was as invulnerable to natural affection as it had proved to human
+                sympathy. He begged, as it appeared, for aid to avert some <scary_word pos="adj"
+                    scale="1">bitter</scary_word> misfortune or <scary_word pos="adj" scale="1"
+                    >terrible</scary_word> disgrace, and adamant might have been found more yielding
+                to his prayer. Then the figure standing on the hearth changed to an angel, which
+                folded its wings <scary_word pos="adv" scale="2">mournfully</scary_word> over its
+                face, and the man, with bowed head, <scary_word pos="adv" scale="0"
+                    >slowly</scary_word> left the room.</p>
+            <p>Even as he did so the scene changed again; it was <scary_word pos="noun" scale="1"
+                    >night</scary_word> once more, and the miser wended her way upstairs. From
+                below, <character ref="grahamCoulton">Graham Coulton</character> fancied he watched
+                her toiling wearily from step to step. She had aged <scary_word pos="adv" scale="2"
+                    >strangely</scary_word> since the previous scenes. She moved with difficulty; it
+                seemed the greatest exertion for her to <scary_word pos="verb" scale="3"
+                    >creep</scary_word> from step to step, her skinny hand traversing the balusters
+                with slow and <scary_word pos="adj" scale="2">painful</scary_word> deliberateness.
+                Fascinated, the young man's <scary_word pos="noun" scale="0">eyes</scary_word>
+                followed the progress of that feeble, decrepit woman. She was solitary in a
+                    <scary_word pos="adj" scale="2">desolate</scary_word>
+                <scary_word pos="noun" scale="2">house</scary_word>, with a <scary_word pos="adj"
+                    scale="1">deeper</scary_word>
+                <scary_word pos="noun" scale="2">blackness</scary_word> than the <scary_word
+                    pos="noun" scale="2">darkness</scary_word> of <scary_word pos="noun" scale="1"
+                    >night</scary_word> waiting to engulf her.</p>
+            <p>It seemed to <character ref="grahamCoulton">Graham Coulton</character> that after
+                that he lay for a time in a <scary_word pos="adj" scale="0">still</scary_word>,
+                dreamless sleep, upon awaking from which he found himself entering a chamber as
+                sordid and unclean in its appointments as the woman of his previous vision had been
+                in her person. The <scary_word pos="adj" scale="0">poorest</scary_word> labourer's
+                wife would have gathered more comforts around her than that room contained. A
+                four-poster bedstead without hangings of any kind—a blind drawn up awry—an
+                    <scary_word pos="adj" scale="0">old</scary_word> carpet covered with dust, and
+                dirt on the floor—a rickety washstand with all the paint <scary_word pos="verb"
+                    scale="0">worn</scary_word> off it—an ancient mahogany dressing-table, and a
+                    <scary_word pos="adj" scale="1">cracked</scary_word> glass spotted all over—were
+                all the objects he could at first discern, looking at the room through that
+                    <scary_word pos="adj" scale="1">dim</scary_word>
+                <scary_word pos="noun" scale="0">light</scary_word> which oftentimes obtains in
+                    <scary_word pos="noun" scale="1">dreams</scary_word>.</p>
+            <p>By degrees, however, he perceived the outline of someone lying huddled on the bed.
+                Drawing nearer, he found it was that of the person whose <scary_word pos="adj"
+                    scale="2">dreadful</scary_word> presence seemed to pervade the <scary_word
+                    pos="noun" scale="2">house</scary_word>. What a <scary_word pos="adj" scale="3"
+                    >terrible</scary_word> sight she looked, with her <scary_word pos="adj"
+                    scale="1">thin</scary_word>
+                <scary_word pos="adj" scale="1">white</scary_word> locks scattered over the pillow,
+                with what were mere remnants of blankets gathered about her shoulders, with her
+                    <scary_word pos="adj" scale="3">claw-like</scary_word> fingers clutching the
+                clothes, as though even in sleep she was guarding her gold!</p>
+            <p>An <scary_word pos="adj" scale="2">awful</scary_word> and a <scary_word pos="adj"
+                    scale="2">repulsive</scary_word> spectacle, but not with half the <scary_word
+                    pos="noun" scale="1">terror</scary_word> in it of that which followed. Even as
+                the young man looked he heard <scary_word pos="adj" scale="2">stealthy</scary_word>
+                <scary_word pos="noun" scale="3">footsteps</scary_word> on the stairs. Then he saw
+                first one man and then his fellow <scary_word pos="verb" scale="2"
+                    >steal</scary_word> cautiously into the room. Another second, and the pair stood
+                beside the bed, <scary_word pos="noun" scale="3">murder</scary_word> in their
+                    <scary_word pos="noun" scale="2">eyes</scary_word>.</p>
+            <p><character ref="grahamCoulton">Graham Coulton</character> tried to shout—tried to
+                move, but the deterrent power which exists in <scary_word pos="noun" scale="1"
+                    >dreams</scary_word> only tied his tongue <character ref="william"
+                    >William</character> and <scary_word pos="verb" scale="3">paralysed</scary_word>
+                his limbs. He could but hear and look, and what he heard and saw was this: aroused
+                suddenly from sleep, the woman started, only to receive a blow from one of the
+                ruffians, whose fellow followed his lead by <scary_phrase><scary_word pos="verb"
+                        scale="3">plunging</scary_word> a <scary_word pos="noun" scale="3"
+                        >knife</scary_word> into her breast</scary_phrase>.</p>
+            <p>Then, with a <scary_word pos="adj" scale="3">gurgling</scary_word>
+                <scary_word pos="noun" scale="3">scream</scary_word>, she fell back on the bed, and
+                at the same moment, with a <scary_word pos="noun" scale="1">cry</scary_word>,
+                    <character ref="grahamCoulton">Graham Coulton</character> again awoke, to thank
+                heaven it was but an illusion.</p>
+        </chapter>
+        <chapter>
+            <chapTitle>Chapter Three</chapTitle>
+            <p><speech ref="william">I hope you slept well, sir.</speech> It was <character
+                    ref="william">William</character>, who, coming into the hall with the sunlight
+                of a fine bright morning streaming after him, asked this question: <speech
+                    ref="william">Had you a good <scary_word pos="noun" scale="0"
+                    >night</scary_word>'s rest?</speech></p>
+            <p><character ref="grahamCoulton">Graham Coulton</character> laughed, and answered:
+                    <speech ref="grahamCoulton">Why, faith, I was somewhat in the case of Paddy,
+                    “who could not slape for dhraming”. I slept well enough, I suppose, but whether
+                    it was in consequence of the row with my dad, or the hard bed, or the
+                    cheese—most likely the bread and cheese so late at <scary_word pos="noun"
+                        scale="0">night</scary_word>—I <scary_word pos="noun" scale="0"
+                        >dreamt</scary_word> all the <scary_word pos="noun" scale="0"
+                        >night</scary_word> long, the most extraordinary <scary_word pos="noun"
+                        scale="1">dreams</scary_word>. Some <scary_word pos="adj" scale="1"
+                        >old</scary_word> woman kept cropping up, and I saw her <scary_word
+                        pos="verb" scale="3">murdered</scary_word>.</speech></p>
+            <p><speech ref="william">You don't say that, sir?</speech> said <character ref="william"
+                    >William</character>
+                <scary_word pos="adv" scale="1">nervously</scary_word>.</p>
+            <p><speech ref="grahamCoulton">I do, indeed,</speech> was the reply. <speech
+                    ref="grahamCoulton">However, that is all gone and past. I have been <scary_word
+                        pos="adv" scale="0">down</scary_word> in the kitchen and had a good wash,
+                    and I am as fresh as a daisy, and as hungry as a hunter; and, oh, <character
+                        ref="william">William</character>, can you get me any
+                breakfast?</speech></p>
+            <p><speech ref="william">Certainly, Master Graham. I have brought round a kettle, and I
+                    will make the water boil immediately. I suppose, sir</speech>—this
+                    tentatively—<speech ref="william">you'll be going home today?</speech></p>
+            <p><speech ref="grahamCoulton">Home!</speech>
+                <scary_word pos="verb" scale="0">repeated</scary_word> the young man. <speech
+                    ref="grahamCoulton">Decidedly not. I'll never go home again till I return with
+                    some medal hung to my coat, or a leg or arm cut off. I've thought it all out,
+                        <character ref="william">William</character>. I'll go and enlist. There's a
+                    talk of war; and, living or <scary_word pos="adj" scale="0">dead</scary_word>,
+                    my father shall have reason to retract his opinion about my being a <scary_word
+                        pos="noun" scale="0">coward</scary_word>.</speech></p>
+            <p><speech ref="william">I am sure the admiral never thought you anything of the sort,
+                    sir,</speech> said <character ref="william">William</character>. <speech
+                    ref="william">Why, you have the pluck of ten!</speech></p>
+            <p><speech ref="grahamCoulton">Not before him,</speech> answered the young fellow
+                sadly.</p>
+            <p>
+                <speech ref="william">You'll do nothing rash, <character ref="grahamCoulton">Master
+                        Graham</character>; you won't go 'listing, or aught of that sort, in your
+                    anger?</speech>
+            </p>
+            <p><speech ref="grahamCoulton">If I do not, what is to become of me?</speech> asked the
+                other. <speech ref="grahamCoulton">I cannot dig—to beg I am ashamed. Why, but for
+                    you, I should not have had a roof over my head last <scary_word pos="noun"
+                        scale="0">night</scary_word>.</speech></p>
+            <p>
+                <speech ref="william">Not much of a roof, I am <scary_word pos="adj" scale="0"
+                        >afraid</scary_word>, sir.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">Not much of a roof!</speech>
+                <scary_word pos="verb" scale="0">repeated</scary_word> the young man. <speech
+                    ref="grahamCoulton">Why, who could desire a better? What a capital room this
+                    is,' he went on, looking around the apartment, where <character ref="william"
+                        >William</character> was now kindling a <scary_word pos="noun" scale="0"
+                        >fire</scary_word>; 'one might dine twenty people here easily!</speech></p>
+            <p>
+                <speech ref="william">If you think so well of the place, <character
+                        ref="grahamCoulton">Master Graham</character>, you might stay here for a
+                    while, till you have made up your mind what you are going to do. The landlord
+                    won't make any objection, I am <scary_word pos="mod" scale="i">very</scary_word>
+                    sure.</speech>
+            </p>
+            <p>
+                <speech ref="grahamCoulton">Oh! nonsense; he would want a long rent for a
+                        <scary_word pos="noun" scale="0">house</scary_word> like this.</speech>
+            </p>
+            <p><speech ref="william">I dare say; if he could get it,</speech> was <character
+                    ref="william">William</character>'s significant answer.</p>
+            <p>
+                <speech ref="grahamCoulton">What do you mean? Won't the place let?</speech>
+            </p>
+            <plot point="history"/>
+            <p>
+                <speech ref="william">No, sir. I did not tell you last <scary_word pos="noun"
+                        scale="0">night</scary_word>, but there was a <scary_word pos="noun"
+                        scale="3">murder</scary_word> done here, and people are shy of the
+                        <scary_word pos="noun" scale="2">house</scary_word> ever since.</speech>
+            </p>
+            <p>
+                <speech ref="grahamCoulton">A <scary_word pos="noun" scale="3">murder</scary_word>!
+                    What sort of a <scary_word pos="noun" scale="3">murder</scary_word>? Who was
+                        <scary_word pos="verb" scale="3">murdered</scary_word>?</speech>
+            </p>
+            <p>
+                <speech ref="william">A woman, <character ref="grahamCoulton">Master
+                        Graham</character>—the landlord's sister; she lived here all <scary_word
+                        pos="adj" scale="0">alone</scary_word>, and was supposed to have money.
+                    Whether she had or not, she was found <scary_word pos="adj" scale="3"
+                        >dead</scary_word> from a stab in her breast, and if there ever was any
+                    money, it must have been taken at the same time, for none ever was found in the
+                        <scary_word pos="noun" scale="2">house</scary_word> from that day to
+                    this.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">Was that the reason your wife would not stop
+                    here?</speech> asked the young man, leaning against the mantelshelf, and looking
+                thoughtfully <scary_word pos="adv" scale="0">down</scary_word> on <character
+                    ref="william">William</character>.</p>
+            <p><speech ref="william">Yes, sir. She could not stand it any longer; she got that
+                        <scary_word pos="adj" scale="1">thin</scary_word> and <scary_word pos="adj"
+                        scale="1">nervous</scary_word> no one would have <scary_word pos="verb"
+                        scale="0">believed</scary_word> it possible; she never saw anything, but she
+                    said she heard <scary_word pos="noun" scale="2">footsteps</scary_word> and
+                        <scary_word pos="noun" scale="2">voices</scary_word>, and then when she
+                    walked through the hall, or up the staircase, someone always seemed to be
+                        <scary_word pos="verb" scale="3">following</scary_word> her. We put the
+                        <scary_word pos="noun" scale="0">children</scary_word> to sleep in that big
+                    room you had last <scary_word pos="noun" scale="0">night</scary_word>, and they
+                    declared they often saw an <scary_word pos="adj" scale="1">old</scary_word>
+                    woman sitting by the hearth. Nothing ever came my way,</speech> finished
+                    <character ref="william">William</character>, with a laugh; <speech
+                    ref="william">I was always ready to go to sleep the minute my head touched the
+                    pillow.</speech></p>
+            <p><speech ref="grahamCoulton">Were not the <scary_word pos="noun" scale="1"
+                        >murderers</scary_word> discovered?</speech> asked Graham Coulton.</p>
+            <p>
+                <speech ref="william">No, sir; the landlord, <character ref="mrTynan">Miss Tynan's
+                        brother</character>, had always lain under the suspicion of it—<scary_word
+                        pos="mod" scale="i">quite</scary_word> wrongfully, I am <scary_word pos="mod"
+                        scale="i">very</scary_word> sure—but he will never clear himself now. It was
+                    known he came and asked her for help a day or two before the <scary_word
+                        pos="noun" scale="2">murder</scary_word>, and it was also known he was able
+                    within a week or two to weather whatever <scary_word pos="noun" scale="0"
+                        >trouble</scary_word> had been harassing him. Then, you see, the money was
+                    never found; and, altogether, people scarce knew what to think.</speech>
+            </p>
+            <p><speech ref="grahamCoulton">Humph!</speech> ejaculated <character ref="grahamCoulton"
+                    >Graham Coulton</character>, and he took a few turns up and <scary_word
+                    pos="adv" scale="0">down</scary_word> the apartment. <speech ref="grahamCoulton"
+                    >Could I go and see this landlord?</speech></p>
+            <p><speech ref="william">Surely, sir, if you had a hat,</speech> answered <character
+                    ref="william">William</character>, with such a serious decorum that the young
+                man burst out laughing.</p>
+            <p><speech ref="grahamCoulton">That is an obstacle, certainly,</speech> he remarked,
+                    <speech ref="grahamCoulton">and I must make a note do instead. I have a pencil
+                    in my pocket, so here goes.</speech></p>
+            <p>Within half an hour from the dispatch of that note <character ref="william"
+                    >William</character> was back again with a sovereign; the landlord's
+                compliments, and he would be much obliged if <character ref="grahamCoulton">Mr
+                    Coulton</character> could 'step round'.</p>
+            <p><speech ref="william">You'll do nothing rash, sir,</speech>
+                <scary_word pos="verb" scale="1">entreated</scary_word>
+                <character ref="william">William</character>.</p>
+            <p><speech ref="grahamCoulton">Why, man,</speech> answered the young fellow, <speech
+                    ref="grahamCoulton">one may as well be picked off by a <scary_word pos="noun"
+                        scale="1">ghost</scary_word> as a bullet. What is there to be <scary_word
+                        pos="adj" scale="1">afraid</scary_word> of?</speech></p>
+            <p><character ref="william">William</character> only shook his head. He did not think
+                his young master was made of the stuff likely to remain <scary_word pos="adj"
+                    scale="0">alone</scary_word> in a <scary_word pos="adj" scale="2"
+                    >haunted</scary_word>
+                <scary_word pos="noun" scale="2">house</scary_word> and solve the <scary_word
+                    pos="noun" scale="1">mystery</scary_word> it assuredly contained by dint of his
+                own unassisted endeavours. And yet when <character ref="grahamCoulton">Graham
+                    Coulton</character> came out of the landlord's <scary_word pos="noun" scale="0"
+                    >house</scary_word> he looked more bright and gay than usual, and walked up the
+                Lambeth road to the place where <character ref="william">William</character> awaited
+                his return, humming an <scary_word pos="noun" scale="0">air</scary_word> as he paced
+                along.</p>
+            <p><speech ref="grahamCoulton">We have settled the matter,</speech> he said. <speech
+                    ref="grahamCoulton">And now if the dad wants his son for Christmas, it will
+                        <scary_word pos="noun" scale="0">trouble</scary_word> him to find
+                    him.</speech></p>
+            <p><speech ref="william">Don't say that, Master Graham, don't,</speech>
+                <scary_word pos="verb" scale="0">entreated</scary_word> the man, with a <scary_word
+                    pos="noun" scale="1">shiver</scary_word>; <speech ref="william">maybe after all
+                    it would have been better if you had never happened to chance upon Vauxhall
+                    Walk.</speech></p>
+            <p><speech ref="grahamCoulton">Don't croak, <character ref="william"
+                    >William</character>,</speech> answered the young man; <speech
+                    ref="grahamCoulton">if it was not the best day's work I ever did for myself I'm
+                    a Dutchman.</speech></p>
+            <p>During the whole of that forenoon and afternoon, <character ref="grahamCoulton"
+                    >Graham Coulton</character> searched diligently for the missing treasure
+                    <character ref="mrTynan">Mr Tynan</character> assured him had never been
+                discovered. Youth is confident and self- opinionated, and this fresh explorer felt
+                satisfied that, though others had failed, he would be successful. On the second
+                floor he found one door <scary_word pos="adj" scale="0">locked</scary_word>, but he
+                did not pay much attention to that at the moment, as he <scary_word pos="verb"
+                    scale="0">believed</scary_word> if there was anything concealed it was more
+                likely to be found in the lower than the upper part of the <scary_word pos="noun"
+                    scale="0">house</scary_word>. Late into the <scary_word pos="noun" scale="0"
+                    >evening</scary_word> he pursued his researches in the kitchen and cellars and
+                old-fashioned cupboards, of which the basement had an abundance.</p>
+            <p>It was nearly eleven, when, engaged in poking about amongst the <scary_word pos="adj"
+                    scale="0">empty</scary_word> bins of a wine cellar as large as a family vault,
+                he suddenly felt a<scary_phrase><scary_word pos="noun" scale="2">rush</scary_word>
+                    of <scary_word pos="adj" scale="2">cold</scary_word>
+                    <scary_word pos="noun" scale="1">air</scary_word></scary_phrase> at his back.
+                Moving, his candle was <scary_word pos="adv" scale="1">instantly</scary_word>
+                extinguished, and in the <scary_word pos="mod" scale="i">very</scary_word> moment of
+                being left in <scary_word pos="noun" scale="1">darkness</scary_word> he saw,
+                standing in the doorway, a woman, resembling her who had <scary_word pos="verb"
+                    scale="2">haunted</scary_word> his <scary_word pos="noun" scale="1"
+                    >dreams</scary_word> overnight.</p>
+            <p>He rushed with outstretched hands to <scary_word pos="verb" scale="1"
+                    >seize</scary_word> her, but clutched only <scary_word pos="noun" scale="1">air</scary_word>. He
+                relit his candle, and closely examined the basement, shutting off communication with
+                the ground floor ere doing so. All in vain. Not a trace could he find of living
+                creature—not a <scary_word pos="noun" scale="1">window</scary_word> was open—not a
+                door unbolted.</p>
+            <p><speech ref="grahamCoulton">It is <scary_word pos="mod" scale="i">very</scary_word>
+                    odd,</speech> he thought, as, after securely fastening the door at the top of
+                the staircase, he searched the whole upper portion of the <scary_word pos="noun"
+                    scale="0">house</scary_word>, with the exception of the one room mentioned.</p>
+            <p><speech ref="grahamCoulton">I must get the key of that tomorrow,</speech> he decided,
+                standing <scary_word pos="adv" scale="1">gloomily</scary_word> with his back to the
+                    <scary_word pos="noun" scale="0">fire</scary_word> and his <scary_word
+                    pos="noun" scale="0">eyes</scary_word>
+                <scary_word pos="verb" scale="0">wandering</scary_word> about the drawing-room,
+                where he had once again taken up his abode.</p>
+            <p>Even as the thought passed through his mind, he saw standing in the open doorway a
+                woman with <scary_word pos="adj" scale="1">white</scary_word>
+                <scary_word pos="adj" scale="2">dishevelled</scary_word> hair, clad in mean
+                garments, <scary_word pos="adj" scale="2">ragged</scary_word> and <scary_word
+                    pos="adj" scale="2">dirty</scary_word>. She lifted her hand and shook it at him
+                with a <scary_word pos="adj" scale="3">menacing</scary_word> gesture, and then, just
+                as he was darting towards her, a wonderful thing occurred.</p>
+            <p>From behind the great mirror there glided a second female figure, at the sight of
+                which the first turned and fled, littering <scary_word pos="adj" scale="3"
+                    >piercing</scary_word>
+                <scary_word pos="noun" scale="3">shrieks</scary_word> as the other followed her from
+                storey to storey.</p>
+            <p>Sick almost with <scary_word pos="noun" scale="3">terror</scary_word>, <character
+                    ref="grahamCoulton">Graham Coulton</character> watched the <scary_word pos="adj"
+                    scale="3">dreadful</scary_word> pair as they fled upstairs past the <scary_word
+                    pos="adj" scale="0">locked</scary_word> room to the top of the <scary_word
+                    pos="noun" scale="2">house</scary_word>.</p>
+            <p>It was a few minutes before he recovered his self-possession. When he did so, and
+                searched the upper apartments, he found them totally <scary_word pos="adj" scale="1"
+                    >empty</scary_word>.</p>
+            <p>That <scary_word pos="noun" scale="1">night</scary_word>, ere lying <scary_word
+                    pos="adv" scale="0">down</scary_word> before the <scary_word pos="noun"
+                    scale="0">fire</scary_word>, he carefully <scary_word pos="adj" scale="0"
+                    >locked</scary_word> and bolted the drawing-room door; before he did more he
+                drew the <scary_word pos="adj" scale="0">heavy</scary_word> settle in front of it,
+                so that if the lock were forced no entrance could be effected without considerable
+                noise.</p>
+            <p>For some time he lay awake, then dropped into a <scary_word pos="adj" scale="0"
+                    >deep</scary_word> sleep, from which he was awakened suddenly by a noise as if
+                of something scuffling <scary_word pos="adv" scale="2">stealthily</scary_word>
+                behind the wainscot. He raised himself on his elbow and listened, and, to his
+                consternation, beheld seated at the opposite side of the hearth the same woman he
+                had seen before in his <scary_word pos="noun" scale="1">dreams</scary_word>,
+                lamenting over her gold.</p>
+            <p>The <scary_word pos="noun" scale="0">fire</scary_word> was not <scary_word pos="mod"
+                    scale="i">quite</scary_word> out, and at that moment shot up a last tongue of
+                flame. By the <scary_word pos="noun" scale="0">light</scary_word>, transient as it
+                was, he saw that the figure pressed a <scary_word pos="adv" scale="2"
+                    >ghostly</scary_word> finger to its lips, and by the turn of its head and the
+                attitude of its body seemed to be listening.</p>
+            <p>He listened also—indeed, he was too much <scary_word pos="adj" scale="2"
+                    >frightened</scary_word> to do aught else; more and more distinct grew the
+                sounds which had aroused him, a <scary_phrase><scary_word pos="adj" scale="2"
+                        >stealthy</scary_word>
+                    <scary_word pos="noun" scale="3">rustling</scary_word></scary_phrase> coming
+                nearer and nearer—up and up it seemed, behind the wainscot.</p>
+            <p><speech ref="grahamCoulton">It is rats,</speech> thought the young man, though,
+                indeed, his teeth were almost chattering in his head with <scary_word pos="noun"
+                    scale="3">fear</scary_word>. But then in a moment he saw what disabused him of
+                that idea—the gleam of a candle or lamp through a crack in the panelling. He tried
+                to rise, he strove to shout—all in vain; and, sinking <scary_word pos="adv"
+                    scale="0">down</scary_word>, remembered nothing more till he awoke to find the
+                    <scary_word pos="adj" scale="0">grey</scary_word>
+                <scary_word pos="noun" scale="0">light</scary_word> of an early morning <scary_word
+                    pos="verb" scale="0">stealing</scary_word> through one of the <scary_word
+                    pos="noun" scale="0">shutters</scary_word> he had left partially unclosed.</p>
+            <p>For hours after his breakfast, which he scarcely touched, long after <character
+                    ref="william">William</character> had left him at mid-day, <character
+                    ref="grahamCoulton">Graham Coulton</character>, having in the morning made a
+                long and close survey of the <scary_word pos="noun" scale="0">house</scary_word>,
+                sat thinking before the <scary_word pos="noun" scale="0">fire</scary_word>, then,
+                apparently having made up his mind, he put on the hat he had bought, and went
+                out.</p>
+            <p>When he returned the <scary_word pos="noun" scale="0">evening</scary_word>
+                <scary_word pos="noun" scale="1">shadows</scary_word> were <scary_word pos="verb"
+                    scale="1">darkening</scary_word>
+                <scary_word pos="adv" scale="0">down</scary_word>, but the pavements were full of
+                people going marketing, for it was Christmas Eve, and all who had money to spend
+                seemed bent on shopping.</p>
+            <p>It was terribly <scary_word pos="adj" scale="1">dreary</scary_word> inside the
+                    <scary_word pos="adj" scale="1">old</scary_word>
+                <scary_word pos="noun" scale="1">house</scary_word> that <scary_word pos="noun"
+                    scale="1">night</scary_word>. Through the <scary_word pos="adj" scale="1"
+                    >deserted</scary_word> rooms <character ref="grahamCoulton">Graham</character>
+                could feel that <scary_word pos="adv" scale="2">ghostly</scary_word> semblance was
+                    <scary_word pos="verb" scale="2">wandering</scary_word>
+                <scary_word pos="adv" scale="2">mournfully</scary_word>. When he turned his back he
+                knew she was flitting from the mirror to the <scary_word pos="noun" scale="0"
+                    >fire</scary_word>, from the <scary_word pos="noun" scale="0">fire</scary_word>
+                to the mirror; but he was not <scary_word pos="adj" scale="0">afraid</scary_word> of
+                her now—he was far more <scary_word pos="adj" scale="1">afraid</scary_word> of
+                another matter he had taken in hand that day.</p>
+            <p>The <scary_word pos="noun" scale="2">horror</scary_word> of the <scary_word pos="adj"
+                    scale="2">silent</scary_word>
+                <scary_word pos="noun" scale="1">house</scary_word> grew and grew upon him. He could
+                hear the beating of his own heart in the <scary_word pos="adj" scale="1"
+                    >dead</scary_word>
+                <scary_word pos="noun" scale="2">quietude</scary_word> which reigned from garret to
+                cellar.</p>
+            <p>At last <character ref="william">William</character> came; but the young man said
+                nothing to him of what was in his mind. He talked to him cheerfully and hopefully
+                enough—wondered where his father would think he had got to, and hoped <character
+                    ref="mrTynan">Mr Tynan</character> might send him some Christmas pudding. Then
+                the man said it was time for him to go, and, when <character ref="grahamCoulton">Mr
+                    Coulton</character> went downstairs to the hall-door, remarked the key was not
+                in it.</p>
+            <p><speech ref="grahamCoulton">No,</speech> was the answer, <speech ref="grahamCoulton">I took it out today,
+                    to oil it.</speech></p>
+            <p><speech ref="william">It wanted oiling,</speech> agreed <character ref="william"
+                    >William</character>, <speech ref="william">for it worked terribly
+                    stiff.</speech> Having uttered which truism he departed.</p>
+            <p>Very <scary_word pos="adv" scale="0">slowly</scary_word> the young man retraced his
+                way to the drawing-room, where he only paused to lock the door on the outside; then
+                taking off his boots he went up to the top of the <scary_word pos="noun" scale="1"
+                    >house</scary_word>, where, entering the front attic, he waited patiently in
+                    <scary_word pos="noun" scale="1">darkness</scary_word> and in silence.</p>
+            <p>It was a long time, or at least it seemed long to him, before he heard the same sound
+                which had aroused him on the previous <scary_word pos="noun" scale="0"
+                    >night</scary_word>—a <scary_phrase><scary_word pos="adj" scale="2"
+                        >stealthy</scary_word>
+                    <scary_word pos="noun" scale="3">rustling</scary_word></scary_phrase>—then
+                        a<scary_phrase><scary_word pos="noun" scale="2">rush</scary_word> of
+                        <scary_word pos="adj" scale="2">cold</scary_word>
+                    <scary_word pos="noun" scale="2">air</scary_word></scary_phrase>—then cautious
+                    <scary_word pos="noun" scale="2">footsteps</scary_word>—then the quiet opening
+                of a door below.</p>
+            <p>It did not take as long in action as it has required to tell. In a moment the young
+                man was out on the landing and had <scary_word pos="verb" scale="0"
+                    >closed</scary_word> a portion of the panelling on the wall which stood open;
+                noiselessly he crept back to the attic <scary_word pos="noun" scale="0"
+                    >window</scary_word>, unlatched it, and sprung a <scary_word pos="noun"
+                    scale="0">rattle</scary_word>, the sound of which <scary_word pos="verb"
+                    scale="1">echoed</scary_word> far and near through the <scary_word pos="adj"
+                    scale="1">deserted</scary_word> streets, then rushing <scary_word pos="adv"
+                    scale="0">down</scary_word> the stairs, he encountered a man who, darting past
+                him, made for the landing above; but perceiving the way of escape <scary_word
+                    pos="adj" scale="1">closed</scary_word>, fled <scary_word pos="adv" scale="0"
+                    >down</scary_word> again, to find <character ref="grahamCoulton"
+                    >Graham</character> struggling desperately with his fellow.</p>
+            <p><speech ref="intruder">Give him the knife—come along,</speech> he said <scary_word pos="adv"
+                    scale="3">savagely</scary_word>; and next <scary_word pos="noun" scale="1"
+                    >instant</scary_word>
+                <character ref="grahamCoulton">Graham</character>
+                <scary_phrase>felt something like a <scary_word pos="adj" scale="2">hot</scary_word>
+                    <scary_word pos="noun" scale="2">iron</scary_word> through his
+                    shoulder</scary_phrase>, and then heard a <scary_word pos="noun" scale="1"
+                    >thud</scary_word>, as one of the men, tripping in his rapid flight, fell from
+                the top of the stairs to the bottom.</p>
+            <p>At the same moment there came a <scary_word pos="noun" scale="2">crash</scary_word>,
+                as if the <scary_word pos="noun" scale="1">house</scary_word> was <scary_word
+                    pos="verb" scale="2">falling</scary_word>, and <scary_word pos="adj" scale="1"
+                    >faint</scary_word>, <scary_word pos="adj" scale="1">sick</scary_word>, and
+                    <scary_word pos="verb" scale="2">bleeding</scary_word>, young <character
+                    ref="grahamCoulton">Coulton</character> lay <scary_word pos="adj" scale="1"
+                    >insensible</scary_word> on the threshold of the room where <character
+                    ref="missTynan">Miss Tynan</character> had been <scary_word pos="verb" scale="3"
+                    >murdered</scary_word>.</p>
+            <p>When he recovered he was in the dining-room, and a doctor was <scary_word pos="verb"
+                    scale="0">examining</scary_word> his wound. Near the door a policeman stiffly
+                kept guard. The hall was full of people; all the misery and vagabondism the streets
+                contain at that hour was crowding in to see what had happened.</p>
+            <p>Through the midst two men were being conveyed to the station-house; one, with his
+                head <scary_word pos="adv" scale="1">dreadfully</scary_word> injured, on a
+                stretcher, the other handcuffed, uttering <scary_word pos="adj" scale="2"
+                    >frightful</scary_word> imprecations as he went.</p>
+            <p>After a time the <scary_word pos="noun" scale="0">house</scary_word> was cleared of
+                the rabble, the police took possession of it, and <character ref="mrTynan">Mr
+                    Tynan</character> was sent for.</p>
+            <p><speech ref="grahamCoulton">What was that <scary_word pos="adj" scale="2"
+                        >dreadful</scary_word> noise?</speech> asked Graham feebly, now seated on
+                the floor, with his back resting against the wall.</p>
+            <p><speech ref="mrTynan">I do not know. Was there a noise?</speech> said <character ref="mrTynan">Mr
+                    Tynan</character>, humouring his fancy, as he thought.</p>
+            <p>
+                <speech ref="grahamCoulton">Yes, in the drawing-room, I think; the key is in my
+                    pocket.</speech>
+            </p>
+            <p>Still humouring the wounded lad, <character ref="mrTynan">Mr Tynan</character> took
+                the key and ran upstairs.</p>
+            <p>When he unlocked the door, what a sight met his <scary_word pos="noun" scale="0"
+                    >eyes</scary_word>! The mirror had <scary_word pos="verb" scale="2"
+                    >fallen</scary_word>—it was lying all over the floor <scary_word pos="verb"
+                    scale="2">shivered</scary_word> into a thousand pieces; the console table had
+                been borne <scary_word pos="adv" scale="1">down</scary_word> by its weight, and the
+                marble slab was <scary_word pos="verb" scale="1">shattered</scary_word> as well. But
+                this was not what chained his attention. Hundreds, thousands of gold pieces were
+                scattered about, and an aperture behind the glass contained boxes filled with
+                securities and deeds and bonds, the possession of which had cost his sister her
+                life.</p>
+            <p><speech ref="admiralCoulton">Well, <character ref="grahamCoulton">Graham</character>,
+                    and what do you want?</speech> asked <character ref="admiralCoulton">Admiral
+                    Coulton</character> that <scary_word pos="noun" scale="0">evening</scary_word>
+                as his eldest born appeared before him, looking somewhat <scary_word pos="adj"
+                    scale="1">pale</scary_word> but otherwise unchanged.</p>
+            <p><speech ref="grahamCoulton">I want nothing,</speech> was the answer, <speech
+                    ref="grahamCoulton">but to ask your forgiveness. <character ref="william"
+                        >William</character> has told me all the story I never knew before; and, if
+                    you let me, I will try to make it up to you for the <scary_word pos="noun"
+                        scale="0">trouble</scary_word> you have had. I am provided for,</speech>
+                went on the young fellow, with a <scary_word pos="adj" scale="0"
+                    >nervous</scary_word> laugh; <speech ref="grahamCoulton">I have made my fortune
+                    since I left you, and another man's fortune as well.</speech></p>
+            <p><speech ref="admiralCoulton">I think you are out of your senses,</speech> said the
+                    <character ref="admiralCoulton">Admiral</character> shortly.</p>
+            <p><speech ref="grahamCoulton">No, sir, I have found them,</speech> was the answer;
+                    <speech ref="grahamCoulton">and I mean to <scary_word pos="verb" scale="0"
+                        >strive</scary_word> and make a better thing of my life than I should ever
+                    have done had I not gone to the Old House in Vauxhall Walk.</speech></p>
+            <p>
+                <speech ref="admiralCoulton">Vauxhall Walk! What is the lad talking about?</speech>
+            </p>
+            <plot point="resolve"/>
+            <p><speech ref="grahamCoulton">I will tell you, sir, if I may sit <scary_word pos="adv"
+                        scale="0">down</scary_word>,</speech> was <character ref="grahamCoulton"
+                    >Graham Coulton</character>'s answer, and then he told his story.</p>
+        </chapter>
+    </body>
+</story>
