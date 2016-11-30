@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <meta>
         <title>The Shadow in the Corner</title>
@@ -9,7 +9,8 @@
         <plot point="intro"/>
         <p>Wildheath Grange stood a little way back from the road, with a <scary_word pos="adj"
                 scale="2">barren</scary_word> stretch of heath behind it, and a few <scary_word
-                pos="adj" scale="2">tall</scary_word> <scary_word pos="noun" scale="2">fir-trees</scary_word>, with <scary_word scale="2"
+                pos="adj" scale="2">tall</scary_word>
+            <scary_word pos="noun" scale="2">fir-trees</scary_word>, with <scary_word scale="2"
                 pos="adj">straggling</scary_word>
             <scary_word pos="adj" scale="2">wind-tossed</scary_word> heads, for its only shelter. It
             was a <scary_word scale="2" pos="adj">lonely</scary_word>
@@ -55,16 +56,17 @@
         <p>At three-and-thirty <character ref="michaelBascom">Michael Bascom</character> had seemed
             a middle-aged man; at fifty-six he looked and moved and spoke like an <scary_word
                 pos="adj" scale="1">old</scary_word> man. During that interval of twenty-three years
-            he had lived <scary_word pos="adj" scale="1">alone</scary_word> in Wildheath Grange, and the country people told each other that the
-                <scary_word scale="1" pos="noun">house</scary_word> had made him what he was. This
-            was a fanciful and superstitious notion on their part, doubtless, yet it would not have
-            been difficult to have traced a certain affinity between the <scary_word pos="adj"
-                scale="1">dull</scary_word>
+            he had lived <scary_word pos="adj" scale="1">alone</scary_word> in Wildheath Grange, and
+            the country people told each other that the <scary_word scale="1" pos="noun"
+                >house</scary_word> had made him what he was. This was a fanciful and superstitious
+            notion on their part, doubtless, yet it would not have been difficult to have traced a
+            certain affinity between the <scary_word pos="adj" scale="1">dull</scary_word>
             <scary_word pos="adj" scale="1">grey</scary_word> building and the man who lived in it.
             Both seemed alike remote from the common cares and interests of humanity; both had an
             air of settled <scary_word pos="adj" scale="2">melancholy</scary_word>, engendered by
             perpetual <scary_word pos="adj" scale="1">solitude</scary_word>; both had the same faded
-            complexion, the same look of <scary_word pos="adj" scale="1">slow</scary_word> decay.</p>
+            complexion, the same look of <scary_word pos="adj" scale="1">slow</scary_word>
+            decay.</p>
 
         <p>Yet lonely as <character ref="michaelBascom">Michael Bascom</character>’s life was at
             Wildheath Grange, he would not on any account have altered its tenor. He had been glad
@@ -84,26 +86,29 @@
             middle-aged when he first employed him, was actually getting <scary_word pos="adj"
                 scale="1">old</scary_word>–<character ref="michaelBascom">Mr. Bascom</character>’s
             breakfast meditations over the latest treatise on the atomic theory were interrupted by
-            an abrupt demand from that <scary_word pos="adj" scale="i">very</scary_word> <character ref="danielSkegg">Daniel Skegg</character>.
-            The man was accustomed to wait upon his master in the most absolute <scary_word pos="noun" scale="1">silence</scary_word>, and his
-            sudden breaking out into speech was almost as startling as if the bust of Socrates above
-            the bookcase had burst into human language.</p>
+            an abrupt demand from that <scary_word pos="adj" scale="i">very</scary_word>
+            <character ref="danielSkegg">Daniel Skegg</character>. The man was accustomed to wait
+            upon his master in the most absolute <scary_word pos="noun" scale="1"
+                >silence</scary_word>, and his sudden breaking out into speech was almost as
+            startling as if the bust of Socrates above the bookcase had burst into human
+            language.</p>
 
         <p><speech ref="danielSkegg">It’s no use,</speech> said<character ref="danielSkegg">
-                Daniel</character>; <speech ref="danielSkegg">my missus must have a girl!</speech></p>
+                Daniel</character>; <speech ref="danielSkegg">my missus must have a
+            girl!</speech></p>
 
         <p><speech ref="michaelBascom">A what?</speech> demanded <character ref="michaelBascom">Mr.
                 Bascom</character>, without taking his eyes from the line he had been reading.</p>
 
         <p><speech ref="danielSkegg">A girl–a girl to trot about and wash up, and help the
                     <scary_word pos="adj" scale="1">old</scary_word> lady. She’s getting weak on her
-                legs, <scary_word pos="adj" scale="1">poor</scary_word> soul. We’ve none of us grown younger in the last twenty
-            years.</speech></p>
+                legs, <scary_word pos="adj" scale="1">poor</scary_word> soul. We’ve none of us grown
+                younger in the last twenty years.</speech></p>
 
         <p><speech ref="michaelBascom">Twenty years!</speech> echoed <character ref="michaelBascom"
-                >Michael Bascom</character> scornfully. <speech ref="michaelBascom">What is twenty years in the
-                formation of a strata–what even in the growth of an oak–the cooling of a
-                volcano!</speech></p>
+                >Michael Bascom</character> scornfully. <speech ref="michaelBascom">What is twenty
+                years in the formation of a strata–what even in the growth of an oak–the cooling of
+                a volcano!</speech></p>
 
         <p><speech ref="danielSkegg">Not much, perhaps, but it’s apt to tell upon the bones of a
                 human being.</speech></p>
@@ -137,25 +142,27 @@
             servant.</p>
 
         <p><speech ref="michaelBascom">Skegg,</speech> he said in a <scary_word scale="1" pos="adj"
-                >severe</scary_word> voice, <speech ref="michaelBascom">I thought you had lived long enough with
-                me to be superior to any folly of that kind.</speech></p>
+                >severe</scary_word> voice, <speech ref="michaelBascom">I thought you had lived long
+                enough with me to be superior to any folly of that kind.</speech></p>
 
-        <p><speech ref="danielSkegg">I don’t say that I believe in <scary_word pos="noun" scale="1">ghosts</scary_word>,</speech>
-                answered<character ref="danielSkegg"> Daniel</character> with a semi-apologetic air;
-                <speech ref="danielSkegg">but the country people do. There’s not a mortal among ’em
-                that will venture across our threshold after nightfall.</speech></p>
+        <p><speech ref="danielSkegg">I don’t say that I believe in <scary_word pos="noun" scale="1"
+                    >ghosts</scary_word>,</speech> answered<character ref="danielSkegg">
+                Daniel</character> with a semi-apologetic air; <speech ref="danielSkegg">but the
+                country people do. There’s not a mortal among ’em that will venture across our
+                threshold after nightfall.</speech></p>
 
         <p><speech ref="michaelBascom">Merely because <character ref="anthonyBascom">Anthony
-                    Bascom</character>, who led a <scary_word pos="adj" scale="1">wild</scary_word> life in London, and <scary_word scale="1"
-                    pos="verb">lost</scary_word> his money and land, came home here <scary_word pos="adj" scale="1">broken</scary_word>-hearted,
+                    Bascom</character>, who led a <scary_word pos="adj" scale="1">wild</scary_word>
+                life in London, and <scary_word scale="1" pos="verb">lost</scary_word> his money and
+                land, came home here <scary_word pos="adj" scale="1">broken</scary_word>-hearted,
                 and is supposed to have destroyed himself in this <scary_word scale="2" pos="noun"
                     >house</scary_word>–the only remnant of property that was left him out of a fine
                 estate.</speech></p>
 
         <p><speech ref="danielSkegg">Supposed to have destroyed himself!</speech> cried <character
-                ref="danielSkegg">Skegg</character>; <speech ref="danielSkegg">why the fact is as well known as
-                the death of Queen Elizabeth, or the great fire of London. Why, wasn’t he
-                    <scary_word scale="2" pos="verb">buried</scary_word> at the cross-roads between
+                ref="danielSkegg">Skegg</character>; <speech ref="danielSkegg">why the fact is as
+                well known as the death of Queen Elizabeth, or the great fire of London. Why, wasn’t
+                he <scary_word scale="2" pos="verb">buried</scary_word> at the cross-roads between
                 here and Holcroft?</speech></p>
 
         <p><speech ref="michaelBascom">An idle tradition, for which you could produce no substantial
@@ -182,17 +189,18 @@
         <p><character ref="michaelBascom">Michael Bascom</character> was too deep in the atomic
             theory to give a second thought to the necessities of an <scary_word pos="adj" scale="1"
                 >old</scary_word> servant. <character ref="mrsSkegg">Mrs. Skegg</character> was an
-            individual with whom he rarely came in contact. She lived for the most part in a <scary_word pos="adj" scale="2">gloomy</scary_word>
-            region at the north end of the <scary_word scale="2" pos="noun">house</scary_word>,
-            where she ruled over the <scary_word pos="adj" scale="1">solitude</scary_word> of a
-            kitchen, that looked like a cathedral, and numerous offices of the sculler, larder, and
-            pantry class, where she carried on a perpetual warfare with spiders and beetles, and
-            wore her <scary_word pos="adj" scale="1">old</scary_word> life out in the labour of
-            sweeping and scrubbing. She was a woman of <scary_word pos="adj" scale="1"
-                >severe</scary_word> aspect, dogmatic piety, and a bitter tongue. She was a good
-            plain cook, and ministered diligently to her master’s wants. He was not an epicure, but
-            liked his life to be smooth and easy, and the equilibrium of his mental power would have
-            been disturbed by a <scary_word scale="1" pos="adj">bad</scary_word> dinner.</p>
+            individual with whom he rarely came in contact. She lived for the most part in a
+                <scary_word pos="adj" scale="2">gloomy</scary_word> region at the north end of the
+                <scary_word scale="2" pos="noun">house</scary_word>, where she ruled over the
+                <scary_word pos="adj" scale="1">solitude</scary_word> of a kitchen, that looked like
+            a cathedral, and numerous offices of the sculler, larder, and pantry class, where she
+            carried on a perpetual warfare with spiders and beetles, and wore her <scary_word
+                pos="adj" scale="1">old</scary_word> life out in the labour of sweeping and
+            scrubbing. She was a woman of <scary_word pos="adj" scale="1">severe</scary_word>
+            aspect, dogmatic piety, and a bitter tongue. She was a good plain cook, and ministered
+            diligently to her master’s wants. He was not an epicure, but liked his life to be smooth
+            and easy, and the equilibrium of his mental power would have been disturbed by a
+                <scary_word scale="1" pos="adj">bad</scary_word> dinner.</p>
 
         <p>He heard no more about the proposed addition to his <scary_word scale="1" pos="noun"
                 >house</scary_word>hold for a space of ten days, when <character ref="danielSkegg"
@@ -215,26 +223,28 @@
 
         <p><speech ref="michaelBascom">I hope she’s respectable,</speech> said Michael.</p>
 
-        <p><speech ref="danielSkegg">Respectable! That’s the only fault she has, <scary_word pos="adj" scale="1">poor</scary_word> thing. She’s
-                too good for the place. She’s never been in service before, but she says she’s
-                willing to work, and I daresay my <scary_word pos="adj" scale="1">old</scary_word>
-                woman will be able to break her in. Her father was a small tradesman at Yarmouth. He
-                died a month ago, and left this <scary_word pos="adj" scale="1">poor</scary_word> thing homeless. Mrs. Midge, at Holcroft, is her
-                aunt, and she said to the girl, Come and stay with me till you get a place; and the
-                girl has been staying with Mrs. Midge for the last three weeks, trying to hear of a
-                place. When Mrs. Midge heard that my missus wanted a girl to help, she thought it
-                would be the <scary_word pos="adj" scale="i">very</scary_word> thing for her niece <character ref="maria">Maria</character>.
-                Luckily <character ref="maria">Maria</character> had heard nothing about this
-                    <scary_word scale="1" pos="noun">house</scary_word>, so the <scary_word pos="adj" scale="1">poor</scary_word> innocent
-                dropped me a curtsey, and said she’d be thankful to come, and would do her best to
-                learn her duty. She’d had an easy time of it with her father, who had educated her
-                above her station, like a fool as he was,</speech> growled<character
-                ref="danielSkegg"> Daniel</character>.</p>
+        <p><speech ref="danielSkegg">Respectable! That’s the only fault she has, <scary_word
+                    pos="adj" scale="1">poor</scary_word> thing. She’s too good for the place. She’s
+                never been in service before, but she says she’s willing to work, and I daresay my
+                    <scary_word pos="adj" scale="1">old</scary_word> woman will be able to break her
+                in. Her father was a small tradesman at Yarmouth. He died a month ago, and left this
+                    <scary_word pos="adj" scale="1">poor</scary_word> thing homeless. Mrs. Midge, at
+                Holcroft, is her aunt, and she said to the girl, Come and stay with me till you get
+                a place; and the girl has been staying with Mrs. Midge for the last three weeks,
+                trying to hear of a place. When Mrs. Midge heard that my missus wanted a girl to
+                help, she thought it would be the <scary_word pos="adj" scale="i">very</scary_word>
+                thing for her niece <character ref="maria">Maria</character>. Luckily <character
+                    ref="maria">Maria</character> had heard nothing about this <scary_word scale="1"
+                    pos="noun">house</scary_word>, so the <scary_word pos="adj" scale="1"
+                    >poor</scary_word> innocent dropped me a curtsey, and said she’d be thankful to
+                come, and would do her best to learn her duty. She’d had an easy time of it with her
+                father, who had educated her above her station, like a fool as he was,</speech>
+                growled<character ref="danielSkegg"> Daniel</character>.</p>
 
         <p><speech ref="michaelBascom">By your own account I’m <scary_word pos="adj" scale="1"
-                    >afraid</scary_word> you’ve made a <scary_word pos="adj" scale="1">bad</scary_word> bargain,</speech> said Michael. <speech
-                ref="michaelBascom">You don’t want a young lady to clean kettles and
-            pans.</speech></p>
+                    >afraid</scary_word> you’ve made a <scary_word pos="adj" scale="1"
+                    >bad</scary_word> bargain,</speech> said Michael. <speech ref="michaelBascom"
+                >You don’t want a young lady to clean kettles and pans.</speech></p>
 
         <p><speech ref="danielSkegg">If she was a young duchess my <scary_word pos="adj" scale="1"
                     >old</scary_word> woman would make her work,</speech> retorted <character
@@ -258,9 +268,10 @@
                     pos="noun">house</scary_word>. That’s the only ceiling that doesn’t let water.
                 She might as well sleep in a shower-bath as in any of the other attics.</speech></p>
 
-        <p><speech ref="michaelBascom">The room at the north end,</speech> <scary_word pos="verb" scale="1">repeated</scary_word> <character
-                ref="michaelBascom">Mr. Bascom</character> thoughtfully; <speech ref="michaelBascom"
-                >isn’t that—-?</speech></p>
+        <p><speech ref="michaelBascom">The room at the north end,</speech>
+            <scary_word pos="verb" scale="1">repeated</scary_word>
+            <character ref="michaelBascom">Mr. Bascom</character> thoughtfully; <speech
+                ref="michaelBascom">isn’t that—-?</speech></p>
 
         <p><speech ref="danielSkegg">Of course it is,</speech> snapped <character ref="danielSkegg"
                 >Skegg</character>; <speech ref="danielSkegg">but she doesn’t know anything about
@@ -281,9 +292,10 @@
         <p>The girl was a slim little thing, with a <scary_word scale="1" pos="adj"
                 >pale</scary_word> and somewhat <scary_word pos="adj" scale="1"
                 >old-fashioned</scary_word> face, flaxen hair, braided under a neat muslin cap, a
-            <scary_word pos="adj" scale="i">very</scary_word> fair complexion, and light blue eyes. They were the lightest blue eyes <character
-                ref="michaelBascom">Michael Bascom</character> had ever seen, but there was a
-            sweetness and gentleness in their expression which atoned for their insipid colour.</p>
+                <scary_word pos="adj" scale="i">very</scary_word> fair complexion, and light blue
+            eyes. They were the lightest blue eyes <character ref="michaelBascom">Michael
+                Bascom</character> had ever seen, but there was a sweetness and gentleness in their
+            expression which atoned for their insipid colour.</p>
 
         <p><speech ref="maria">I hope you do not object to my dusting your books, sir,</speech> she
             said, dropping a curtsey.</p>
@@ -295,7 +307,8 @@
                 papers are not disturbed. If you take a volume off my desk, replace it on the spot
                 you took it from. That’s all I ask.</speech></p>
 
-        <p><speech ref="maria">I will be <scary_word pos="adj" scale="i">very</scary_word> careful, sir.</speech></p>
+        <p><speech ref="maria">I will be <scary_word pos="adj" scale="i">very</scary_word> careful,
+                sir.</speech></p>
 
         <p><speech ref="michaelBascom">When did you come here?</speech></p>
 
@@ -303,13 +316,14 @@
 
         <p>The student seated himself at his desk, and the girl withdrew, drifting out of the room
             as noiselessly as a flower blown across the threshold. <character ref="michaelBascom"
-                >Michael Bascom</character> looked after her <scary_word scale="1" pos="adv">curiously</scary_word>. He had seen <scary_word pos="adj" scale="i">very</scary_word> little of
-            youthful womanhood in his dry-as-dust career, and he wondered at this girl as at a
-            creature of a species hitherto unknown to him. How fairly and delicately she was
-            fashioned; what a translucent skin; what soft and pleasing accents issued from those
-            rose-tinted lips. A pretty thing, assuredly, this kitchen wench! A pit that in all this
-            busy world there could be no better work found for her than the scouring of pots and
-            pans.</p>
+                >Michael Bascom</character> looked after her <scary_word scale="1" pos="adv"
+                >curiously</scary_word>. He had seen <scary_word pos="adj" scale="i"
+                >very</scary_word> little of youthful womanhood in his dry-as-dust career, and he
+            wondered at this girl as at a creature of a species hitherto unknown to him. How fairly
+            and delicately she was fashioned; what a translucent skin; what soft and pleasing
+            accents issued from those rose-tinted lips. A pretty thing, assuredly, this kitchen
+            wench! A pit that in all this busy world there could be no better work found for her
+            than the scouring of pots and pans.</p>
 
         <p>Absorbed in considerations about dry bones, <character ref="michaelBascom">Mr.
                 Bascom</character> thought no more of the <scary_word pos="adj" scale="1"
@@ -335,14 +349,15 @@
         <p><speech ref="michaelBascom">There is something amiss, I am sure,</speech> he said.
                 <speech ref="michaelBascom">What is it?</speech></p>
 
-        <p><speech ref="maria">Nothing, sir,</speech> she faltered, looking <scary_word pos="adv" scale="i">still</scary_word> more scared at his
-            question. <speech ref="maria">Indeed, it is nothing; or nothing worth troubling you
-                about.</speech></p>
+        <p><speech ref="maria">Nothing, sir,</speech> she faltered, looking <scary_word pos="adv"
+                scale="i">still</scary_word> more scared at his question. <speech ref="maria"
+                >Indeed, it is nothing; or nothing worth troubling you about.</speech></p>
 
         <p><speech ref="michaelBascom">Nonsense. Do you suppose, because I live among books, I have
-                no sympathy with my fellow-creatures? Tell me what is wrong with you, <scary_word pos="noun" scale="1">child</scary_word>. You
-                have been grieving about the father you have lately <scary_word pos="verb" scale="1"
-                    >lost</scary_word>, I suppose.</speech></p>
+                no sympathy with my fellow-creatures? Tell me what is wrong with you, <scary_word
+                    pos="noun" scale="1">child</scary_word>. You have been grieving about the father
+                you have lately <scary_word pos="verb" scale="1">lost</scary_word>, I
+                suppose.</speech></p>
 
         <p><speech ref="maria">No, sir; it is not that. I shall never leave off being sorry for
                 that. It is a grief which will last me all my life.</speech></p>
@@ -351,20 +366,22 @@
             impatiently. <speech ref="michaelBascom">I see; you are not happy here. Hard work does
                 not suit you. I thought as much.</speech></p>
 
-        <p><speech ref="maria">Oh, sir, please don’t think that,</speech> cried the girl, <scary_word pos="adj" scale="i">very</scary_word>
-            earnestly. <speech ref="maria">Indeed, I am glad to work–glad to be in service; it is
-                only—-</speech></p>
+        <p><speech ref="maria">Oh, sir, please don’t think that,</speech> cried the girl,
+                <scary_word pos="adj" scale="i">very</scary_word> earnestly. <speech ref="maria"
+                >Indeed, I am glad to work–glad to be in service; it is only—-</speech></p>
 
-        <p>She faltered and <scary_word pos="verb" scale="2">broke</scary_word> down, the tears rolling <scary_word pos="adv" scale="2">slowly</scary_word> from her sorrowful eyes, despite
-            her effort to keep them back.</p>
+        <p>She faltered and <scary_word pos="verb" scale="2">broke</scary_word> down, the tears
+            rolling <scary_word pos="adv" scale="2">slowly</scary_word> from her sorrowful eyes,
+            despite her effort to keep them back.</p>
 
         <p><speech ref="michaelBascom">Only what?</speech> cried Michael, growing angry. <speech
                 ref="michaelBascom">The girl is full of <scary_word pos="noun" scale="2"
                     >secrets</scary_word> and <scary_word pos="noun" scale="2"
                     >mysteries</scary_word>. What do you mean, wench?</speech></p>
 
-        <p><speech ref="maria">I–I know it is <scary_word pos="adj" scale="i">very</scary_word> foolish, sir; but I am <scary_word pos="adj"
-                    scale="2">afraid</scary_word> of the room where I sleep.</speech></p>
+        <p><speech ref="maria">I–I know it is <scary_word pos="adj" scale="i">very</scary_word>
+                foolish, sir; but I am <scary_word pos="adj" scale="2">afraid</scary_word> of the
+                room where I sleep.</speech></p>
 
         <p><speech ref="michaelBascom"><scary_word pos="adj" scale="2">Afraid</scary_word>!
                 Why?</speech></p>
@@ -385,23 +402,27 @@
         <p><speech ref="maria">You may not know the room where I sleep, sir; it is a large room at
                 one end of the <scary_word scale="1" pos="noun">house</scary_word>, looking towards
                 the sea. I can see the dark line of water from the window, and I wonder sometimes to
-                think that it is the same ocean I used to see when I was a <scary_word pos="noun" scale="1">child </scary_word>at Yarmouth. It is
-                <scary_word pos="adj" scale="i">very</scary_word> lonely, sir, at the top of the <scary_word scale="1" pos="noun"
-                    >house</scary_word>. Mr. and <character ref="mrsSkegg">Mrs. Skegg</character>
-                sleep in a little room near the kitchen, you know, sir, and I am quite <scary_word pos="adj" scale="1">alone</scary_word> on the
-                top floor.</speech></p>
+                think that it is the same ocean I used to see when I was a <scary_word pos="noun"
+                    scale="1">child </scary_word>at Yarmouth. It is <scary_word pos="adj" scale="i"
+                    >very</scary_word> lonely, sir, at the top of the <scary_word scale="1"
+                    pos="noun">house</scary_word>. Mr. and <character ref="mrsSkegg">Mrs.
+                    Skegg</character> sleep in a little room near the kitchen, you know, sir, and I
+                am quite <scary_word pos="adj" scale="1">alone</scary_word> on the top
+                floor.</speech></p>
 
         <p><speech ref="michaelBascom">Skegg told me you had been educated in advance of your
                 position in life, <character ref="maria">Maria</character>. I should have thought
                 the first effect of a good education would have been to make you superior to any
-                foolish fancies about <scary_word pos="adj" scale="1">empty</scary_word> rooms.</speech></p>
+                foolish fancies about <scary_word pos="adj" scale="1">empty</scary_word>
+                rooms.</speech></p>
 
         <p><speech ref="maria">Oh, pray, sir, do not think it is any fault in my education. Father
-                took such <scary_word pos="noun" scale="1">pains</scary_word> with me; he spared no expense in giving me as good an education as a
-                tradesman’s daughter need wish for. And he was a religious man, sir. He did not
-                believe</speech>–here she paused, with a suppressed shudder–<speech ref="maria">in the
-                spirits of the <scary_word scale="2" pos="adj">dead</scary_word> appearing to the
-                living, since the days of miracles, when the <scary_word pos="noun" scale="1">ghost</scary_word> of Samuel appeared to
+                took such <scary_word pos="noun" scale="1">pains</scary_word> with me; he spared no
+                expense in giving me as good an education as a tradesman’s daughter need wish for.
+                And he was a religious man, sir. He did not believe</speech>–here she paused, with a
+            suppressed shudder–<speech ref="maria">in the spirits of the <scary_word scale="2"
+                    pos="adj">dead</scary_word> appearing to the living, since the days of miracles,
+                when the <scary_word pos="noun" scale="1">ghost</scary_word> of Samuel appeared to
                 Saul</speech>.</p>
 
         <p>He never put any foolish ideas into my head, sir. I hadn’t a thought of <scary_word
@@ -410,13 +431,14 @@
 
         <p><speech ref="michaelBascom">Well, what then?</speech></p>
 
-        <p><speech ref="maria">But on the <scary_word pos="adj" scale="i">very</scary_word> first night,</speech> the girl went on breathlessly,
-                <speech ref="maria">I felt weighed down in my sleep as if there were some heavy
-                burden laid upon my chest. It was not a <scary_word scale="1" pos="adj">bad</scary_word> dream, but it was a sense of <scary_word
-                    pos="noun" scale="2">trouble</scary_word> that followed me all through my sleep;
-                and just at daybreak–it begins to be light a little after six–I woke suddenly, with
-                the <scary_word pos="adj" scale="3">cold</scary_word>
-                <scary_word pos="noun" scale="3">perspiration</scary_word> pouring down my face, and
+        <p><speech ref="maria">But on the <scary_word pos="adj" scale="i">very</scary_word> first
+                night,</speech> the girl went on breathlessly, <speech ref="maria">I felt weighed
+                down in my sleep as if there were some heavy burden laid upon my chest. It was not a
+                    <scary_word scale="1" pos="adj">bad</scary_word> dream, but it was a sense of
+                    <scary_word pos="noun" scale="2">trouble</scary_word> that followed me all
+                through my sleep; and just at daybreak–it begins to be light a little after six–I
+                woke suddenly, with the <scary_phrase><scary_word pos="adj" scale="3">cold</scary_word>
+                <scary_word pos="noun" scale="3">perspiration</scary_word> pouring down my face</scary_phrase>, and
                 knew that there was something <scary_word pos="adj" scale="3">dreadful</scary_word>
                 in the room.</speech></p>
 
@@ -441,22 +463,24 @@
 
         <p><speech ref="michaelBascom">What?</speech> asked Michael eagerly.</p>
 
-        <p><speech ref="maria">The shape of a <scary_word scale="3" pos="adj">dead</scary_word> body
+        <p><speech ref="maria"><scary_phrase>The shape of a <scary_word scale="3" pos="adj">dead</scary_word> body
                     <scary_word scale="3" pos="verb">hanging</scary_word> against the
-            wall!</speech></p>
+            wall!</scary_phrase></speech></p>
 
         <p><character ref="michaelBascom">Michael Bascom</character> grew <scary_word scale="1"
                 pos="adv">strangely</scary_word>
             <scary_word pos="adj" scale="2">pale</scary_word>, yet he affected utter
             incredulity.</p>
 
-        <p><speech ref="michaelBascom"><scary_word pos="adj" scale="1">Poor</scary_word> <scary_word pos="noun" scale="1">child</scary_word>,</speech> he said kindly; <speech ref="michaelBascom">you have been fretting
-                about your father until your <scary_word pos="noun" scale="1">nerves</scary_word> are in a weak state, and you are full of
-                fancies. A <scary_word pos="noun" scale="1">shadow</scary_word> in the corner,
-                indeed; why, at daybreak, every corner is full of <scary_word pos="noun" scale="2"
-                    >shadows</scary_word>. My <scary_word pos="adj" scale="1">old</scary_word> coat,
-                flung upon a chair, will make you as good a <scary_word pos="noun" scale="1">ghost</scary_word> as you need care to
-            see.</speech></p>
+        <p><speech ref="michaelBascom"><scary_word pos="adj" scale="1">Poor</scary_word>
+                <scary_word pos="noun" scale="1">child</scary_word>,</speech> he said kindly;
+                <speech ref="michaelBascom">you have been fretting about your father until your
+                    <scary_word pos="noun" scale="1">nerves</scary_word> are in a weak state, and
+                you are full of fancies. A <scary_word pos="noun" scale="1">shadow</scary_word> in
+                the corner, indeed; why, at daybreak, every corner is full of <scary_word pos="noun"
+                    scale="2">shadows</scary_word>. My <scary_word pos="adj" scale="1"
+                    >old</scary_word> coat, flung upon a chair, will make you as good a <scary_word
+                    pos="noun" scale="1">ghost</scary_word> as you need care to see.</speech></p>
 
         <p><speech ref="maria">Oh, sir, I have tried to think it is my fancy. But I have had the
                 same burden weighing me down every night. I have seen the same <scary_word
@@ -483,30 +507,36 @@
             <character ref="maria">Maria</character> answered meekly, dropping a curtsey.</p>
 
         <p><character ref="maria">Maria</character> went back to the kitchen sorely depressed. It
-            was a <scary_word scale="1" pos="adj">dreary</scary_word> life she led at Wildheath Grange–<scary_word scale="1" pos="adj">dreary</scary_word> by day, awful by night; for the
-            vague burden and the <scary_word scale="1" pos="adj">shapeless</scary_word>
+            was a <scary_word scale="1" pos="adj">dreary</scary_word> life she led at Wildheath
+                Grange–<scary_word scale="1" pos="adj">dreary</scary_word> by day, awful by night;
+            for the vague burden and the <scary_word scale="1" pos="adj">shapeless</scary_word>
             <scary_word pos="noun" scale="1">shadow</scary_word>, which seemed so slight a matter to
-            the elderly scholar, were unspeakably <scary_word scale="2" pos="adj">terrible</scary_word> to her. Nobody had told her that the
-                <scary_word scale="2" pos="noun">house</scary_word> was <scary_word pos="adj"
-                scale="2">haunted</scary_word>, yet she walked about those echoing passages wrapped
-            round with a <scary_word scale="1" pos="noun">cloud</scary_word> of <scary_word pos="noun" scale="2">fear</scary_word>. She had no
-            pity from <character ref="danielSkegg">Daniel Skegg</character> and his <character
-                ref="mrsSkegg">wife</character>. Those two pious souls had made up their minds that
-            the character of the <scary_word scale="1" pos="noun">house</scary_word> should be
-            upheld, so far as <character ref="maria">Maria</character> went. To her, as a foreigner,
-            the Grange should be maintained to be an immaculate dwelling, tainted by no sulphurous
-            blast from the under world. A willing, biddable girl had become a necessary element in
-            the existence of <character ref="mrsSkegg">Mrs. Skegg</character>. That girl had been
-            found, and that girl must be kept. Any fancies of a <scary_word pos="adj" scale="1">supernatural</scary_word> character must be put
-            down with a high hand.</p>
+            the elderly scholar, were unspeakably <scary_word scale="2" pos="adj"
+                >terrible</scary_word> to her. Nobody had told her that the <scary_word scale="2"
+                pos="noun">house</scary_word> was <scary_word pos="adj" scale="2"
+                >haunted</scary_word>, yet she walked about those echoing passages wrapped round
+            with a <scary_word scale="1" pos="noun">cloud</scary_word> of <scary_word pos="noun"
+                scale="2">fear</scary_word>. She had no pity from <character ref="danielSkegg"
+                >Daniel Skegg</character> and his <character ref="mrsSkegg">wife</character>. Those
+            two pious souls had made up their minds that the character of the <scary_word scale="1"
+                pos="noun">house</scary_word> should be upheld, so far as <character ref="maria"
+                >Maria</character> went. To her, as a foreigner, the Grange should be maintained to
+            be an immaculate dwelling, tainted by no sulphurous blast from the under world. A
+            willing, biddable girl had become a necessary element in the existence of <character
+                ref="mrsSkegg">Mrs. Skegg</character>. That girl had been found, and that girl must
+            be kept. Any fancies of a <scary_word pos="adj" scale="1">supernatural</scary_word>
+            character must be put down with a high hand.</p>
 
-        <p><speech ref="mrsSkegg"><scary_word pos="noun" scale="1">Ghosts</scary_word>, indeed!</speech> cried the amiable <character
-                ref="mrsSkegg">Skegg</character>. <speech ref="mrsSkegg">Read your Bible, <character
-                    ref="maria">Maria</character>, and don’t talk no more about <scary_word pos="noun" scale="1">ghosts</scary_word>.</speech></p>
+        <p><speech ref="mrsSkegg"><scary_word pos="noun" scale="1">Ghosts</scary_word>,
+                indeed!</speech> cried the amiable <character ref="mrsSkegg">Skegg</character>.
+                <speech ref="mrsSkegg">Read your Bible, <character ref="maria">Maria</character>,
+                and don’t talk no more about <scary_word pos="noun" scale="1"
+                >ghosts</scary_word>.</speech></p>
 
-        <p><speech ref="maria">There are <scary_word pos="noun" scale="1">ghosts</scary_word> in the Bible,</speech> said <character ref="maria"
-                >Maria</character>, with a <scary_word scale="2" pos="noun">shiver</scary_word> at the recollection of certain awful passages in
-            the Scripture she knew so well.</p>
+        <p><speech ref="maria">There are <scary_word pos="noun" scale="1">ghosts</scary_word> in the
+                Bible,</speech> said <character ref="maria">Maria</character>, with a <scary_word
+                scale="2" pos="noun">shiver</scary_word> at the recollection of certain awful
+            passages in the Scripture she knew so well.</p>
 
         <p><speech ref="mrsSkegg">Ah, they was in their right place, or they wouldn’t ha’ been
                 there,</speech> retorted <character ref="mrsSkegg">Mrs. Skegg</character>. <speech
@@ -518,13 +548,16 @@
                 >dead</scary_word> father’s Bible till she came to the chapters they two had loved
             best and oftenest read together. He had been a simple-minded, straightforward man, the
             Yarmouth cabinet-maker–a man full of aspirations after good, innately refined,
-            <scary_word pos="adv" scale="1">instinctively</scary_word> religious. He and his motherless girl had spent their lives <scary_word pos="adj" scale="1">alone</scary_word>
+                <scary_word pos="adv" scale="1">instinctively</scary_word> religious. He and his
+            motherless girl had spent their lives <scary_word pos="adj" scale="1">alone</scary_word>
             together, in the neat little home which <character ref="maria">Maria</character> had so
             soon learnt to cherish and beautify; and they had loved each other with an almost
-            romantic love. They had had the same tastes, the same ideas. <scary_word pos="adj" scale="i">Very</scary_word> little had sufficed to
-            make them happy. But inexorable death parted father and daughter, in one of those sharp,
-            sudden partings which are like the shock of an earthquake–instantaneous ruin,
-            desolation, and despair.</p>
+            romantic love. They had had the same tastes, the same ideas. <scary_word pos="adj"
+                scale="i">Very</scary_word> little had sufficed to make them happy. But inexorable
+            death parted father and daughter, in one of those sharp, sudden partings which are like
+            the shock of an earthquake–instantaneous <scary_word scale="1" pos="noun"
+                >ruin</scary_word>, <scary_word pos="noun" scale="1">desolation</scary_word>, and
+                <scary_word scale="1" pos="noun">despair</scary_word>.</p>
 
         <p><character ref="maria">Maria</character>’s fragile form had bent before the tempest. She
             had lived through a <scary_word pos="noun" scale="1">trouble</scary_word> that might
@@ -534,12 +567,13 @@
 
         <p><character ref="michaelBascom">Michael Bascom</character> told himself that the
             servant-girl’s foolish fancy about the room that had been given her was not a matter of
-            <scary_word scale="1" pos="adj">serious</scary_word> consideration. Yet the idea dwelt in his mind unpleasantly, and disturbed him at
-            his labours. The exact sciences require the complete power of a man’s brain, his utmost
-            attention; and on this particular <scary_word scale="1" pos="noun">evening</scary_word>
-            Michael found that he was only giving his work a part of his attention. The girl’s
-                <scary_word pos="adj" scale="1">pale</scary_word> face, the girl’s tremulous tones,
-            thrust themselves into the foreground of his thoughts.</p>
+                <scary_word scale="1" pos="adj">serious</scary_word> consideration. Yet the idea
+            dwelt in his mind unpleasantly, and disturbed him at his labours. The exact sciences
+            require the complete power of a man’s brain, his utmost attention; and on this
+            particular <scary_word scale="1" pos="noun">evening</scary_word> Michael found that he
+            was only giving his work a part of his attention. The girl’s <scary_word pos="adj"
+                scale="1">pale</scary_word> face, the girl’s tremulous tones, thrust themselves into
+            the foreground of his thoughts.</p>
 
         <p>He closed his book with a fretful sigh, wheeled his large arm-chair round to the fire,
             and gave himself up to contemplation. To attempt study with so disturbed a mind was
@@ -550,25 +584,28 @@
             shutters were not yet shut, nor the curtains drawn. He could see the <scary_word
                 scale="1" pos="adj">leaden</scary_word>
             <scary_word scale="1" pos="noun">sky</scary_word> outside his windows, the fir-tree tops
-            <scary_word scale="2" pos="verb">tossing</scary_word> in the angry wind. He could hear the wintry blast whistling amidst the gables,
-            before it rushed off seaward with a <scary_word scale="2" pos="adj">savage</scary_word> <scary_word pos="noun" scale="2">howl</scary_word> that sounded like a war-whoop.</p>
+                <scary_word scale="2" pos="verb">tossing</scary_word> in the angry wind. He could
+            hear the wintry blast whistling amidst the gables, before it rushed off seaward with a
+                <scary_word scale="2" pos="adj">savage</scary_word>
+            <scary_word pos="noun" scale="2">howl</scary_word> that sounded like a war-whoop.</p>
 
-        <p><character ref="michaelBascom">Michael Bascom</character> <scary_word scale="1" pos="verb">shivered</scary_word>, and drew nearer the
-            fire.</p>
+        <p><character ref="michaelBascom">Michael Bascom</character>
+            <scary_word scale="1" pos="verb">shivered</scary_word>, and drew nearer the fire.</p>
 
-        <p><speech ref="michaelBascom">It’s <scary_word pos="adj" scale="1">childish</scary_word>, foolish nonsense,</speech> he said to himself,
-                <speech ref="michaelBascom">yet it’s <scary_word scale="1" pos="adj"
-                    >strange</scary_word> she should have that fancy about the <scary_word
-                    pos="noun" scale="2">shadow</scary_word>, for they say <character
-                    ref="anthonyBascom">Anthony Bascom</character> destroyed himself in that room. I
-                remember hearing it when I was a boy, from an <scary_word pos="adj" scale="1"
-                    >old</scary_word> servant whose mother was <scary_word scale="1" pos="noun"
-                    >housekeeper</scary_word> at the great <scary_word scale="1" pos="noun"
-                    >house</scary_word> in Anthony’s time. I never heard how he <scary_word scale="2" pos="verb">died</scary_word>, <scary_word pos="adj" scale="1">poor</scary_word>
-                fellow–whether he poisoned himself, or shot himself, or cut his throat; but I’ve
-                been told that was the room. <character ref="danielSkegg">Old Skegg</character> has
-                heard it too. I could see that by his manner when he told me the girl was to sleep
-                there.</speech></p>
+        <p><speech ref="michaelBascom">It’s <scary_word pos="adj" scale="1">childish</scary_word>,
+                foolish nonsense,</speech> he said to himself, <speech ref="michaelBascom">yet it’s
+                    <scary_word scale="1" pos="adj">strange</scary_word> she should have that fancy
+                about the <scary_word pos="noun" scale="2">shadow</scary_word>, for they say
+                    <character ref="anthonyBascom">Anthony Bascom</character> destroyed himself in
+                that room. I remember hearing it when I was a boy, from an <scary_word pos="adj"
+                    scale="1">old</scary_word> servant whose mother was <scary_word scale="1"
+                    pos="noun">housekeeper</scary_word> at the great <scary_word scale="1"
+                    pos="noun">house</scary_word> in Anthony’s time. I never heard how he
+                    <scary_word scale="2" pos="verb">died</scary_word>, <scary_word pos="adj"
+                    scale="1">poor</scary_word> fellow–whether he poisoned himself, or shot himself,
+                or cut his throat; but I’ve been told that was the room. <character
+                    ref="danielSkegg">Old Skegg</character> has heard it too. I could see that by
+                his manner when he told me the girl was to sleep there.</speech></p>
 
         <p>He sat for a long time, till the <scary_word pos="adj" scale="1">grey</scary_word> of
                 <scary_word scale="1" pos="noun">evening</scary_word> outside his study windows
@@ -585,15 +622,19 @@
         <p>Michael had often heard that dismal story: how, when <character ref="anthonyBascom"
                 >Anthony Bascom</character>’s fair false wife had left him, when his credit was
             exhausted, and his friends had grown tired of him, and all was gone except Wildheath
-            Grange, Anthony, the <scary_word pos="adj" scale="1">broken-down</scary_word> man of fashion, had come to that lonely <scary_word
-                scale="2" pos="noun">house</scary_word> unexpectedly one night, and had ordered his
-            bed to be got ready for him in the room where he used to sleep when he came to the place
-            for the <scary_word scale="1" pos="adj">wild</scary_word> duck shooting, in his boyhood. His <scary_word pos="adj" scale="1"
-                >old</scary_word> blunderbuss was <scary_word pos="adv" scale="i">still</scary_word> <scary_word scale="1" pos="verb"
-                >hanging</scary_word> over the mantelpiece, where he had left it when he came into
-            the property, and could afford to buy the newest thing in fowling-pieces. He had not
-            been to Wildheath for fifteen years; nav, for a good many of those years he had almost
-            forgotten that the <scary_word scale="2" pos="adj">dreary</scary_word> <scary_word pos="adj" scale="1">old</scary_word>
+            Grange, Anthony, the <scary_word pos="adj" scale="1">broken-down</scary_word> man of
+            fashion, had come to that lonely <scary_word scale="2" pos="noun">house</scary_word>
+            unexpectedly one night, and had ordered his bed to be got ready for him in the room
+            where he used to sleep when he came to the place for the <scary_word scale="1" pos="adj"
+                >wild</scary_word> duck shooting, in his boyhood. His <scary_word pos="adj"
+                scale="1">old</scary_word> blunderbuss was <scary_word pos="adv" scale="i"
+                >still</scary_word>
+            <scary_word scale="1" pos="verb">hanging</scary_word> over the mantelpiece, where he had
+            left it when he came into the property, and could afford to buy the newest thing in
+            fowling-pieces. He had not been to Wildheath for fifteen years; nav, for a good many of
+            those years he had almost forgotten that the <scary_word scale="2" pos="adj"
+                >dreary</scary_word>
+            <scary_word pos="adj" scale="1">old</scary_word>
             <scary_word scale="1" pos="noun">house</scary_word> belonged to him.</p>
 
         <p>The woman who had been <scary_word scale="1" pos="noun">housekeeper</scary_word> at
@@ -611,39 +652,47 @@
             master’s footfall on the stairs. Noon waned to late afternoon. She had made no attempt
             to disturb him, thinking that he had worn himself out by a tedious journey on horseback,
             and that he was sleeping the sleep of exhaustion. But when the brief <scary_word
-                scale="1" pos="noun">November</scary_word> day <scary_word scale="1" pos="verb">clouded</scary_word> with the first <scary_word pos="noun" scale="1">shadows</scary_word> of
-            <scary_word scale="1" pos="noun">twilight</scary_word>, the <scary_word pos="adj" scale="1">old</scary_word> woman grew <scary_word scale="i" pos="adj">seriously</scary_word>
-            <scary_word scale="2" pos="verb">alarmed</scary_word>, and went upstairs to her master’s door, where she waited in vain for any reply
-            to her <scary_word pos="adj" scale="1">repeated</scary_word> calls and knockings.</p>
+                scale="1" pos="noun">November</scary_word> day <scary_word scale="1" pos="verb"
+                >clouded</scary_word> with the first <scary_word pos="noun" scale="1"
+                >shadows</scary_word> of <scary_word scale="1" pos="noun">twilight</scary_word>, the
+                <scary_word pos="adj" scale="1">old</scary_word> woman grew <scary_word scale="i"
+                pos="adj">seriously</scary_word>
+            <scary_word scale="2" pos="verb">alarmed</scary_word>, and went upstairs to her master’s
+            door, where she waited in vain for any reply to her <scary_word pos="adj" scale="1"
+                >repeated</scary_word> calls and knockings.</p>
 
-        <p>The door was <scary_word pos="verb" scale="1">locked</scary_word> on the inside, and the <scary_word scale="1" pos="noun"
-                >housekeeper</scary_word> was not strong enough to break it open. She rushed
-            downstairs again full of <scary_word pos="noun" scale="3">fear</scary_word>, and ran
-            bare-headed out into the lonely road. There was no habitation nearer than the turnpike
-            on the <scary_word pos="adj" scale="1">old</scary_word> coach road, from which this side
-            road branched off to the sea. There was scanty hope of a chance passer-by. The
-                <scary_word pos="adj" scale="1">old</scary_word> woman ran along the road, hardly
-            knowing whither she was going or what she was going to do, but with a vague idea that
-            she must get somebody to help her.</p>
+        <p>The door was <scary_word pos="verb" scale="1">locked</scary_word> on the inside, and the
+                <scary_word scale="1" pos="noun">housekeeper</scary_word> was not strong enough to
+            break it open. She rushed downstairs again full of <scary_word pos="noun" scale="3"
+                >fear</scary_word>, and ran bare-headed out into the lonely road. There was no
+            habitation nearer than the turnpike on the <scary_word pos="adj" scale="1"
+                >old</scary_word> coach road, from which this side road branched off to the sea.
+            There was scanty hope of a chance passer-by. The <scary_word pos="adj" scale="1"
+                >old</scary_word> woman ran along the road, hardly knowing whither she was going or
+            what she was going to do, but with a vague idea that she must get somebody to help
+            her.</p>
 
-        <p>Chance favoured her. A cart, laden with sea-weed, came lumbering <scary_word pos="adv" scale="1">slowly</scary_word> along from the
-            level line of sands yonder where the land melted into water. A heavy lumbering
-            farm-labourer walked beside the cart.</p>
+        <p>Chance favoured her. A cart, laden with sea-weed, came lumbering <scary_word pos="adv"
+                scale="1">slowly</scary_word> along from the level line of sands yonder where the
+            land melted into water. A heavy lumbering farm-labourer walked beside the cart.</p>
 
         <p><speech ref="mrsMidge">For God’s sake, come in and burst open my master’s door!</speech>
-            she <scary_word scale="2" pos="verb">entreated</scary_word>, <scary_word scale="2" pos="verb">seizing</scary_word> the man by the arm. <speech ref="mrsMidge">He’s lying <scary_word
-                    scale="2" pos="adj">dead</scary_word>, or in a fit, and I can’t get to help
-                him.</speech></p>
+            she <scary_word scale="2" pos="verb">entreated</scary_word>, <scary_word scale="2"
+                pos="verb">seizing</scary_word> the man by the arm. <speech ref="mrsMidge">He’s
+                lying <scary_word scale="2" pos="adj">dead</scary_word>, or in a fit, and I can’t
+                get to help him.</speech></p>
 
         <p><speech ref="labourer">All right, missus,</speech> answered the man, as if such an
             invitation were a matter of daily occurrence. <speech ref="labourer">Whoa, Dobbin; stond
-                <scary_word pos="adj" scale="1">still</scary_word>, horse, and be donged to thee.</speech></p>
+                    <scary_word pos="adj" scale="1">still</scary_word>, horse, and be donged to
+                thee.</speech></p>
 
-        <p>Dobbin was glad enough to be brought to anchor on the patch of waste <scary_word pos="noun" scale="1">grass</scary_word> in front of
-            the Grange garden. His master followed the <scary_word scale="1" pos="noun"
-                >housekeeper</scary_word> upstairs, and <scary_word pos="verb" scale="1">shattered</scary_word> the <scary_word pos="adj"
-                scale="1">old</scary_word>-fashioned box-<scary_word pos="noun" scale="1">lock</scary_word> with one blow of his ponderous
-            fist.</p>
+        <p>Dobbin was glad enough to be brought to anchor on the patch of waste <scary_word
+                pos="noun" scale="1">grass</scary_word> in front of the Grange garden. His master
+            followed the <scary_word scale="1" pos="noun">housekeeper</scary_word> upstairs, and
+                <scary_word pos="verb" scale="1">shattered</scary_word> the <scary_word pos="adj"
+                scale="1">old</scary_word>-fashioned box-<scary_word pos="noun" scale="1"
+                >lock</scary_word> with one blow of his ponderous fist.</p>
 
         <p>The <scary_word pos="adj" scale="1">old</scary_word> woman’s worst <scary_word pos="noun"
                 scale="3">fear</scary_word> was realised. <character ref="anthonyBascom">Anthony
@@ -654,18 +703,22 @@
             only shaken her head, and looked unutterable things, when he questioned her too closely.
             She had never even admitted that the <scary_word pos="adj" scale="1">old</scary_word>
             squire had committed suicide. Yet the tradition of his self-destruction was rooted in
-            the minds of the natives of Holcroft: and there was a settled belief that his <scary_word pos="noun" scale="2">ghost</scary_word>, at
-            certain times and seasons,<scary_word pos="adj" scale="2">haunted</scary_word> Wildheath
-            Grange.</p>
+            the minds of the natives of Holcroft: and there was a settled belief that his
+                <scary_word pos="noun" scale="2">ghost</scary_word>, at certain times and
+                seasons,<scary_word pos="adj" scale="2">haunted</scary_word> Wildheath Grange.</p>
 
         <p>Now <character ref="michaelBascom">Michael Bascom</character> was a stern materialist.
             For him the universe with all its inhabitants, was a great machine, governed by
-            inexorable laws. To such a man the idea of a <scary_word pos="noun" scale="1">ghost</scary_word> was simply absurd–as absurd as the
-            assertion that two and two make five, or that a circle can be formed of a straight line.
-            Yet he had a kind of dilettante interest in the idea of a mind which could believe in
-            <scary_word pos="noun" scale="1">ghosts</scary_word>. The subject offered an amusing psychological study. This <scary_word pos="adj" scale="1">poor</scary_word> little <scary_word
-                pos="adj" scale="1">pale</scary_word> girl, now, had evidently got some <scary_word scale="1" pos="adj">supernatural</scary_word>
-            <scary_word pos="noun" scale="0">terror</scary_word> into her head, which could only be conquered by rational treatment.</p>
+            inexorable laws. To such a man the idea of a <scary_word pos="noun" scale="1"
+                >ghost</scary_word> was simply absurd–as absurd as the assertion that two and two
+            make five, or that a circle can be formed of a straight line. Yet he had a kind of
+            dilettante interest in the idea of a mind which could believe in <scary_word pos="noun"
+                scale="1">ghosts</scary_word>. The subject offered an amusing psychological study.
+            This <scary_word pos="adj" scale="1">poor</scary_word> little <scary_word pos="adj"
+                scale="1">pale</scary_word> girl, now, had evidently got some <scary_word scale="1"
+                pos="adj">supernatural</scary_word>
+            <scary_word pos="noun" scale="0">terror</scary_word> into her head, which could only be
+            conquered by rational treatment.</p>
 
         <p><speech ref="michaelBascom">I know what I ought to do,</speech>
             <character ref="michaelBascom">Michael Bascom</character> said to himself suddenly.
@@ -687,7 +740,8 @@
 
         <p><speech ref="danielSkegg">Sir?</speech></p>
 
-        <p><character ref="michaelBascom">Mr. Bascom</character> <scary_word pos="verb" scale="1">repeated</scary_word> his order.</p>
+        <p><character ref="michaelBascom">Mr. Bascom</character>
+            <scary_word pos="verb" scale="1">repeated</scary_word> his order.</p>
 
         <p><speech ref="danielSkegg">That silly wench has been complaining to you about her
                 room,</speech>
@@ -696,10 +750,10 @@
                 home. She ought to go to the work<scary_word scale="1" pos="noun"
                 >house</scary_word>.</speech></p>
 
-        <p><speech ref="michaelBascom">Don’t be angry with the <scary_word pos="adj" scale="1">poor</scary_word> girl, <character
-                    ref="danielSkegg">Skegg</character>. She has taken a foolish fancy into her
-                head, and I want to show her how silly she is,</speech> said <character
-                ref="michaelBascom">Mr. Bascom</character>.</p>
+        <p><speech ref="michaelBascom">Don’t be angry with the <scary_word pos="adj" scale="1"
+                    >poor</scary_word> girl, <character ref="danielSkegg">Skegg</character>. She has
+                taken a foolish fancy into her head, and I want to show her how silly she
+                is,</speech> said <character ref="michaelBascom">Mr. Bascom</character>.</p>
 
         <p><speech ref="danielSkegg">And you want to sleep in his–in that room yourself,</speech>
             said the butler.</p>
@@ -712,9 +766,10 @@
                 hurt.</speech></p>
 
         <p>When <character ref="danielSkegg">Daniel Skegg</character> went back to the kitchen he
-            railed mercilessly at <scary_word pos="adj" scale="1">poor</scary_word> <character ref="maria">Maria</character>, who sat <scary_word
-                pos="adj" scale="1">pale</scary_word> and <scary_word pos="adj" scale="1">silent</scary_word> in her corner by the hearth,
-            darning <scary_word pos="adj" scale="1">old</scary_word>
+            railed mercilessly at <scary_word pos="adj" scale="1">poor</scary_word>
+            <character ref="maria">Maria</character>, who sat <scary_word pos="adj" scale="1"
+                >pale</scary_word> and <scary_word pos="adj" scale="1">silent</scary_word> in her
+            corner by the hearth, darning <scary_word pos="adj" scale="1">old</scary_word>
             <character ref="mrsSkegg">Mrs. Skegg</character>’s <scary_word pos="adj" scale="1"
                 >grey</scary_word> worsted stockings, which were the roughest and harshest armour
             that ever human foot clothed itself withal. <speech ref="danielSkegg">Was there ever
@@ -728,23 +783,26 @@
             might be <scary_word scale="0" pos="verb">hanged</scary_word> for him, if this was all
             it led to.</p>
 
-        <p><speech ref="maria">I am <scary_word pos="adj" scale="i">very</scary_word> sorry,</speech> faltered <character ref="maria"
-                >Maria</character>, weeping <scary_word pos="adv" scale="1">silently</scary_word> over her work. <speech ref="maria">Indeed,
-                    <character ref="danielSkegg">Mr. Skegg</character>, I made no complaint. My
-                master questioned me, and I told him the truth. That was all.</speech></p>
+        <p><speech ref="maria">I am <scary_word pos="adj" scale="i">very</scary_word>
+                sorry,</speech> faltered <character ref="maria">Maria</character>, weeping
+                <scary_word pos="adv" scale="1">silently</scary_word> over her work. <speech
+                ref="maria">Indeed, <character ref="danielSkegg">Mr. Skegg</character>, I made no
+                complaint. My master questioned me, and I told him the truth. That was
+            all.</speech></p>
 
         <p><speech ref="danielSkegg">All!</speech> exclaimed <character ref="danielSkegg">Mr.
-                Skegg</character> irately; <speech ref="danielSkegg">all, indeed! I should think it was
-                enough.</speech></p>
+                Skegg</character> irately; <speech ref="danielSkegg">all, indeed! I should think it
+                was enough.</speech></p>
 
-        <p><scary_word pos="adj" scale="1">Poor</scary_word> <character ref="maria">Maria</character> held her peace. Her mind, fluttered
-                by <character ref="danielSkegg">Daniel</character>’s unkindness, had wandered away
-            from that bleak big kitchen to the <scary_word scale="1" pos="adj">lost</scary_word>
-            home of the past–the snug little parlour where she and her father had sat beside the
-            cosy hearth on such a night as this; she with her smart work-box and her plain sewing,
-            he with the newspaper he loved to read; the petted cat purring on the rug, the kettle
-            singing on the bright brass trivet, the tea-tray pleasantly suggestive of the most
-            comfortable meal in the day.</p>
+        <p><scary_word pos="adj" scale="1">Poor</scary_word>
+            <character ref="maria">Maria</character> held her peace. Her mind, fluttered by
+                <character ref="danielSkegg">Daniel</character>’s unkindness, had wandered away from
+            that bleak big kitchen to the <scary_word scale="1" pos="adj">lost</scary_word> home of
+            the past–the snug little parlour where she and her father had sat beside the cosy hearth
+            on such a night as this; she with her smart work-box and her plain sewing, he with the
+            newspaper he loved to read; the petted cat purring on the rug, the kettle singing on the
+            bright brass trivet, the tea-tray pleasantly suggestive of the most comfortable meal in
+            the day.</p>
 
         <p>Oh, those happy nights, that dear companionship! Were they really gone for ever, leaving
             nothing behind them but unkindness and servitude?</p>
@@ -752,23 +810,28 @@
         <p><character ref="michaelBascom">Michael Bascom</character> retired later than usual that
             night. He was in the habit of sitting at his books long after every other lamp but his
             own had been extinguished. <character ref="danielSkegg">The Skeggs</character> had
-            subsided into <scary_word pos="adj" scale="2">silence</scary_word> and <scary_word pos="adj" scale="2">darkness</scary_word> in their <scary_word scale="2" pos="adj">drear</scary_word> ground-floor bed-chamber. Tonight his
-            studies were of a peculiarly interesting kind, and belonged to the order of recreative
-            reading rather than of hard work. He was deep in the history of that <scary_word
-                pos="adj" scale="1">mysterious</scary_word> people who had their dwelling-place in
-            the Swiss lakes, and was much exercised by certain speculations and theories about
-            them.</p>
+            subsided into <scary_word pos="adj" scale="2">silence</scary_word> and <scary_word
+                pos="adj" scale="2">darkness</scary_word> in their <scary_word scale="2" pos="adj"
+                >drear</scary_word> ground-floor bed-chamber. Tonight his studies were of a
+            peculiarly interesting kind, and belonged to the order of recreative reading rather than
+            of hard work. He was deep in the history of that <scary_word pos="adj" scale="1"
+                >mysterious</scary_word> people who had their dwelling-place in the Swiss lakes, and
+            was much exercised by certain speculations and theories about them.</p>
 
         <p>The <scary_word pos="adj" scale="1">old</scary_word> eight-day clock on the stairs was
-            striking two as Michael <scary_word pos="adv" scale="1">slowly</scary_word> ascended, candle in hand, to the hitherto unknown region
-            of the attics. At the top of the staircase he found himself facing a dark narrow passage
-            which led northwards, a passage that was in itself sufficient to strike <scary_word scale="2" pos="noun">terror</scary_word> to a
-            <scary_word scale="2" pos="adj">superstitious</scary_word> mind, so black and uncanny did it look.</p>
+            striking two as Michael <scary_word pos="adv" scale="1">slowly</scary_word> ascended,
+            candle in hand, to the hitherto unknown region of the attics. At the top of the
+            staircase he found himself facing a dark narrow passage which led northwards, a passage
+            that was in itself sufficient to strike <scary_word scale="2" pos="noun"
+                >terror</scary_word> to a <scary_word scale="2" pos="adj">superstitious</scary_word>
+            mind, so black and uncanny did it look.</p>
 
-        <p><speech ref="michaelBascom"><scary_word pos="adj" scale="1">Poor</scary_word> <scary_word pos="noun" scale="1">child</scary_word>,</speech> mused <character ref="michaelBascom">Mr.
-                Bascom</character>, thinking of <character ref="maria">Maria</character>; <speech
-                ref="michaelBascom">this attic floor is rather <scary_word scale="1" pos="adj">dreary</scary_word>, and for a young mind prone to
-                fancies—-</speech></p>
+        <p><speech ref="michaelBascom"><scary_word pos="adj" scale="1">Poor</scary_word>
+                <scary_word pos="noun" scale="1">child</scary_word>,</speech> mused <character
+                ref="michaelBascom">Mr. Bascom</character>, thinking of <character ref="maria"
+                >Maria</character>; <speech ref="michaelBascom">this attic floor is rather
+                    <scary_word scale="1" pos="adj">dreary</scary_word>, and for a young mind prone
+                to fancies—-</speech></p>
 
         <p>He had opened the door of the north room by this time, and stood looking about him.</p>
 
@@ -780,16 +843,19 @@
             wardrobe with brass handles, which gleamed out of the darkness like diabolical eyes.
             There was a <scary_word scale="1" pos="adj">tall</scary_word> four-post bedstead, which
             had been cut down on one side to accommodate the slope of the ceiling, and which had a
-            <scary_word pos="adj" scale="1">misshapen</scary_word> and <scary_word pos="adj" scale="1">deformed</scary_word> aspect in consequence. There was an <scary_word pos="adj"
-                scale="2">old</scary_word> mahogany bureau, that smelt of <scary_word scale="2"
-                pos="noun">secrets</scary_word>. There were some heavy <scary_word pos="adj"
-                scale="2">old</scary_word> chairs with rush bottoms, <scary_word scale="2" pos="adj">mould</scary_word>y with age, and much worn.
-            There was a corner washstand, with a big basin and a small jug–the odds and ends of past
-            years. Carpet there was none, save a narrow strip beside the bed.</p>
+                <scary_word pos="adj" scale="1">misshapen</scary_word> and <scary_word pos="adj"
+                scale="1">deformed</scary_word> aspect in consequence. There was an <scary_word
+                pos="adj" scale="2">old</scary_word> mahogany bureau, that smelt of <scary_word
+                scale="2" pos="noun">secrets</scary_word>. There were some heavy <scary_word
+                pos="adj" scale="2">old</scary_word> chairs with rush bottoms, <scary_word scale="2"
+                pos="adj">mould</scary_word>y with age, and much worn. There was a corner washstand,
+            with a big basin and a small jug–the odds and ends of past years. Carpet there was none,
+            save a narrow strip beside the bed.</p>
 
         <p><speech ref="michaelBascom">It is a dismal room,</speech> mused Michael, with the same
-            <scary_word pos="noun" scale="1">touch</scary_word> of pity for <character ref="maria">Maria</character>’s weakness which he had felt
-            on the landing just now.</p>
+                <scary_word pos="noun" scale="1">touch</scary_word> of pity for <character
+                ref="maria">Maria</character>’s weakness which he had felt on the landing just
+            now.</p>
 
         <p>To him it mattered nothing where he slept; but having let himself down to a lower level
             by his interest in the Swiss lake-people, he was in a manner humanised by the lightness
@@ -803,13 +869,17 @@
         <p>He dropped off to sleep quickly, but woke with a start ten minutes afterwards. What was
             this consciousness of a burden of care that had awakened him–this sense of all-pervading
                 <scary_word pos="noun" scale="2">trouble</scary_word> that weighed upon his spirits
-            and <scary_word pos="verb" scale="2">oppressed</scary_word> his heart–this <scary_word scale="2" pos="adj">icy</scary_word> <scary_word scale="2" pos="noun">horror</scary_word> of some <scary_word pos="adj" scale="2">terrible</scary_word> crisis in life through which he
-            must inevitably pass? To him these feelings were as novel as they were <scary_word scale="1" pos="adj">painful</scary_word>. His life
-            had flowed on with smooth and sluggish tide, unbroken by so much as a ripple of sorrow.
-            Yet to-night he felt all the pangs of unavailing remorse; the agonising memory of a life
-            wasted; the stings of humiliation and disgrace, shame, ruin; a hideous death, which he
-            had doomed himself to die by his own hand. These were the <scary_word pos="noun" scale="2">horrors</scary_word> that pressed him round
-            and weighed him down as he lay in <character ref="anthonyBascom">Anthony
+            and <scary_word pos="verb" scale="2">oppressed</scary_word> his heart–this <scary_word
+                scale="2" pos="adj">icy</scary_word>
+            <scary_word scale="2" pos="noun">horror</scary_word> of some <scary_word pos="adj"
+                scale="2">terrible</scary_word> crisis in life through which he must inevitably
+            pass? To him these feelings were as novel as they were <scary_word scale="1" pos="adj"
+                >painful</scary_word>. His life had flowed on with smooth and sluggish tide,
+            unbroken by so much as a ripple of sorrow. Yet to-night he felt all the pangs of
+            unavailing remorse; the agonising memory of a life wasted; the stings of humiliation and
+            disgrace, shame, ruin; a hideous death, which he had doomed himself to die by his own
+            hand. These were the <scary_word pos="noun" scale="2">horrors</scary_word> that pressed
+            him round and weighed him down as he lay in <character ref="anthonyBascom">Anthony
                 Bascom</character>’s room.</p>
 
         <p>Yes, even he, the man who could recognise nothing in nature, or in nature’s God, better
@@ -820,41 +890,47 @@
             pursued Anthony Bascom on the last night of his life. So had the suicide felt as he lay
             in that lonely room, perhaps striving to rest his wearied brain with one last earthly
             sleep before he passed to the unknown intermediate land where all is darkness and
-            slumber. And that <scary_word scale="3" pos="adj">troubled</scary_word> mind had
-                <scary_word pos="adj" scale="3">haunted</scary_word> the room ever since. It was not
-            the <scary_word pos="noun" scale="3">ghost</scary_word> of the man’s body that returned to the spot where he had suffered and
-            perished, but the <scary_word pos="noun" scale="3">ghost</scary_word> of his mind–his <scary_word pos="adj" scale="i">very</scary_word> self; no meaningless simulacrum of the
-            clothes he were, and the figure that filled them.</p>
+            slumber. <scary_phrase>And that <scary_word scale="3" pos="adj">troubled</scary_word> mind had
+                <scary_word pos="adj" scale="3">haunted</scary_word> the room ever since.</scary_phrase> It was not
+            the <scary_word pos="noun" scale="3">ghost</scary_word> of the man’s body that returned
+            to the spot where he had suffered and perished, but the <scary_word pos="noun" scale="3"
+                >ghost</scary_word> of his mind–his <scary_word pos="adj" scale="i"
+                >very</scary_word> self; no meaningless simulacrum of the clothes he were, and the
+            figure that filled them.</p>
 
         <p><character ref="michaelBascom">Michael Bascom</character> was not the man to abandon his
             high ground of sceptical philosophy without a struggle. He tried his hardest to conquer
             this oppression that weighed upon mind and sense. Again and again he succeeded in
-            composing himself to sleep, but only to wake again and again to the same torturing
-            thoughts, the same remorse, the same despair. So the night passed in unutterable
-            weariness; for though he told himself that the <scary_word scale="1" pos="noun"
-                >trouble</scary_word> was not his <scary_word pos="noun" scale="1"
+            composing himself to sleep, but only to wake again and again to <scary_phrase>the same
+                    <scary_word pos="adj" scale="2">torturing</scary_word> thoughts, the same
+                    <scary_word pos="noun" scale="2">remorse</scary_word>, the same <scary_word
+                    pos="noun" scale="2">despair</scary_word>.</scary_phrase> So the night passed in
+            unutterable weariness; for though he told himself that the <scary_word scale="1"
+                pos="noun">trouble</scary_word> was not his <scary_word pos="noun" scale="1"
                 >trouble</scary_word>, that there was no reality in the burden, no reason for the
-            remorse, these vivid fancies were as <scary_word pos="adj" scale="1">painful</scary_word> as realities, and took as strong a hold
-            upon him.</p>
+            remorse, these vivid fancies were as <scary_word pos="adj" scale="1"
+                >painful</scary_word> as realities, and took as strong a hold upon him.</p>
 
         <p>The first streak of light crept in at the window–dim, and <scary_word pos="adj" scale="3"
                 >cold</scary_word>, and <scary_word pos="adj" scale="2">grey</scary_word>; then came
-            <scary_word scale="2" pos="noun">twilight</scary_word>, and he looked at the corner between the wardrobe and the door.</p>
+                <scary_word scale="2" pos="noun">twilight</scary_word>, and he looked at the corner
+            between the wardrobe and the door.</p>
 
         <p>Yes; there was the <scary_word pos="noun" scale="3">shadow</scary_word>: not the
                 <scary_word pos="noun" scale="3">shadow</scary_word> of the wardrobe only–that was
-            clear enough, but a vague and <scary_word scale="3" pos="adj">shapeless</scary_word>
+            clear enough, <scary_phrase>but a vague and <scary_word scale="3" pos="adj">shapeless</scary_word>
             something which darkened the <scary_word pos="adj" scale="3">dull</scary_word> brown
             wall; so faint, so <scary_word pos="noun" scale="2">shadow</scary_word>, that he could
-            form no conjecture as to its nature, or the thing it represented. He determined to watch
+            form no conjecture as to its nature, or the thing it represented.</scary_phrase> He determined to watch
             this <scary_word pos="noun" scale="3">shadow</scary_word> till broad daylight; but the
             weariness of the night had exhausted him, and before the first dimness of dawn had
             passed away he had fallen fast asleep, and was tasting the blessed balm of undisturbed
             slumber. When he woke the winter sun was shining in at the lattice, and the room had
-                <scary_word scale="1" pos="verb">lost</scary_word> its <scary_word pos="adj" scale="1">gloomy</scary_word> aspect. It looked
-                <scary_word pos="adj" scale="2">old-fashioned</scary_word>, and <scary_word
-                pos="adj" scale="3">grey</scary_word>, and brown, and shabby; but the depth of its
-            <scary_word pos="noun" scale="1">gloom</scary_word> had fled with the shadows and the darkness of night.</p>
+                <scary_word scale="1" pos="verb">lost</scary_word> its <scary_word pos="adj"
+                scale="1">gloomy</scary_word> aspect. It looked <scary_word pos="adj" scale="2"
+                >old-fashioned</scary_word>, and <scary_word pos="adj" scale="3">grey</scary_word>,
+            and brown, and shabby; but the depth of its <scary_word pos="noun" scale="1"
+                >gloom</scary_word> had fled with the shadows and the darkness of night.</p>
 
         <p><character ref="michaelBascom">Mr. Bascom</character> rose refreshed by a sound sleep,
             which had lasted nearly three hours. He remembered the wretched feelings which had gone
@@ -862,18 +938,19 @@
                 >strange</scary_word> sensations only to despise them, and he despised himself for
             having attached any importance to them.</p>
 
-        <p><speech ref="michaelBascom">Indigestion <scary_word pos="adj" scale="i">very</scary_word> likely,</speech> he told himself; <speech
-                ref="michaelBascom">or perhaps mere fancy, engendered of that foolish girl’s story.
-                The wisest of us is more under the dominion of imagination than he would care to
-                confess. Well, <character ref="maria">Maria</character> shall not sleep in this room
-                any more. There is no particular reason why she should, and she shall not be made
-                unhappy to please <character ref="danielSkegg">old Skegg</character> and his
-                    <character ref="mrsSkegg">wife</character>.</speech></p>
+        <p><speech ref="michaelBascom">Indigestion <scary_word pos="adj" scale="i">very</scary_word>
+                likely,</speech> he told himself; <speech ref="michaelBascom">or perhaps mere fancy,
+                engendered of that foolish girl’s story. The wisest of us is more under the dominion
+                of imagination than he would care to confess. Well, <character ref="maria"
+                    >Maria</character> shall not sleep in this room any more. There is no particular
+                reason why she should, and she shall not be made unhappy to please <character
+                    ref="danielSkegg">old Skegg</character> and his <character ref="mrsSkegg"
+                    >wife</character>.</speech></p>
 
         <p>When he had dressed himself in his usual leisurely way, <character ref="michaelBascom"
                 >Mr. Bascom</character> walked up to the corner where he had seen or imagined the
-                <scary_word pos="noun" scale="2">shadow</scary_word>, and <scary_word pos="verb" scale="2">examined</scary_word> the spot
-            carefully.</p>
+                <scary_word pos="noun" scale="2">shadow</scary_word>, and <scary_word pos="verb"
+                scale="2">examined</scary_word> the spot carefully.</p>
 
         <p>At first sight he could discover nothing of a <scary_word pos="adj" scale="2"
                 >mysterious</scary_word> character. There was no door in the papered wall, no trace
@@ -892,20 +969,22 @@
         <p>About a foot below the ceiling he saw a large iron hook projecting from the wall, just
             above the spot where he had seen the <scary_word pos="noun" scale="3"
                 >shadow</scary_word> of a vaguely defined form. He mounted on a chair the better to
-            <scary_word pos="verb" scale="2">examine</scary_word> this hook, and to understand, if he could, the purpose for which it had been put
-            there.</p>
+                <scary_word pos="verb" scale="2">examine</scary_word> this hook, and to understand,
+            if he could, the purpose for which it had been put there.</p>
 
-        <p>It was <scary_word pos="adj" scale="3">old</scary_word> and <scary_word pos="adj" scale="3">rusty</scary_word>. It must have been
-            there for many years. Who could have placed it there, and why? It was not the kind of
-            hook upon which one would <scary_word scale="1" pos="verb">hang</scary_word> a picture
-            or one’s garments. It was placed in an obscure corner. Had <character
-                ref="anthonyBascom">Anthony Bascom</character> put it there on the night he died; or
-            did he find it there ready for a fatal use?</p>
+        <p>It was <scary_word pos="adj" scale="3">old</scary_word> and <scary_word pos="adj"
+                scale="3">rusty</scary_word>. It must have been there for many years. Who could have
+            placed it there, and why? It was not the kind of hook upon which one would <scary_word
+                scale="1" pos="verb">hang</scary_word> a picture or one’s garments. It was placed in
+            an obscure corner. Had <character ref="anthonyBascom">Anthony Bascom</character> put it
+            there on the night he died; or did he find it there ready for a fatal use?</p>
 
         <p><speech ref="michaelBascom">If I were a superstitious man,</speech> thought Michael,
-                <speech ref="michaelBascom">I should be inclined to believe that <character
-                    ref="anthonyBascom">Anthony Bascom</character> hung himself from that <scary_word pos="adj" scale="3">rusty</scary_word>
-                    <scary_word pos="adj" scale="3">old</scary_word> hook.</speech></p>
+                <speech ref="michaelBascom"><scary_phrase>I should be inclined to believe that
+                        <character ref="anthonyBascom">Anthony Bascom</character> hung himself from
+                    that <scary_word pos="adj" scale="3">rusty</scary_word>
+                    <scary_word pos="adj" scale="3">old</scary_word>
+            hook.</scary_phrase></speech></p>
 
         <p><speech ref="danielSkegg">Sleep well, sir?</speech> asked<character ref="danielSkegg">
                 Daniel</character>, as he waited upon his master at breakfast.</p>
@@ -920,8 +999,9 @@
 
         <p><speech ref="michaelBascom">Late, yes! I slept so well that I overshot my usual hour for
                 waking. But, by-the-way, <character ref="danielSkegg">Skegg</character>, as that
-                <scary_word pos="adj" scale="1">poor</scary_word> girl objects to the room, let her sleep somewhere else. It can’t make any
-                difference to us, and it may make some difference to her.</speech></p>
+                    <scary_word pos="adj" scale="1">poor</scary_word> girl objects to the room, let
+                her sleep somewhere else. It can’t make any difference to us, and it may make some
+                difference to her.</speech></p>
 
         <p><speech ref="danielSkegg">Humph!</speech> muttered <character ref="danielSkegg"
                 >Daniel</character> in his grumpy way; <speech ref="danielSkegg">you didn’t see
@@ -939,7 +1019,8 @@
             dry.</speech></p>
 
         <p><speech ref="michaelBascom">Then let her sleep on the floor below. She creeps about
-                quietly enough, <scary_word pos="adj" scale="1">poor</scary_word> little timid thing. She won’t disturb me.</speech></p>
+                quietly enough, <scary_word pos="adj" scale="1">poor</scary_word> little timid
+                thing. She won’t disturb me.</speech></p>
 
         <p>Daniel grunted, and his master understood the grunt to mean obedient assent; but here Mr.
             Bascom was unhappily mistaken. The proverbial obstinacy of the pig family is as nothing
@@ -983,8 +1064,9 @@
                     scale="1">trouble</scary_word> enough already.</speech></p>
 
         <p><character ref="maria">Maria</character> sighed, and went about her work in saddest
-            <scary_word pos="adj" scale="1">silence</scary_word>. The day wore <scary_word pos="adv" scale="1">slowly</scary_word> on, like all other days in that lifeless <scary_word
-                pos="adj" scale="1">old</scary_word>
+                <scary_word pos="adj" scale="1">silence</scary_word>. The day wore <scary_word
+                pos="adv" scale="1">slowly</scary_word> on, like all other days in that lifeless
+                <scary_word pos="adj" scale="1">old</scary_word>
             <scary_word scale="1" pos="noun">house</scary_word>. The scholar sat in his study;
                 <character ref="maria">Maria</character> moved softly from room to room, sweeping
             and dusting in the cheerless <scary_word pos="adj" scale="1">solitude</scary_word>. The
@@ -997,8 +1079,10 @@
         <p>Throughout that day <character ref="maria">Maria</character> and her master never met.
             Anyone who had been so far interested in the girl as to observe her appearance would
             have seen that she was unusually <scary_word scale="1" pos="adj">pale</scary_word>, and
-            that her eyes had a resolute look, as of one who was resolved to face a <scary_word scale="2" pos="adj">painful</scary_word> ordeal.
-            She ate hardly anything all day. She was <scary_word pos="adv" scale="1">curiously</scary_word> <scary_word pos="adj" scale="1">silent</scary_word>. <character ref="danielSkegg"
+            that her eyes had a resolute look, as of one who was resolved to face a <scary_word
+                scale="2" pos="adj">painful</scary_word> ordeal. She ate hardly anything all day.
+            She was <scary_word pos="adv" scale="1">curiously</scary_word>
+            <scary_word pos="adj" scale="1">silent</scary_word>. <character ref="danielSkegg"
                 >Skegg</character> and his <character ref="mrsSkegg">wife</character> put down both
             these symptoms to temper.</p>
 
@@ -1019,23 +1103,25 @@
 
         <p><speech ref="mrsSkegg">The wench sleeps sound enough this morning,</speech> said the
                 <scary_word pos="adj" scale="1">old</scary_word> woman. <speech ref="mrsSkegg">Go
-                and call her,<character ref="danielSkegg"> Daniel</character>. My <scary_word pos="adj" scale="1">poor</scary_word> legs can’t
-                stand them stairs.</speech></p>
+                and call her,<character ref="danielSkegg"> Daniel</character>. My <scary_word
+                    pos="adj" scale="1">poor</scary_word> legs can’t stand them stairs.</speech></p>
 
-        <p><speech ref="danielSkegg">Your <scary_word pos="adj" scale="1">poor</scary_word> legs are getting uncommon useless,</speech>
-                muttered<character ref="danielSkegg"> Daniel</character> testily, as he went to do
-            his wife’s behest.</p>
+        <p><speech ref="danielSkegg">Your <scary_word pos="adj" scale="1">poor</scary_word> legs are
+                getting uncommon useless,</speech> muttered<character ref="danielSkegg">
+                Daniel</character> testily, as he went to do his wife’s behest.</p>
 
         <p>He knocked at the door, and called <character ref="maria">Maria</character>–once, twice,
-            thrice, many times; but there was no reply. He tried the door, and found it <scary_word pos="verb" scale="1">locked</scary_word>. He
-            shook the door <scary_word pos="adv" scale="2">violently</scary_word>, <scary_word pos="adj" scale="3">cold</scary_word> with
-                <scary_word pos="noun" scale="2">fear</scary_word>.</p>
+            thrice, many times; but there was no reply. He tried the door, and found it <scary_word
+                pos="verb" scale="1">locked</scary_word>. He shook the door <scary_word pos="adv"
+                scale="2">violently</scary_word>, <scary_word pos="adj" scale="3">cold</scary_word>
+            with <scary_word pos="noun" scale="2">fear</scary_word>.</p>
 
         <p>Then he told himself that the girl had played him a trick. She had stolen away before
-            daybreak, and left the door <scary_word pos="verb" scale="2">locked</scary_word> to <scary_word scale="3" pos="verb"
-                >frighten</scary_word> him. But, no; this could not be, for he could see the key in
-            the <scary_word pos="noun" scale="1">lock</scary_word> when he knelt down and put his eye to the keyhole. The key prevented his seeing
-            into the room.</p>
+            daybreak, and left the door <scary_word pos="verb" scale="2">locked</scary_word> to
+                <scary_word scale="3" pos="verb">frighten</scary_word> him. But, no; this could not
+            be, for he could see the key in the <scary_word pos="noun" scale="1">lock</scary_word>
+            when he knelt down and put his eye to the keyhole. The key prevented his seeing into the
+            room.</p>
 
         <p><speech ref="danielSkegg">She’s in there, laughing in her sleeve at me,</speech> he told
             himself; <speech ref="daniel">but I’ll soon be even with her.</speech></p>
@@ -1046,22 +1132,29 @@
                 Daniel</character> ran down to the landing, and seized upon this massive iron bar,
             and then ran back to the garret door.</p>
 
-        <p>One blow from the heavy bar <scary_word pos="verb" scale="1">shattered</scary_word> the <scary_word pos="adj" scale="1"
-                >old</scary_word> <scary_word pos="noun" scale="1">lock</scary_word>, which was the same <scary_word pos="noun" scale="2">lock</scary_word> the carter had <scary_word pos="verb" scale="1">broken</scary_word> with his
-            strong fist seventy years before. The door <scary_word pos="verb" scale="2">flew</scary_word> open, and <character ref="danielSkegg"
-                >Daniel</character> went into the attic which he had chosen for the <scary_word
-                scale="1" pos="noun">stranger</scary_word>’s bed-chamber.</p>
+        <p>One blow from the heavy bar <scary_word pos="verb" scale="1">shattered</scary_word> the
+                <scary_word pos="adj" scale="1">old</scary_word>
+            <scary_word pos="noun" scale="1">lock</scary_word>, which was the same <scary_word
+                pos="noun" scale="2">lock</scary_word> the carter had <scary_word pos="verb"
+                scale="1">broken</scary_word> with his strong fist seventy years before. The door
+                <scary_word pos="verb" scale="2">flew</scary_word> open, and <character
+                ref="danielSkegg">Daniel</character> went into the attic which he had chosen for the
+                <scary_word scale="1" pos="noun">stranger</scary_word>’s bed-chamber.</p>
         <plot point="resolve"/>
-        <p><character ref="maria">Maria</character> was <scary_word scale="3" pos="verb"
-                >hanging</scary_word> from the hook in the wall. She had contrived to cover her face
-            decently with her handkerchief. She had <scary_word scale="3" pos="verb"
-                >hanged</scary_word> herself deliberately about an hour before<character
-                ref="danielSkegg"> Daniel</character> found her, in the early <scary_word pos="adj"
-                scale="3">grey</scary_word> of morning. The doctor, who was summoned from Holcroft,
-            was able to declare the time at which she had slain herself, but there was no one who
-            could say what sudden access of <scary_word scale="3" pos="noun">terror</scary_word> had impelled her to the desperate act, or under
-            what <scary_word pos="adj" scale="2">slow</scary_word> <scary_word scale="3" pos="noun">torture</scary_word> of <scary_word pos="adj" scale="3">nervous</scary_word> <scary_word pos="noun" scale="2">apprehension</scary_word> her mind had given way. The coroner’s jury
-            returned the customary merciful verdict of "Temporary insanity".</p>
+        <p><scary_phrase><character ref="maria">Maria</character> was <scary_word scale="3"
+                    pos="verb">hanging</scary_word> from the hook in the wall.</scary_phrase> She
+            had contrived to cover her face decently with her handkerchief. She had <scary_word
+                scale="3" pos="verb">hanged</scary_word> herself deliberately about an hour
+                before<character ref="danielSkegg"> Daniel</character> found her, in the early
+                <scary_word pos="adj" scale="3">grey</scary_word> of morning. The doctor, who was
+            summoned from Holcroft, was able to declare the time at which she had slain herself, but
+            there was no one who could say what sudden access of <scary_word scale="3" pos="noun"
+                >terror</scary_word> had impelled her to the desperate act, or under what
+                <scary_word pos="adj" scale="2">slow</scary_word>
+            <scary_word scale="3" pos="noun">torture</scary_word> of <scary_word pos="adj" scale="3"
+                >nervous</scary_word>
+            <scary_word pos="noun" scale="2">apprehension</scary_word> her mind had given way. The
+            coroner’s jury returned the customary merciful verdict of "Temporary insanity".</p>
         <p>The girl’s <scary_word pos="adj" scale="2">melancholy</scary_word> fate darkened the rest
             of <character ref="michaelBascom">Michael Bascom</character>’s life. He fled from
             Wildheath Grange as from an accursed spot, and from <character ref="danielSkegg">the
