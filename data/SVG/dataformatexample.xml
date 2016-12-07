@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<story title="example1" one="25" two="15" three="7" i="4" zero="1"></story>
-<story title="example2" one="15" two="9" three="3" i="1" zero="2"></story>
+<data>
+    <story title="example1" one="25" two="15" three="7" i="4" zero="1"/>
+    <story title="example2" one="15" two="9" three="3" i="1" zero="2"/>
+</data>

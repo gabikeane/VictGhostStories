@@ -22,7 +22,7 @@
             </g>
         </svg>
     </xsl:template>
-    <xsl:template match="doctor">
+    <xsl:template match="story">
         <circle r="10" cx="30" cy="-10" fill="blue"></circle> 
     </xsl:template>   
 </xsl:stylesheet>
