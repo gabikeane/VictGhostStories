@@ -3,7 +3,7 @@
 <?xml-model href="../../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <meta>
-        <title>THE OLD NURSE'S STORY</title>
+        <title>The Old Nurse's Story</title>
         <author>Elizabeth Gaskell</author>
         <date>1852</date>
     </meta>
