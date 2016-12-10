@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../computational%20methods/ghostschema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+    <meta>
+        <title>Walnut-Tree House</title>
+        <author>Charlotte Riddell</author>
+        <date>1882</date>
+    </meta>
+    <body>
+        <plot point="intro"/>
+        <chapter>
+            <chapTitle>The New Owner</chapTitle>
+            <p>Many years ago there stood at the corner of a street leading out of Upper Kennington
+                Lane a great red brick <scary_word pos="noun" scale="1">house</scary_word>, covering
+                a goodly area of ground, and surrounded by gardens magnificent in their proportions
+                when considered in relation to the populous neighbourhood mentioned.</p>
+            <p>Originally a place of considerable pretention; a gentleman's seat in the country
+                probably when Lambeth Marsh had not a shop in the whole of it; when Vauxhall Gardens
+                were <scary_word pos="adj" scale="0">still</scary_word> in nubilus; when no
+                South-Western Railway was planned or thought of; when London was comparatively a
+                    <scary_word pos="mod" scale="0">very</scary_word> small place, and its present
+                suburbs were mere country villages—hamlets lying quite remote from the heart of the
+                city.</p>
+            <p>Once, the <scary_word pos="noun" scale="1">house</scary_word> in question had been
+                surrounded by a small park, and at that time there were fish-ponds in the grounds,
+                and quite a stretch of meadow-land within the walls. Bit by bit, however, the park
+                had been cut up into building ground and let off on building leases; the meadows
+                were covered with bricks and mortar, shops were run up where cows once chewed the
+                cud, and the roar and rumble of London traffic sounded about the old <scary_word
+                    pos="noun" scale="1">house</scary_word> and the <scary_word pos="adj" scale="2"
+                    >deserted</scary_word> garden, formerly quiet and <scary_word pos="adj"
+                    scale="2">silent</scary_word> as though situated in some remote part of the
+                country.</p>
+            <p>Many a time in the course of the generations that had come and gone, been born and
+                    <scary_word pos="verb" scale="2">buried</scary_word>, since the old <scary_word
+                    pos="noun" scale="1">house</scary_word> was built, the freehold it covered
+                changed hands. On most estates of this kind round London there generally is a
+                residence, which passes like a horse from buyer to buyer. When it has served one
+                man's need it is put up for sale and bid for by another. When rows and rows of
+                houses, and line after line of streets, have obliterated all the familiar marks, it
+                is impossible to cultivate a sentiment as regards property; and it is unlikely that
+                the descendants of the first possessors of Walnut-Tree <scary_word pos="noun"
+                    scale="1">House</scary_word> who had grown to be country folk and lived in great
+                state, oblivious of business people, and entertaining a great contempt for trade,
+                knew that in a <scary_word pos="mod" scale="i">very</scary_word> undesirable part of
+                London there <scary_word pos="adj" scale="0">still</scary_word> stood the residence
+                where the first successful man of their family went home each day from his
+                    counting-<scary_word pos="noun" scale="1">house</scary_word> over against St.
+                Mildred's Church, in The Poultry.</p>
+            <p>One <scary_word pos="mod" scale="i">very</scary_word>
+                <scary_word pos="adj" scale="1">wet</scary_word>
+                <scary_word pos="noun" scale="1">evening</scary_word>, in an autumn the leaves of
+                which have been <scary_word pos="adj" scale="3">dead</scary_word> and gone this many
+                a year, Walnut-Tree <scary_word pos="noun" scale="1">House</scary_word>,
+                    <scary_phrase>standing <scary_word pos="adj" scale="3">grim</scary_word> and
+                        <scary_word pos="adj" scale="2">lonely</scary_word> in the <scary_word
+                        pos="adj" scale="2">mournful</scary_word>
+                    <scary_word pos="noun" scale="1">twilight</scary_word></scary_phrase>, looked
+                more than ordinarily <scary_word pos="adj" scale="2">desolate</scary_word> and
+                    <scary_word pos="adj" scale="2">deserted</scary_word>.</p>
+            <p>There was not a sign of life about it; the <scary_phrase><scary_word pos="noun"
+                        scale="0">shutters</scary_word> were <scary_word pos="verb" scale="1"
+                        >closed</scary_word></scary_phrase>—the <scary_phrase><scary_word pos="adj"
+                        scale="1">rusty</scary_word> iron <scary_word pos="noun" scale="0"
+                        >gates</scary_word></scary_phrase> were fast <scary_word pos="adj" scale="1"
+                    >locked</scary_word>—the approach was <scary_phrase><scary_word pos="adj"
+                        scale="3">choked</scary_word> up with <scary_word pos="noun" scale="0"
+                        >grass</scary_word> and <scary_word pos="noun" scale="1"
+                    >weeds</scary_word></scary_phrase>—through no chink did the light of a single
+                candle flicker. <scary_phrase>For seven years it had been given over to <scary_word
+                        pos="noun" scale="2">rats</scary_word> and <scary_word pos="noun" scale="1"
+                        >mice</scary_word> and <scary_word pos="noun" scale="1"
+                        >blackbeetles</scary_word></scary_phrase>; for seven years no one had been
+                found to live in it; for seven years it had remained <scary_word pos="adj" scale="1"
+                    >empty</scary_word>, while its owner wore out existence in fits of <scary_word
+                    pos="adj" scale="0">moody</scary_word>
+                <scary_word pos="noun" scale="1">dejection</scary_word> or of
+                        <scary_phrase><scary_word pos="adj" scale="2">wild</scary_word>
+                    <scary_word pos="noun" scale="2">frenzy</scary_word> in the <scary_word
+                        pos="noun" scale="3">madhouse</scary_word></scary_phrase>
+                <scary_word pos="adj" scale="0">close</scary_word> at hand; and now that owner was
+                        <scary_phrase><scary_word pos="adj" scale="3">dead</scary_word> and
+                        <scary_word pos="verb" scale="2">buried</scary_word> and
+                    forgotten</scary_phrase>, and the new owner was returning to take possession.
+                This new owner had written to his lawyers, or rather he had written to the lawyers
+                of his late relative, begging them to request the person in charge of the
+                    <scary_word pos="noun" scale="1">house</scary_word> to have rooms prepared for
+                his arrival; and, when the train drew into the station at Waterloo, he was met by
+                    <character ref="clerk">one of the clerks</character> in Messrs Timpson and Co.'s
+                office, who, picking out <character ref="edgarStainton">Mr. Stainton</character>,
+                delivered to that gentleman a letter from the firm, and said he would wait and hear
+                if there were any message in reply.</p>
+            <plot point="protag"/>
+            <p><character ref="edgarStainton">Mr. Stainton</character> read the letter—looked at the
+                blank flyleaf—and then, turning back to the first words, read what his solicitors
+                had to say all through once again, this time aloud.</p>
+            <p><speech ref="edgarStainton">The <scary_word pos="noun" scale="1">house</scary_word>
+                    has stood <scary_word pos="adj" scale="1">empty</scary_word> for more than seven
+                    years,</speech> he said, half addressing the <character ref="clerk"
+                    >clerk</character> and half speaking to himself. <speech ref="clerk">Must be
+                    damp and uninhabitable; there is no one living on the premises. Under these
+                    circumstances we have been unable to comply with your directions, and can only
+                    recommend you to go to an hotel till we are able personally to discuss future
+                    arrangements.</speech></p>
+            <p><speech ref="edgarStainton">Humph,</speech> said the new owner, after he had
+                finished. <speech ref="edgarStainton">I'll go and take a look at the place, anyhow.
+                    Is it far from here, do you know?</speech> he asked, turning to the young man
+                from Timpsons'.</p>
+            <p>
+                <speech ref="clerk">No, sir; not <scary_word pos="mod" scale="i">very</scary_word>
+                    far.</speech>
+            </p>
+            <p><speech ref="edgarStainton">Can you spare time to come over there with me?</speech>
+                continued <character ref="edgarStainton">Mr. Stainton</character>. The young man
+                    <scary_word pos="verb" scale="0">believed</scary_word> that he could, adding,
+                    <speech ref="clerk">If you want to go into the <scary_word pos="noun" scale="1"
+                        >house</scary_word> we had better call for the key. It is at an estate
+                    agent's in the Westminster Bridge Road.</speech></p>
+            <p><speech ref="edgarStainton">I cannot say I have any great passion for
+                    hotels,</speech> remarked the new owner, as he took his seat in the cab.</p>
+            <p>
+                <speech ref="clerk">Indeed, sir?</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">No; either they don't suit me, or I don't suit them. I
+                    have led a <scary_word pos="adj" scale="2">wild</scary_word> sort of life: not
+                    much civilisation in the bush, or at the goldfields, I can tell you. Rooms full
+                    of furniture, houses where a fellow must keep to the one little corner he has
+                    hired, seem to <scary_word pos="verb" scale="3">choke</scary_word> me. Then I
+                    have not been well, and I can't stand noise and the trampling of feet. I had
+                    enough of that on board ship; and I used to lie awake at <scary_word pos="noun"
+                        scale="2">nights</scary_word> and think how pleasant it would be to have a
+                    big <scary_word pos="noun" scale="1">house</scary_word> all to myself, to do as
+                    I liked in.</speech>
+            </p>
+            <p><speech ref="clerk">Yes, sir,</speech> agreed the <character ref="clerk"
+                    >clerk</character>.</p>
+            <p>
+                <speech ref="edgarStainton">You see, I have been used to <scary_word pos="verb"
+                        scale="1">roughing</scary_word> it, and I can get along <scary_word
+                        pos="mod" scale="i">very</scary_word> well for a <scary_word pos="noun"
+                        scale="1">night</scary_word> without servants.</speech>
+            </p>
+            <p>
+                <speech ref="clerk">No doubt, sir.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">I suppose the <scary_word pos="noun" scale="1"
+                        >house</scary_word> is in substantial repair—roof tight, and all that sort
+                    of thing?</speech>
+            </p>
+            <p>
+                <speech ref="clerk">I can't say, I am sure, sir.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Well, if there is a dry corner where I can spread a
+                    rug, I shall sleep there <scary_word pos="noun" scale="1"
+                    >tonight</scary_word>.</speech>
+            </p>
+            <p>The <character ref="clerk">clerk</character> coughed. He looked out of the
+                    <scary_word pos="noun" scale="0">window</scary_word>, and then he looked at
+                Messrs. Timpsons' client.</p>
+            <p><speech ref="clerk">I do not think—</speech> he began, apologetically, and then
+                stopped.</p>
+            <p><speech ref="edgarStainton">You don't think what?</speech> asked the other.</p>
+            <p>
+                <speech ref="clerk">You'll excuse me, sir, but I don't think—I really do not think,
+                    if I were you, I'd go to that <scary_word pos="noun" scale="1"
+                        >house</scary_word>
+                    <scary_word pos="noun" scale="1">tonight</scary_word>.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Why not?</speech>
+            </p>
+            <p>
+                <speech ref="clerk">Well, it has not been slept in for nearly seven years, and it
+                    must be blue <scary_word pos="adj" scale="1">mouldy</scary_word> with damp; and
+                    if you have been <scary_word pos="adj" scale="1">ill</scary_word>, that is all
+                    the more reason you should not run such a risk. And, besides—</speech>
+            </p>
+            <p><speech ref="edgarStainton">Besides?</speech> suggested <character
+                    ref="edgarStainton">Mr. Stainton</character>. <speech ref="edgarStainton">Out
+                    with it! Like a postscript, no doubt, that 'besides' holds the marrow of the
+                    argument.</speech></p>
+            <p>
+                <speech ref="clerk">The <scary_word pos="noun" scale="1">house</scary_word> has
+                    stood <scary_word pos="adj" scale="2">empty</scary_word> for years, sir,
+                    because—there is no use in making any <scary_word pos="noun" scale="1"
+                        >secret</scary_word> of it—the place has a <scary_word pos="adj" scale="3"
+                        >bad</scary_word> name.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">What sort of a <scary_word pos="adj" scale="3"
+                        >bad</scary_word> name—unhealthy?</speech>
+            </p>
+            <p>
+                <speech ref="clerk">Oh, no!</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton"><scary_word pos="verb" scale="3"
+                    >Haunted</scary_word>?</speech>
+            </p>
+            <p>The <character ref="clerk">clerk</character> inclined his head. <speech ref="clerk"
+                    >You have hit it, sir,</speech> he said.</p>
+            <p>
+                <speech ref="edgarStainton">And that is the reason no one has lived
+                    there?</speech>
+            </p>
+            <p>
+                <speech ref="clerk">We have been quite unable to let the <scary_word pos="noun"
+                        scale="1">house</scary_word> on that account.</speech>
+            </p>
+            <p><speech ref="edgarStainton">The sooner it gets unhaunted, then, the
+                    better,</speech> retorted <character ref="edgarStainton">Mr.
+                    Stainton</character>. <speech ref="edgarStainton">I shall certainly stop there
+                        <scary_word pos="noun" scale="1">tonight</scary_word>. You are not disposed
+                    to stay and keep me company, I suppose?</speech></p>
+            <p>With a little gesture of dismay the <character ref="clerk">clerk</character> drew
+                back. Certainly, this was one of the most unconventional of clients. The young man
+                from Timpsons' did not at all know what to make of him.</p>
+            <p><speech ref="clerk">A <scary_word pos="adj" scale="1">rough</scary_word> sort of
+                    fellow,</speech> he said afterwards, when describing the new owner; <speech
+                    ref="clerk">boorish; never mixed with good society, that sort of
+                    thing.</speech></p>
+            <p>He did not in the least understand this rich man, who treated him as an equal, who
+                objected to hotels, who didn't mind taking up his abode in a <scary_word pos="noun"
+                    scale="1">house</scary_word> where not even a drunken charwoman could be induced
+                to stop, and who calmly asked a <scary_word pos="noun" scale="2"
+                    >stranger</scary_word> on whom he had never set <scary_word pos="noun" scale="1"
+                    >eyes</scary_word> before—a <character ref="clerk">clerk</character> in the
+                respectable office of Timpson and Co., a young fellow anxious to rise in the world,
+                careful as to his associates, particular about the <scary_word pos="noun" scale="0"
+                    >whiteness</scary_word> of his shirts and the sit of his collar and the cut of
+                his coats—to <scary_word pos="adj" scale="1">rough</scary_word> things with him in
+                that <scary_word pos="adj" scale="2">dreadful</scary_word> old <scary_word
+                    pos="noun" scale="3">dungeon</scary_word>, where, perhaps, he might even be
+                expected to light a <scary_word pos="noun" scale="1">fire</scary_word>.</p>
+            <p><scary_word pos="adj" scale="0">Still</scary_word>, he did not wish to offend the new
+                owner. Messrs. Timpson expected him to be a profitable client; and to that impartial
+                firm the money of a boor would, he knew, seem as good as the money of a count.</p>
+            <p><speech ref="clerk">I am <scary_word pos="mod" scale="i">very</scary_word>
+                    sorry,</speech> he stammered; <speech ref="clerk">should only have felt too
+                    much honoured; but the fact is—previous engagement—</speech></p>
+            <p><character ref="edgarStainton">Mr. Stainton</character> laughed.</p>
+            <p><speech ref="edgarStainton">I understand,</speech> he said. <speech
+                    ref="edgarStainton">Adventures are quite as much out of your line as
+                        <scary_word pos="noun" scale="3">ghosts</scary_word>. And now tell me about
+                    this <scary_word pos="noun" scale="3">apparition</scary_word>. Does the 'old
+                    man' walk?</speech></p>
+            <p><speech ref="clerk">Not that I ever heard of,</speech> answered the other.</p>
+            <p>
+                <speech ref="edgarStainton">Is it, then, the <scary_word pos="adj" scale="2"
+                        >miserable</scary_word> beggar who tried to do for himself?</speech>
+            </p>
+            <p><speech ref="clerk">It is not the late <character ref="edgarStainton">Mr.
+                        Stainton</character>, I <scary_word pos="verb" scale="0"
+                        >believe</scary_word>,</speech> said the young man, in tone which mildly
+                suggested that reference to a client of Timpsons' as a <scary_word pos="adj"
+                    scale="2">miserable</scary_word> beggar might be considered <scary_word
+                    pos="adj" scale="3">bad</scary_word> taste.</p>
+            <p><speech ref="edgarStainton">Then who on earth is it?</speech> persisted <character
+                    ref="edgarStainton">Mr. Stainton</character>.</p>
+            <p>
+                <speech ref="clerk">If you must know, sir, it is a <scary_word pos="noun" scale="1"
+                        >child</scary_word>—a <scary_word pos="noun" scale="1">child</scary_word>
+                    who has driven every tenant in succession out of the <scary_word pos="noun"
+                        scale="1">house</scary_word>.</speech>
+            </p>
+            <p>The new owner burst into a hearty laugh—a laugh which gave <scary_word pos="adj"
+                    scale="0">serious</scary_word> offence to Timpsons' <character ref="clerk"
+                    >clerk</character>.</p>
+            <p><speech ref="edgarStainton">That is too good a joke,</speech> said <character
+                    ref="edgarStainton">Mr. Stainton</character>. <speech ref="edgarStainton">I do
+                    not know when I heard anything so delicious.</speech></p>
+            <p><speech ref="clerk">It is a fact, whether it be delicious or not,</speech> retorted
+                the young man, driven out of all his former propriety of <scary_word pos="noun"
+                    scale="0">voice</scary_word> and demeanour by the contemptuous ridicule this
+                digger thought fit to cast on his story; <speech ref="clerk">and I, for one,
+                    would not, after all I have heard about your <scary_word pos="noun" scale="1"
+                        >house</scary_word>, pass a <scary_word pos="noun" scale="1"
+                        >night</scary_word> in it—no, not if anybody offered me fifty pounds
+                        <scary_word pos="adj" scale="0">down</scary_word>.</speech></p>
+            <p><speech ref="edgarStainton">Make your mind easy, my friend,</speech> said the new
+                owner, <scary_word pos="adv" scale="1">quietly</scary_word>. <speech
+                    ref="edgarStainton">I am not going to bid for your company. The <scary_word
+                        pos="noun" scale="1">child</scary_word> and I can manage, I'll be bound, to
+                    get on <scary_word pos="mod" scale="i">very</scary_word> comfortably by
+                    ourselves.</speech></p>
+        </chapter>
+        <chapter>
+            <chapTitle>The Child</chapTitle>
+            <p>It was later on in the same <scary_word pos="noun" scale="1">evening</scary_word>;
+                Mr. Stainton had an hour previously taken possession of Walnut-Tree <scary_word
+                    pos="noun" scale="1">House</scary_word>, dismissed his cab, bidden Timpsons'
+                    <character ref="clerk">clerk</character> good <scary_word pos="noun" scale="1"
+                    >evening</scary_word>, and, having ordered in wood and coals from the nearest
+                greengrocer, besides various other necessary articles from various other tradesmen,
+                he now stood by the front <scary_word pos="noun" scale="1">gate</scary_word> waiting
+                the coming of the goods purchased.</p>
+            <p>As he waited, he looked up at the <scary_word pos="noun" scale="1"
+                >house</scary_word>, which in the <scary_word pos="adj" scale="1"
+                    >uncertain</scary_word> light of the street lamps appeared <scary_word pos="adj"
+                    scale="2">gloomier</scary_word> and <scary_word pos="adj" scale="2"
+                    >darker</scary_word> than had been the case even in the gathering <scary_word
+                    pos="noun" scale="1">twilight</scary_word>.</p>
+            <p>The long rows of <scary_word pos="adj" scale="1">shuttered</scary_word>
+                <scary_word pos="noun" scale="1">windows</scary_word>, the <scary_word pos="adj"
+                    scale="2">silent</scary_word>
+                <scary_word pos="noun" scale="2">solemnity</scary_word> of the great <scary_word
+                    pos="noun" scale="2">trees</scary_word>, remnants of a once goodly avenue that
+                had served to give its name to Walnut-Tree <scary_word pos="noun" scale="1"
+                    >House</scary_word>; the appalling <scary_word pos="noun" scale="2"
+                    >silent</scary_word> of everything within the place, when contrasted with the
+                noise of passing cabs and whistling street boys, and men trudging home with unfurled
+                umbrellas and women scudding along with draggled petticoats, might well have
+                impressed even an unimpressionable man, and <character ref="edgarStainton">Edgar
+                    Stainton</character>, spite of his hard life and <scary_word pos="adj" scale="1"
+                    >rough</scary_word> exterior, was impressionable and imaginative.</p>
+            <p><speech ref="edgarStainton">It has an 'uncanny' look, certainly,</speech> he
+                considered; <speech ref="edgarStainton">but is not so cheerless for a <scary_word
+                        pos="adj" scale="1">lonely</scary_word> man as the 'bush'; and though I am
+                    not over-tired, I fancy I shall sleep more soundly in my new home than I did
+                    many a <scary_word pos="noun" scale="1">night</scary_word> at the goldfields.
+                    When once I can get a good <scary_word pos="noun" scale="1">fire</scary_word> up
+                    I shall be all right. Now, I wonder when those coals are coming!</speech></p>
+            <p>As he turned once again towards the road, he beheld on its way the sack of fuel with
+                which the nearest greengrocer said he thought he could—indeed, said he
+                would—oblige him. A ton—half a ton—quarter of a ton, the greengrocer affirmed
+                would be impossible until the next day; but a sack—yes—he would promise that.
+                    <character ref="bill">Bill</character> should bring it round; and <character
+                    ref="bill">Bill</character> was told to put his <scary_word pos="noun" scale="0"
+                    >burden</scary_word> on the truck, and twelve bundles of wood, <speech
+                    ref="billsMaster">and we'll make up the rest to-morrow,</speech> added
+                    <character ref="billsMaster">Bill's master</character>, with the <scary_word
+                    pos="noun" scale="0">air</scary_word> of one who has conferred a favour.</p>
+            <p>In the distance <character ref="edgarStainton">Mr. Stainton</character> descried a
+                    <scary_word pos="mod" scale="i">very</scary_word>
+                <scary_word pos="adj" scale="1">grimy</scary_word>
+                <character ref="bill">Bill</character>, and a <scary_word pos="mod" scale="i"
+                    >very</scary_word> small <character ref="boyBill">boy</character>, coming along
+                with the truck leisurely, as though the load had been Herculean.</p>
+            <p>Through the <scary_word pos="noun" scale="1">rain</scary_word> he watched the pair
+                advancing and greeted <character ref="bill">Bill</character> with a glad <scary_word
+                    pos="noun" scale="0">voice</scary_word> of welcome.</p>
+            <p>
+                <speech ref="edgarStainton">So you've come at last; that's right. Better late than
+                    never. Bring them this way. I'll have this small lot shot in the kitchen for the
+                        <scary_word pos="noun" scale="2">night</scary_word>.</speech>
+            </p>
+            <p><speech ref="bill">Begging your pardon, sir,</speech> answered <character
+                    ref="bill">Bill</character>, <speech ref="bill">I don't think you will—that is
+                    to say, not by me. As I told our governor, I'll take 'em to the <scary_word
+                        pos="noun" scale="1">house</scary_word> as you've sold 'em to the
+                        <scary_word pos="noun" scale="1">house</scary_word>, but I won't set a foot
+                    inside it.</speech></p>
+            <p><speech ref="edgarStainton">Do you mean to say you are going to leave them out on
+                    the pavement?</speech> asked Mr. Stainton.</p>
+            <p>
+                <speech ref="bill">Well, sir, I don't mind taking them to the front door if it'll
+                    be a convenience.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">That will do. You are a <scary_word pos="adj" scale="0"
+                        >brave</scary_word> lot of people in these parts I must say.</speech>
+            </p>
+            <p><speech ref="bill">As for that,</speech> retorted <character ref="bill"
+                    >Bill</character>, with sack on back and head bent forward, <speech ref="bill"
+                    >I dare say we're as <scary_word pos="adj" scale="0">brave</scary_word> about
+                    here as where you come from.</speech></p>
+            <p><speech ref="edgarStainton">It is not impossible,</speech> retorted <character
+                    ref="edgarStainton">Mr. Stainton</character>; <speech ref="edgarStainton">there
+                    are plenty of <scary_word pos="noun" scale="1">cowards</scary_word> over there
+                    too.</speech></p>
+            <p>With a feint of being <scary_word pos="mod" scale="i">very</scary_word> much
+                    <scary_word pos="adj" scale="2">afraid</scary_word>, <character ref="bill"
+                    >Bill</character>, after he had shot his coals on the margin of the steps,
+                retreated from the door, which stood partly open, and when the <character
+                    ref="boyBill">boy</character> who brought up the wood was again out with the
+                truck, said, putting his knuckles to his eyebrows:</p>
+            <p>
+                <speech ref="boyBill">Beg pardon, sir, but I suppose you couldn't give us a drop of
+                    beer? <scary_word pos="mod" scale="i">Very</scary_word>
+                    <scary_word pos="adj" scale="2">wet</scary_word>
+                    <scary_word pos="noun" scale="2">night</scary_word>, sir.</speech>
+            </p>
+            <p><speech ref="edgarStainton">No, I could not,</speech> answered <character
+                    ref="edgarStainton">Mr. Stainton</character>, <scary_word pos="mod" scale="i"
+                    >very</scary_word> decidedly. <speech ref="edgarStainton">I shall have to
+                    shovel these coals into the <scary_word pos="noun" scale="1">house</scary_word>
+                    myself; and, as for the <scary_word pos="noun" scale="2">night</scary_word>, it
+                    is as <scary_word pos="adj" scale="2">wet</scary_word> for me as it is for
+                    you.</speech></p>
+            <p>Nevertheless, as <character ref="bill">Bill</character> shuffled along the short
+                drive—shuffling wearily—like a man who, having nearly finished one day's hard work,
+                was looking forward to beginning another hard day in the morning, the new owner
+                relented.</p>
+            <p><speech ref="edgarStainton">Here,</speech> he said, picking out a sixpence to give
+                him, <speech ref="edgarStainton">it isn't your fault, I suppose, that you
+                        <scary_word pos="verb" scale="0">believe</scary_word> in old women's
+                    tales.</speech></p>
+            <p><speech ref="bill">Thank you kindly, sir,</speech>
+                <character ref="bill">Bill</character> answered; <speech ref="bill">I am sure I am
+                    extremely obliged; but if I was in your shoes I wouldn't stop in that
+                        <scary_word pos="noun" scale="1">house</scary_word>—you'll excuse me, sir,
+                    meaning no offence—but I wouldn't; indeed I wouldn't.</speech></p>
+            <p>It seems to have got a good name, at any rate, thought <character
+                    ref="edgarStainton">Mr. Stainton</character>, while retracing his steps to the
+                banned tenement. Let us see what effect a <scary_word pos="noun" scale="1"
+                    >fire</scary_word> will have in routing the <scary_word pos="noun" scale="2"
+                    >shadows</scary_word>.</p>
+            <p>He entered the <scary_word pos="noun" scale="1">house</scary_word>, and, striking a
+                match, lighted some candles he had brought in with him from a neighbouring
+                oil-shop.</p>
+            <p>Years previously the gas company, <scary_word pos="adj" scale="1">weary</scary_word>
+                of receiving no profit from the <scary_word pos="noun" scale="1">house</scary_word>,
+                had taken away their meter and cut off their connections. The water supply was in
+                the same case, as <character ref="edgarStainton">Mr. Stainton</character>, going
+                round the premises before it grew quite <scary_word pos="adj" scale="3"
+                    >dark</scary_word>, had discovered.</p>
+            <p>Of almost all small articles of furniture easily <scary_word pos="verb" scale="2"
+                    >broken</scary_word> by careless tenants, easily removed by charwomen, the place
+                was perfectly <scary_word pos="adj" scale="2">bare</scary_word>; and as there were
+                no portable candlesticks in which to place the lights the new tenant was forced to
+                make his illumination by the help of some <scary_word pos="adj" scale="1"
+                    >dingy</scary_word> mirrors provided with sconces, and to seek such articles as
+                he needed by the help of a guttering <scary_word pos="noun" scale="2"
+                    >mould</scary_word> candle stuck in the neck of a <scary_word pos="adj"
+                    scale="2">broken</scary_word> bottle. After an inspection of the ground-floor
+                rooms he decided to take up his quarters for the <scary_word pos="noun" scale="1"
+                    >night</scary_word> in one which had evidently served as a library.</p>
+            <p>In the centre of the apartment there was the table covered with leather. Around the
+                walls were bookcases, <scary_word pos="adj" scale="0">still</scary_word> well filled
+                with volumes, too <scary_word pos="adj" scale="1">uninviting</scary_word> to borrow,
+                too valueless in the opinion of the ignorant to <scary_word pos="verb" scale="1"
+                    >steal</scary_word>. In one corner stood a bureau, where the man, who for so
+                many years had been <scary_word pos="adj" scale="3">dead</scary_word> even while
+                living, kept his letters and papers.</p>
+            <p>The floor was <scary_word pos="adj" scale="2">bare</scary_word>. Once a Turkey carpet
+                had been spread over the centre of the polished oak boards, but it lay in its wonted
+                place no longer; between the <scary_word pos="noun" scale="1">windows</scary_word>
+                hung a convex mirror, in which the face of any human being looked <scary_word
+                    pos="adj" scale="3">horrible</scary_word> and <scary_word pos="adj" scale="3"
+                    >distorted</scary_word>; whilst over the mantle-shelf, indeed, forming a portion
+                of it, was a long, narrow glass, bordered by a frame ornamented with a tracery of
+                leaves and flowers. The ceiling was richly decorated, and, spite of the dust and
+                dirt and neglect of years, all the appointments of the apartment he had selected
+                gave <character ref="edgarStainton">Edgar Stainton</character> the impression that
+                it was a good thing to be the owner of such a mansion, even though it did chance to
+                be situated as much out of the way of fashionable London as the diggings whence he
+                had come.</p>
+            <p><speech ref="edgarStainton">And there is not a creature but myself left to enjoy it
+                    all,</speech> he mused, as he sat looking into the blazing coals. <speech
+                    ref="edgarStainton">My <scary_word pos="adj" scale="1">poor</scary_word>
+                    mother, how she would have rejoiced <scary_word pos="noun" scale="1"
+                        >tonight</scary_word>, had she lived to be the mistress of so large a place!
+                    And my father, what a harbour this would have seemed after the <scary_word
+                        pos="noun" scale="2">storms</scary_word> that buffeted him! Well, they are
+                    better off, I know; and yet I cannot help thinking how <scary_word pos="adj"
+                        scale="2">strange</scary_word> it all is—that I, who went away a mere
+                    beggar, should come home rich, to be made richer, and yet stand so utterly
+                        <scary_word pos="adj" scale="2">alone</scary_word> that in the length and
+                    breadth of England I have not a relative to welcome me or to say I wish you joy
+                    of your inheritance.</speech></p>
+            <plot point="haunting"/>
+            <p>He had eaten his frugal supper, and now, pushing aside the table on which the remains
+                of his repast were spread, he began walking <scary_word pos="adv" scale="1" synset="slowly.r.01"
+                    >slowly</scary_word> up and <scary_word pos="adj" scale="0" synset="down.r.01">down</scary_word> the
+                room, thinking over the past and forming plans for the future.</p>
+            <p>As he was <scary_word pos="verb" scale="2" synset="immerse.v.03">buried</scary_word> in reflection, the
+                <scary_word pos="noun" scale="1" synset="fire.n.04">fire</scary_word> began to <scary_word
+                    pos="verb" scale="3" synset="die.v.10">die</scary_word>
+                <scary_word pos="adj" scale="1" synset="down.r.05">down</scary_word> without his noticing the fact; but
+                a sudden feeling of chilliness at length causing him <scary_word pos="adj" scale="1" synset="instinctively.r.01"
+                    >instinctively</scary_word> to look towards the hearth, he threw some wood into
+                the grate, and, while the flames went blazing up the wide chimney, piled on coals as
+                though he desired to set the <scary_word pos="noun" scale="1" synset="house.n.01">house</scary_word>
+                alight.</p>
+            <p>While he was so engaged there came a knock at the door of the room—a feeble,
+                hesitating knock, which was <scary_word pos="verb" scale="1" synset="repeat.v.01">repeated</scary_word>
+                more than once before it attracted <character ref="edgarStainton">Mr.
+                    Stainton</character>'s attention.</p>
+            <p>When it did, being <scary_word pos="adj" scale="0">still</scary_word> busy with the
+                <scary_word pos="noun" scale="1" synset="still.r.01">fire</scary_word>, and forgetting he was
+                <scary_word pos="adj" scale="2" synset="alone.s.02">alone</scary_word> in the <scary_word pos="noun"
+                        scale="1" synset="house.n.01">house</scary_word>, he called out, <speech ref="edgarStainton">Come
+                    in.</speech></p>
+            <p>Along the panels there <scary_word pos="verb" scale="3" synset="steal.v.02">stole</scary_word>
+                <scary_phrase>a <scary_word pos="adj" scale="2" synset="rustle.v.01">rustling</scary_word> sort of
+                    <scary_word pos="noun" scale="2" synset="touch.n.01">touch</scary_word></scary_phrase>, as if
+                someone were feeling <scary_word pos="adv" scale="2" synset="uncertainly.r.02">uncertainly</scary_word> for
+                the handle—a <scary_word pos="adj" scale="2" synset="curious.s.01">curious</scary_word> noise, as of a
+                weak hand <scary_word pos="verb" scale="2" synset="grope.v.01">fumbling</scary_word> about the door in
+                the <scary_word pos="adj" scale="3" synset="darkness.n.02">dark</scary_word>; then, in a similar manner,
+                the person seeking admittance tried to turn the <scary_word pos="noun" scale="2" synset="lock.n.01"
+                    >lock</scary_word>.</p>
+            <p><speech ref="edgarStainton">Come in, can't you?</speech>
+                <scary_word pos="verb" scale="1" synset="repeat.v.01">repeated</scary_word>
+                <character ref="edgarStainton">Mr. Stainton</character>; but even as he spoke he
+                remembered he was, or ought to be, the sole occupant of the mansion.</p>
+            <p>He was not <scary_word pos="adj" scale="1" synset="alarmed.s.01">alarmed</scary_word>; he was too much
+                accustomed to <scary_word pos="noun" scale="1" synset="solitude.n.01">solitude</scary_word> and danger for
+                that; but he rose from his stooping position and <scary_word pos="adj" scale="1" synset="instinctively.r.01"
+                    >instinctively</scary_word>
+                <scary_word pos="verb" scale="1" synset="seize.v.01">seized</scary_word> his revolver, which he had
+                chanced, while unpacking some of his effects, to place on the top of the bureau.</p>
+            <p><speech ref="edgarStainton">Come in, whoever you are,</speech> he cried; but seeing
+                the door remained <scary_word pos="adj" scale="1">closed</scary_word>, though the
+                <scary_word pos="noun" scale="3" synset="intruder.n.01">intruder</scary_word> was evidently making
+                futile efforts to open it, he strode half-way across the room, and then stopped,
+                amazed.</p>
+            <p>For suddenly the door opened, and there entered, shyly and timidly, a little
+                <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word>—a <scary_word pos="noun"
+                    scale="2" synset="child.n.01">child</scary_word> with the <scary_word pos="adj" scale="2" synset="sad.a.01"
+                    >saddest</scary_word> face mortal ever beheld; a <scary_word pos="noun"
+                        scale="2" synset="child.n.01">child</scary_word> with <scary_word pos="adj" scale="2" synset="pensive.s.02"
+                    >wistful</scary_word>
+                <scary_word pos="noun" scale="2" synset="eye.n.01">eyes</scary_word> and long, <scary_word pos="adj"
+                    scale="2" synset="ill.r.01">ill</scary_word>-kept hair; a <scary_word pos="noun" scale="2" synset="child.n.01"
+                    >child</scary_word>
+                <scary_word pos="adj" scale="2" synset="ill.r.01">poorly</scary_word> dressed, <scary_word pos="adj"
+                    scale="2" synset="atrophied.a.01">wasted</scary_word> and <scary_word pos="adj" scale="2" synset="careworn.s.01"
+                        >worn</scary_word>, and with the <scary_word pos="adj" scale="2" synset="mournful.s.01"
+                    >mournfullest</scary_word> expression on its countenance that face of a
+                    <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> ever wore.</p>
+            <p>What a hungry little beggar, thought <character ref="edgarStainton">Mr.
+                    Stainton</character>. <speech ref="edgarStainton">Well, young one, and what do
+                    you want here?</speech> he added, aloud.</p>
+            <p>The<character ref="georgeStainton">boy</character>never answered, never took the
+                slightest notice of his questioner, but simply walked <scary_word pos="adv"
+                    scale="2" synset="slowly.r.01">slowly</scary_word> round the room, <scary_word pos="verb" scale="2" synset="peer.v.01"
+                    >peering</scary_word> into all the corners, as if looking for something.
+                <scary_word pos="verb" scale="1" synset="search.v.04">Searching</scary_word> the embrasures of the
+                <scary_word pos="noun" scale="1" synset="window.n.01">windows</scary_word>, <scary_word pos="verb"
+                    scale="1" synset="examine.v.02">examining</scary_word> the recesses beside the <scary_word pos="noun"
+                        scale="1" synset="fireplace.n.01">fireplace</scary_word>, <scary_word pos="verb" scale="1" synset="hesitate.v.02"
+                    >pausing</scary_word> on the hearth to glance under the library table, and
+                finally, when the doorway was reached once more, turning to survey the contents of
+                the apartment with an eager and yet <scary_word pos="adj" scale="2" synset="hopeless.a.01"
+                    >hopeless</scary_word>
+                <scary_word pos="noun" scale="1" synset="examination.n.01">scrutiny</scary_word>.</p>
+            <p><speech ref="edgarStainton">What is it you want, my <character ref="georgeStainton"
+                        >boy?</character></speech> asked <character ref="edgarStainton">Mr.
+                    Stainton</character>, glancing as he spoke at the <scary_word pos="noun"
+                        scale="2" synset="child.n.01">child</scary_word>'s <scary_word pos="adj" scale="1" synset="hapless.s.01">poor</scary_word>
+                <scary_word pos="adj" scale="2" synset="thin.a.01">thin</scary_word> legs, and short, <scary_word
+                    pos="adj" scale="1" synset="moth-eaten.s.01">shabby</scary_word> frock, and shoes wellnigh <scary_word
+                        pos="adj" scale="2" synset="worn.a.01">worn</scary_word> out, and arms <scary_word pos="adj"
+                            scale="2" synset="bare.s.01">bare</scary_word> and lean and unbeautiful. <speech ref="">Is it
+                    anything I can get for you?</speech></p>
+            <p>Not a word—not a <scary_word pos="noun" scale="1" synset="whisper.n.01">whisper</scary_word>; only for
+                reply a glance of the <scary_word pos="adj" scale="1" synset="pensive.s.02">wistful</scary_word> brown
+                <scary_word pos="noun" scale="2" synset="eye.n.01">eyes</scary_word>.</p>
+            <p><speech ref="edgarStainton">Where do you come from, and who do you belong
+                    to?</speech> persisted <character ref="edgarStainton">Mr.
+                Stainton</character>.</p>
+            <p>The <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> turned <scary_word pos="adv"
+                    scale="2" synset="slowly.r.01">slowly</scary_word> away.</p>
+            <p><speech ref="edgarStainton">Come, you shall not get off so easily as you seem to
+                    imagine,</speech> persisted the new owner, advancing towards his visitor.
+                    <speech ref="edgarStainton">You have no business to be here at all; and before
+                    you go you must tell me how you chance to be in this <scary_word pos="noun"
+                        scale="1" synset="house.n.01">house</scary_word>, and what you expected to find in this
+                    room.</speech></p>
+            <p>He was <scary_word pos="adj" scale="1" synset="close.a.01">close</scary_word> to the doorway by this
+                time, and the <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> stood on the
+                threshold, with its back towards him.</p>
+            <p><character ref="edgarStainton">Mr. Stainton</character> could see every detail of the
+                boy's attire—his little plaid frock, which he had <scary_word pos="verb" scale="0" synset="outgrow.v.01"
+                    >outgrown</scary_word>, the <scary_word pos="noun" scale="1" synset="hook.n.04">hooks</scary_word>
+                which fastened it; the pinafore, <scary_word pos="adj" scale="2" synset="dirty.a.01">soiled</scary_word>
+                and <scary_word pos="adj" scale="2" synset="rumple.v.03">crumpled</scary_word>, tied behind with strings
+                <scary_word pos="adj" scale="2" synset="broken.a.01">broken</scary_word> and <scary_word pos="adj"
+                    scale="2" synset="knotted.s.01">knotted</scary_word>; in one place the skirt had given from the body,
+                and a piece of <scary_word pos="adj" scale="2" synset="flimsy.s.03">thin</scary_word>, <scary_word
+                    pos="adj" scale="1" synset="inadequate.s.02">poor</scary_word> flannel showed that the <scary_word
+                    pos="noun" scale="2" synset="child.n.01">child</scary_word>'s under habiliments matched in
+                <scary_word pos="noun" scale="1" synset="shabbiness.n.01">shabbiness</scary_word> his exterior
+                garments.</p>
+            <p><scary_word pos="adj" scale="1" synset="hapless.s.01">Poor</scary_word> little chap, thought <character
+                    ref="edgarStainton">Mr. Stainton</character>. <speech ref="edgarStainton">I
+                    wonder if he would like something to eat. Are you hungry, my lad?</speech></p>
+            <p>The <scary_word pos="noun" scale="1" synset="child.n.01">child</scary_word> turned and looked at him
+                earnestly, but answered never a word.</p>
+            <p><speech ref="edgarStainton">I wonder if he is dumb,</speech> marvelled <character
+                    ref="edgarStainton">Mr. Stainton</character>; and, seeing he was moving away,
+                put out a hand to detain him. But the <scary_word pos="noun" scale="2" synset="child.n.01"
+                    >child</scary_word> eluded his <scary_word pos="noun" scale="3" synset="touch.n.01"
+                    >touch</scary_word>, and flitted out into the hall and up the wide staircase
+                with swift, <scary_word pos="adj" scale="3" synset="noiseless.s.01">noiseless</scary_word> feet.</p>
+            <p>Only waiting to snatch a candle from one of the sconces, <character
+                    ref="edgarStainton">Mr. Stainton</character> pursued as fast as he could
+                <scary_word pos="verb" scale="1" synset="follow.v.01">follow</scary_word>.</p>
+            <p>Up the easy steps he ran at the top of his speed; but, fast as he went, the
+                    <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> went faster. Higher and
+                higher he beheld the tiny creature mounting, then, <scary_word pos="adj" scale="0" synset="still.r.01"
+                    >still</scary_word> keeping the same distance between them, it turned when it
+                reached the top storey and trotted along a narrow corridor with rooms opening off to
+                right and left. At the extreme end of this passage a door stood ajar. Through this
+                the <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> passed, <character
+                    ref="edgarStainton">Mr. Stainton</character>
+                <scary_word pos="adv" scale="0" synset="still.r.01">still</scary_word>
+                <scary_word pos="verb" scale="1" synset="follow.v.01">following</scary_word>.</p>
+            <p><speech ref="edgarStainton">I have run you to earth at last,</speech> he said,
+                entering and <scary_word pos="verb" scale="1" synset="close.v.01">closing</scary_word> the door. <speech
+                    ref="edgarStainton">Why, where has the<character ref="georgeStainton"
+                        >boy</character>gone?</speech> he added, holding the candle above his head
+                and gazing round the <scary_word pos="adj" scale="1" synset="begrimed.s.01">dingy</scary_word> garret in
+                which he found himself.</p>
+            <p>The room was quite <scary_word pos="adj" scale="2" synset="empty.a.01">empty</scary_word>. He <scary_word
+                pos="verb" scale="1" synset="examine.v.02">examined</scary_word> it <scary_word pos="adv" scale="1" synset="close.r.02"
+                    >closely</scary_word>, but could find no possible outlet save the door, and a
+                skylight which had evidently not been opened for years.</p>
+            <p>There was no furniture in the apartment, except a truckle bedstead, a rush-bottomed
+                chair, and a rickety washstand. No wardrobe, or box or press where even a kitten
+                might have lain concealed.</p>
+            <p><speech ref="edgarStainton">It is <scary_word pos="mod" scale="i" synset="very.r.01">very</scary_word>
+                <scary_word pos="adj" scale="2" synset="strange.a.01">strange</scary_word>,</speech>
+                <scary_word pos="verb" scale="1" synset="mumble.v.01">muttered</scary_word>
+                <character ref="edgarStainton">Mr. Stainton</character>, as he turned away baffled.
+                <speech ref="edgarStainton"><scary_word pos="mod" scale="i" synset="very.r.01">very</scary_word>
+                        <scary_word pos="adj" scale="2" synset="strange.a.01">strange</scary_word>!</speech> he <scary_word
+                            pos="verb" scale="1" synset="repeat.v.01">repeated</scary_word>, while he walked along the corridor.
+                    <speech ref="edgarStainton">I don't understand it at all,</speech> he decided,
+                proceeding <scary_word pos="adv" scale="1" synset="slowly.r.01">slowly</scary_word>
+                <scary_word pos="adv" scale="0" synset="down.r.01">down</scary_word> the topmost flight of stairs; but
+                then all at once he stopped.</p>
+            <p><speech ref="edgarStainton">IT IS THE <scary_word pos="noun" scale="3" synset="child.n.01"
+                        >CHILD</scary_word>!</speech> he exclaimed aloud, and the sound of his own
+                <scary_word pos="noun" scale="1" synset="voice.n.01">voice</scary_word> woke
+                <scary_phrase><scary_word pos="adj" scale="1" synset="strange.a.01">strange</scary_word>
+                    <scary_word pos="verb" scale="2" synset="echo.n.01">echoes</scary_word> through the <scary_word
+                        pos="noun" scale="2" synset="silence.n.01">silence</scary_word> of that <scary_word pos="adj"
+                            scale="2" synset="desolate.s.02">desolate</scary_word>
+                    <scary_word pos="noun" scale="1" synset="house.n.01">house</scary_word></scary_phrase>. <speech
+                    ref="edgarStainton">IT IS THE <scary_word pos="noun" scale="3" synset="child.n.01"
+                        >CHILD</scary_word>!</speech> And he descended the principal staircase
+                    <scary_word pos="mod" scale="i" synset="very.r.01">very</scary_word>
+                <scary_word pos="adv" scale="2" synset="slowly.r.01">slowly</scary_word>, with bowed head, and his
+                <scary_word pos="adj" scale="2" synset="grave.s.01">grave</scary_word>, thoughtful face <scary_word
+                    pos="adj" scale="2" synset="grave.s.01">graver</scary_word> and more thoughtful than ever.</p>
+        </chapter>
+        <chapter>
+            <chapTitle>Seeking for Information</chapTitle>
+            <p>It was enough to make any man look <scary_word pos="adj" scale="2" synset="grave.s.01"
+                >grave</scary_word>; and as time went on the new owner of Walnut-Tree <scary_word
+                    pos="noun" scale="1" synset="house.n.01">House</scary_word> found himself pondering continually as
+                to what the <scary_word pos="noun" scale="2" synset="mystery.n.01">mystery</scary_word> could be which
+                attached to the <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> he had found in
+                possession of his property, and who had already driven tenant after tenant out of
+                the premises. Inclined at first to regard the <character ref="clerk"
+                    >clerk</character>'s story as a joke, and his own experience on the <scary_word
+                        pos="noun" scale="1" synset="night.n.01">night</scary_word> of his arrival a delusion, it was
+                impossible for him to continue incredulous when he found, even in broad daylight,
+                that <scary_word pos="adj" scale="2" synset="awful.s.02">terrible</scary_word>
+                <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word>
+                <scary_word pos="verb" scale="3" synset="steal.v.02">stealing</scary_word>
+                <scary_word pos="adv" scale="0" synset="down.r.01">down</scary_word> the staircase and entering the
+                rooms, looking—looking, for something it never found.</p>
+            <p>Never after the first <scary_word pos="noun" scale="3" synset="horror.n.01">horror</scary_word> was over
+                did <character ref="edgarStainton">Mr. Stainton</character> think of leaving the
+                    <scary_word pos="noun" scale="1" synset="house.n.01">house</scary_word> in consequence of that
+                haunting presence which had kept the <scary_word pos="noun" scale="1" synset="house.n.01"
+                    >house</scary_word> tenantless. It would have been worse than useless, he felt.
+                With the ocean stretching between, his spirit would <scary_word pos="adv" scale="0" synset="still.r.01"
+                    >still</scary_word> be in the old mansion at Lambeth—his mental vision would
+                always be watching the <scary_word pos="noun" scale="1" synset="child.n.01">child</scary_word> engaged
+                in the <scary_word pos="adj" scale="2" synset="aweary.s.01">weary</scary_word>
+                <scary_word pos="noun" scale="2" synset="search.n.01">search</scary_word> to which there seemed no
+                end—that never appeared to produce any result.</p>
+            <p>At bed and at board he had company, or the expectation of it. No apartment in the
+                building was secure from intrusion. It did not matter where he lay; it did not
+                matter where he ate; between sleeping and waking, between breakfast and dinner,
+                whenever the notion <scary_word pos="verb" scale="1">seized</scary_word> it, the
+                    <scary_word pos="noun" scale="2" synset="child.n.01">child</scary_word> came gliding in, looking,
+                looking, looking, and never finding; not lingering longer than was necessary to be
+                certain the object of its <scary_word pos="noun" scale="2" synset="search.n.01">search</scary_word> was
+                absent, but <scary_word pos="verb" scale="2" synset="wander.v.03">wandering</scary_word> hither and
+                thither, from garret to kitchen, from parlour to bed-chamber, in that quest which
+                    <scary_word pos="adv" scale="0" synset="still.r.01">still</scary_word> seemed fresh as when first
+                begun.</p>
+            <p><character ref="edgarStainton">Mr. Stainton</character> went to his solicitors as the
+                most likely persons from whom to obtain information on the subject, and plunged at
+                once into the matter.</p>
+            <plot point="history"/>
+            <p><speech ref="edgarStainton">Who is the <scary_word pos="noun" scale="1"
+                        >child</scary_word> supposed to be, <character ref="mrTimpson">Mr.
+                        Timpson</character>?</speech> he asked, making no <scary_word pos="noun"
+                    scale="2">secret</scary_word> that he had seen it.</p>
+            <p><speech ref="mrTimpson">Well, that is really <scary_word pos="mod" scale="i"
+                        >very</scary_word> difficult to say,</speech> answered <character
+                    ref="mrTimpson">Mr. Timpson</character>.</p>
+            <p>
+                <speech ref="edgarStainton">There was a <scary_word pos="noun" scale="1"
+                        >child</scary_word> once, I suppose—a real <scary_word pos="noun" scale="1"
+                        >child</scary_word>—<scary_word pos="noun" scale="1">flesh</scary_word> and
+                        <scary_word pos="noun" scale="1">blood</scary_word>?</speech>
+            </p>
+            <p><character ref="mrTimpson">Mr. Timpson</character> took off his spectacles and wiped
+                them.</p>
+            <p>
+                <speech ref="mrTimpson">There were two; yes, certainly, in the time of Mr.
+                        <character ref="felixStainton">Felix Stainton</character>—a<character
+                        ref="georgeStainton">boy</character>and a girl.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">In that <scary_word pos="noun" scale="1"
+                        >house</scary_word>?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson">In that <scary_word pos="noun" scale="1"
+                    >house</scary_word>. They survived him.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">And what became of them?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson">The girl was adopted by a relation of her father's, and
+                        the—boy—<scary_word pos="verb" scale="3">died</scary_word>.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Oh the<character ref="georgeStainton"
+                        >boy</character><scary_word pos="verb" scale="3">died</scary_word>, did he?
+                    Do you happen to know what he <scary_word pos="verb" scale="3">died</scary_word>
+                    of?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson">No; I really do not. There was nothing <scary_word pos="noun"
+                        scale="2">wrong</scary_word> about the affair, however, if that is what you
+                    are thinking of. There never was a hint of that sort.</speech>
+            </p>
+            <p><character ref="edgarStainton">Mr. Stainton</character> sat <scary_word pos="adj"
+                    scale="1">silent</scary_word> for a minute; then he said:</p>
+            <p>
+                <speech ref="edgarStainton"><character ref="mrTimpson">Mr. Timpson</character>, I
+                    can't shake off the idea that somehow there has been <scary_word pos="adj"
+                        scale="2">foul</scary_word> play with regard to those children. Who were
+                    they?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson"><character ref="felixStainton">Felix Stainton</character>'s
+                    grandchildren. His daughter made a low marriage, and he cast her adrift. After
+                    her <scary_word pos="noun" scale="3">death</scary_word> the two children were
+                    received at Walnut-Tree <scary_word pos="noun" scale="1">House</scary_word> on
+                    sufferance—fed and clothed, I <scary_word pos="verb" scale="0"
+                        >believe</scary_word>, that was all; and when the old man <scary_word
+                        pos="verb" scale="3">died</scary_word> the heir-at-law permitted them to
+                    remain.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton"><character ref="alfredStainton">Alfred</character>
+                    Stainton?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson">Yes; the unhappy man who became insane. His uncle
+                        <scary_word pos="verb" scale="3">died</scary_word> intestate, and he
+                    consequently succeeded to everything but the personalty, which was <scary_word
+                        pos="mod" scale="i">very</scary_word> small, and of which these children had
+                    a share.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">There was never any suspicion you say, of <scary_word
+                        pos="adj" scale="2">foul</scary_word> play on the part of the late
+                    owner?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson">Dear, dear! No; quite the contrary.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Then can you throw the least light on the <scary_word
+                        pos="noun" scale="2">mystery</scary_word>?</speech>
+            </p>
+            <p>
+                <speech ref="mrTimpson">Not the least; I wish I could.</speech>
+            </p>
+            <p>For all that, <character ref="edgarStainton">Mr. Stainton</character> carried away an
+                impression <character ref="mrTimpson">Mr. Timpson</character> knew more of the
+                matter than he cared to tell; and was confirmed in this opinion by a chance remark
+                from <character ref="mrTimpson">Mr. Timpson</character>'s partner, whom he met in
+                the street almost immediately after.</p>
+            <p><speech ref="co.">Why can't you let the matter rest, <character ref="edgarStainton"
+                        >Mr. Stainton</character>?</speech> asked the <character ref="co."
+                    >Co.</character> with some irritation of manner when he heard the object of
+                their client's visit. <speech ref="co.">What is the use of troubling your head
+                    about a <scary_word pos="noun" scale="1">child</scary_word> who has been lying
+                    in Lambeth Churchyard these dozen years? Take my advice, have the <scary_word
+                        pos="noun" scale="1">house</scary_word> pulled <scary_word pos="adv"
+                        scale="0">down</scary_word> and let or sell the ground for building. You
+                    ought to get a pot of money for it in that neighbourhood. If there were a
+                        <scary_word pos="noun" scale="2">wrong</scary_word> done it is too late to set it
+                    right now.</speech></p>
+            <p><speech ref="edgarStainton">What <scary_word pos="noun" scale="2">wrong</scary_word>
+                    do you refer to?</speech> asked <character ref="edgarStainton">Mr.
+                    Stainton</character> eagerly, thinking he had caught Timpson's partner napping.
+                But that gentleman was too sharp for him.</p>
+            <p><speech ref="co.">I remarked if there were a <scary_word pos="noun" scale="2"
+                        >wrong</scary_word> done—not that there had been one,</speech> he answered;
+                and then, without a <scary_word pos="noun" scale="1">pause</scary_word>, added,
+                    <speech ref="co.">We shall hope to hear from you that you have decided to
+                        <scary_word pos="verb" scale="1">follow</scary_word> our
+                advice.</speech></p>
+            <p>But <character ref="edgarStainton">Mr. Stainton</character>
+                <scary_word pos="verb" scale="0">shook</scary_word> his head.</p>
+            <p><speech ref="edgarStainton">I will not pull <scary_word pos="adv" scale="0"
+                        >down</scary_word> the old <scary_word pos="noun" scale="1"
+                        >house</scary_word> just yet, </speech>he said, and walked <scary_word
+                    pos="adv" scale="0">slowly</scary_word> away.</p>
+            <p>There is a <scary_word pos="noun" scale="1">mystery</scary_word> behind it all, he
+                considered. I must learn more about these children. Perhaps some of the local
+                tradespeople may recollect them.</p>
+            <p>But the local tradespeople for the most part were newcomers—or else had not supplied
+                the <scary_word pos="noun" scale="1">house</scary_word>.</p>
+            <p><speech ref="butcher">So far as ever I could understand,</speech> said one family
+                    <character ref="butcher">butcher</character>, <scary_word pos="adv" scale="1"
+                    >irascibly</scary_word> sharpening his knife as he spoke, <speech ref="butcher"
+                    >there was not much to supply. That custom was not worth speaking of. I hadn't
+                    it, so what I am saying is not said on my own account. A scrag end of neck of
+                    mutton—a bit of gravy beef—two pennyworth of sheep's liver—that was the sort of
+                    thing. Misers, sir, misers; the old gentleman <scary_word pos="adj" scale="1"
+                        >bad</scary_word>, and the nephew worse. A <scary_word pos="adj" scale="1"
+                        >bad</scary_word> business, first and last. But what else could be expected?
+                    When people as can afford to live on the fat of the land never have a sirloin
+                    inside their doors, why, worse must come of it. No, sir, I never set <scary_word
+                        pos="noun" scale="0">eyes</scary_word> on the children to my knowledge; I
+                    only knew there were children by hearing one of them was <scary_word pos="adj"
+                        scale="2">dead</scary_word>, and that it was the <scary_word pos="adj"
+                        scale="1">poorest</scary_word> funeral ever crossed a decent
+                    threshold.</speech></p>
+            <p><scary_word pos="adj" scale="1">poor</scary_word> little chap, thought <character
+                    ref="edgarStainton">Mr. Stainton</character>, looking straight out into the
+                street for a moment; then added, <speech ref="edgarStainton">lest the family
+                    misfortunes should descend to me, you had better send round a joint to
+                    Walnut-Tree <scary_word pos="noun" scale="1">House</scary_word>.</speech></p>
+            <p>
+                <speech ref="butcher">Lor', sir, are you the gentleman as is living there? I beg
+                    your pardon, I am sure, but I have been so bothered with questions in regard of
+                    that <scary_word pos="noun" scale="1">house</scary_word> and those children that
+                    I forget my manners when I talk about them. A joint, sir—what would you please
+                    to have?</speech>
+            </p>
+            <p>The new owner told him; and while he counted out the money to pay for it <character
+                    ref="butcher">Mr. Parker</character> remarked:</p>
+            <p>
+                <speech ref="butcher">There is only one person I can think of sir, likely to be
+                    able to give any information about the matter.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">And that is?</speech>
+            </p>
+            <p>
+                <speech ref="butcher">Mr. <character ref="mrHennings">Hennings</character>, at the
+                    ‘Pedlar's Dog.’ He had some aquaintance with the old lady as was housekeeper
+                    both to Mr. <character ref="felixStainton">Felix Stainton</character> and the
+                    gentleman that went out of his mind.</speech>
+            </p>
+            <p><scary_word pos="verb" scale="0">following</scary_word> the advice, the new owner
+                repaired to the ‘Pedlar's Dog,’ where (having on his first arrival at Walnut-Tree
+                    <scary_word pos="noun" scale="1">House</scary_word> ordered some creature
+                comforts from that well-known public) he experienced a better reception than had
+                been accorded to him by <character ref="butcher">Mr. Parker</character>.</p>
+            <p><speech ref="mrHennings">Do I know Walnut-Tree <scary_word pos="noun" scale="1"
+                        >House</scary_word>, sir?</speech> said Mr. <character ref="mrHennings"
+                    >Hennings</character>, <scary_word pos="verb" scale="0">repeating</scary_word>
+                his visitor's question. <speech ref="mrHennings">Well, yes, rather. Why, you might
+                    as well ask me, do I know the ‘Pedlar's Dog.’ As<character ref="georgeStainton"
+                        >boy</character>and man I can remember the old <scary_word pos="noun"
+                        scale="1">house</scary_word> for <scary_word pos="adv" scale="0"
+                        >close</scary_word> on five-and-fifty years. I remember Mr. <character
+                        ref="georgeStainton">George</character> Stainton; he used to wear a
+                    skull-cap and knee-breeches. There was an orchard then where Stainton Street is
+                    now, and his whole time was taken up in keeping the boys out of it. Many a time
+                    I have run from him.</speech></p>
+            <p><speech ref="edgarStainton">Did you ever see anything of the<character
+                        ref="georgeStainton">boy</character>and girl who were there, after Mr.
+                        <character ref="alfredStainton">Alfred</character> succeeded to the
+                        property—<character ref="felixStainton">Felix Stainton</character>'s
+                    grandchildren, I mean?</speech> asked the new owner, when a <scary_word
+                    pos="noun" scale="0">pause</scary_word> in <character ref="mrHennings">Mr.
+                    Henning's</character> reminiscences enabled him to take his part in the
+                conversation.</p>
+            <p>
+                <speech ref="mrHennings">Well, sir, I may have seen the girl, but I can't bring it
+                    to my recollection; the<character ref="georgeStainton">boy</character>I do
+                    remember, however. He came over here two or three times with Mrs. <character
+                        ref="mrsToplis">Toplis</character>, who kept <scary_word pos="noun"
+                        scale="1">house</scary_word> for both Mr. Staintons, and I took notice of
+                    him, both because he looked so peaky and old-fashioned, and also on account of
+                    the talk about him.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">There was talk about him, then?</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">Bless you, yes, sir; as much talk while he was living as
+                    since he <scary_word pos="verb" scale="2">died</scary_word>. Everybody thought
+                    he ought to have been the heir.</speech>
+            </p>
+            <p><speech ref="edgarStainton">Why?</speech> enquired the new owner.</p>
+            <p>
+                <speech ref="mrHennings">Because there was a will made leaving the place to
+                    him.</speech>
+            </p>
+            <p>Here was information. <character ref="edgarStainton">Mr. Stainton</character>'s heart
+                seemed to stand <scary_word pos="adv" scale="0">still</scary_word> for a second and
+                then leap on with excitement.</p>
+            <p>
+                <speech ref="edgarStainton">Who made the will?</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">The grandfather, <character ref="felixStainton">Felix
+                        Stainton</character>, to be sure; who else should make it?</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">I did not mean that. Was it not drawn out by a
+                    solicitor?</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">Oh! Yes—now I understand you, sir. The will was drawn
+                    right enough by Mr. <character ref="mrQuinance">Quinance</character>, in the
+                    Lambeth Road, a <scary_word pos="mod" scale="i">very</scary_word> clever
+                    lawyer.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Not by Timpson, then? How was that?</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">The old man took the notion of making it late one
+                        <scary_word pos="noun" scale="1">night</scary_word>, and so Mrs. <character
+                        ref="mrsToplis">Toplis</character> sent to the nearest lawyer she knew
+                    of.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Yes; and then?</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">Well, the will was made and signed and witnessed, and
+                    everything regular; and from that day to this no one knows what has become of
+                    it.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">How <scary_word pos="mod" scale="i">very</scary_word>
+                    <scary_word pos="adj" scale="1">strange</scary_word>.</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">Yes, sir, it is more than <scary_word pos="adj" scale="1"
+                        >strange</scary_word>—unaccountable. At first Mr. <character
+                        ref="mrQuinance">Quinance</character> was suspected of having given it up to
+                    Mr. <character ref="alfredStainton">Alfred</character>; but Mrs. <character
+                        ref="mrsToplis">Toplis</character> and <character ref="mrQuinance"
+                        >Quinance</character>'s <character ref="clerk">clerk</character>—he has
+                    succeeded to the business now—say that old Felix insisted upon keeping it
+                    himself. So, whether he <scary_word pos="verb" scale="1">destroyed</scary_word>
+                    it or the nephew got hold of it, Heaven only knows; for no man living does, I
+                    think.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">And the <scary_word pos="noun" scale="1"
+                        >child</scary_word>—the <character ref="georgeStainton">boy,</character> I
+                    mean?</speech>
+            </p>
+            <p>
+                <speech ref="mrHennings">If you want to hear all about him, sir, Mrs. <character
+                        ref="mrsToplis">Toplis</character> is the one to tell you. If you have a
+                    mind to give a shilling to a <scary_word pos="adj" scale="1">poor</scary_word>
+                    old lady who always did try to keep herself respectable, and who, I will say,
+                    paid her way honourable as long as she had a sixpence to pay it honourable with,
+                    you cannot do better than go and see Mrs. <character ref="mrsToplis"
+                        >Toplis</character>, who will talk to you for hours about the time she lived
+                    at Walnut-Tree <scary_word pos="noun" scale="1">House</scary_word>.</speech>
+            </p>
+            <p>And with this delicate hint that his minutes were more valuable than the hours of
+                Mrs. <character ref="mrsToplis">Toplis</character>, Mr. <character ref="mrHennings"
+                    >Hennings</character> would have <scary_word pos="verb" scale="0"
+                    >closed</scary_word> the interview, but that his visitor asked where he should
+                be able to find the housekeeper.</p>
+            <p><speech ref="mrHennings">A thousand pardons!</speech> he answered, with an
+                    <scary_word pos="noun" scale="0">air</scary_word>; <speech ref="mrHennings"
+                    >forgetting the <scary_word pos="mod" scale="i">very</scary_word> cream and
+                    marrow of it, wasn't I? Mrs. <character ref="mrsToplis">Toplis</character>, sir,
+                    is to be found in Lambeth Workhouse—and a pity, too.</speech></p>
+            <p><character ref="edgarStainton">Edgar Stainton</character> turned away, heartsick. Was
+                this all wealth had done for his people and those connected with them?</p>
+            <p>No man seemed to care to <scary_word pos="verb" scale="1">waste</scary_word> a moment
+                in speaking about their affairs; no one had a good word for or kindly memory of
+                them. The <scary_word pos="adj" scale="1">poorest</scary_word> creature he met in
+                the streets might have been of more use in the world then they. The <scary_word
+                    pos="noun" scale="1">house</scary_word> they had lived in mentioned as if a
+                    <scary_word pos="noun" scale="3">curse</scary_word> rested on the place;
+                themselves only recollected as leaving everything undone which it befitted their
+                station to do. An old servant allowed to end her days in the workhouse!</p>
+            <p>Heaven helping me, he thought, I will not so misuse the wealth which has been
+                given me.</p>
+            <p>The slight put upon his family tortured and made him wince, and the face of the
+                    <scary_word pos="adj" scale="3">dead</scary_word><character ref="georgeStainton"
+                    >boy</character>who ought to have been the heir seemed, as he hurried along the
+                streets, to pursue and look on him with a <scary_word pos="adj" scale="1"
+                    >wistful</scary_word>
+                <scary_word pos="noun" scale="1">reproach</scary_word>.</p>
+            <plot point="resolve"/>
+            <p><speech ref="edgarStainton">If I cannot lay that <scary_word pos="noun" scale="1"
+                        >child</scary_word> I shall go <scary_word pos="adj" scale="2"
+                        >mad</scary_word>,</speech> he said, almost audibly, <speech
+                    ref="edgarStainton">as <scary_word pos="adj" scale="2">mad</scary_word>,
+                    perhaps, as <character ref="alfredStainton">Alfred</character>
+                    Stainton.</speech> And then a <scary_word pos="adj" scale="2"
+                    >terrible</scary_word>
+                <scary_word pos="noun" scale="2">fear</scary_word> took possession of him. The
+                    <scary_word pos="noun" scale="3">horror</scary_word> of that which is worse than
+                any <scary_word pos="noun" scale="3">death</scary_word> made for the moment this
+                    <scary_word pos="adj" scale="1">brave</scary_word>, bold man more timid than a
+                woman.</p>
+            <p><speech ref="edgarStainton">God preserve my senses,</speech> he prayed, and then,
+                determinedly putting that <scary_word pos="noun" scale="3">phantom</scary_word>
+                behind him, he went on to the Workhouse.</p>
+        </chapter>
+        <chapter>
+            <chapTitle>Brother and Sister</chapTitle>
+            <p><character ref="edgarStainton">Mr. Stainton</character> had expected to find Mrs.
+                    <character ref="mrsToplis">Toplis</character> a decrepit crone, bowed with age
+                and racked with rheumatism, and it was therefore like a gleam of sunshine streaming
+                across his path to behold a woman, elderly, certainly, but carrying her years with
+                ease, ruddy cheeked, clear eyed, upright as a dart, who welcomed him with respectful
+                enthusiasm.</p>
+            <p><speech ref="mrsToplis">And so you are Mr. Edgar, the son of the dear old
+                    Captain,</speech> she said, after the first greetings and explanations were
+                over, after she had wiped her <scary_word pos="noun" scale="1">eyes</scary_word> and
+                uttered many ejaculations of astonishment and expressions of delight. <speech
+                    ref="mrsToplis">Eh! I remember him coming to the <scary_word pos="noun"
+                        scale="1">house</scary_word> just after he was married, and telling me about
+                    the sweet lady his wife. I never heard a gentleman so proud; he never seemed
+                    tired of saying the words, 'My wife'.</speech></p>
+            <p><speech ref="edgarStainton">She was a sweet lady,</speech> answered the new
+                owner.</p>
+            <p>
+                <speech ref="mrsToplis">And so the <scary_word pos="noun" scale="1"
+                        >house</scary_word> has come to you, sir? Well, I wish you joy. I hope you
+                    may have peace, and health, and happiness, and prosperity in it. And I don't see
+                    why you should not—no, indeed, sir.</speech>
+            </p>
+            <p><character ref="edgarStainton">Edgar Stainton</character> sat <scary_word pos="adj"
+                    scale="0">silent</scary_word> for a minute, thinking how he should best approach
+                his subject.</p>
+            <p><speech ref="edgarStainton">Mrs. <character ref="mrsToplis"
+                    >Toplis</character>,</speech> he began at last, plunging into the <scary_word
+                    pos="mod" scale="i">very</scary_word> middle of the difficulty, <speech
+                    ref="edgarStainton">I want you to tell me about it. I have come here on purpose
+                    to ask you what it all means.</speech></p>
+            <p>The old woman covered her face with her hands, and he could see that she <scary_word
+                    pos="verb" scale="2">trembled</scary_word>
+                <scary_word pos="adj" scale="2">violently</scary_word>.</p>
+            <p><speech ref="edgarStainton">You need not be <scary_word pos="adj" scale="2"
+                        >afraid</scary_word> to speak openly to me,</speech> he went on. <speech
+                    ref="edgarStainton">I am quite satisfied there was some great <scary_word
+                        pos="noun" scale="2">wrong</scary_word> done in the <scary_word pos="noun"
+                        scale="1">house</scary_word>, and I want to put it right, if it lies in my
+                    power to do so. I am a rich man. I was rich when the news of this inheritance
+                    reached me, and I would gladly give up the property to-morrow if I could only
+                    undo whatever may have been done amiss.</speech></p>
+            <p>Mrs. <character ref="mrsToplis">Toplis</character>
+                <scary_word pos="verb" scale="0">shook</scary_word> her head.</p>
+            <p><speech ref="mrsToplis">Ah, sir; you can't do that,</speech> she said. <speech
+                    ref="mrsToplis">Money can't bring back the <scary_word pos="noun" scale="2"
+                        >dead</scary_word> to life; and, if it could, I doubt if even you could
+                    prove as good a friend to the <scary_word pos="adj" scale="1">poor</scary_word>
+                    <scary_word pos="noun" scale="1">child</scary_word> sleeping in the churchyard
+                    yonder as his Maker did when He took him out of this <scary_word pos="adj"
+                        scale="1">troublesome</scary_word> world. It was just soul rending to see
+                    the <character ref="georgeStainton">boy</character>the last few months of his
+                    life. I can't bear to think of it, sir! Often at <scary_word pos="noun"
+                        scale="1">night</scary_word> I wake in a fright, fancying I <scary_word
+                        pos="adv" scale="0">still</scary_word> hear the patter, patter of his
+                        <scary_word pos="adj" scale="2">poor</scary_word> little feet upon the
+                    stair.</speech></p>
+            <p><speech ref="edgarStainton">Do you know, it is a <scary_word pos="adj" scale="1"
+                        >curious</scary_word> thing, but he doesn't frighten me,</speech> said
+                    <character ref="edgarStainton">Mr. Stainton</character>; <speech
+                    ref="edgarStainton">that is when I am in the <scary_word pos="noun" scale="1"
+                        >house</scary_word>; although when I am away from it the recollection seems
+                    to dog every step I take.</speech></p>
+            <p><speech ref="mrsToplis">What?</speech> cried Mrs. <character ref="mrsToplis"
+                    >Toplis</character>. <speech ref="mrsToplis">Have you, then, seen him too?
+                    There what am I talking about? I hope, sir, you will forgive my
+                    foolishness.</speech></p>
+            <p><speech ref="edgarStainton">I see him constantly,</speech> was the calm reply.</p>
+            <p><speech ref="mrsToplis">I wonder what it means!—I wonder what it can mean!</speech>
+                exclaimed the housekeeper, wringing her hands in dire perplexity and dismay.</p>
+            <p><speech ref="edgarStainton">I do not know,</speech> answered the new owner,
+                philosophically; <speech ref="edgarStainton">but I want you to help me to find out.
+                    I suppose you remember the children coming there at first?</speech></p>
+            <p>
+                <speech ref="mrsToplis">Well, sir—well, they were <scary_word pos="adj" scale="1"
+                        >poor</scary_word> Miss <character ref="maryFenton">Mary</character>'s son
+                    and daughter. She ran away, you know, with a Mr. Fenton—made a <scary_word
+                        pos="mod" scale="i">very</scary_word>
+                    <scary_word pos="adj" scale="1">poor</scary_word> match; but I <scary_word
+                        pos="verb" scale="0">believe</scary_word> he was kind to her. When they were
+                    brought to us, a <scary_word pos="verb" scale="2">shivering</scary_word> little
+                    pair, my master was for sending them here. Ay, and he would have done it, too,
+                    if somebody had not said he could be made to pay for their keep. You never saw
+                    brother and sister so fond of one another—never. They were twins. But, Lor'! the
+                        <character ref="georgeStainton">boy</character>was more like a father to the
+                    little girl than aught else. He'd have kept an apple a month rather than eat it
+                    unless she had half; and the same with e<scary_word pos="mod" scale="i"
+                        >very</scary_word>thing. I think it was seeing that—watching the love they
+                    had, he for her and she for him, coming upon them unsuspected, with their little
+                    arms round one another's necks, made the old gentleman alter his mind about
+                    leaving the place to Mr. <character ref="alfredStainton">Alfred</character>; for
+                    he said to me, one day, thoughtful like, pointing to them, 'Wonderful fond,
+                        <character ref="mrsToplis">Toplis</character>!' and I answered, 'Yes, sir;
+                    for all the world like the Babes in the Wood;' not thinking of how <scary_word
+                        pos="adj" scale="1">lonely</scary_word> that meant—</speech>
+            </p>
+            <p>
+                <speech ref="mrsToplis">Shortly afterwards he took to his bed; and while he was
+                    lying there, no doubt, better thoughts came to him, for he used to talk about
+                    his wife and Miss <character ref="maryFenton">Mary</character>, and the Captain,
+                    your father, sir, and ask if the children were gone to bed, and such like—things
+                    he never used to mention before.</speech>
+            </p>
+            <p>
+                <speech ref="mrsToplis">So when he made the will Mr. <character ref="mrQuinance"
+                        >Quinance</character> drew out I was not surprised—no, not a bit. Though
+                    before that time he always spoke of Mr. <character ref="alfredStainton"
+                        >Alfred</character> as his heir, and treated him as such.</speech>
+            </p>
+            <p><speech ref="edgarStainton">That will never was found,</speech> suggested
+                    <character ref="edgarStainton">Mr. Stainton</character>, anxious to get at
+                another portion of the narrative.</p>
+            <p>
+                <speech ref="mrsToplis">Never, sir; we hunted for it high and low. Perhaps I
+                        <scary_word pos="verb" scale="2">wronged</scary_word> him, but I always
+                    thought Mr. <character ref="alfredStainton">Alfred</character> knew what became
+                    of it. After the old gentleman's <scary_word pos="noun" scale="2"
+                        >death</scary_word> the children were treated shameful—shameful. I don't
+                    mean beaten, or that like; but <scary_word pos="adj" scale="2"
+                        >half-starved</scary_word> and <scary_word pos="adj" scale="2"
+                        >neglected</scary_word>. He would not buy them proper clothes, and he would
+                    not suffer them to wear decent things if anybody else bought them. It was just
+                    the same with their food. I durs'n't give them even a bit of bread and butter
+                    unless it was on the sly; and, indeed, there was not much to give in that
+                        <scary_word pos="noun" scale="1">house</scary_word>. He turned regular
+                    miser. Hoarding came into the family with Mrs. Lancelot Stainton, Mr. <character
+                        ref="alfredStainton">Alfred</character>'s great grandmother, and they went
+                    on from <scary_word pos="adj" scale="2">bad</scary_word> to worse, each one
+                        <scary_word pos="adj" scale="2">closer</scary_word> and nearer than the
+                    last, begging your pardon for saying so, sir; but it is the truth.</speech>
+            </p>
+            <p><speech ref="edgarStainton">I <scary_word pos="verb" scale="2">fear</scary_word> so,
+                    Mrs. <character ref="mrsToplis">Toplis</character>,</speech> agreed the man,
+                who certainly was neither <scary_word pos="adv" scale="1">close</scary_word> nor
+                near.</p>
+            <p>
+                <speech ref="mrsToplis">Well, sir, at last, when the little girl was about six
+                    years old, she fell <scary_word pos="adj" scale="1">sick</scary_word>, and we
+                    didn't think she would get over the illness. While she was about at her
+                        <scary_word pos="adj" scale="1">worst</scary_word>, Mrs. <character
+                        ref="mayStainton">May</character>, her father's sister, chanced to be
+                    stopping up in London, and, as Mr. <character ref="alfredStainton"
+                        >Alfred</character> refused to let a doctor inside his doors, she made no
+                    more ado but wrapped the <scary_word pos="noun" scale="1">child</scary_word> up
+                    in blankets, sent for a cab, and carried her off to her own lodgings. Mr.
+                        <character ref="alfredStainton">Alfred</character> made no objection to
+                    that. All he said as she went through the hall was:</speech>
+            </p>
+            <p>
+                <speech ref="mrsToplis">'If you take her now, remember, you must keep
+                    her.'</speech>
+            </p>
+            <p>
+                <speech ref="mrsToplis">'<scary_word pos="mod" scale="i">very</scary_word> well,'
+                    she replied, 'I will keep her.'</speech>
+            </p>
+            <p><speech ref="edgarStainton">And the <character ref="georgeStainton">boy?</character>
+                    the <character ref="georgeStainton">boy?</character></speech> cried <character
+                    ref="edgarStainton">Mr. Stainton</character>, in an <scary_word pos="noun"
+                    scale="2">agony</scary_word> of impatience.</p>
+            <p>
+                <speech ref="mrsToplis">I am coming to him, sir, if you please. He just dwindled
+                    away after his sister and he were parted, and <scary_word pos="verb" scale="2"
+                        >died</scary_word> in December, as she was taken away in the July.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">What did he <scary_word pos="verb" scale="2"
+                        >die</scary_word> of?</speech>
+            </p>
+            <p>
+                <speech ref="mrsToplis">A <scary_word pos="adj" scale="1">broken</scary_word>
+                    heart, sir. It seems a <scary_word pos="adj" scale="1">queer</scary_word> thing
+                    to say about a <scary_word pos="noun" scale="1">child</scary_word>; but if ever
+                    a heart was <scary_word pos="adj" scale="1">broken</scary_word> his was. At
+                    first he was always <scary_word pos="verb" scale="2">wandering</scary_word>
+                    about the <scary_word pos="noun" scale="2">house</scary_word> looking for her,
+                    but towards the end he used to go up to his room and stay there all by himself.
+                    At last I wrote to Mrs. <character ref="mayStainton">May</character>, but she
+                    was <scary_word pos="adj" scale="1">ill</scary_word> when the letter got to her,
+                    and when she did come up he was <scary_word pos="adj" scale="2"
+                        >dead</scary_word>. My word, she talked to Mr. <character
+                        ref="alfredStainton">Alfred</character>! I never heard any one person say so
+                    much to another. She declared he had first cheated the<character
+                        ref="georgeStainton">boy</character>of his inheritance, and then
+                            <scary_phrase><scary_word pos="verb" scale="3">starved </scary_word>him
+                        to <scary_word pos="noun" scale="3">death</scary_word></scary_phrase>; but
+                    that was not true, the <scary_word pos="noun" scale="2">child</scary_word>
+                    <scary_word pos="verb" scale="2">broke</scary_word> his heart fretting after his
+                    sister.</speech>
+            </p>
+            <p>
+                <speech ref="edgarStainton">Yes; and when he was <scary_word pos="adj" scale="2"
+                        >dead</scary_word>—</speech>
+            </p>
+            <p>
+                <speech ref="mrsToplis">Sir, I don't like to speak of it, but as true as I am
+                    sitting here, the <scary_word pos="noun" scale="2">night</scary_word> he was put
+                    in his coffin he came pattering <scary_word pos="adv" scale="2"
+                        >down</scary_word> just as usual, looking, looking for his sister. I went
+                    straight upstairs, and if I had not seen the little <scary_word pos="adj"
+                        scale="2">wasted</scary_word> body lying there <scary_word pos="adj"
+                        scale="3">still</scary_word> and quiet, I must have thought he had come back
+                    to life. We were never without him afterwards, never; that, and nothing else,
+                    drove Mr. <character ref="alfredStainton">Alfred</character>
+                    <scary_word pos="adj" scale="3">mad</scary_word>. He used to think he was
+                    fighting the <scary_word pos="noun" scale="3">child</scary_word> and <scary_word
+                        pos="verb" scale="3">killing</scary_word> it. When the <scary_word pos="adj"
+                        scale="3">worst</scary_word> fits were on him he tried to trample it under
+                    foot or <scary_word pos="verb" scale="3">crush</scary_word> it up in a corner,
+                    and then he would sob and <scary_word pos="verb" scale="3">cry</scary_word>, and
+                    pray for it to be taken away. I have heard he recovered a little before he
+                        <scary_word pos="verb" scale="3">died</scary_word>, and said his uncle told
+                    him there was a will leaving all to the <character ref="georgeStainton"
+                        >boy,</character> but he never saw such a paper. Perhaps it was all talk,
+                    though, or that he was <scary_word pos="adv" scale="0">still</scary_word>
+                    raving?</speech>
+            </p>
+            <p><speech ref="edgarStainton">You are quite positive there was no <scary_word
+                        pos="adj" scale="2">foul</scary_word> play as regards the <scary_word
+                        pos="noun" scale="1">child</scary_word>?</speech> asked <character
+                    ref="edgarStainton">Mr. Stainton</character>, sticking to that question
+                pertinaciously.</p>
+            <p>
+                <speech ref="mrsToplis">Certain, sir; I don't say but Mr. <character
+                        ref="alfredStainton">Alfred</character> wished him <scary_word pos="adj"
+                        scale="2">dead</scary_word>. That is not <scary_word pos="noun" scale="2"
+                        >murder</scary_word>, though.</speech>
+            </p>
+            <p><speech ref="edgarStainton">I am not clear about that,</speech> answered <character
+                    ref="edgarStainton">Mr. Stainton</character>.</p>
+        </chapter>
+        <chapter>
+            <chapTitle>The Next Afternoon</chapTitle>
+            <p><character ref="edgarStainton">Mr. Stainton</character> was trying to work off some
+                portion of his perplexities by pruning the <scary_word pos="adj" scale="2"
+                    >grimy</scary_word> evergreens in front of Walnut-Tree <scary_word pos="noun"
+                    scale="1">House</scary_word>, and chopping away at the undergrowth of
+                    <scary_word pos="noun" scale="2">weeds</scary_word> and couch <scary_word
+                    pos="noun" scale="2">grass</scary_word> which had in the course of years matted
+                together beneath the shrubs, when his attention was attracted to two ladies who
+                stood outside the great iron <scary_word pos="noun" scale="2">gate</scary_word>
+                looking up at the <scary_word pos="noun" scale="2">house</scary_word>.</p>
+            <p><speech ref="mayStainton">It seems to be occupied now,</speech> remarked the elder,
+                turning to her companion. <speech ref="mayStainton">I suppose the new owner is
+                    going to live here. It looks just as <scary_word pos="adj" scale="1"
+                        >dingy</scary_word> as ever; but you do not remember it, <character
+                        ref="maryFenton">Mary</character>.</speech></p>
+            <p><speech ref="maryFenton">I think I do,</speech> was the answer. <speech
+                    ref="maryFenton">As I look the place grows familiar to me. I do recollect some
+                    of the rooms, I am sure just like a <scary_word pos="noun" scale="1"
+                        >dream</scary_word>, as I remember <character ref="georgeStainton"
+                        >Georgie</character>. What I would give to have a peep inside.</speech></p>
+            <p>At this juncture the new owner emerged from amongst the bushes, and, opening the
+                    <scary_word pos="noun" scale="1">gate</scary_word>, asked if the ladies would
+                like to look over the place.</p>
+            <p>The elder hesitated; whilst the younger <scary_word pos="verb" scale="1"
+                    >whispered</scary_word>, <speech ref="maryStainton">Oh aunt, pray
+                do!</speech></p>
+            <p><speech ref="mayStainton">Thank you,</speech> said Mrs. <character
+                    ref="mayStainton">May</character> to the <scary_word pos="noun" scale="1"
+                    >stranger</scary_word>, whom she <scary_word pos="verb" scale="0"
+                    >believed</scary_word> to be a gardener; <speech ref="mayStainton">but perhaps
+                        <character ref="edgarStainton">Mr. Stainton</character> might
+                    object.</speech></p>
+            <p><speech ref="edgarStainton">No; he wouldn't, I know,</speech> declared the new
+                owner. <speech ref="edgarStainton">You can go through the <scary_word pos="noun"
+                        scale="1">house</scary_word> if you wish. There is no one in it. Nobody
+                    lives there except myself.</speech></p>
+            <p><speech ref="mayStainton">Taking charge, I suppose?</speech> suggested Mrs.
+                    <character ref="mayStainton">May</character> blandly.</p>
+            <p><speech ref="edgarStainton">Something of that sort,</speech> he answered.</p>
+            <p><speech ref="maryFenton">I do not think he is a caretaker,</speech> said the girl,
+                as she and her relative passed into the old <scary_word pos="noun" scale="1"
+                    >house</scary_word> together.</p>
+            <p><speech ref="mayStainton">What do you suppose he is, then?</speech> asked her
+                aunt.</p>
+            <p>
+                <speech ref="maryFenton"><character ref="edgarStainton">Mr. Stainton</character>
+                    himself.</speech>
+            </p>
+            <p><speech ref="mayStainton">Nonsense, <scary_word pos="noun" scale="0"
+                        >child</scary_word>!</speech> exclaimed Mrs. <character ref="mayStainton"
+                    >May</character>, turning, nevertheless, to one of the <scary_word pos="noun"
+                    scale="1">windows</scary_word>, and casting a <scary_word pos="adj" scale="1"
+                    >curious</scary_word> glance towards the new owner, who was now, his hands
+                thrust <scary_word pos="adj" scale="0">deep</scary_word> in his pockets, walking
+                idly up and <scary_word pos="adv" scale="0">down</scary_word> the drive.</p>
+            <p>After they had been all over the place, from hall to garret, with a peep into this
+                room and a glance into that, Mrs. <character ref="mayStainton">May</character> found
+                the man who puzzled her leaning against one of the pillars of the porch, waiting,
+                apparently, for their reappearance.</p>
+            <p><speech ref="mayStainton">I am sure we are <scary_word pos="mod" scale="i"
+                        >very</scary_word> much obliged to you,</speech> she began, with a
+                hesitation in her manner.</p>
+            <p><speech ref="edgarStainton">Pray do not mention it,</speech> he said.</p>
+            <p><speech ref="mayStainton">This young lady has <scary_word pos="adj" scale="1"
+                        >sad</scary_word> associations connected with the <scary_word pos="noun"
+                        scale="1">house</scary_word>,</speech>
+                <character ref="mayStainton">May</character> proceeded, <scary_word pos="adv"
+                    scale="0">still</scary_word> doubtfully feeling her way.</p>
+            <p>He turned his <scary_word pos="noun" scale="0">eyes</scary_word> towards the girl for
+                a moment, and, though her veil was <scary_word pos="adv" scale="0"
+                >down</scary_word>, saw she had been <scary_word pos="verb" scale="1"
+                    >weeping</scary_word>.</p>
+            <p><speech ref="edgarStainton">I surmised as much,</speech> he replied. <speech
+                    ref="edgarStainton">She is <character ref="maryFenton">Miss Fenton</character>,
+                    is she not?</speech></p>
+            <p><speech ref="mayStainton">Yes, certainly,</speech> was the answer; <speech
+                    ref="mayStainton">and you are—</speech></p>
+            <p><speech ref="edgarStainton"><character ref="edgarStainton">Edgar
+                        Stainton</character>,</speech> said the new owner, holding out his
+                hand.</p>
+            <p><speech ref="edgarStainton">I am all <scary_word pos="adj" scale="1"
+                        >alone</scary_word> here,</speech> he went on, after the first explanations
+                were over. <speech ref="edgarStainton">But I can manage to give you a cup of tea.
+                    Pray do come in, and let me feel I am not entirely <scary_word pos="adj"
+                        scale="1">alone</scary_word> in England.</speech></p>
+            <p>Only too well pleased, Mrs. <character ref="mayStainton">May</character> complied,
+                and ten minutes later the three were sitting round a <scary_word pos="noun"
+                    scale="0">fire</scary_word>, the blaze of which leapt and flickered upon the
+                walls and over the ceiling, casting bright lights on the <scary_word pos="adj"
+                    scale="1">dingy</scary_word> mirrors and the <scary_word pos="adj" scale="1"
+                    >dark</scary_word> oak shelves.</p>
+            <p><speech ref="maryFenton">It is all coming back to me now,</speech> said the girl
+                softly, addressing her aunt. <speech ref="maryFenton">Many an hour <character
+                        ref="georgeStainton">Georgie</character> and I have sat on that hearth
+                    seeing pictures in the <scary_word pos="noun" scale="0"
+                    >fire</scary_word>.</speech></p>
+            <p>But she did not see something which was even then standing <scary_word pos="adj"
+                    scale="2">close</scary_word> beside her, and which the new owner had witnessed
+                approach with a feeling of <scary_word pos="noun" scale="3">terror</scary_word> that
+                precluded speech.</p>
+            <p>It was the <scary_word pos="noun" scale="3">child</scary_word>! The <scary_word
+                    pos="noun" scale="3">child</scary_word>
+                <scary_word pos="verb" scale="2">searching</scary_word> about no longer for
+                something it failed to find, but standing at the girl's side <scary_word pos="adj"
+                    scale="2">still</scary_word> and <scary_word pos="adj" scale="2"
+                    >motionless</scary_word>, with its <scary_word pos="noun" scale="2"
+                    >eyes</scary_word>
+                <scary_word pos="verb" scale="2">fixed</scary_word> upon her face, and its
+                    <scary_word pos="adj" scale="2">poor</scary_word>, <scary_word pos="adj"
+                    scale="2">wasted</scary_word> figure nestling amongst the folds of her
+                dress.</p>
+            <p>Thank Heaven she does not see it! he thought, and drew his breath, relieved.</p>
+            <p>No; she did not see it—though its <scary_word pos="adj" scale="2">wan</scary_word>
+                cheek <scary_word pos="verb" scale="3">touched</scary_word> her shoulder, though its
+                    <scary_word pos="adj" scale="2">thin</scary_word> hand rested on her arm, though
+                through the long conversation which <scary_word pos="verb" scale="2"
+                    >followed</scary_word> it never moved from her side, nor turned its <scary_word
+                    pos="adj" scale="2">wistful</scary_word>
+                <scary_word pos="noun" scale="2">eyes</scary_word> from her face.</p>
+            <p>When she went away—when she took her fresh young beauty out of the <scary_word
+                    pos="noun" scale="2">house</scary_word> it seemed to gladden and light up—the
+                    <scary_word pos="noun" scale="2">child</scary_word>
+                <scary_word pos="verb" scale="2">followed</scary_word> her to the threshold; and
+                then in an <scary_word pos="noun" scale="2">instant</scary_word> it <scary_word
+                    pos="verb" scale="3">vanished</scary_word>, and <character ref="edgarStainton"
+                    >Mr. Stainton</character> watched for its flitting up the staircase all in
+                vain.</p>
+            <p>But later on in the <scary_word pos="noun" scale="1">evening</scary_word>, when he
+                was sitting <scary_word pos="adj" scale="2">alone</scary_word> beside the
+                    <scary_word pos="noun" scale="1">fire</scary_word>, with his <scary_word
+                    pos="noun" scale="1">eyes</scary_word> bent on the glowing coals, and perhaps
+                seeing pictures there, as <character ref="maryFenton">Mary</character> said she and
+                her brother had done in their <scary_word pos="adj" scale="2">lonely</scary_word>
+                childhood, he felt conscious, even without looking round, that the<character
+                    ref="georgeStainton">boy</character>was there once again.</p>
+            <p>And when he fell to thinking of the long, long years during which the <scary_word
+                    pos="adj" scale="2">dead</scary_word>
+                <scary_word pos="noun" scale="2">child</scary_word> had kept faithful and
+                    <scary_word pos="adj" scale="2">weary</scary_word> watch for his sister,
+                    <scary_word pos="verb" scale="2">searching</scary_word> through the <scary_word
+                    pos="adj" scale="2">empty</scary_word> rooms for one who never came, and then
+                bethought him of the sister to whom her <scary_word pos="adj" scale="2"
+                    >dead</scary_word> brother had become but the vaguest of memories, of the
+                summers and winters during the course of which she had probably forgotten him
+                altogether, he sighed <scary_word pos="adv" scale="0">deeply</scary_word>; and heard
+                his sigh <scary_word pos="verb" scale="3">echoed</scary_word> behind him in the
+                merest <scary_word pos="adj" scale="3">faintest</scary_word>
+                <scary_word pos="noun" scale="3">whisper</scary_word>.</p>
+            <p>More, when he, thinking <scary_word pos="adv" scale="0">deeply</scary_word> about his
+                newly found relative and trying to recall each feature in her face, each tone of her
+                    <scary_word pos="noun" scale="0">voice</scary_word>, found it impossible to
+                dissociate the girl grown to womanhood from the <scary_word pos="noun" scale="2"
+                    >child</scary_word> he had pictured to himself as <scary_word pos="verb"
+                    scale="2">wandering</scary_word> about the old <scary_word pos="noun" scale="1"
+                    >house</scary_word> in company with her twin brother, their arms twined
+                together, their thoughts one, their sorrows one, their <scary_word pos="adj"
+                    scale="1">poor</scary_word> pleasures one—he felt a <scary_word pos="noun"
+                    scale="3">touch</scary_word> on his hand, and knew the<character
+                    ref="georgeStainton">boy</character>was beside him, looking with <scary_word
+                    pos="adj" scale="3">wistful</scary_word>
+                <scary_word pos="noun" scale="3">eyes</scary_word> into the <scary_word pos="noun"
+                    scale="3">firelight</scary_word>, too.</p>
+            <p>But when he turned he saw that <scary_word pos="noun" scale="2">sadness</scary_word>
+                <scary_word pos="verb" scale="2">clouded</scary_word> those <scary_word pos="noun"
+                    scale="2">eyes</scary_word> no longer. She was found; the <scary_word pos="noun"
+                    scale="2">lost</scary_word> had come again to meet a living friend on the once
+                    <scary_word pos="adj" scale="2">desolate</scary_word> hearth, and up and
+                    <scary_word pos="adj" scale="0">down</scary_word> the wide, <scary_word
+                    pos="adj" scale="2">desolate</scary_word> staircase those <scary_word pos="adj"
+                    scale="2">weary</scary_word> little feet pattered no longer.</p>
+            <p>The quest was over, the <scary_word pos="noun" scale="1">search</scary_word> ended;
+                into the <scary_word pos="adj" scale="2">darksome</scary_word> corners of that
+                    <scary_word pos="adj" scale="2">dreary</scary_word>
+                <scary_word pos="noun" scale="2">house</scary_word> the <scary_word pos="noun"
+                    scale="2">child</scary_word>'s glance <scary_word pos="verb" scale="2"
+                    >peered</scary_word> no longer.</p>
+            <p>She was come! Through years he had kept faithful watch for her, but the waiting was
+                ended now.</p>
+            <p>That <scary_word pos="noun" scale="1">night</scary_word>
+                <character ref="edgarStainton">Edgar Stainton</character> slept soundly; and yet
+                when morning dawned he knew that once in the <scary_word pos="noun" scale="2"
+                    >darkness</scary_word> he wakened suddenly and was conscious of a small,
+                childish hand smoothing his pillow and <scary_word pos="verb" scale="3"
+                    >touching</scary_word> his brow.</p>
+            <p>Sweet were the <scary_word pos="noun" scale="0">dreams</scary_word> which visited his
+                rest subsequently; sweet as ought to be the <scary_word pos="noun" scale="0"
+                    >dreams</scary_word> of a man who had said to his own soul—and meant to hold
+                fast by words he had spoken:</p>
+            <p>
+                <speech ref="edgarStainton">As I deal by that orphan girl, so may God deal with
+                    me!</speech>
+            </p>
+        </chapter>
+        <chapter>
+            <chapTitle>The Missing Will</chapTitle>
+            <p>Ere long there were changes in the old <scary_word pos="noun" scale="1"
+                    >house</scary_word>. Once again Mrs. <character ref="mrsToplis"
+                    >Toplis</character> reigned there, but this time with servants under her—with
+                maids she could scold and lads she could harass.</p>
+            <p>The larder was well plenished, the cellars sufficiently stocked; <scary_word
+                    pos="noun" scale="0">windows</scary_word> formerly <scary_word pos="adv"
+                    scale="0">closely</scary_word>
+                <scary_word pos="adj" scale="0">shuttered</scary_word> now stood open to admit the
+                    <scary_word pos="noun" scale="0">air</scary_word>; and on the drive <scary_word
+                    pos="noun" scale="0">grass</scary_word> grew no longer—too many <scary_word
+                    pos="noun" scale="0">footsteps</scary_word> passed that way for <scary_word
+                    pos="noun" scale="1">weeds</scary_word> to flourish.</p>
+            <p>It was Christmas-time. The joints in the butchers' shops were gay with ribbons; the
+                grocers' <scary_word pos="noun" scale="0">windows</scary_word> were tricked out to
+                delight the <scary_word pos="noun" scale="0">eyes</scary_word> of the—children,
+                young and old, who passed along. In Mr. <character ref="mayStainton"
+                >May</character>'s <scary_word pos="noun" scale="0">house</scary_word> up the
+                Clapham Road all was excitement, for the whole of the family—father, mother,
+                grown-up sons and daughters—girls <scary_word pos="adj" scale="0">still</scary_word>
+                in short frocks and boys in round jackets—were going to spend Christmas Eve with
+                their newly-found cousin, whom they had adopted as a relation with a unanimity as
+                rare as charming.</p>
+            <p>Cousin <character ref="maryFenton">Mary</character> also was going—Cousin <character
+                    ref="maryFenton">Mary</character> had got a new dress for the occasion, and was
+                having her hair done up in a specially effective manner by Cissie <character
+                    ref="mayStainton">May</character>, when the toilette proceedings were
+                interrupted by half a dozen young <scary_word pos="noun" scale="0"
+                    >voices</scary_word> announcing:</p>
+            <p>
+                <speech ref="mayStainton">A gentleman in the parlour wants to see you, <character
+                        ref="maryFenton">Mary</character>. Pa says you are to make haste and come
+                        <scary_word pos="adj" scale="0">down</scary_word> immediately.</speech>
+            </p>
+            <p>Obediently <character ref="maryFenton">Mary</character> made haste as bidden and
+                descended to the parlour, to find there the <character ref="clerk">clerk</character>
+                from Timpsons' who met <character ref="edgarStainton">Mr. Stainton</character> on
+                his arrival in London.</p>
+            <p>His business was simple, but important. Once again he was the bearer of a letter from
+                Timpson and Co., this time announcing to <character ref="maryFenton">Miss
+                    Fenton</character> that the will of Mr. <character ref="felixStainton">Felix
+                    Stainton</character> had been found, and that under it she was entitled to the
+                interest of ten thousand pounds, secured upon the houses in Stainton Street.</p>
+            <p><speech ref="maryFenton">Oh! aunt, Oh! uncle, how rich we shall be,</speech> cried
+                the girl, running off to tell her cousins; but the uncle and aunt looked <scary_word
+                    pos="adj" scale="1">grave</scary_word>. They were wondering how this will might
+                effect <character ref="edgarStainton">Edgar Stainton</character>.</p>
+            <p>While they were <scary_word pos="adj" scale="0">still</scary_word> talking it
+                over—after Timpsons' young man had taken his departure, Mr. <character
+                    ref="edgarStainton">Edgar Stainton</character> himself arrived.</p>
+            <p><speech ref="edgarStainton">Oh, it's all right!</speech> he said, in answer to
+                their questions. <speech ref="edgarStainton">I found the will in the room where
+                        <character ref="felixStainton">Felix Stainton</character>
+                    <scary_word pos="verb" scale="2">died</scary_word>. Walnut-Tree <scary_word
+                        pos="noun" scale="1">House</scary_word> and all the freeholds were left to
+                    the <scary_word pos="adj" scale="1">poor</scary_word> little chap who
+                        <scary_word pos="verb" scale="2">died</scary_word>, chargeable with
+                        <character ref="maryFenton">Mary</character>'s ten thousand pounds, five
+                    hundred to Mrs. <character ref="mrsToplis">Toplis</character>, and a few other
+                    legacies. Failing <character ref="georgeStainton">George</character>, the
+                    property was to come to me. I have been to <character ref="mrQuinance"
+                        >Quinance</character>'s successor, and found out the old man and <character
+                        ref="alfredStainton">Alfred</character> had a grievous quarrel, and that in
+                    consequence he determined to cut him out altogether. Where is <character
+                        ref="maryFenton">Mary</character>? I want to wish her joy.</speech></p>
+            <p><character ref="maryFenton">Mary</character> was in the little conservatory,
+                    <scary_word pos="verb" scale="0">searching</scary_word> for a rose to put in her
+                pretty brown hair. He went straight up to her, and said:</p>
+            <p>
+                <speech ref="edgarStainton"><character ref="maryFenton">Mary</character>, dear, you
+                    have had one Christmas gift <scary_word pos="noun" scale="0"
+                        >tonight</scary_word>, and I want you to take another with it.</speech>
+            </p>
+            <p><speech ref="maryFenton">What is it, Cousin <character ref="edgarStainton"
+                        >Edgar</character>?</speech> she asked; but when she looked in his face she
+                must have guessed his meaning, for she drooped her head, and began pulling her sweet
+                rose to pieces.</p>
+            <p>He took the flower, and with it her fingers.</p>
+            <p><speech ref="edgarStainton">Will you have me, dear?</speech> he asked. <speech
+                    ref="edgarStainton">I am but a <scary_word pos="adj" scale="1"
+                        >rough</scary_word> fellow, I know; but I am true, and I love you
+                    dearly.</speech></p>
+            <p>Somehow, she answered him as he wished, and all spent a <scary_word pos="mod"
+                    scale="i">very</scary_word> happy <scary_word pos="noun" scale="0"
+                    >evening</scary_word> in the old <scary_word pos="noun" scale="1"
+                    >house</scary_word>.</p>
+            <p>Once, when he was standing <scary_word pos="adj" scale="0">close</scary_word> beside
+                her in the familiar room, hand clasped in hand, <character ref="edgarStainton">Edgar
+                    Stainton</character> saw the <scary_word pos="noun" scale="2">child</scary_word>
+                looking at them.</p>
+            <p>There was no sorrow or yearning in his <scary_word pos="noun" scale="2"
+                    >eyes</scary_word> as he gazed—only a great peace, a calm which seemed to fill
+                and light them with an exquisite beauty.</p>
+        </chapter>
+    </body>
+</story>
