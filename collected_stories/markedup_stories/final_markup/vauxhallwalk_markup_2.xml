@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/Users/Kaylen/Desktop/computational%20methods/ghostschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <meta>
         <title>The Old House in Vauxhall Walk</title>
@@ -27,11 +27,12 @@
             <p>A <scary_word pos="adj" scale="0">strange</scary_word> sentence for one-and-twenty to
                 give expression to—and it was stranger <scary_word pos="adv" scale="0"
                     >still</scary_word> to come from the lips of a person who looked like and who
-                was a gentleman. He did not appear either to have sunk <scary_word pos="mod" scale="i"
-                    >very</scary_word> far <scary_word pos="adv" scale="0">down</scary_word> in the
-                good graces of Fortune. There was no sign or token which would have induced a
-                passer-by to imagine he had been worsted after a long fight with calamity. His boots
-                were not <scary_word pos="adv" scale="0">worn</scary_word>
+                was a gentleman. He did not appear either to have sunk <scary_word pos="mod"
+                    scale="i">very</scary_word> far <scary_word pos="adv" scale="0"
+                    >down</scary_word> in the good graces of Fortune. There was no sign or token
+                which would have induced a passer-by to imagine he had been worsted after a long
+                fight with calamity. His boots were not <scary_word pos="adv" scale="0"
+                    >worn</scary_word>
                 <scary_word pos="adv" scale="0">down</scary_word> at the heels or <scary_word
                     pos="adj" scale="0">broken</scary_word> at the toes, as many, many boots were
                 which dragged and shuffled and scraped along the pavement. His clothes were good and
@@ -51,8 +52,8 @@
                 gas works seemed to <scary_word pos="verb" scale="0">fall</scary_word> with the
                 rain. The roadway was muddy; the pavement greasy; the lamps burned <scary_word
                     pos="adv" scale="1">dimly</scary_word>; and that <scary_word pos="adj" scale="1"
-                    >dreary</scary_word> district of London looked its <scary_word pos="mod" scale="i"
-                    >very</scary_word>
+                    >dreary</scary_word> district of London looked its <scary_word pos="mod"
+                    scale="i">very</scary_word>
                 <scary_word pos="adj" scale="1">gloomiest</scary_word> and <scary_word pos="adj"
                     scale="1">worst</scary_word>.</p>
             <p>Certainly not an <scary_word pos="noun" scale="0">evening</scary_word> to be abroad
@@ -174,8 +175,8 @@
             <p><speech ref="william">It's a fine <scary_word pos="noun" scale="0"
                     >house</scary_word>,</speech> answered <character ref="william"
                     >William</character>, raking the embers together as he spoke and throwing some
-                wood upon them; <speech ref="william">but, like many a good family, it has come <scary_word
-                        pos="adv" scale="1">down</scary_word> in the world.</speech></p>
+                wood upon them; <speech ref="william">but, like many a good family, it has come
+                        <scary_word pos="adv" scale="1">down</scary_word> in the world.</speech></p>
             <p>There were four <scary_word pos="noun" scale="0">windows</scary_word> in the room,
                 shuttered close; they had <scary_word pos="adj" scale="0">deep</scary_word>, low
                 seats, suggestive of pleasant days gone by; when, well-curtained and well-cushioned,
@@ -691,13 +692,14 @@
             <p>
                 <speech ref="william">No, sir; the landlord, <character ref="mrTynan">Miss Tynan's
                         brother</character>, had always lain under the suspicion of it—<scary_word
-                        pos="mod" scale="i">quite</scary_word> wrongfully, I am <scary_word pos="mod"
-                        scale="i">very</scary_word> sure—but he will never clear himself now. It was
-                    known he came and asked her for help a day or two before the <scary_word
-                        pos="noun" scale="2">murder</scary_word>, and it was also known he was able
-                    within a week or two to weather whatever <scary_word pos="noun" scale="0"
-                        >trouble</scary_word> had been harassing him. Then, you see, the money was
-                    never found; and, altogether, people scarce knew what to think.</speech>
+                        pos="mod" scale="i">quite</scary_word> wrongfully, I am <scary_word
+                        pos="mod" scale="i">very</scary_word> sure—but he will never clear himself
+                    now. It was known he came and asked her for help a day or two before the
+                        <scary_word pos="noun" scale="2">murder</scary_word>, and it was also known
+                    he was able within a week or two to weather whatever <scary_word pos="noun"
+                        scale="0">trouble</scary_word> had been harassing him. Then, you see, the
+                    money was never found; and, altogether, people scarce knew what to
+                    think.</speech>
             </p>
             <p><speech ref="grahamCoulton">Humph!</speech> ejaculated <character ref="grahamCoulton"
                     >Graham Coulton</character>, and he took a few turns up and <scary_word
@@ -769,11 +771,11 @@
                     scale="2">haunted</scary_word> his <scary_word pos="noun" scale="1"
                     >dreams</scary_word> overnight.</p>
             <p>He rushed with outstretched hands to <scary_word pos="verb" scale="1"
-                    >seize</scary_word> her, but clutched only <scary_word pos="noun" scale="1">air</scary_word>. He
-                relit his candle, and closely examined the basement, shutting off communication with
-                the ground floor ere doing so. All in vain. Not a trace could he find of living
-                creature—not a <scary_word pos="noun" scale="1">window</scary_word> was open—not a
-                door unbolted.</p>
+                    >seize</scary_word> her, but clutched only <scary_word pos="noun" scale="1"
+                    >air</scary_word>. He relit his candle, and closely examined the basement,
+                shutting off communication with the ground floor ere doing so. All in vain. Not a
+                trace could he find of living creature—not a <scary_word pos="noun" scale="1"
+                    >window</scary_word> was open—not a door unbolted.</p>
             <p><speech ref="grahamCoulton">It is <scary_word pos="mod" scale="i">very</scary_word>
                     odd,</speech> he thought, as, after securely fastening the door at the top of
                 the staircase, he searched the whole upper portion of the <scary_word pos="noun"
@@ -880,8 +882,8 @@
                 the man said it was time for him to go, and, when <character ref="grahamCoulton">Mr
                     Coulton</character> went downstairs to the hall-door, remarked the key was not
                 in it.</p>
-            <p><speech ref="grahamCoulton">No,</speech> was the answer, <speech ref="grahamCoulton">I took it out today,
-                    to oil it.</speech></p>
+            <p><speech ref="grahamCoulton">No,</speech> was the answer, <speech ref="grahamCoulton"
+                    >I took it out today, to oil it.</speech></p>
             <p><speech ref="william">It wanted oiling,</speech> agreed <character ref="william"
                     >William</character>, <speech ref="william">for it worked terribly
                     stiff.</speech> Having uttered which truism he departed.</p>
@@ -913,9 +915,9 @@
                     pos="adj" scale="1">closed</scary_word>, fled <scary_word pos="adv" scale="0"
                     >down</scary_word> again, to find <character ref="grahamCoulton"
                     >Graham</character> struggling desperately with his fellow.</p>
-            <p><speech ref="intruder">Give him the knife—come along,</speech> he said <scary_word pos="adv"
-                    scale="3">savagely</scary_word>; and next <scary_word pos="noun" scale="1"
-                    >instant</scary_word>
+            <p><speech ref="intruder">Give him the knife—come along,</speech> he said <scary_word
+                    pos="adv" scale="3">savagely</scary_word>; and next <scary_word pos="noun"
+                    scale="1">instant</scary_word>
                 <character ref="grahamCoulton">Graham</character>
                 <scary_phrase>felt something like a <scary_word pos="adj" scale="2">hot</scary_word>
                     <scary_word pos="noun" scale="2">iron</scary_word> through his
@@ -945,8 +947,8 @@
             <p><speech ref="grahamCoulton">What was that <scary_word pos="adj" scale="2"
                         >dreadful</scary_word> noise?</speech> asked Graham feebly, now seated on
                 the floor, with his back resting against the wall.</p>
-            <p><speech ref="mrTynan">I do not know. Was there a noise?</speech> said <character ref="mrTynan">Mr
-                    Tynan</character>, humouring his fancy, as he thought.</p>
+            <p><speech ref="mrTynan">I do not know. Was there a noise?</speech> said <character
+                    ref="mrTynan">Mr Tynan</character>, humouring his fancy, as he thought.</p>
             <p>
                 <speech ref="grahamCoulton">Yes, in the drawing-room, I think; the key is in my
                     pocket.</speech>
