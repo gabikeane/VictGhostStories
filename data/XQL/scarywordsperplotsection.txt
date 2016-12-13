@@ -1,0 +1,29 @@
+xquery version "3.1";
+declare variable $stories :=collection('/db/repo/stories');
+declare variable $flatteneds as node()+ := 
+for $story in $stories
+    return
+        transform:transform($story, doc('/db/repo/flatten.xsl'), ());
+(: : generate one plot_section in the output for each plot in the input
+ :)
+for $flattened in $flatteneds
+for $item in $flattened/plot
+(:$content equals all nodes (element and text) between the current plot and  :the next one; Kay 594
+ :)
+let $content as element(scary_word)* := 
+$item/following::scary_word[not($item/following-sibling::plot[1] << .)]
+(:in case you need to output flattened with more than just scarywords for content)[not(self::plot) and not($item/following-sibling::plot[1] << .)]:)
+(: 
+ : string-join() strips the markup
+ : normalize-space() compacts white space
+ : tokenize() splits into words 
+ : the result is a sequence of strings, each of which corresponds to a word in  :the input:)
+(:  :let $content_words as xs:string* := tokenize(normalize-space(string-join($content, ' ')), '\s+')
+let $content_word-count as xs:integer := count($content_words):)
+return
+    <plot_section>
+        <point>{$item}</point>
+        <content>{$content}</content>
+        <!--<content_words>{$content_words}</content_words>
+        <content_word-count>{$content_word-count}</content_word-count>-->
+    </plot_section>
