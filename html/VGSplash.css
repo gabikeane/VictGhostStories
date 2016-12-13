@@ -1,0 +1,116 @@
+body{background-image: url("../images/VGimgbackground3.jpg");
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size:100% 100%}
+
+h1,h2 {text-align:center;
+font-family: "Copperplate Gothic Light", sans-serif;}
+
+div.heading{background-color:#8FBC8F;
+padding:4px;
+opacity:0.90;}
+
+img.Splashimg {height:400px; 
+display:block;
+margin-left:auto;
+margin-right:auto;
+border:3px solid black;
+border-radius:60%;
+}
+
+ul.nav{
+list-style-type:none; 
+margin:0;
+padding: 0;
+overflow: hidden;
+background-color:black;
+text-align: center;
+font-family: "Copperplate Gothic Light", sans-serif;}
+
+li.nav {display: inline-block; 
+font-size: 20px;
+background-color: black;}
+
+li.nav a {display: block;
+color: white;
+text-align:center;
+padding: 14px 16px;
+text-decoration: none;
+float: right;
+font-family: "Copperplate Gothic Light", sans-serif;}
+
+li.nav a:hover{
+background-color: #8FBC8F;}
+
+div.commonLicense{
+    position:absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(183, 166, 157, 1);
+    width: 100%;
+    font-family: "Georgia", sans-serif;
+    font-size: 12px;
+    opacity:0.85;}
+    
+img.CC {
+
+height:12px;
+width:auto;}
+
+div.w3-container{background-color:#8FBC8F;;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 2%;
+    color: #060202;
+    font-family: "Georgia", sans-serif;
+    font-size: 16px;
+    overflow: auto;
+    opacity: 0.90;}
+ 
+/* Dropdown Button */
+.dropbtn {display:block;
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: "Copperplate Gothic Light", sans-serif;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #8FBC8F;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: grey;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #8FBC8F}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
