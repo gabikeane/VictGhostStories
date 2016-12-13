@@ -8,14 +8,13 @@
                 select="replace(tokenize(base-uri(current()), '/')[last()], 'xml', 'xhtml')"/>
             <xsl:variable name="outputfilename"
                 select="concat('../../html/publishable_stories/', $filename)"/>
-            <xsl:result-document href="{$outputfilename}" method="xml" indent="yes"
-                doctype-system="about:legacy-compat">
-                <html>
+            <xsl:result-document href="{$outputfilename}" method="xml" indent="yes">
+                <html xmlns="http://www.w3.org/1999/xhtml">
                     <head>
                         <title>
                             <xsl:apply-templates select="//title"/>
                         </title>
-                        <link rel="stylesheet" type="text/css" href="VGSplash.css"/>
+                        <link rel="stylesheet" type="text/css" href="../css/VGSplash.css"/>
                     </head>
                     <body>
                         <div>
