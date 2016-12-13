@@ -1,4 +1,4 @@
-<?xml-model href="../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../data/Schemas/schema_update_3.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <meta>
         <title>John Charrington's Wedding</title>
