@@ -12,6 +12,7 @@ for $item in $flattened/plot
  :)
 let $content as element(scary_word)* := 
 $item/following::scary_word[not($item/following-sibling::plot[1] << .)]
+let $title :=$flattened//title
 return
     <plot_section>
         <point>{$item}</point>
