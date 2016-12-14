@@ -33,8 +33,8 @@
     </xsl:template>
 
     <xsl:template match="story">
-        <div>
-            <xsl:apply-templates select="//p"/>
+        <div class="w3-container">
+            <xsl:apply-templates select="//body"/>
         </div>
     </xsl:template>
     <xsl:template match="p">
@@ -46,5 +46,10 @@
         <q>
             <xsl:apply-templates/>
         </q>
+    </xsl:template>
+    <xsl:template match="chapTitle">
+        <h3>
+            <xsl:apply-templates/>
+        </h3>
     </xsl:template>
 </xsl:stylesheet>
