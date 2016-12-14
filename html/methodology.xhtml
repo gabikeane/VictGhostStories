@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Methodology</title>
+        <link rel="stylesheet" type="text/css" href="css/VGSplash.css" />
+    </head>
+    <body>
+        <!--#include virtual="inc/VGNav.xhtml"-->
+        <div class="heading">
+            <h1>Methodology</h1>
+        </div>
+        <div class="w3-container">
+            <p> The “Victorian Ghost Stories” project attempts to answer the following research
+                question: In what ways did female authors use language to build suspense in the
+                Victorian ghost story? Our research topic involved the fields of literature,
+                history, linguistics, and digital research methods. Our approach required textual
+                analysis, XML language tools, and the WordNet lexical database. </p>
+            <p> For our readings, we selected five short stories from four different authors:
+                    <i>Walnut-Tree House</i> and <i>The Old House in Vauxhall Walk</i> by Charlotte
+                Riddell; <i>The Old Nurse’s Story</i> by Elizabeth Gaskell; <i>The Shadow in the
+                    Corner</i> by Mary Elizabeth Braddon; and <i>John Charrington’s Wedding</i> by
+                Edith Nesbitt. This range generated enough data to compare contemporary texts with
+                different writing styles without sacrificing our ability to perform in depth textual
+                analysis on each individual story. Our model is applicable to larger samples of
+                ghost stories, however, should future digital humanists desire to expound upon our
+                research. </p>
+            <p> After deciding upon our research question and selecting stories, we next performed a
+                close read and analysis of each text to determine our methodology for markup. We
+                decided that the focus of our exploration should be to find “scary words” and rate
+                them according to <i>scariness</i>, <i>part of speech</i>, and <i>synset</i>, so
+                that we could determine not only what scary language was used, but also in what ways
+                its scariness and frequency affected the stories. We accomplished this by compiling
+                a list of 286 unique scary words that we then tagged in each text they occurred. The
+                scariness rating was determined by @scale attributes ranging from 0-3, with the
+                additional rating of “i” for intensifiers like “very” or “quite.” Scary words with a
+                scale of 0 had the potential to ignite fear, but were not so used in context, like
+                the words “black” or “cold.” These words could receive higher ratings when
+                appropriate. Scary words with a scale of 3 were the scariest and therefore always
+                scary, like “horror” or “deadly.” This was the most subjective part of the project,
+                though we gave ourselves parameters in that we drew from an agreed upon list. </p>
+            <p> Part of speech was measured with attribute @pos, with the available options of verb,
+                noun, adjective, adverb, or modifier. We were curious about the way in which
+                scariness was communicated, and this allowed us to see it at a grammatical, literary
+                level. Is scariness more descriptive, such that the most frequent type of scary
+                words are adjectives? Or is it more action based, such that they are verbs? This
+                data influenced our conclusion, adding another level of specificity to our research
+                question. </p>
+            <p> As one of our team members had a linguistics requirement to fill, we also explored
+                our scary word elements using the WordNet lexical database. WordNet is a
+                hierarchical organization of units of meaning, called <i>synsets</i>, which are
+                represented in texts by words. A detailed explanation of how synsets can be used to
+                explore a text can be found <a
+                    href="https://github.com/djbpitt/wordnet/blob/master/Wordnet.ipynb">here.</a>
+                Our project in particular focused on task number three, “Exploring the richness of
+                the expression of spookiness.” We concentrated the task on the “haunting” plot
+                section of each ghost story, expecting that this specific section would incorporate
+                the most significant amount of scary vocabulary. After tagging each scary word
+                element in the haunting sections with its appropriate synset in context, we were
+                able to examine the language that different writers and texts employ to represent
+                scariness. We performed this linguistic investigation by dividing the number of
+                scary words with a non-zero scariness rating by the number of distinct synsets. The
+                resulting value for each text provides a ratio, for which a higher value indicates
+                that scariness is expressed in a wider variety of morphological ways, whereas a
+                lower value indicates less variety in vocabulary. </p>
+            <p> After tagging all of our scary words, we then measured the <i>number of scary
+                    words</i> with a rating of "3" by <i>part of speech</i> in each story using
+                XSLT. We represent this data in SVG bar graphs. We also measure the placement of
+                scary words to determine exactly where these authors built suspense. Do more scary
+                words appear in the beginning of the story, or near the end? Are scarier words
+                clustered together? As mentioned in our synset methodology, we divided the text into
+                five plot points—"introduction," "protagonist," "history," "haunting," and
+                "resolve"—and represented our data using XSLT and EXide to create an SVG bubble
+                chart. </p>
+            <p> These plot points were attributes of the empty element plot, which we used as a
+                milestone in our markup. "Introduction" represents the introduction to the story,
+                where the setting and scenario is established. "Protagonist" signifies the
+                introduction of the main character, which has a unique trope in Victorian ghost
+                stories. "History" signifies the moment when a character begins recounting the
+                history of the ghost to the protagonist. "Haunting" signifies the beginning of the
+                ghost’s actual haunting of the protagonist. "Resolve" occurs when the protagonist
+                begins looking for a way to resolve the situation, usually bringing peace to the
+                troubled ghost by righting some wrong that was done to it. Using these elements as
+                milestones, we were able to determine whart types of scary words each section
+                contained, how scary those words were, and how often they appeared. Visualizations
+                for our findings is shown in detail on our <a
+                    href="http://ghost.obdurodon.org/analysis.xhtml">analysis page</a>. </p>
+        </div>
+        <!--#include virtual="inc/VGNavScript.xhtml"-->
+        <!--#include virtual="inc/VGCC.xhtml"-->
+    </body>
+</html>
