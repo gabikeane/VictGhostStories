@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counts>
+    <story>
+        <title>John Charrington's Wedding</title>
+        <num scale="0">12</num>
+        <num scale="1">36</num>
+        <num scale="2">21</num>
+        <num scale="3">23</num>
+        <num scale="i">1</num>
+    </story>
+    <story>
+        <title>The Shadow in the Corner</title>
+        <num scale="0">5</num>
+        <num scale="1">222</num>
+        <num scale="2">113</num>
+        <num scale="3">32</num>
+        <num scale="i">16</num>
+    </story>
+    <story>
+        <title>The Old House in Vauxhall Walk</title>
+        <num scale="0">171</num>
+        <num scale="1">123</num>
+        <num scale="2">80</num>
+        <num scale="3">35</num>
+        <num scale="i">12</num>
+    </story>
+    <story>
+        <title>Walnut-Tree House</title>
+        <num scale="0">82</num>
+        <num scale="1">224</num>
+        <num scale="2">191</num>
+        <num scale="3">61</num>
+        <num scale="i">25</num>
+    </story>
+    <story>
+        <title>The Old Nurse's Story</title>
+        <num scale="0">76</num>
+        <num scale="1">137</num>
+        <num scale="2">190</num>
+        <num scale="3">101</num>
+        <num scale="i">45</num>
+    </story>
+
+</counts>
