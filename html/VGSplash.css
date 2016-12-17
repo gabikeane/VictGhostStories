@@ -114,3 +114,36 @@ div.w3-container{background-color:#8FBC8F;;
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
 
+svg {
+  background-color: beige;
+  }
+  
+/* johnc bars */  
+rect.JohnCharringtonsWedding {
+    background-color: red;
+}
+rect.TheShadowintheCorner {
+    background-color: blue;
+}
+rect.TheOldHouseinVauxhallWalk {
+    background-color: orange;
+}
+rect.Walnut-TreeHouse {
+    background-color: pink;
+}
+rect.TheOldNursesStory {
+    background-color: green;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <root title="John Charrington's Wedding">
+        <plot point="protag">10</plot>
+        <plot point="intro">16</plot>
+        <plot point="history">80</plot>
+        <plot point="haunting">80</plot>
+        <plot point="resolve">0</plot>
+    </root>
+    <root title="The Shadow in the Corner">
+        <plot point="intro">54</plot>
+        <plot point="protag">46</plot>
+        <plot point="haunting">298</plot>
+        <plot point="history">356</plot>
+        <plot point="resolve">22</plot>
+    </root>
+    <root title="The Old House in Vauxhall Walk">
+        <plot point="protag">8</plot>
+        <plot point="intro">220</plot>
+        <plot point="haunting">288</plot>
+        <plot point="history">322</plot>
+        <plot point="resolve">2</plot>
+    </root>
+    <root title="Walnut-Tree House">
+        <plot point="intro">90</plot>
+        <plot point="protag">248</plot>
+        <plot point="haunting">262</plot>
+        <plot point="history">508</plot>
+        <plot point="resolve">58</plot>
+    </root>
+    <root title="The Old Nurse's Story">
+        <plot point="intro">0</plot>
+        <plot point="protag">412</plot>
+        <plot point="haunting">304</plot>
+        <plot point="history">198</plot>
+        <plot point="resolve">184</plot>
+
+    </root>
+</data>
