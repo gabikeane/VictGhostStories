@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="500">
-      <link rel="stylesheet" type="text/css" href="local.css"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="500" width="1500">
+      <link rel="stylesheet" type="text/css" href="VGSplash.css"/>
    <g transform="translate(30, 330)">
       <line x1="20"
             x2="20"
