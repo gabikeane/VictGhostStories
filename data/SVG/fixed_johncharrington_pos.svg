@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="375">
+   <g transform="translate(30, 330)">
+      <line x1="30"
+            x2="30"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="30"
+            x2="300"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="25" y="5" text-anchor="end">0</text>
+      <text x="25" y="-145" text-anchor="end">25</text>
+      <text x="25" y="-290" text-anchor="end">50</text>
+      <text x="165" y="40" text-anchor="middle">Part of Speech</text>
+      <text x="10"
+            y="-145"
+            transform="rotate(270, 2, -145)"
+            text-anchor="middle">Number
+                    of 3-Rated Scary Words</text>
+      <text x="165" y="-305" text-anchor="middle">John Charrington's Wedding</text>
+      <rect x="50"
+            y="-78"
+            stroke="black"
+            stroke-width=".5"
+            fill="blue"
+            width="30"
+            height="78"/>
+      <text x="65" y="-81" text-anchor="middle">13</text>
+      <text x="65" y="20" text-anchor="middle">noun</text>
+      <rect x="100"
+            y="-42"
+            stroke="black"
+            stroke-width=".5"
+            fill="red"
+            width="30"
+            height="42"/>
+      <text x="115" y="-45" text-anchor="middle">7</text>
+      <text x="115" y="20" text-anchor="middle">adj</text>
+      <rect x="150"
+            y="-6"
+            stroke="black"
+            stroke-width=".5"
+            fill="yellow"
+            width="30"
+            height="6"/>
+      <text x="165" y="-9" text-anchor="middle">1</text>
+      <text x="165" y="20" text-anchor="middle">verb</text>
+      <rect x="200"
+            y="-6"
+            stroke="black"
+            stroke-width=".5"
+            fill="green"
+            width="30"
+            height="6"/>
+      <text x="215" y="-9" text-anchor="middle">1</text>
+      <text x="215" y="20" text-anchor="middle">adv</text>
+      <rect x="250"
+            y="-6"
+            stroke="black"
+            stroke-width=".5"
+            fill="purple"
+            width="30"
+            height="6"/>
+      <text x="265" y="-9" text-anchor="middle">1</text>
+      <text x="265" y="20" text-anchor="middle">mod</text>
+   </g>
+</svg>
