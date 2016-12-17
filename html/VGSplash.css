@@ -126,11 +126,7 @@ div.w3-container{background-color:#8FBC8F;;
 .dropdown:hover .dropdown-content{
     display: block;
 }
-/* svg page */
-svg {
-  background-color: beige;
-  }
-  
+
 /* johnc bars */  
 rect.JohnCharringtonsWedding {
     background-color: red;
