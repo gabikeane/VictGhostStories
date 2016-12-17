@@ -129,19 +129,19 @@ div.w3-container{background-color:#8FBC8F;;
 
 /* johnc bars */  
 rect.JohnCharringtonsWedding {
-    background-color: red;
+    fill: red;
 }
 rect.TheShadowintheCorner {
-    background-color: blue;
+    fill: blue;
 }
 rect.TheOldHouseinVauxhallWalk {
-    background-color: orange;
+    fill: orange;
 }
 rect.Walnut-TreeHouse {
-    background-color: pink;
+    fill: pink;
 }
 rect.TheOldNursesStory {
-    background-color: green;
+    fill: green;
 }
 table {
     border-collapse: collapse;
