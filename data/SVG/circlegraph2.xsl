@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
-    xmlns="http://www.w3.org/2000/svg">
-    <xsl:output method="xml" indent="yes"/>
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs"
+    version="2.0">
+    <xsl:output method="text"/>
     <xsl:template match="/">
         <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
             <g transform="translate(100,610)">
@@ -18,11 +19,12 @@
                 <line x1="325" y1="0" x2="325" y2="-310" stroke="black" stroke-width="1"/>
                 <line x1="425" y1="0" x2="425" y2="-310" stroke="black" stroke-width="1"/>
                 <line x1="525" y1="0" x2="525" y2="-310" stroke="black" stroke-width="1"/>
-                <xsl:apply-templates select="//story"/>
+                <xsl:apply-templates select="//data"/>
             </g>
         </svg>
     </xsl:template>
-    <xsl:template match="story">
-        <circle r="10" cx="30" cy="-10" fill="blue"></circle> 
+    <xsl:template match="data">
+        <xsl:variable name="radius" select="(math:sqrt(root/plot_section/content) div 3.14)"/>
+        <circle r="$radius" cx="30" cy="-10" fill="blue"></circle> 
     </xsl:template>   
 </xsl:stylesheet>
