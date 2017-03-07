@@ -2,14 +2,14 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/2000/svg"
     version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all">
     <xsl:output method="xml" indent="yes"/>
+    
     <xsl:variable name="barWidth" select="20" as="xs:integer"/>
     <xsl:variable name="barInterval" select="$barWidth" as="xs:double"/>
     <xsl:variable name="barShift" select="235" as="xs:integer"/>
 
-
-    <xsl:template match="/">
+<xsl:template match="/">
+    <xsl:processing-instruction name="xml-stylesheet">type="text/css" href="VGSplash.css"</xsl:processing-instruction>
         <svg height="500">
-            <link rel="stylesheet" type="text/css" href="local.css"/>
             <g transform="translate(30, 330)">
                 <line x1="20" x2="20" y1="0" y2="-250" stroke="black" stroke-width="1"/>
                 <line x1="20" x2="1550" y1="0" y2="0" stroke="black" stroke-width="1"/>
