@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="VGSplash.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="500">
-   <g transform="translate(30, 330)">
+<svg xmlns="http://www.w3.org/2000/svg" height="500" width="1500">
+   <g transform="translate(60, 330)">
       <line x1="20"
             x2="20"
             y1="0"
@@ -9,13 +7,13 @@
             stroke="black"
             stroke-width="1"/>
       <line x1="20"
-            x2="1550"
+            x2="1200"
             y1="0"
             y2="0"
             stroke="black"
             stroke-width="1"/>
       <line x1="20"
-            x2="1550"
+            x2="1200"
             y1="-100"
             y2="-100"
             stroke="black"
@@ -23,7 +21,7 @@
             stroke-dasharray="8 4"
             stroke-width="1"/>
       <line x1="20"
-            x2="1550"
+            x2="1200"
             y1="-200"
             y2="-200"
             stroke="black"
@@ -33,48 +31,62 @@
       <text x="10" y="5" text-anchor="end">0</text>
       <text x="10" y="-200" text-anchor="end">200</text>
       <text x="10" y="-100" text-anchor="end">100</text>
-      <text x="5" y="-125" text-anchor="middle">Number of Words</text>
+      <text x="-15"
+            y="-125"
+            text-anchor="middle"
+            transform="rotate(270 -15, -125)">Number
+                    of Words</text>
       <text x="580" y="30" text-anchor="middle">Scariness Scale</text>
-      <rect x="960"
-            y="15"
-            stroke="black"
-            fill="pink"
-            height="10"
-            width="10"
-            class="JohnCharringtonsWedding"/>
-      <text x="975" y="25" stroke="black">John Charrington's Wedding</text>
-      <rect x="960"
-            y="45"
-            stroke="black"
-            fill="pink"
-            height="10"
-            width="10"
-            class="TheShadowintheCorner"/>
-      <text x="975" y="55" stroke="black">The Shadow in the Corner</text>
-      <rect x="960"
-            y="75"
-            stroke="black"
-            fill="pink"
-            height="10"
-            width="10"
-            class="TheOldHouseinVauxhallWalk"/>
-      <text x="975" y="85" stroke="black">The Old House in Vauxhall Walk</text>
-      <rect x="960"
-            y="105"
-            stroke="black"
-            fill="pink"
-            height="10"
-            width="10"
-            class="WalnutTreeHouse"/>
-      <text x="975" y="115" stroke="black">Walnut-Tree House</text>
-      <rect x="960"
-            y="135"
-            stroke="black"
-            fill="pink"
-            height="10"
-            width="10"
-            class="TheOldNursesStory"/>
-      <text x="975" y="145" stroke="black">The Old Nurse's Story</text>
+      <g transform="translate(0, 10)">
+         <rect x="960"
+               y="15"
+               stroke="black"
+               fill="pink"
+               height="10"
+               width="10"
+               class="JohnCharringtonsWedding"/>
+         <text x="975" y="25" stroke="black">John Charrington's Wedding</text>
+      </g>
+      <g transform="translate(0, 10)">
+         <rect x="960"
+               y="45"
+               stroke="black"
+               fill="pink"
+               height="10"
+               width="10"
+               class="TheShadowintheCorner"/>
+         <text x="975" y="55" stroke="black">The Shadow in the Corner</text>
+      </g>
+      <g transform="translate(0, 10)">
+         <rect x="960"
+               y="75"
+               stroke="black"
+               fill="pink"
+               height="10"
+               width="10"
+               class="TheOldHouseinVauxhallWalk"/>
+         <text x="975" y="85" stroke="black">The Old House in Vauxhall Walk</text>
+      </g>
+      <g transform="translate(0, 10)">
+         <rect x="960"
+               y="105"
+               stroke="black"
+               fill="pink"
+               height="10"
+               width="10"
+               class="WalnutTreeHouse"/>
+         <text x="975" y="115" stroke="black">Walnut-Tree House</text>
+      </g>
+      <g transform="translate(0, 10)">
+         <rect x="960"
+               y="135"
+               stroke="black"
+               fill="pink"
+               height="10"
+               width="10"
+               class="TheOldNursesStory"/>
+         <text x="975" y="145" stroke="black">The Old Nurse's Story</text>
+      </g>
 
 
       <rect x="20"
@@ -85,7 +97,7 @@
             width="20"
             height="36"
             class="JohnCharringtonsWedding"/>
-      <text x="20" y="-36">36</text>
+      <text x="20" y="-38" text-anchor="inherit">36</text>
       <text x="100" y="15" text-anchor="middle">1</text>
       <rect x="60"
             y="-222"
@@ -95,7 +107,7 @@
             width="20"
             height="222"
             class="TheShadowintheCorner"/>
-      <text x="60" y="-222">222</text>
+      <text x="60" y="-224" text-anchor="inherit">222</text>
       <text x="100" y="15" text-anchor="middle">1</text>
       <rect x="100"
             y="-123"
@@ -105,7 +117,7 @@
             width="20"
             height="123"
             class="TheOldHouseinVauxhallWalk"/>
-      <text x="100" y="-123">123</text>
+      <text x="100" y="-125" text-anchor="inherit">123</text>
       <text x="100" y="15" text-anchor="middle">1</text>
       <rect x="140"
             y="-224"
@@ -115,7 +127,7 @@
             width="20"
             height="224"
             class="WalnutTreeHouse"/>
-      <text x="140" y="-224">224</text>
+      <text x="140" y="-226" text-anchor="inherit">224</text>
       <text x="100" y="15" text-anchor="middle">1</text>
       <rect x="180"
             y="-137"
@@ -125,7 +137,7 @@
             width="20"
             height="137"
             class="TheOldNursesStory"/>
-      <text x="180" y="-137">137</text>
+      <text x="180" y="-139" text-anchor="inherit">137</text>
       <text x="100" y="15" text-anchor="middle">1</text>
 
 
@@ -137,7 +149,7 @@
             width="20"
             height="21"
             class="JohnCharringtonsWedding"/>
-      <text x="255" y="-21">21</text>
+      <text x="255" y="-23" text-anchor="inherit">21</text>
       <text x="335" y="15" text-anchor="middle">2</text>
       <rect x="295"
             y="-113"
@@ -147,7 +159,7 @@
             width="20"
             height="113"
             class="TheShadowintheCorner"/>
-      <text x="295" y="-113">113</text>
+      <text x="295" y="-115" text-anchor="inherit">113</text>
       <text x="335" y="15" text-anchor="middle">2</text>
       <rect x="335"
             y="-80"
@@ -157,7 +169,7 @@
             width="20"
             height="80"
             class="TheOldHouseinVauxhallWalk"/>
-      <text x="335" y="-80">80</text>
+      <text x="335" y="-82" text-anchor="inherit">80</text>
       <text x="335" y="15" text-anchor="middle">2</text>
       <rect x="375"
             y="-191"
@@ -167,7 +179,7 @@
             width="20"
             height="191"
             class="WalnutTreeHouse"/>
-      <text x="375" y="-191">191</text>
+      <text x="375" y="-193" text-anchor="inherit">191</text>
       <text x="335" y="15" text-anchor="middle">2</text>
       <rect x="415"
             y="-190"
@@ -177,7 +189,7 @@
             width="20"
             height="190"
             class="TheOldNursesStory"/>
-      <text x="415" y="-190">190</text>
+      <text x="415" y="-192" text-anchor="inherit">190</text>
       <text x="335" y="15" text-anchor="middle">2</text>
 
 
@@ -189,7 +201,7 @@
             width="20"
             height="23"
             class="JohnCharringtonsWedding"/>
-      <text x="490" y="-23">23</text>
+      <text x="490" y="-25" text-anchor="inherit">23</text>
       <text x="570" y="15" text-anchor="middle">3</text>
       <rect x="530"
             y="-32"
@@ -199,7 +211,7 @@
             width="20"
             height="32"
             class="TheShadowintheCorner"/>
-      <text x="530" y="-32">32</text>
+      <text x="530" y="-34" text-anchor="inherit">32</text>
       <text x="570" y="15" text-anchor="middle">3</text>
       <rect x="570"
             y="-35"
@@ -209,7 +221,7 @@
             width="20"
             height="35"
             class="TheOldHouseinVauxhallWalk"/>
-      <text x="570" y="-35">35</text>
+      <text x="570" y="-37" text-anchor="inherit">35</text>
       <text x="570" y="15" text-anchor="middle">3</text>
       <rect x="610"
             y="-61"
@@ -219,7 +231,7 @@
             width="20"
             height="61"
             class="WalnutTreeHouse"/>
-      <text x="610" y="-61">61</text>
+      <text x="610" y="-63" text-anchor="inherit">61</text>
       <text x="570" y="15" text-anchor="middle">3</text>
       <rect x="650"
             y="-101"
@@ -229,7 +241,7 @@
             width="20"
             height="101"
             class="TheOldNursesStory"/>
-      <text x="650" y="-101">101</text>
+      <text x="650" y="-103" text-anchor="inherit">101</text>
       <text x="570" y="15" text-anchor="middle">3</text>
 
 
@@ -241,8 +253,8 @@
             width="20"
             height="12"
             class="JohnCharringtonsWedding"/>
-      <text x="725" y="-12">12</text>
-      <text x="805" y="15" text-anchor="middle">0</text>
+      <text x="725" y="-14" text-anchor="inherit">12</text>
+      <text x="805" y="15" text-anchor="left">0</text>
       <rect x="765"
             y="-5"
             stroke="black"
@@ -251,8 +263,8 @@
             width="20"
             height="5"
             class="TheShadowintheCorner"/>
-      <text x="765" y="-5">5</text>
-      <text x="805" y="15" text-anchor="middle">0</text>
+      <text x="765" y="-7" text-anchor="inherit">5</text>
+      <text x="805" y="15" text-anchor="left">0</text>
       <rect x="805"
             y="-171"
             stroke="black"
@@ -261,8 +273,8 @@
             width="20"
             height="171"
             class="TheOldHouseinVauxhallWalk"/>
-      <text x="805" y="-171">171</text>
-      <text x="805" y="15" text-anchor="middle">0</text>
+      <text x="805" y="-173" text-anchor="inherit">171</text>
+      <text x="805" y="15" text-anchor="left">0</text>
       <rect x="845"
             y="-82"
             stroke="black"
@@ -271,8 +283,8 @@
             width="20"
             height="82"
             class="WalnutTreeHouse"/>
-      <text x="845" y="-82">82</text>
-      <text x="805" y="15" text-anchor="middle">0</text>
+      <text x="845" y="-84" text-anchor="inherit">82</text>
+      <text x="805" y="15" text-anchor="left">0</text>
       <rect x="885"
             y="-76"
             stroke="black"
@@ -281,8 +293,8 @@
             width="20"
             height="76"
             class="TheOldNursesStory"/>
-      <text x="885" y="-76">76</text>
-      <text x="805" y="15" text-anchor="middle">0</text>
+      <text x="885" y="-78" text-anchor="inherit">76</text>
+      <text x="805" y="15" text-anchor="left">0</text>
 
 
       <rect x="960"
@@ -293,7 +305,7 @@
             width="20"
             height="1"
             class="JohnCharringtonsWedding"/>
-      <text x="960" y="-1">1</text>
+      <text x="960" y="-3" text-anchor="inherit">1</text>
       <text x="1040" y="15" text-anchor="middle">i</text>
       <rect x="1000"
             y="-16"
@@ -303,7 +315,7 @@
             width="20"
             height="16"
             class="TheShadowintheCorner"/>
-      <text x="1000" y="-16">16</text>
+      <text x="1000" y="-18" text-anchor="inherit">16</text>
       <text x="1040" y="15" text-anchor="middle">i</text>
       <rect x="1040"
             y="-12"
@@ -313,7 +325,7 @@
             width="20"
             height="12"
             class="TheOldHouseinVauxhallWalk"/>
-      <text x="1040" y="-12">12</text>
+      <text x="1040" y="-14" text-anchor="inherit">12</text>
       <text x="1040" y="15" text-anchor="middle">i</text>
       <rect x="1080"
             y="-25"
@@ -323,7 +335,7 @@
             width="20"
             height="25"
             class="WalnutTreeHouse"/>
-      <text x="1080" y="-25">25</text>
+      <text x="1080" y="-27" text-anchor="inherit">25</text>
       <text x="1040" y="15" text-anchor="middle">i</text>
       <rect x="1120"
             y="-45"
@@ -333,7 +345,7 @@
             width="20"
             height="45"
             class="TheOldNursesStory"/>
-      <text x="1120" y="-45">45</text>
+      <text x="1120" y="-47" text-anchor="inherit">45</text>
       <text x="1040" y="15" text-anchor="middle">i</text>
 
    </g>

@@ -59,7 +59,11 @@ div.commonLicense{
     font-size: 12px;
     opacity:0.85;
 }
-    
+  
+object {margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;   
+}  
 img.CC {
 
 height:12px;
@@ -78,7 +82,6 @@ div.w3-container{background-color:#8FBC8F;;
     opacity: 0.90;}
     
 
-/* johnc bars  
 rect.JohnCharringtonsWedding {
     fill: red;
 }
@@ -88,12 +91,12 @@ rect.TheShadowintheCorner {
 rect.TheOldHouseinVauxhallWalk {
     fill: orange;
 }
-rect.Walnut-TreeHouse {
+rect.WalnutTreeHouse {
     fill: pink;
 }
 rect.TheOldNursesStory {
     fill: green;
-}*/
+}
 table {
     border-collapse: collapse;
     width: 100%;
@@ -103,35 +106,18 @@ th, td {
     text-align: left;
     padding: 8px;
 }
+ 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #8FBC8F}
+/* Change color of dropdown links on hover 
+.dropdown-content a:hover {background-color: #8FBC8F}*/
 
-/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
-.show {display:block;}
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button)
+.show {display:block;}*/
 
-svg {
+/*  svg {
   background-color: beige;
-  }
+  }*/
   
-/* johnc bars */  
-rect.JohnCharringtonsWedding {
-    fill: red;
-}
-rect.TheShadowintheCorner {
-    fill: blue;
-}
-rect.TheOldHouseinVauxhallWalk {
-    fill: orange;
-}
-rect.Walnut-TreeHouse {
-    fill: pink;
-}
-rect.TheOldNursesStory {
-    fill: green;
-}
 table {
     border-collapse: collapse;
     width: 100%;
@@ -142,7 +128,7 @@ th, td {
     padding: 8px;
 }
 
-tr:nth-child(even){background-color: #f2f2f2}
+/*  tr:nth-child(even){background-color: #f2f2f2}
 
 
 =======
@@ -152,4 +138,4 @@ tr:nth-child(even){background-color: #f2f2f2}
 >>>>>>> origin/master
 =======
 tr:nth-child(even){background-color: #f2f2f2}
->>>>>>> e4da7edde2bf41ee65875599994dec402bc44741
+>>>>>>> e4da7edde2bf41ee65875599994dec402bc44741*/
